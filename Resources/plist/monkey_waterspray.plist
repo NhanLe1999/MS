@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content_info</key>
+	<dict>
+		<key>list_items</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>cat</string>
+				<key>audio_path</key>
+				<string>phonics/cat.mp3</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>pig</string>
+				<key>audio_path</key>
+				<string>phonics/cat.mp3</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>dog</string>
+				<key>audio_path</key>
+				<string>phonics/cat.mp3</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+		</array>
+		<key>list_distracting</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>hourse</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>tiger</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>bat</string>
+				<key>img_path</key>
+				<string>waterspray/waterspray_temp_cat.png</string>
+			</dict>
+		</array>
+	</dict>
+	<key>game_info</key>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Monkey Phonics</string>
+		<key>intro</key>
+		<string>Drag the text to match the pictures.</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

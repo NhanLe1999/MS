@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="colorPrimary">#2F86F1</color>
+    <color name="colorPrimaryDark">#2F86F1</color>
+    <color name="colorAccent">#03DAC5</color>
+
+</resources>

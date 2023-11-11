@@ -1,0 +1,10 @@
+{
+    "event_popup":{
+        "icon_path": "airplane.png",
+        "content_path": "games/landtheplane/landtheplane_title.png",
+        "url":"google.com",
+        "button": [20,20,50,50],
+        "start_date": 1537148880000,
+        "end_date": 1547148889000
+    }
+}

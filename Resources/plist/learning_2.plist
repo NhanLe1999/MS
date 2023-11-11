@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>learn</key>
+	<dict>
+		<key>category</key>
+		<integer>1</integer>
+		<key>id_story</key>
+		<integer>110</integer>
+		<key>intro</key>
+		<string>You have learned the following sentence structures:</string>
+		<key>id</key>
+		<integer>1</integer>
+		<key>text_info</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Where would you like to go?</string>
+				<key>audio_path</key>
+				<string>game-audio/g/358b964773330f394b7d0d73a72ce626.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>I would like to go...</string>
+				<key>audio_path</key>
+				<string>game-audio/g/358b964773330f394b7d0d73a72ce626.mp3</string>
+			</dict>
+		</array>
+		<key>path_audio</key>
+		<string>sound/qa/soundtest.mp3</string>
+	</dict>
+</dict>
+</plist>

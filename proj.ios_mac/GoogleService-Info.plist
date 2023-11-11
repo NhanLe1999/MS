@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>518533842801-htuivakbfj06u08rf3rlno2abqcll7id.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.518533842801-htuivakbfj06u08rf3rlno2abqcll7id</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>518533842801-5muu0mu4k4b1upsv4agqc2l3sfkgekq4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1R0bZfLO5QlVee4zI7-c9SYsEm4jeaeQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>518533842801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.earlystart.monkeyjunior.story</string>
+	<key>PROJECT_ID</key>
+	<string>mj-stories-169807</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mj-stories-169807.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:518533842801:ios:cd3558a55bf4fc3e</string>
+	<key>DATABASE_URL</key>
+	<string>https://mj-stories-169807.firebaseio.com</string>
+</dict>
+</plist>

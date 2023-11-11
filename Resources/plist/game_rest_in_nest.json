@@ -1,0 +1,31 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":3,
+		"main_text": [{
+				"w" : "is",
+				"audio_path":"rest_in_nest/khi_xe_ui_is.mp3"
+			},{
+				"w":"me",
+				"audio_path":"rest_in_nest/me.mp3"
+			},{
+				"w":"an",
+				"audio_path":"rest_in_nest/khi_xe_ui_an.mp3"
+			},{
+				"w":"on",
+				"audio_path":"rest_in_nest/khi_xe_ui_on.mp3"
+			},{
+				"w":"a",
+				"audio_path":"rest_in_nest/khi_xe_ui_a.mp3"
+			}
+			
+		],
+		"other_text":["they","are","in","there","was","at","it"]
+	}
+}

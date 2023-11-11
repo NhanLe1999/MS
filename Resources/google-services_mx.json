@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "804661396414",
+    "project_id": "monkeyx-e94aa",
+    "storage_bucket": "monkeyx-e94aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804661396414:android:8bedc2685b8b5762642fef",
+        "android_client_info": {
+          "package_name": "com.earlystart.android.monkeyjunior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804661396414-u0qetk7f5hug54cm584moig08flkkval.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.earlystart.android.monkeyjunior",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "804661396414-qcv9k7d6ba1fbvi8k6d3mgbg1665ko0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6b5y_u8hfVRtoY1w2tLahcfavYPBAqlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804661396414-fc61rf6iu3s8lqarjvnvbtcq42ecch5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804661396414-16el45r63jt5bdn8ubu29ebpovdtjudi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.es.monkeyx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

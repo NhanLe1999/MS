@@ -1,0 +1,1002 @@
+[
+   {
+      "language": "en",
+      "icons": [
+         {
+            "icon_id": "blue",
+            "path": "themeui/pen/blue.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "blue",
+                  "audio": [
+                     {
+                        "path": "colors/blue.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "blue",
+                  "audio": [
+                     {
+                        "path": "colors/blue.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xanh dương",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xanh duong.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "yellow",
+            "path": "themeui/pen/yellow.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "yellow",
+                  "audio": [
+                     {
+                        "path": "colors/yellow.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "vàng",
+                  "audio": [
+                     {
+                        "path": "colors/Mau vang.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "yellow",
+                  "audio": [
+                     {
+                        "path": "colors/yellow.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "white",
+            "path": "themeui/pen/white.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "white",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "trắng",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "white",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "red",
+            "path": "themeui/pen/red.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "red",
+                  "audio": [
+                     {
+                        "path": "colors/red.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "đỏ",
+                  "audio": [
+                     {
+                        "path": "colors/Mau do.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "red",
+                  "audio": [
+                     {
+                        "path": "colors/red.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "pink",
+            "path": "themeui/pen/pink.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "pink",
+                  "audio": [
+                     {
+                        "path": "colors/pink.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "hồng",
+                  "audio": [
+                     {
+                        "path": "colors/Mau hong.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "pink",
+                  "audio": [
+                     {
+                        "path": "colors/pink.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "purple",
+            "path": "themeui/pen/purple.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "purple",
+                  "audio": [
+                     {
+                        "path": "colors/purple.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "tím",
+                  "audio": [
+                     {
+                        "path": "colors/Mau tim.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "purple",
+                  "audio": [
+                     {
+                        "path": "colors/purple.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "orange",
+            "path": "themeui/pen/orange.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "orange",
+                  "audio": [
+                     {
+                        "path": "colors/orange.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "da cam",
+                  "audio": [
+                     {
+                        "path": "colors/Mau da cam.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "orange",
+                  "audio": [
+                     {
+                        "path": "colors/orange.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "grey",
+            "path": "themeui/pen/grey.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "grey",
+                  "audio": [
+                     {
+                        "path": "colors/grey.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xám",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xam.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "grey",
+                  "audio": [
+                     {
+                        "path": "colors/grey.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "green",
+            "path": "themeui/pen/green.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "green",
+                  "audio": [
+                     {
+                        "path": "colors/green.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xanh lá",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xanh la.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "green",
+                  "audio": [
+                     {
+                        "path": "colors/green.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "brown",
+            "path": "themeui/pen/brown.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "brown",
+                  "audio": [
+                     {
+                        "path": "colors/brown.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "nâu",
+                  "audio": [
+                     {
+                        "path": "colors/Mau nau.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "brown",
+                  "audio": [
+                     {
+                        "path": "colors/brown.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "black",
+            "path": "themeui/pen/black.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "black",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/black.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "đen",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/Mau den.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "black",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/black.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "indigo",
+            "path": "themeui/pen/indigo.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "indigo",
+                  "audio": [
+                     {
+                        "path": "colors/indigo.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "chàm",
+                  "audio": [
+                     {
+                        "path": "colors/Mau cham.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "indigo",
+                  "audio": [
+                     {
+                        "path": "colors/indigo.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         }
+      ]
+   },
+   {
+      "language": "vi",
+      "icons": [
+         {
+            "icon_id": "blue",
+            "path": "themeui/pen/blue.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "blue",
+                  "audio": [
+                     {
+                        "path": "colors/blue.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "blue",
+                  "audio": [
+                     {
+                        "path": "colors/blue.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xanh dương",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xanh duong.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "yellow",
+            "path": "themeui/pen/yellow.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "yellow",
+                  "audio": [
+                     {
+                        "path": "colors/yellow.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "vàng",
+                  "audio": [
+                     {
+                        "path": "colors/Mau vang.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "yellow",
+                  "audio": [
+                     {
+                        "path": "colors/yellow.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "white",
+            "path": "themeui/pen/white.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "white",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "trắng",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "white",
+                  "audio": [
+                     {
+                        "path": "colors/white.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "red",
+            "path": "themeui/pen/red.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "red",
+                  "audio": [
+                     {
+                        "path": "colors/red.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "đỏ",
+                  "audio": [
+                     {
+                        "path": "colors/Mau do.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "red",
+                  "audio": [
+                     {
+                        "path": "colors/red.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "pink",
+            "path": "themeui/pen/pink.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "pink",
+                  "audio": [
+                     {
+                        "path": "colors/pink.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "hồng",
+                  "audio": [
+                     {
+                        "path": "colors/Mau hong.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "pink",
+                  "audio": [
+                     {
+                        "path": "colors/pink.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "purple",
+            "path": "themeui/pen/purple.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "purple",
+                  "audio": [
+                     {
+                        "path": "colors/purple.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "tím",
+                  "audio": [
+                     {
+                        "path": "colors/Mau tim.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "purple",
+                  "audio": [
+                     {
+                        "path": "colors/purple.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "orange",
+            "path": "themeui/pen/orange.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "orange",
+                  "audio": [
+                     {
+                        "path": "colors/orange.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "da cam",
+                  "audio": [
+                     {
+                        "path": "colors/Mau da cam.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "orange",
+                  "audio": [
+                     {
+                        "path": "colors/orange.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "grey",
+            "path": "themeui/pen/grey.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "grey",
+                  "audio": [
+                     {
+                        "path": "colors/grey.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xám",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xam.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "grey",
+                  "audio": [
+                     {
+                        "path": "colors/grey.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "green",
+            "path": "themeui/pen/green.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "green",
+                  "audio": [
+                     {
+                        "path": "colors/green.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "xanh lá",
+                  "audio": [
+                     {
+                        "path": "colors/Mau xanh duong.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "green",
+                  "audio": [
+                     {
+                        "path": "colors/green.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "brown",
+            "path": "themeui/pen/brown.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "brown",
+                  "audio": [
+                     {
+                        "path": "colors/brown.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "nâu",
+                  "audio": [
+                     {
+                        "path": "colors/Mau nau.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "brown",
+                  "audio": [
+                     {
+                        "path": "colors/brown.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "black",
+            "path": "themeui/pen/black.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "black",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/black.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "đen",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/Mau den.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "black",
+                  "text_id": 2954,
+                  "audio": [
+                     {
+                        "path": "colors/black.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "indigo",
+            "path": "themeui/pen/indigo.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "indigo",
+                  "audio": [
+                     {
+                        "path": "colors/indigo.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_vi",
+                  "text": "chàm",
+                  "audio": [
+                     {
+                        "path": "colors/Mau cham.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "color",
+                  "text": "indigo",
+                  "audio": [
+                     {
+                        "path": "colors/indigo.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         }
+      ]
+   }
+]

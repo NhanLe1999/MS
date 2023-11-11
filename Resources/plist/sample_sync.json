@@ -1,0 +1,191 @@
+[
+    {
+        "w": "\"It's finally snowing!\"",
+        "ts": 0,
+        "te": 22,
+        "s": 0,
+        "e": 1600
+    },
+    {
+        "w": "Jane yells.",
+        "ts": 24,
+        "te": 34,
+        "s": 1600,
+        "e": 2367
+    },
+    {
+        "w": "She is so happy!",
+        "ts": 36,
+        "te": 51,
+        "s": 2678,
+        "e": 4305
+    },
+    {
+        "w": "She loves the winter snow!",
+        "ts": 53,
+        "te": 78,
+        "s": 4721,
+        "e": 6441
+    },
+    {
+        "w": "\"I can make a snowman,\"",
+        "ts": 80,
+        "te": 102,
+        "s": 6494,
+        "e": 7980
+    },
+    {
+        "w": "she smiles.",
+        "ts": 104,
+        "te": 114,
+        "s": 7980,
+        "e": 9085
+    },
+    {
+        "w": "“Then we can dance together",
+        "ts": 116,
+        "te": 142,
+        "s": 9680,
+        "e": 11200
+    },
+    {
+        "w": "in the snow!”",
+        "ts": 144,
+        "te": 156,
+        "s": 11200,
+        "e": 12144
+    },
+    {
+        "w": "First, she rolls the snow",
+        "ts": 158,
+        "te": 182,
+        "s": 12400,
+        "e": 14635
+    },
+    {
+        "w": "to make his body.",
+        "ts": 184,
+        "te": 200,
+        "s": 14635,
+        "e": 15697
+    },
+    {
+        "w": "It must be very big.",
+        "ts": 202,
+        "te": 221,
+        "s": 16200,
+        "e": 18043
+    },
+    {
+        "w": "Next,",
+        "ts": 223,
+        "te": 227,
+        "s": 18087,
+        "e": 18545
+    },
+    {
+        "w": "she rolls the snow",
+        "ts": 229,
+        "te": 246,
+        "s": 18545,
+        "e": 20170
+    },
+    {
+        "w": "to make his head.",
+        "ts": 248,
+        "te": 264,
+        "s": 20170,
+        "e": 21400
+    },
+    {
+        "w": "She lifts it up over his body.",
+        "ts": 266,
+        "te": 295,
+        "s": 22000,
+        "e": 24072
+    },
+    {
+        "w": "Then, she finds two sticks",
+        "ts": 297,
+        "te": 322,
+        "s": 24072,
+        "e": 26480
+    },
+    {
+        "w": "to make arms for his body.",
+        "ts": 324,
+        "te": 349,
+        "s": 26700,
+        "e": 28500
+    },
+    {
+        "w": "He is almost ready!",
+        "ts": 351,
+        "te": 369,
+        "s": 29312,
+        "e": 30707
+    },
+    {
+        "w": "Finally, she puts two eyes",
+        "ts": 371,
+        "te": 396,
+        "s": 26920,
+        "e": 28850
+    },
+    {
+        "w": "onto his face.",
+        "ts": 398,
+        "te": 411,
+        "s": 28850,
+        "e": 29920
+    },
+    {
+        "w": "She puts big red buttons on him.",
+        "ts": 413,
+        "te": 444,
+        "s": 30705,
+        "e": 33141
+    },
+    {
+        "w": "\"Yay! Now Mr. Snowman and I can dance together!\"",
+        "ts": 446,
+        "te": 493,
+        "s": 33200,
+        "e": 36938
+    },
+    {
+        "w": "she laughs.",
+        "ts": 495,
+        "te": 505,
+        "s": 36938,
+        "e": 37889
+    },
+    {
+        "w": "\"I can make a snowman,\"",
+        "ts": 507,
+        "te": 529,
+        "s": 38000,
+        "e": 39400
+    },
+    {
+        "w": "she said, smiling.",
+        "ts": 531,
+        "te": 548,
+        "s": 39400,
+        "e": 40800
+    },
+    {
+        "w": "“Then we can dance together",
+        "ts": 550,
+        "te": 576,
+        "s": 41000,
+        "e": 42600
+    },
+    {
+        "w": "in the snow!”",
+        "ts": 578,
+        "te": 590,
+        "s": 42600,
+        "e": 43600
+    }
+]

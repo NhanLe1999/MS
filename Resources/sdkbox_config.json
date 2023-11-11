@@ -1,0 +1,42 @@
+{
+    "ios" : {
+        "iap" : {
+            "items" : {
+                "com.earlystart.stories.1month" : {
+                    "id" : "test.monkeyjunior.stories.1month.auto"
+                },
+                "sub" : {
+                    "id" : "test.monkeyjunior.stories.1month"
+                },
+                "lifetime" : {
+                    "id" : "test.monkeyjunior.stories.lifetime"
+                },
+                "1week" : {
+                    "id" : "test.monkeyjunior.stories.1week"
+                }
+            }
+        }
+    },
+    "android" : {
+        "iap":{
+            "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg4xF1R+waNKYYNL+jsa4uoDQxW0Wtzy4oRq4eTSDBNTXIPCmp2SvOqJHewxpK7R/geEfYjkBFw9cSNxAeqPtlGxnEYkO/JN/A8Dv3NnERptpaXWXFCmAon3aAS4Rcm03XZ6rZ72/Jz8eySGVTWEougfp6hyXrzEOBwS4GcIxmdhCOobdm+07iXA0UtEXXaT02+67/GKkRQTjwGZOXU2pKvz9wMhvbTlTKNh+KFSCBKt1WhWyh49Ti6YW1Ss8Pyib3iTE97b2KoQog0rj78pbOKH/U1WAfHTEyHjUddYc4oUyoDYUoCu3wiGtCtxwDsC/Z1rr4U7BV0Fy8HSg21f8MQIDAQAB",
+            "items":{
+                "com.earlystart.stories.1month":{
+                    "id":"test.earlystart.stories.1month",
+                    "type":"consumable"
+                },
+                "com.earlystart.stories.1year" : {
+                    "id" : "test.earlystart.stories.1year",
+                    "type":"consumable"
+                },
+                "com.earlystart.stories.lifetime" : {
+                    "id" : "test.earlystart.stories.lifetime",
+                    "type":"non_consumable"
+                }
+            }
+        }
+    },
+    "playphone" : [
+        
+    ]
+}

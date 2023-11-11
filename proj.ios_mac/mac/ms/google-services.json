@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "518533842801",
+    "firebase_url": "https://mj-stories-169807.firebaseio.com",
+    "project_id": "mj-stories-169807",
+    "storage_bucket": "mj-stories-169807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518533842801:android:dc610ed5e3a491b5",
+        "android_client_info": {
+          "package_name": "com.earlystart.android.monkeyjunior.story"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518533842801-5muu0mu4k4b1upsv4agqc2l3sfkgekq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.earlystart.android.monkeyjunior.story",
+            "certificate_hash": "198311f29eb04a062f8bb9375ed05a301d212d50"
+          }
+        },
+        {
+          "client_id": "518533842801-lu80s0fntoma1kns3q82s880eohe7phl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK_heLfw8j--4QysHHChAYTInra-JDnvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518533842801-lu80s0fntoma1kns3q82s880eohe7phl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518533842801-htuivakbfj06u08rf3rlno2abqcll7id.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.earlystart.monkeyjunior.story",
+                "app_store_id": "1236664909"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518533842801:android:732fc4fe35641efc",
+        "android_client_info": {
+          "package_name": "com.earlystart.monkey.stories.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518533842801-lu80s0fntoma1kns3q82s880eohe7phl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK_heLfw8j--4QysHHChAYTInra-JDnvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

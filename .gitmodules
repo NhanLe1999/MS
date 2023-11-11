@@ -1,0 +1,12 @@
+[submodule "Classes/lib/monkey/account_profiles"]
+	path = Classes/lib/monkey/account_profiles
+	url = https://github.com/eduhub123/app_account_profile.git
+[submodule "Classes/lib/monkey/mj_applib"]
+	path = Classes/lib/monkey/mj_applib
+	url = https://github.com/eduhub123/mj_applib.git
+[submodule "Classes/lib/monkey/sub_monkey_maths"]
+	path = Classes/lib/monkey/sub_monkey_maths
+	url = https://github.com/eduhub123/sub_monkey_maths.git
+[submodule "Classes/lib/monkey/mk_iap"]
+	path = Classes/lib/monkey/mk_iap
+	url = https://github.com/eduhub123/mk_iap.git

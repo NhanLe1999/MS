@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>homepage</key>
+	<dict>
+		<key>character</key>
+		<string>Karakter</string>
+		<key>topic_new</key>
+		<string>Terbaru</string>
+		<key>topic_popular</key>
+		<string>Populer</string>
+		<key>topic_recentlyread</key>
+		<string>Baru dibaca</string>
+		<key>topic_category</key>
+		<string>Topik</string>
+		<key>feature_msg</key>
+		<string>Baca sekarang</string>
+		<key>chooselanguage</key>
+		<string>Pilih bahasa cerita</string>
+		<key>bottommenu1</key>
+		<string>Beranda</string>
+		<key>bottommenu2</key>
+		<string>Eksplorasi</string>
+		<key>bottommenu3</key>
+		<string>Cerita gratis</string>
+		<key>bottommenu4</key>
+		<string>Berlangganan</string>
+		<key>bottommenu5</key>
+		<string>Orang tua</string>
+		<key>bottommenu6</key>
+		<string>Favorit</string>
+		<key>bottommenu7</key>
+		<string>Pelajaran</string>
+	</dict>
+	<key>explorepage</key>
+	<dict>
+		<key>title_all</key>
+		<string>Semua level</string>
+		<key>title_level</key>
+		<string>Level</string>
+		<key>sort1</key>
+		<string>Terpopuler</string>
+		<key>sort2</key>
+		<string>Terbaru</string>
+		<key>sort3</key>
+		<string>Mudah sampai Sudah</string>
+		<key>sort4</key>
+		<string>LEVEL</string>
+		<key>btchooselevel</key>
+		<string>Pilih level</string>
+	</dict>
+	<key>freepage</key>
+	<dict>
+		<key>title</key>
+		<string>Cerita gratis hari ini</string>
+		<key>item_level</key>
+		<string>Level:</string>
+		<key>item_pagenumber</key>
+		<string>Jumlah halaman:</string>
+	</dict>
+	<key>parentpage</key>
+	<dict>
+		<key>delete_cache</key>
+		<string>Hapus penyimpanan</string>
+		<key>title</key>
+		<string>Orang tua</string>
+		<key>language1</key>
+		<string>English</string>
+		<key>language2</key>
+		<string>ภาษาไทย</string>
+		<key>language3</key>
+		<string>Bahasa</string>
+		<key>language4</key>
+		<string>Tiếng Việt</string>
+		<key>language_title</key>
+		<string>Pilih bahasa tampilan</string>
+		<key>language_title_portrait</key>
+		<string>Bahasa tampilan</string>
+		<key>support_option1</key>
+		<string>Pilihan 1</string>
+		<key>support_option2</key>
+		<string>Pilihan 2</string>
+		<key>support_title1</key>
+		<string>Kirim e-mail kepada kami:</string>
+		<key>support_title</key>
+		<string>Membantu</string>
+		<key>support_title2</key>
+		<string>Telepon kami pada Hotline:</string>
+		<key>support_action1</key>
+		<string>Kirim e-mail</string>
+		<key>support_action2</key>
+		<string>Telepon</string>
+		<key>support_version</key>
+		<string>Versi</string>
+		<key>support_deviceid</key>
+		<string>ID Perangkat</string>
+		<key>coupon_title_portrait</key>
+		<string>Kupon</string>
+		<key>license_title_portrait</key>
+		<string>Kunci lisensi</string>
+	</dict>
+	<key>subscribepage</key>
+	<dict>
+		<key>title</key>
+		<string>Berlangganan</string>
+	</dict>
+	<key>favoritespage</key>
+	<dict>
+		<key>title</key>
+		<string>Favorit</string>
+		<key>title_select</key>
+		<string>Pilih cerita</string>
+		<key>selectlb</key>
+		<string>Pilih</string>
+		<key>selectlb_cancel</key>
+		<string>Batalkan</string>
+		<key>title_selected_it</key>
+		<string>Cerita dipilih</string>
+		<key>title_selected_nhieu</key>
+		<string>Cerita dipilih</string>
+		<key>remove_title</key>
+		<string>Hapuskan dari Favorit</string>
+		<key>remove_alert_content</key>
+		<string>Apakah Anda ingin menghapuskan cerita-cerita ini dari Favorit?</string>
+		<key>remove_alert_btok</key>
+		<string>Ya</string>
+		<key>remove_alert_btcancel</key>
+		<string>Tidak</string>
+	</dict>
+	<key>storypagevc</key>
+	<dict>
+		<key>alert_rate_content</key>
+		<string>Apakah Anda sudah menilai aplikasi kami?</string>
+		<key>alert_btok</key>
+		<string>sudah</string>
+		<key>alert_btok1</key>
+		<string>Berlangganan</string>
+		<key>alert_btcancel</key>
+		<string>Belum</string>
+		<key>alert_rate_ok</key>
+		<string>Ya. Saya sudah menilai!</string>
+		<key>alert_rate_cancel</key>
+		<string>Belum. Saya akan menilai sekarang.</string>
+		<key>alert_rate_guiderate</key>
+		<string>Belum, Saya tidak tahu bagaimana menilai.</string>
+		<key>alert_subscribe_content</key>
+		<string>Anda sudah membaca cerita gratis hari ini. Untuk membaca lagi, silahkan berlangganan.</string>
+		<key>alert_loveapp_content</key>
+		<string>Apakah Anda bahagia dengan aplikasi kami?</string>
+		<key>alert_sub_buy</key>
+		<string>Daftar sekarang</string>
+		<key>alert_sub_rate</key>
+		<string>Lebih banyak cerita gratis</string>
+		<key>alert_subscribe_content_rate</key>
+		<string>Apakah Anda ingin berlangganan untuk membaca lebih banyak cerita?</string>
+		<key>alert_playgame_content</key>
+		<string>Silahkan berlangganan untuk memainkan permainan.</string>
+		<key>alert_playgame_btok</key>
+		<string>Paham!</string>
+	</dict>
+	<key>ratepopup</key>
+	<dict>
+		<key>rate_title</key>
+		<string>MENILAI KAMI DAN MENANGKAN</string>
+		<key>rate_bt</key>
+		<string>Menilai</string>
+		<key>rate_content</key>
+		<string>Menilai kami dan menangkan lebih banyak cerita gratis!</string>
+		<key>rate_numstory</key>
+		<string>Jumlah pembacaan</string>
+		<key>bonus_title</key>
+		<string>SELAMAT!</string>
+		<key>bonus_content</key>
+		<string>Jumlah pembacaan</string>
+		<key>bonus_content2</key>
+		<string>Anda telah teriema</string>
+		<key>ratebuy_title</key>
+		<string>Apakah Anda menyukai $(appname)?</string>
+		<key>ratebuy_content</key>
+		<string>Mengapa Anda tidak membagi kecintaan Anda dengan sebuah review?</string>
+		<key>ratebuy_bt</key>
+		<string>MENILAI KAMI SEKARANG!</string>
+	</dict>
+	<key>levelinfo</key>
+	<dict>
+		<key>guide_title</key>
+		<string>$(appname) Petunjuk</string>
+		<key>guide_content</key>
+		<string>Klik tombol ini untuk mempelajari lebih lanjut tentang $(appname)&apos;*Level pembacaan!</string>
+		<key>lexile_score</key>
+		<string>Skor Lexile</string>
+		<key>word_count</key>
+		<string>Penghitungan kata</string>
+		<key>page_count</key>
+		<string>Penghitungan halaman</string>
+		<key>welcome_title</key>
+		<string>Sistim level pembacaan </string>
+		<key>welcome_content</key>
+		<string>Koleksi cerita kami dikategorikan dalam berbagai level yang berbeda-beda yang berdasarkan standar Common Core State Standards (CCSS) dari Amerika Serikat. Pada setiap level, cerita ditulis dan dirancang sesuai dengan kemampuan membaca dari anak-anak.</string>
+		<key>reading_title</key>
+		<string>$(appname) level pembacaan</string>
+		<key>btnext</key>
+		<string>Berikutnya</string>
+	</dict>
+	<key>general</key>
+	<dict>
+		<key>level</key>
+		<string>Level</string>
+		<key>search</key>
+		<string>Mencari</string>
+		<key>search_input</key>
+		<string>Ketik nama cerita di sini...</string>
+	</dict>
+	<key>popup</key>
+	<dict>
+		<key>welcome_title</key>
+		<string>SELAMAT DATANG DI</string>
+		<key>welcome_content</key>
+		<string>Pintar bahasa Inggris sebelum berusia 10 tahun</string>
+		<key>welcome_content_vmonkey</key>
+		<string>Perpustakaan digital Vietnam tak terbatas ntuk anak-anak yang berusia dari 2-10 tahun.</string>
+		<key>welcome_btsub</key>
+		<string>Daftar sekarang</string>
+		<key>welcome_btfree</key>
+		<string>Satu Barang Gratis Setiap Hari</string>
+		<key>network_ok</key>
+		<string>Mulai dalam Mode Offline</string>
+		<key>network_cancel</key>
+		<string>Coba lagi</string>
+		<key>network_cancel_msgdoc</key>
+		<string>Tidak tersambung. Mohon periksa koneksi dan coba lagi</string>
+		<key>network_cancel_msgngang</key>
+		<string>Tidak tersambung. Mohon periksa koneksi dan coba lagi</string>
+		<key>network_title</key>
+		<string>Koneksi internet</string>
+		<key>noti_title</key>
+		<string>Notifikasi</string>
+		<key>noti_open</key>
+		<string>BUKA</string>
+		<key>menu_play</key>
+		<string>Mainkan</string>
+		<key>menu_startover</key>
+		<string>Mulai ulang</string>
+		<key>menu_favorite</key>
+		<string>Favorit</string>
+		<key>menu_share</key>
+		<string>Bagi</string>
+		<key>menu_close</key>
+		<string>Tutup</string>
+		<key>update_btok</key>
+		<string>Mutakhirkan Sekarang!</string>
+		<key>update_btcancel</key>
+		<string>Lewatkan</string>
+		<key>menu_pause</key>
+		<string>Pause</string>
+	</dict>
+	<key>endingpage</key>
+	<dict>
+		<key>rate1</key>
+		<string>Saya mencintainya</string>
+		<key>rate2</key>
+		<string>Ia ok</string>
+		<key>rate3</key>
+		<string>Tidak, Saya tidak</string>
+		<key>queslovestory</key>
+		<string>Apakah Anda menyukai cerita ini?</string>
+		<key>recoment</key>
+		<string>Cerita yang diusulkan kami:</string>
+	</dict>
+</dict>
+</plist>

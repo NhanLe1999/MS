@@ -1,0 +1,2 @@
+cocos2d/prebuilt/ios/libcocos2d[[:space:]]iOS.a filter=lfs diff=lfs merge=lfs -text
+cocos2d/prebuilt/mac/libcocos2d[[:space:]]Mac.a filter=lfs diff=lfs merge=lfs -text

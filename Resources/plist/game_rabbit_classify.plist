@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content_info</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>cat</string>
+			<key>audio_path</key>
+			<string>sample_source/game_sample/cat.mp3</string>
+			<key>img_path</key>
+			<string>sample_source/game_sample/cat.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>pig</string>
+			<key>audio_path</key>
+			<string>sample_source/game_sample/cat.mp3</string>
+			<key>img_path</key>
+			<string>sample_source/game_sample/cat.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>dog</string>
+			<key>audio_path</key>
+			<string>sample_source/game_sample/cat.mp3</string>
+			<key>img_path</key>
+			<string>sample_source/game_sample/cat.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>bat</string>
+			<key>audio_path</key>
+			<string>sample_source/game_sample/cat.mp3</string>
+			<key>img_path</key>
+			<string>sample_source/game_sample/cat.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>chicken</string>
+			<key>audio_path</key>
+			<string>sample_source/game_sample/cat.mp3</string>
+			<key>img_path</key>
+			<string>sample_source/game_sample/cat.png</string>
+		</dict>
+	</array>
+	<key>game_info</key>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>title</key>
+		<string>Sample Game</string>
+		<key>intro</key>
+		<string>Sample Game</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

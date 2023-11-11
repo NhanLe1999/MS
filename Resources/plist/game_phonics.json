@@ -1,0 +1,129 @@
+{
+    "game_info": {
+        "audio_intro": "",
+        "id": 13,
+        "intro": "Drag the text to match the pictures.",
+        "title": "Monkey Phonics",
+        "audio_title": ""
+    },
+    "content_info": [
+        {
+            "video_path": "sounds/phonics/akjdksjdksj.mp4",
+            "img_path": "games/sample/bat.png",
+            "video_duration": 7.9,
+            "text": "Cat",
+            "audio_path": "sounds/phonics/cat.mp3",
+            "highlight": [
+                {
+                    "s": 0,
+                    "w": "Cat",
+                    "e": 2000.0,
+                    "te": 2,
+                    "ts": 0
+                },
+                {
+                    "te": 0,
+                    "ts": 0,
+                    "e": 3000,
+                    "w": "C",
+                    "s": 2000.0
+                },
+                {
+                    "s": 3000,
+                    "w": "a",
+                    "e": 4000,
+                    "te": 1,
+                    "ts": 1
+                },
+                {
+                    "s": 4000,
+                    "w": "t",
+                    "e": 5000,
+                    "te": 2,
+                    "ts": 2
+                }
+            ]
+        },
+        {
+            "video_duration": 7.9,
+            "text": "Goat",
+            "audio_path": "sounds/phonics/cat.mp3",
+            "highlight": [
+                {
+                    "s": 0,
+                    "w": "Goat",
+                    "e": 2000.0,
+                    "te": 3,
+                    "ts": 0
+                },
+                {
+                    "te": 0,
+                    "ts": 0,
+                    "e": 3000,
+                    "w": "G",
+                    "s": 2000.0
+                },
+                {
+                    "s": 3000,
+                    "w": "o",
+                    "e": 3500,
+                    "te": 1,
+                    "ts": 1
+                },
+                {
+                    "s": 3500,
+                    "w": "a",
+                    "e": 4000,
+                    "te": 2,
+                    "ts": 2
+                },
+                {
+                    "te": 3,
+                    "ts": 3,
+                    "e": 5000,
+                    "w": "t",
+                    "s": 4000
+                }
+            ],
+            "img_path": "games/sample/bat.png",
+            "video_path": "sounds/phonics/akjdksjdksj.mp4"
+        },
+        {
+            "video_path": "sounds/phonics/IMG_0927.mp4",
+            "img_path": "games/sample/bat.png",
+            "audio_path": "sounds/phonics/cat.mp3",
+            "text": "Hội",
+            "highlight": [
+                {
+                    "s": 0,
+                    "w": "Cat",
+                    "e": 2000.0,
+                    "te": 2,
+                    "ts": 0
+                },
+                {
+                    "te": 0,
+                    "ts": 0,
+                    "e": 3000,
+                    "w": "C",
+                    "s": 2000.0
+                },
+                {
+                    "s": 3000,
+                    "w": "a",
+                    "e": 4000,
+                    "te": 1,
+                    "ts": 1
+                },
+                {
+                    "s": 4000,
+                    "w": "t",
+                    "e": 5000,
+                    "te": 2,
+                    "ts": 2
+                }
+            ],
+            "video_duration": 7.9
+        }
+    ]
+}

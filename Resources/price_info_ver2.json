@@ -1,0 +1,314 @@
+{
+  "product_list": {
+    "new_list": {
+      "US": [
+        {
+          "price_origin": 9,
+          "price_sale": 9,
+          "product_id": "new.earlystart.stories.1month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1month.40_off",
+            "description": "Gói học : 1 tháng"
+          },
+          "saleoff": 40,
+          "currency": "$"
+        },
+        {
+          "price_origin": 39,
+          "price_sale": 39,
+          "product_id": "new.earlystart.stories.6month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.6month.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories trong 6 tháng"
+          },
+          "saleoff": 40,
+          "currency": "$"
+        },
+        {
+          "price_origin": 49,
+          "price_sale": 49,
+          "product_id": "new.earlystart.stories.1year.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1year.40_off",
+            "description": "new.earlystart.stories.1year.40_off"
+          },
+          "saleoff": 40,
+          "currency": "$"
+        },
+        {
+          "price_origin": 0,
+          "price_sale": 0,
+          "product_id": "new.earlystart.storie.lifetime.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "$"
+        }
+      ],
+      "VN": [
+        {
+          "price_origin": 109000,
+          "price_sale": 99000,
+          "product_id": "new.earlystart.stories.1month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1month.40_off",
+            "description": "Gói học : 1 tháng"
+          },
+          "saleoff": 50,
+          "currency": "VND"
+        },
+        {
+          "price_origin": 599000,
+          "price_sale": 599000,
+          "product_id": "new.earlystart.stories.6month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.6month.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories trong 6 tháng"
+          },
+          "saleoff": 0,
+          "currency": "VND"
+        },
+        {
+          "price_origin": 1199000,
+          "price_sale": 699000,
+          "product_id": "new.earlystart.stories.1year.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1year.40_off",
+            "description": "new.earlystart.stories.1year.40_off"
+          },
+          "saleoff": 40,
+          "currency": "VND"
+        },
+        {
+          "price_origin": 2999000,
+          "price_sale": 1499000,
+          "product_id": "new.earlystart.storie.lifetime.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 50,
+          "currency": "VND"
+        }
+      ],
+      "TH": [
+        {
+          "price_origin": 299,
+          "price_sale": 299,
+          "product_id": "new.earlystart.stories.1month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1month.40_off",
+            "description": "Gói học : 1 tháng"
+          },
+          "saleoff": 50,
+          "currency": "THB"
+        },
+        {
+          "price_origin": 1299,
+          "price_sale": 1299,
+          "product_id": "new.earlystart.stories.6month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.6month.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories trong 6 tháng"
+          },
+          "saleoff": 0,
+          "currency": "THB"
+        },
+        {
+          "price_origin": 2665,
+          "price_sale": 1599,
+          "product_id": "new.earlystart.stories.1year.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1year.40_off",
+            "description": "new.earlystart.stories.1year.40_off"
+          },
+          "saleoff": 40,
+          "currency": "THB"
+        },
+        {
+          "price_origin": 7665,
+          "price_sale": 4599,
+          "product_id": "new.earlystart.storie.lifetime.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "THB"
+        },
+        {
+          "price_origin": 7665,
+          "price_sale": 4599,
+          "product_id": "new.earlystart.storie.lifetime.th.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "THB"
+        }
+      ],
+      "ID": [
+        {
+          "price_origin": 129000,
+          "price_sale": 129000,
+          "product_id": "new.earlystart.stories.1month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1month.40_off",
+            "description": "Gói học : 1 tháng"
+          },
+          "saleoff": 40,
+          "currency": "Rp"
+        },
+        {
+          "price_origin": 499000,
+          "price_sale": 499000,
+          "product_id": "new.earlystart.stories.6month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.6month.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories trong 6 tháng"
+          },
+          "saleoff": 40,
+          "currency": "Rp"
+        },
+        {
+          "price_origin": 699000,
+          "price_sale": 699000,
+          "product_id": "new.earlystart.stories.1year.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1year.40_off",
+            "description": "new.earlystart.stories.1year.40_off"
+          },
+          "saleoff": 40,
+          "currency": "Rp"
+        },
+        {
+          "price_origin": 3332000,
+          "price_sale": 1999000,
+          "product_id": "new.earlystart.storie.lifetime.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "Rp"
+        },
+        {
+          "price_origin": 3332000,
+          "price_sale": 1999000,
+          "product_id": "new.earlystart.stories.lifetime.id.40_off",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "Rp"
+        }
+      ],
+      "MY": [
+        {
+          "price_origin": 39,
+          "price_sale": 39,
+          "product_id": "new.earlystart.stories.1month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1month.40_off",
+            "description": "Gói học : 1 tháng"
+          },
+          "saleoff": 40,
+          "currency": "MYR"
+        },
+        {
+          "price_origin": 149,
+          "price_sale": 149,
+          "product_id": "new.earlystart.stories.6month.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.6month.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories trong 6 tháng"
+          },
+          "saleoff": 40,
+          "currency": "MYR"
+        },
+        {
+          "price_origin": 199,
+          "price_sale": 199,
+          "product_id": "new.earlystart.stories.1year.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.1year.40_off",
+            "description": "new.earlystart.stories.1year.40_off"
+          },
+          "saleoff": 40,
+          "currency": "MYR"
+        },
+        {
+          "price_origin": 599,
+          "price_sale": 999,
+          "product_id": "new.earlystart.storie.lifetime.promotion",
+          "product_info": {
+            "name": "new.earlystart.stories.lifetime.40_off",
+            "description": "Cho phép sử dụng trọn bộ tất cả nội dung của Monkey Stories không giới hạn thời gian"
+          },
+          "saleoff": 40,
+          "currency": "MYR"
+        }
+      ]
+    },
+    "selling_packages": {
+      "ANDROID": {
+        "VN": [
+          "new.earlystart.storie.lifetime.promotion",
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion"
+        ],
+        "TH": [
+          "new.earlystart.storie.lifetime.promotion",
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion"
+        ],
+        "ID": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ],
+        "US": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ],
+        "MY": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ]
+      },
+      "IOS": {
+        "VN": [
+          "new.earlystart.storie.lifetime.promotion",
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion"
+        ],
+        "TH": [
+          "new.earlystart.storie.lifetime.th.promotion",
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion"
+        ],
+        "ID": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ],
+        "US": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ],
+        "MY": [
+          "new.earlystart.stories.1year.promotion",
+          "new.earlystart.stories.6month.promotion",
+          "new.earlystart.stories.1month.promotion"
+        ]
+      }
+    }
+  }
+}

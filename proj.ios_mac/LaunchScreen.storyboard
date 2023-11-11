@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_9" orientation="landscape">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="MXG-7g-yZm"/>
+                        <viewControllerLayoutGuide type="bottom" id="wjs-yV-oaC"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="812" height="375"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFill" insetsLayoutMarginsFromSafeArea="NO" image="bg.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="zdM-5e-KRm">
+                                <rect key="frame" x="31" y="0.0" width="750" height="375"/>
+                            </imageView>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleAspectFit" fixedFrame="YES" insetsLayoutMarginsFromSafeArea="NO" image="monkey_logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Ihi-Dx-Mdo">
+                                <rect key="frame" x="181" y="52" width="450" height="270"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <constraints>
+                            <constraint firstItem="zdM-5e-KRm" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="Sgt-oC-jlJ"/>
+                            <constraint firstItem="zdM-5e-KRm" firstAttribute="top" secondItem="MXG-7g-yZm" secondAttribute="bottom" id="UTr-L0-ZJP"/>
+                            <constraint firstItem="zdM-5e-KRm" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="2:1" id="fTB-hz-yNL"/>
+                            <constraint firstItem="zdM-5e-KRm" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="vab-VQ-sbV"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="bg.jpg" width="1663" height="768"/>
+        <image name="monkey_logo.png" width="452" height="267"/>
+    </resources>
+</document>

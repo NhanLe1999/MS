@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>autoplay</key>
+		<string>Auto*play</string>
+		<key>design</key>
+		<string>Illustrated by</string>
+		<key>download_guide</key>
+		<string>You must download this story before reading it</string>
+		<key>download_title</key>
+		<string>Download now</string>
+		<key>pleasewait</key>
+		<string>Please wait</string>
+		<key>readitmyself</key>
+		<string>Read it*myself</string>
+		<key>readtome</key>
+		<string>Read to me f</string>
+		<key>written</key>
+		<string>Written by</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>autoplay</key>
+		<string>Tự động\nchuyển trang</string>
+		<key>design</key>
+		<string>Minh họa</string>
+		<key>download_guide</key>
+		<string>Bạn phải tải truyện về mới đọc được</string>
+		<key>download_title</key>
+		<string>Tải ngay</string>
+		<key>pleasewait</key>
+		<string>Vui lòng đợi</string>
+		<key>readitmyself</key>
+		<string>Bé\ntự đọc</string>
+		<key>readtome</key>
+		<string>Đọc cho bé</string>
+		<key>written</key>
+		<string>Được viết bởi</string>
+	</dict>
+</dict>
+</plist>

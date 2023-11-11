@@ -1,0 +1,1 @@
+Sửa một số lỗi và cải thiện hiệu năng ứng dụng.

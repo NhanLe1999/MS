@@ -1,0 +1,37 @@
+{
+    "client": [
+    {
+        "services": {
+            "appinvite_service": {
+                "status": 1
+            },
+            "analytics_service": {
+                "status": 0
+            }
+        },
+        "oauth_client": [
+        {
+            "client_id": "518533842801-htuivakbfj06u08rf3rlno2abqcll7id.apps.googleusercontent.com"
+        }
+        ],
+        "api_key": [
+        {
+            "current_key": "AIzaSyA1R0bZfLO5QlVee4zI7-c9SYsEm4jeaeQ"
+        }
+        ],
+        "client_info": {
+            "mobilesdk_app_id": "1:518533842801:ios:cd3558a55bf4fc3e",
+            "android_client_info": {
+                "package_name": "com.earlystart.monkeyjunior.story"
+            }
+        }
+    }
+    ],
+    "configuration_version": "1",
+    "project_info": {
+        "storage_bucket": "mj-stories-169807.appspot.com",
+        "project_id": "mj-stories-169807",
+        "firebase_url": "https://mj-stories-169807.firebaseio.com",
+        "project_number": "518533842801"
+    }
+}

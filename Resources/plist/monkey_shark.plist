@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content_info</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>draw</string>
+			<key>audio_path</key>
+			<string>typing/typing_draw.wav</string>
+			<key>img_path</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>jump</string>
+			<key>audio_path</key>
+			<string>typing/jump.mp3</string>
+			<key>img_path</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>push</string>
+			<key>audio_path</key>
+			<string>phonics/push.mp3</string>
+			<key>img_path</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>sit</string>
+			<key>audio_path</key>
+			<string>typing/sit.mp3</string>
+			<key>img_path</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>pull</string>
+			<key>audio_path</key>
+			<string>phonics/pull.mp3</string>
+			<key>img_path</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>game_info</key>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Monkey Phonics</string>
+		<key>intro</key>
+		<string>Drag the text to match the pictures.</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

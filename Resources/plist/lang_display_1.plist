@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>homepage</key>
+	<dict>
+		<key>character</key>
+		<string>Characters</string>
+		<key>topic_new</key>
+		<string>Newest</string>
+		<key>topic_popular</key>
+		<string>Popular</string>
+		<key>topic_recentlyread</key>
+		<string>Recently Read</string>
+		<key>topic_category</key>
+		<string>Topics</string>
+		<key>feature_msg</key>
+		<string>Read it now</string>
+		<key>chooselanguage</key>
+		<string>Choose story language</string>
+		<key>bottommenu1</key>
+		<string>Home</string>
+		<key>bottommenu2</key>
+		<string>Explore</string>
+		<key>bottommenu3</key>
+		<string>Free Stories</string>
+		<key>bottommenu4</key>
+		<string>Subscribe</string>
+		<key>bottommenu5</key>
+		<string>Parents</string>
+		<key>bottommenu6</key>
+		<string>Favorites</string>
+		<key>bottommenu7</key>
+		<string>Lessons</string>
+	</dict>
+	<key>explorepage</key>
+	<dict>
+		<key>title_all</key>
+		<string>All levels</string>
+		<key>title_level</key>
+		<string>Level</string>
+		<key>sort1</key>
+		<string>Most popular</string>
+		<key>sort2</key>
+		<string>Newest</string>
+		<key>sort3</key>
+		<string>Easy to Hard</string>
+		<key>sort4</key>
+		<string>LEVEL</string>
+		<key>btchooselevel</key>
+		<string>Choose level</string>
+	</dict>
+	<key>freepage</key>
+	<dict>
+		<key>title</key>
+		<string>Free stories of the day</string>
+		<key>item_level</key>
+		<string>Level:</string>
+		<key>item_pagenumber</key>
+		<string>Number of pages:</string>
+	</dict>
+	<key>parentpage</key>
+	<dict>
+		<key>delete_cache</key>
+		<string>Delete Cache</string>
+		<key>title</key>
+		<string>Parents</string>
+		<key>language1</key>
+		<string>English</string>
+		<key>language2</key>
+		<string>ภาษาไทย</string>
+		<key>language3</key>
+		<string>Bahasa</string>
+		<key>language4</key>
+		<string>Tiếng Việt</string>
+		<key>language_title</key>
+		<string>Choose Display Language</string>
+		<key>language_title_portrait</key>
+		<string>Display Language</string>
+		<key>support_option1</key>
+		<string>Option 1</string>
+		<key>support_option2</key>
+		<string>Option 2</string>
+		<key>support_title1</key>
+		<string>Email us:</string>
+		<key>support_title</key>
+		<string>Support</string>
+		<key>support_title2</key>
+		<string>Call us at Hotline:</string>
+		<key>support_action1</key>
+		<string>Send email</string>
+		<key>support_action2</key>
+		<string>Call</string>
+		<key>support_version</key>
+		<string>Version</string>
+		<key>support_deviceid</key>
+		<string>Device ID</string>
+		<key>coupon_title_portrait</key>
+		<string>Coupon</string>
+		<key>license_title_portrait</key>
+		<string>License key</string>
+	</dict>
+	<key>subscribepage</key>
+	<dict>
+		<key>title</key>
+		<string>Subscriptions</string>
+	</dict>
+	<key>favoritespage</key>
+	<dict>
+		<key>title</key>
+		<string>Favorites</string>
+		<key>title_select</key>
+		<string>Select Stories</string>
+		<key>selectlb</key>
+		<string>Select</string>
+		<key>selectlb_cancel</key>
+		<string>Cancel</string>
+		<key>title_selected_it</key>
+		<string>Story Selected</string>
+		<key>title_selected_nhieu</key>
+		<string>Stories Selected</string>
+		<key>remove_title</key>
+		<string>Remove from Favorites</string>
+		<key>remove_alert_content</key>
+		<string>Do you want to remove these stories from Favorites?</string>
+		<key>remove_alert_btok</key>
+		<string>Yes</string>
+		<key>remove_alert_btcancel</key>
+		<string>No</string>
+	</dict>
+	<key>storypagevc</key>
+	<dict>
+		<key>alert_rate_content</key>
+		<string>Have you rated our app?</string>
+		<key>alert_btok</key>
+		<string>Yes</string>
+		<key>alert_btok1</key>
+		<string>Subscribe</string>
+		<key>alert_btcancel</key>
+		<string>No</string>
+		<key>alert_rate_ok</key>
+		<string>Yes. I have rated!</string>
+		<key>alert_rate_cancel</key>
+		<string>No. I&apos;ll rate it now.</string>
+		<key>alert_rate_guiderate</key>
+		<string>No. I don&apos;t know how to rate.</string>
+		<key>alert_subscribe_content</key>
+		<string>You have read the free story of the day. To read more, please subscribe.</string>
+		<key>alert_loveapp_content</key>
+		<string>Are you happy with our app?</string>
+		<key>alert_sub_buy</key>
+		<string>Subscribe now!</string>
+		<key>alert_sub_rate</key>
+		<string>More Free Stories</string>
+		<key>alert_subscribe_content_rate</key>
+		<string>Would you like to subscribe to read more stories?</string>
+		<key>alert_playgame_content</key>
+		<string>Please subscribe to play games.</string>
+		<key>alert_playgame_btok</key>
+		<string>Got it!</string>
+	</dict>
+	<key>ratepopup</key>
+	<dict>
+		<key>rate_title</key>
+		<string>RATE US AND WIN</string>
+		<key>rate_bt</key>
+		<string>Rate</string>
+		<key>rate_content</key>
+		<string>Rate us and*win more free stories!</string>
+		<key>rate_numstory</key>
+		<string>reading times</string>
+		<key>bonus_title</key>
+		<string>CONGRATULATIONS!</string>
+		<key>bonus_content</key>
+		<string>reading times</string>
+		<key>bonus_content2</key>
+		<string>You have received</string>
+		<key>ratebuy_title</key>
+		<string>Do you love $(appname)?</string>
+		<key>ratebuy_content</key>
+		<string>Why not share your love with a review?</string>
+		<key>ratebuy_bt</key>
+		<string>RATE US NOW!</string>
+	</dict>
+	<key>levelinfo</key>
+	<dict>
+		<key>guide_title</key>
+		<string>$(appname) Tip</string>
+		<key>guide_content</key>
+		<string>Tap this button to learn*more about $(appname)&apos;*Reading Levels!</string>
+		<key>lexile_score</key>
+		<string>Lexile Score</string>
+		<key>word_count</key>
+		<string>Word count</string>
+		<key>page_count</key>
+		<string>Page count</string>
+		<key>welcome_title</key>
+		<string>Reading Level System</string>
+		<key>welcome_content</key>
+		<string>Our collection of stories are categorized into different levels based on the guidance of Common Core State Standards (CCSS) - US. In each level, the stories are written and designed in accordance with the child&apos;s reading ability.</string>
+		<key>reading_title</key>
+		<string>$(appname) reading levels</string>
+		<key>btnext</key>
+		<string>Next</string>
+	</dict>
+	<key>general</key>
+	<dict>
+		<key>level</key>
+		<string>Level</string>
+		<key>search</key>
+		<string>Search</string>
+		<key>search_input</key>
+		<string>Type story name here...</string>
+	</dict>
+	<key>popup</key>
+	<dict>
+		<key>welcome_title</key>
+		<string>WELCOME TO</string>
+		<key>welcome_content</key>
+		<string>Excel at English before 10 years of age</string>
+		<key>welcome_content_vmonkey</key>
+		<string>The unlimited digital Vietnamese library for kids aged 2-10.</string>
+		<key>welcome_btsub</key>
+		<string>Subscribe Now</string>
+		<key>welcome_btfree</key>
+		<string>One Free Item Per Day</string>
+		<key>network_ok</key>
+		<string>Start in Offline Mode</string>
+		<key>network_cancel</key>
+		<string>Try again</string>
+		<key>network_cancel_msgdoc</key>
+		<string>Could not connect *to our server. Please*make sure you are connected to*the Internet and try again</string>
+		<key>network_cancel_msgngang</key>
+		<string>Could not connect to our server.*Please make sure you are connected to the Internet and try again</string>
+		<key>network_title</key>
+		<string>Internet Connection</string>
+		<key>noti_title</key>
+		<string>Notifications</string>
+		<key>noti_open</key>
+		<string>OPEN</string>
+		<key>menu_play</key>
+		<string>Play</string>
+		<key>menu_startover</key>
+		<string>Start over</string>
+		<key>menu_favorite</key>
+		<string>Favorite</string>
+		<key>menu_share</key>
+		<string>Share</string>
+		<key>menu_close</key>
+		<string>Close</string>
+		<key>update_btok</key>
+		<string>Update Now!</string>
+		<key>update_btcancel</key>
+		<string>Skip</string>
+		<key>menu_pause</key>
+		<string>Pause</string>
+	</dict>
+	<key>endingpage</key>
+	<dict>
+		<key>rate1</key>
+		<string>I love it</string>
+		<key>rate2</key>
+		<string>It&apos;s ok</string>
+		<key>rate3</key>
+		<string>No, I don&apos;t</string>
+		<key>queslovestory</key>
+		<string>Do you like this story?</string>
+		<key>recoment</key>
+		<string>Our recommended stories:</string>
+	</dict>
+</dict>
+</plist>

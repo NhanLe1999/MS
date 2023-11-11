@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.earlystart.android.monkeyjunior.story"
+    android:installLocation="auto">
+
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <queries>
+        <intent>
+            <action android:name="android.speech.RecognitionService" />
+        </intent>
+    </queries>
+
+    <application
+
+
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:usesCleartextTraffic="true"
+        android:allowClearUserData="true"
+        android:allowBackup="false"
+        android:fullBackupOnly="false"
+        tools:replace="android:allowBackup"
+
+        android:name="androidx.multidex.MultiDexApplication" >
+        <meta-data
+            android:name="android.app.lib_name"
+            android:value="MyGame" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data android:name="com.google.android.gms.vision.DEPENDENCIES" android:value="barcode"/>
+        <activity
+            android:name="org.cocos2dx.cpp.AppActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            tools:ignore="LockedOrientationActivity"
+            android:exported = "true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+                <data android:scheme="http" />
+                <data android:scheme="https" />
+                <data android:host="monkeystories.vn" />
+            </intent-filter>
+        </activity>
+
+<!--        <receiver android:name="androidx.media.session.MediaButtonReceiver">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MEDIA_BUTTON" />-->
+<!--            </intent-filter>-->
+<!--        </receiver>-->
+        <receiver android:name="org.cocos2dx.cpp.ReminderBroadcast" />
+
+        <service android:name="org.cocos2dx.cpp.ExoPlayerAudioService" />
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.facebook.accountkit.ApplicationName"
+            android:value="@string/app_name" />
+
+        <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
+
+        <meta-data android:name="com.google.server.ClientID"
+            android:value="@string/GOOGLE_SERVER_CLIENT_ID" />
+        <meta-data android:name="com.google.server.secret"
+            android:value="@string/GOOGLE_SECRET" />
+        <activity
+            android:name=".FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen"
+            android:theme="@style/FullscreenTheme" />
+        <!--        <activity-->
+<!--            android:name="com.facebook.accountkit.ui.AccountKitActivity" />-->
+
+<!--        <service android:name="com.google.firebase.messaging.cpp.ListenerService"-->
+<!--            android:exported="false" >-->
+<!--            <intent-filter>-->
+<!--                <action android:name="com.google.firebase.MESSAGING_EVENT" />-->
+<!--            </intent-filter>-->
+<!--        </service>-->
+
+<!--        <service android:name="com.google.firebase.messaging.cpp.FcmInstanceIDListenerService"-->
+<!--            android:exported="false" >-->
+<!--            <intent-filter>-->
+<!--                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>-->
+<!--            </intent-filter>-->
+<!--        </service>-->
+
+        <service android:name="com.google.firebase.messaging.cpp.RegistrationIntentService"
+            android:exported="false" >
+        </service>
+        <service android:name="com.google.firebase.messaging.MessageForwardingService"
+            android:exported="false" >
+        </service>
+
+        <service
+            android:name="com.appsflyer.FirebaseMessagingServiceListener" android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <provider android:authorities="@string/FacebookContentProvider"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true"/>
+
+        <service android:name="org.cocos2dx.cpp.ClosingService"
+            android:stopWithTask="false"/>
+
+        <!--for clever tap-->
+
+        <meta-data
+            android:name="CLEVERTAP_ACCOUNT_ID"
+            android:value="@string/CLEVER_TAP_ID"/>
+
+        <meta-data
+            android:name="CLEVERTAP_TOKEN"
+            android:value="@string/CLEVER_TAP_TOKEN"/>
+        <meta-data
+            android:name="CLEVERTAP_REGION"
+            android:value="sg1"/>
+
+        <!--begin: for notification -->
+<!--        <service
+            android:name="com.clevertap.android.sdk.FcmTokenListenerService" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>-->
+
+        <service
+            android:name="com.clevertap.android.sdk.pushnotification.fcm.FcmMessageListenerService"
+            android:exported = "true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <!--end: for notification -->
+
+        <!--begin: To track notifications clicks -->
+        <receiver
+            android:name="com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver"
+            android:exported="false"
+            android:enabled="true">
+        </receiver>
+        <!--end: To track notifications clicks -->
+
+        <!--begin: Push Amplification -->
+            <meta-data
+                android:name="CLEVERTAP_BACKGROUND_SYNC"
+                android:value="1"/>
+
+            <!--use CTBackgroundIntentService to target users below Android 21 (Lollipop)-->
+            <service
+                android:name="com.clevertap.android.sdk.pushnotification.amp.CTBackgroundIntentService"
+                android:exported="false">
+                <intent-filter>
+                    <action android:name="com.clevertap.BG_EVENT"/>
+                </intent-filter>
+            </service>
+
+            <!--use CTBackgroundJobService to target users on and above Android 21 (Lollipop)-->
+            <service
+                android:name="com.clevertap.android.sdk.pushnotification.amp.CTBackgroundJobService"
+                android:permission="android.permission.BIND_JOB_SERVICE"
+                android:exported="false"/>
+        <!--end: Push Amplification -->
+
+        <!-- replace below value with your FCM project number.-->
+        <meta-data
+            android:name="FCM_SENDER_ID"
+            android:value="@string/CLEVER_SENDER_ID"/>
+
+        <service
+            android:name="com.clevertap.android.sdk.pushnotification.CTNotificationIntentService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.clevertap.PUSH_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <meta-data android:name="com.samsung.android.icon_container.has_icon_container" android:value="true"/>
+
+    </application>
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" tools:node="remove"/>
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <uses-sdk tools:overrideLibrary="com.hbisoft.hbrecorder"/>
+
+</manifest>

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.earlystart.android.monkeyjunior.story",
+  "variantName": "enDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 38000000,
+      "versionName": "3.8.0",
+      "enabled": true,
+      "outputFile": "MonkeyStories-3.8.0-38000000-13571320022023-enDebug.apk"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level": 6,
+		"data": [{
+				"type": 10,
+				"items": [{
+						"id_answer":1,
+						"img_path": "rabbit_classify/1.png",
+						"w": "small",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/2.png",
+						"w": "thin",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				],
+				"item2":[{
+						"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "big",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "fat",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}, {
+				"type": 10,
+				"items": [{
+						"id_answer":1,
+						"img_path": "rabbit_classify/1.png",
+						"w": "small",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/2.png",
+						"w": "thin",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				],
+				"item2":[{
+						"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "big",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "fat",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}, {
+				"type": 11,
+				"items": [{
+					"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "ball",
+						"audio_path": "khi_xe_ui/khi_xe_ui_on.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "balls",
+						"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}, {
+				"type": 11,
+				"items": [{
+					"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "ball",
+						"audio_path": "khi_xe_ui/khi_xe_ui_on.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "balls",
+						"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}, {
+				"type": 12,
+				"items": [{
+					"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "ball",
+						"audio_path": "khi_xe_ui/khi_xe_ui_on.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "balls",
+						"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}, {
+				"type": 12,
+				"items": [{
+					"id_answer":1,
+						"img_path": "rabbit_classify/3.png",
+						"w": "ball",
+						"audio_path": "khi_xe_ui/khi_xe_ui_on.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}, {
+						"id_answer":2,
+						"img_path": "rabbit_classify/4.png",
+						"w": "balls",
+						"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3",
+						"audio_description": "rabbit_classify/rabbit_classify_preSv.mp3"
+					}
+				]
+			}
+		]
+	}
+}

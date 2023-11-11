@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content_info</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>appear</string>
+			<key>audio_path</key>
+			<string>phonics/appear.mp3</string>
+			<key>img_path</key>
+			<string></string>
+			<key>video_path</key>
+			<string>phonics/Appear.mp4</string>
+			<key>video_duration</key>
+			<real>7.9</real>
+			<key>audio_duration</key>
+			<real>3.5</real>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>apple</string>
+			<key>audio_path</key>
+			<string>phonics/apple.mp3</string>
+			<key>img_path</key>
+			<string></string>
+			<key>video_path</key>
+			<string>phonics/Apple.mp4</string>
+			<key>video_duration</key>
+			<real>7.9</real>
+			<key>audio_duration</key>
+			<real>3.1</real>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>arm</string>
+			<key>audio_path</key>
+			<string>phonics/arm.mp3</string>
+			<key>img_path</key>
+			<string></string>
+			<key>video_path</key>
+			<string>phonics/Arm.mp4</string>
+			<key>video_duration</key>
+			<real>7.9</real>
+			<key>audio_duration</key>
+			<real>2.1</real>
+		</dict>
+	</array>
+	<key>game_info</key>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Monkey Phonics</string>
+		<key>intro</key>
+		<string>Game đánh vần</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

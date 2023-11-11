@@ -1,0 +1,41 @@
+
+MIC_hdr.png
+size: 1070,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 712, 2
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+mic
+  rotate: true
+  xy: 885, 57
+  size: 106, 183
+  orig: 106, 183
+  offset: 0, 0
+  index: -1
+mic_outline
+  rotate: true
+  xy: 2, 10
+  size: 153, 252
+  orig: 153, 252
+  offset: 0, 0
+  index: -1
+shape1
+  rotate: true
+  xy: 256, 2
+  size: 161, 226
+  orig: 161, 226
+  offset: 0, 0
+  index: -1
+shape4
+  rotate: true
+  xy: 484, 2
+  size: 161, 226
+  orig: 161, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,228 @@
+set(AP_HEADER
+  account_profiles/APProfileCard.h
+  account_profiles/APProfileFinishView.h
+  account_profiles/APGoogleOAuth.h
+  account_profiles/APAuth.h
+  account_profiles/APProfileManager.h
+  account_profiles/DatabaseHelper.h
+  account_profiles/APPhoneAuth.h
+  account_profiles/APWaitView.h
+  account_profiles/APFacebookOAuth.h
+  account_profiles/APLoginView.h
+  account_profiles/APChooseProfileView.h
+  account_profiles/APGoogleOAuth-Android.h
+  account_profiles/APPhoneAuth-Android.h
+  account_profiles/APProfileItem.h
+  account_profiles/APProfileManagerView.h
+  account_profiles/APProfileSwitch.h
+  #account_profiles/APPhoneAuthiOS.h
+  account_profiles/APProfileNameView.h
+  #account_profiles/APFacebookOAuth-iOS.h
+  account_profiles/APDatabase.h
+  account_profiles/APProfile.h
+  account_profiles/api/APProfilesListAPI.h
+  account_profiles/api/APLogoutAPI.h
+  account_profiles/api/APLoadUpdateAPI.h
+  account_profiles/api/APBaseAPI.h
+  account_profiles/api/APActiveLicenseAPI.h
+  account_profiles/api/APUpdateProfileAPI.h
+  account_profiles/api/APUpdateUserInfoAPI.h
+  account_profiles/api/APStoreErrorAPI.h
+  account_profiles/api/APLoginAPI.h
+  account_profiles/api/APDeleteProfileAPI.h
+  account_profiles/api/APRegisterAPI.h
+  account_profiles/api/APUpdatePhoneNumberAPI.h
+  account_profiles/api/APLinkUserCrmToAccount.h 
+  account_profiles/api/APUpdateEmailMaterialAPI.h
+  account_profiles/api/APSendEmailMaterialAPI.h
+  account_profiles/APFacebookOAuth-Android.h
+  account_profiles/APProfileEditView.h
+  account_profiles/APProfileAgeView.h
+  #account_profiles/APGoogleOAuth-iOS.h
+  account_profiles/APProfileAvatarView.h
+  account_profiles/APProfileDelegate.h
+  account_profiles/APCalculator.h
+  account_profiles/APEmailLogin.h
+  account_profiles/APEmailOTP.h
+  account_profiles/APPhoneLogin.h
+  account_profiles/APPhoneOTP.h
+  account_profiles/api/APVerifyOptAPI.h
+  account_profiles/api/APVerifyOptForEmailAPI.h
+  account_profiles/api/APSendOptAPI.h
+  account_profiles/api/APPasswordAPI.h
+  account_profiles/api/APSendOTPAPI.h
+  account_profiles/api/APUpdateEmailAPI.h
+  account_profiles/api/APUpdatePasswordAPI.h
+  account_profiles/APPopup.h
+  account_profiles/new/APPopupBase.h
+  account_profiles/new/APEnterPhoneNumberPopup.h
+  account_profiles/new/APLoginPopup.h
+  account_profiles/new/APEnterNewPasswordPopup.h
+  account_profiles/new/APMessagePopup.h
+  account_profiles/new/APPasswordRecoveryMethods.h
+  account_profiles/new/APRegisterPopup.h
+  account_profiles/new/APOTPPopup.h
+  account_profiles/new/APSecurityQuestionPopup.h
+  account_profiles/new/APChangePasswordPopup.h
+  account_profiles/new/APEnterNewPasswordPopupForOldUser.h
+  account_profiles/new_v2/APLoginScreen.h
+  account_profiles/new_v2/APRegisterScreen.h
+  account_profiles/new_v2/APResetPasswordScreen.h
+  account_profiles/new_v2/APChangePasswordScreen.h
+  account_profiles/new_v2/APPhoneCodePopup.h
+  account_profiles/new_v2/TILLabelAnimated.h
+  account_profiles/new_v3/APAccountUpdateEmail.cpp
+  account_profiles/new_v3/APEnterEmailPopup.cpp
+  account_profiles/new_v3/APAccountConfirmPassword.cpp
+  account_profiles/new_v3/APAccountUserInfo.cpp
+  account_profiles/new_v3/APAccountUpdatePassword.cpp
+  account_profiles/new_v3/APAccountAddPassword.cpp
+  account_profiles/new_v3/APAccountUpdatePhone.cpp
+  account_profiles/new_v3/APAccountConfirmOTP.cpp
+  account_profiles/new_v3/APAccountDefinesV3.cpp
+  account_profiles/new_v3/APAccountProfileDetail.cpp
+  account_profiles/new_v3/APAccountProfileCard.cpp
+	account_profiles/new_v4/APUpdatePhoneNumberScreen.cpp
+	account_profiles/new_v4/APLoginMethodsScreen.cpp
+	account_profiles/new_v4/APHaveUsedMonkeyApps.cpp
+	account_profiles/new_v4/APConnectWithCurrentAccount.cpp
+	account_profiles/new_v4/APChangeDefaultPasswordScreen.cpp
+	account_profiles/new_v4/APAccountConnectionScreen.cpp
+        )
+set(AP_SRC
+  account_profiles/APProfile.cpp
+  account_profiles/APProfileEditView.cpp
+  account_profiles/APProfileNameView.cpp
+  account_profiles/APProfileItem.cpp
+  account_profiles/APGoogleOAuth.cpp
+  account_profiles/APProfileManagerView.cpp
+  account_profiles/APWaitView.cpp
+  account_profiles/APAuth.cpp
+  account_profiles/APFacebookOAuth.cpp
+  account_profiles/APProfileSwitch.cpp
+  account_profiles/DatabaseHelper.cpp
+  account_profiles/APProfileCard.cpp
+  account_profiles/APFacebookOAuth-Android.cpp
+  account_profiles/APProfileAvatarView.cpp
+  account_profiles/APProfileAgeView.cpp
+  account_profiles/APLoginView.cpp
+  account_profiles/APChooseProfileView.cpp
+  account_profiles/APProfileManager.cpp
+  account_profiles/api/APBaseAPI.cpp
+  account_profiles/api/APUpdateUserInfoAPI.cpp
+  account_profiles/api/APLoginAPI.cpp
+  account_profiles/api/APStoreErrorAPI.cpp
+  account_profiles/api/APProfilesListAPI.cpp
+  account_profiles/api/APLogoutAPI.cpp
+  account_profiles/api/APUpdateProfileAPI.cpp
+  account_profiles/api/APLoadUpdateAPI.cpp
+  account_profiles/api/APActiveLicenseAPI.cpp
+  account_profiles/api/APDeleteProfileAPI.cpp
+  account_profiles/api/APRegisterAPI.cpp
+  account_profiles/api/APUpdatePhoneNumberAPI.cpp
+  account_profiles/api/APLinkUserCrmToAccount.cpp
+  account_profiles/api/APUpdateEmailAPI.cpp
+  account_profiles/api/APUpdatePasswordAPI.cpp
+  account_profiles/APGoogleOAuth-Android.cpp
+  account_profiles/APProfileFinishView.cpp
+  account_profiles/APDatabase.cpp
+  account_profiles/APPhoneAuth.cpp
+  account_profiles/APPhoneAuth-Android.cpp
+  account_profiles/APCalculator.cpp
+  account_profiles/APEmailLogin.cpp
+  account_profiles/APEmailOTP.cpp
+  account_profiles/APPhoneLogin.cpp
+  account_profiles/APPhoneOTP.cpp
+  account_profiles/api/APVerifyOptAPI.cpp
+  account_profiles/api/APVerifyOptForEmailAPI.cpp
+  account_profiles/api/APSendOptAPI.cpp
+  account_profiles/api/APPasswordAPI.cpp
+  account_profiles/api/APSendOTPAPI.cpp
+  account_profiles/api/APSendEmailMaterialAPI.cpp
+  account_profiles/APPopup.cpp
+  account_profiles/new/APPopupBase.cpp
+  account_profiles/new/APEnterPhoneNumberPopup.cpp
+  account_profiles/new/APLoginPopup.cpp
+  account_profiles/new/APEnterNewPasswordPopup.cpp
+  account_profiles/new/APMessagePopup.cpp
+  account_profiles/new/APPasswordRecoveryMethods.cpp
+  account_profiles/new/APRegisterPopup.cpp
+  account_profiles/new/APOTPPopup.cpp
+  account_profiles/new/APSecurityQuestionPopup.cpp
+  account_profiles/new/APChangePasswordPopup.cpp
+  account_profiles/new/APEnterNewPasswordPopupForOldUser.cpp
+  account_profiles/new_v2/APLoginScreen.cpp
+  account_profiles/new_v2/APRegisterScreen.cpp
+  account_profiles/new_v2/APChangePasswordScreen.cpp
+  account_profiles/new_v2/APPhoneCodePopup.cpp
+  account_profiles/new_v2/APResetPasswordScreen.cpp
+  account_profiles/new_v2/TILLabelAnimated.cpp
+  account_profiles/new_v3/APAccountUpdateEmail.h
+  account_profiles/new_v3/APAccountUpdatePassword.h
+  account_profiles/new_v3/APEnterEmailPopup.h
+  account_profiles/new_v3/APAccountConfirmPassword.h
+  account_profiles/new_v3/APAccountUserInfo.h
+  account_profiles/new_v3/APAccountAddPassword.h
+  account_profiles/new_v3/APAccountUpdatePhone.h
+  account_profiles/new_v3/APAccountConfirmOTP.h
+  account_profiles/new_v3/APAccountDefinesV3.h
+  account_profiles/new_v3/APAccountProfileDetail.h
+  account_profiles/new_v3/APAccountProfileCard.h
+	account_profiles/new_v4/APUpdatePhoneNumberScreen.h
+	account_profiles/new_v4/APLoginMethodsScreen.h
+	account_profiles/new_v4/APHaveUsedMonkeyApps.h
+	account_profiles/new_v4/APConnectWithCurrentAccount.h
+	account_profiles/new_v4/APChangeDefaultPasswordScreen.h
+	account_profiles/new_v4/APAccountConnectionScreen.h
+	  account_profiles/api/APUpdateEmailMaterialAPI.cpp
+        )
+set(AP_DIR
+	PRIVATE account_profiles/
+	PRIVATE account_profiles/api
+	PRIVATE account_profiles/new
+	PRIVATE account_profiles/new_v2
+	PRIVATE account_profiles/new_v3
+	PRIVATE account_profiles/new_v4
+        )
+
+#add_subdirectory(account_profiles/SQLiteCpp)
+#target_include_directories(account_profiles/SQLiteCpp/include/)
+#target_link_libraries(SQLiteCpp sqlite3)
+
+if(APPLE)
+    if(IOS)
+      list(APPEND AP_HEADER
+              account_profiles/APFacebookOAuth-iOS.h
+              account_profiles/APGoogleOAuth-iOS.h
+              account_profiles/APPhoneAuthiOS.h
+          )
+
+      list(APPEND AP_SRC
+        account_profiles/APGoogleOAuth-iOS.mm
+        account_profiles/APPhoneAuthiOS.mm
+        account_profiles/APFacebookOAuth-iOS.mm
+              )
+    elseif(MACOSX)
+      list(APPEND AP_HEADER
+          account_profiles/APFacebookOAuth-desktop.h
+          account_profiles/APGoogleOAuth-desktop.h
+          account_profiles/APPhoneAuth-desktop.h
+      )
+      list(APPEND AP_SRC
+          account_profiles/APPhoneAuth-desktop.cpp
+          account_profiles/APFacebookOAuth-desktop.cpp
+          account_profiles/APGoogleOAuth-desktop.cpp
+      )
+    endif()
+elseif (WINDOWS)
+    list(APPEND AP_SRC
+      account_profiles/APPhoneAuth-desktop.cpp
+      account_profiles/APFacebookOAuth-desktop.cpp
+      account_profiles/APGoogleOAuth-desktop.cpp
+    )
+    list(APPEND AP_HEADER
+      account_profiles/APPhoneAuth-desktop.h
+      account_profiles/APGoogleOAuth-desktop.h
+      account_profiles/APFacebookOAuth-desktop.h
+    )
+endif()

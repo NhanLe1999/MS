@@ -1,0 +1,2554 @@
+<Solution>
+  <PropertyGroup Name="TruyenTranh" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="account">
+          <Folder Name="new_v2">
+            <Folder Name="register_screen">
+              <Folder Name="fatopic">
+                <Image Name="dots.png" />
+              </Folder>
+              <Folder Name="subscription">
+                <Image Name="dots.png" />
+              </Folder>
+              <Image Name="black_down_arrow.png" />
+              <Image Name="button_black.png" />
+              <Image Name="button_blue.png" />
+              <Image Name="button_next.png" />
+              <Image Name="button_red.png" />
+              <Image Name="close_button.png" />
+              <Image Name="dots.png" />
+              <Image Name="eye_hide_pass.png" />
+              <Image Name="eye_show_pass.png" />
+              <Image Name="eye_show_pass_red.png" />
+              <Image Name="gray_box.png" />
+              <Image Name="horizontal_border_line.png" />
+              <Image Name="icon_apple.png" />
+              <Image Name="icon_facebook.png" />
+              <Image Name="icon_google.png" />
+              <Image Name="line.png" />
+              <Image Name="red_box.png" />
+              <Image Name="tick_checked.png" />
+            </Folder>
+            <Image Name="apple_button.png" />
+            <Image Name="cb_normal.png" />
+            <Image Name="cb_selected.png" />
+            <Image Name="cb_selected_vn.png" />
+            <Image Name="continue_button.png" />
+            <Image Name="exit_button.png" />
+            <Image Name="exit_button2.png" />
+            <Image Name="exit_button2_vn.png" />
+            <Image Name="eye.png" />
+            <Image Name="eye_enable.png" />
+            <Image Name="fb_button.png" />
+            <Image Name="gmail_button.png" />
+            <Image Name="listview_phonecode_item_bg.png" />
+            <Image Name="monkey.png" />
+            <Image Name="monkey_vn.png" />
+            <Image Name="quick_login.png" />
+            <Image Name="quick_login_vn.png" />
+            <Image Name="red_button.png" />
+            <Image Name="register_button.png" />
+            <Image Name="register_button_vn.png" />
+            <Image Name="right_object.png" />
+            <Image Name="search_icon.png" />
+            <Image Name="textfied_disable.png" />
+            <Image Name="textfied_enable.png" />
+            <Image Name="textfied_enable2.png" />
+            <Image Name="textfied2.png" />
+            <Image Name="yellow_button_vn.png" />
+          </Folder>
+          <Folder Name="new_v3">
+            <Image Name="bg_textfield_confirm_password.png" />
+            <Image Name="bg_textfield_confirmcode.png" />
+            <Image Name="bg_textfield_email.png" />
+            <Image Name="bg_textfield_otp.png" />
+            <Image Name="bg_textfield_username.png" />
+            <Image Name="button_add_password.png" />
+            <Image Name="button_back_left.png" />
+            <Image Name="button_back_left-59623f26.png" />
+            <Image Name="button_close.png" />
+            <Image Name="button_confirmcode.png" />
+            <Image Name="button_confirmcode_blank.png" />
+            <Image Name="button_profile.png" />
+            <Image Name="button_profile_edit.png" />
+            <Image Name="button_save.png" />
+            <Image Name="button_save_blank.png" />
+            <Image Name="button_send_otp.png" />
+            <Image Name="button_send_otp_blank.png" />
+            <Image Name="button_signout.png" />
+            <Image Name="button_update_email.png" />
+            <Image Name="button_update_email_blank.png" />
+            <Image Name="button_update_name.png" />
+            <Image Name="button_update_password.png" />
+            <Image Name="button_view_detail.png" />
+            <Image Name="panel_profile.png" />
+            <Image Name="textfied_enable2.png" />
+          </Folder>
+          <Folder Name="new_v4">
+            <Image Name="box.png" />
+            <Image Name="connection_button.png" />
+            <Image Name="mj_icon.png" />
+            <Image Name="mm_icon.png" />
+            <Image Name="ms_icon.png" />
+            <Image Name="vm_icon.png" />
+          </Folder>
+          <Image Name="bg.png" />
+          <Image Name="blur.png" />
+          <Image Name="button_email.png" />
+          <Image Name="button_google.png" />
+          <Image Name="button_grey.png" />
+          <Image Name="calculator_bg.png" />
+          <Image Name="calculator_clear.png" />
+          <Image Name="calculator_send.png" />
+          <Image Name="deleteIcon.png" />
+          <Image Name="edit.png" />
+          <Image Name="exit.png" />
+          <Image Name="female 1.png" />
+          <Image Name="female.png" />
+          <Image Name="forget_password.png" />
+          <Image Name="grey_textbox_bg.png" />
+          <Image Name="grey9path.png" />
+          <Image Name="hightlight.png" />
+          <Image Name="icon 1.png" />
+          <Image Name="icon fb.png" />
+          <Image Name="icon google.png" />
+          <Image Name="icon phone.png" />
+          <Image Name="indicator.png" />
+          <Image Name="intro_license_letter.png" />
+          <Image Name="Layer 44 copy.png" />
+          <Image Name="Layer 70.png" />
+          <Image Name="Layer 71.png" />
+          <Image Name="Layer 72.png" />
+          <Image Name="lock_icon.png" />
+          <Image Name="male 1.png" />
+          <Image Name="male.png" />
+          <Image Name="MK Button.png" />
+          <Image Name="parent_license_background.png" />
+          <Image Name="pen.png" />
+          <Image Name="profileFaceIcon.png" />
+          <Image Name="red line.png" />
+          <Image Name="white_bg.png" />
+        </Folder>
+        <Folder Name="cross_promotion">
+          <Image Name="mj.png" />
+          <Image Name="mm.png" />
+          <Image Name="ms.png" />
+          <Image Name="vm.png" />
+        </Folder>
+        <Folder Name="csb">
+          <Folder Name="account">
+            <Folder Name="new">
+              <Project Name="APChangePasswordPopup.csd" Type="Layer" />
+              <Project Name="APEnterNewPasswordPopup.csd" Type="Layer" />
+              <Project Name="APEnterNewPasswordPopupForOldUser.csd" Type="Layer" />
+              <Project Name="APEnterPhoneNumberPopup.csd" Type="Layer" />
+              <Project Name="APLoginPopup.csd" Type="Layer" />
+              <Project Name="APMessagePopup.csd" Type="Layer" />
+              <Project Name="APOTPPopup.csd" Type="Layer" />
+              <Project Name="APPasswordRecoveryMethods.csd" Type="Layer" />
+              <Project Name="APRegisterPopup.csd" Type="Layer" />
+              <Project Name="APSecurityQuestionPopup.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="new_v2">
+              <Project Name="APChangePasswordScreen.csd" Type="Layer" />
+              <Project Name="APChangePasswordScreen_VN.csd" Type="Layer" />
+              <Project Name="APLoginScreen.csd" Type="Layer" />
+              <Project Name="APLoginScreen_VN.csd" Type="Layer" />
+              <Project Name="APPhoneCodePopup.csd" Type="Layer" />
+              <Project Name="APRegisterScreen.csd" Type="Layer" />
+              <Project Name="APRegisterScreen_VN.csd" Type="Layer" />
+              <Project Name="APRegisterScreenSetupPassword.csd" Type="Layer" />
+              <Project Name="APResetPasswordScreen.csd" Type="Layer" />
+              <Project Name="APResetPasswordScreen_VN.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="new_v3">
+              <Project Name="APAccountAddPassword.csd" Type="Layer" />
+              <Project Name="APAccountConfirmOTP.csd" Type="Layer" />
+              <Project Name="APAccountConfirmPassword.csd" Type="Layer" />
+              <Project Name="APAccountProfileDetail.csd" Type="Layer" />
+              <Project Name="APAccountUpdateEmail.csd" Type="Layer" />
+              <Project Name="APAccountUpdatePassword.csd" Type="Layer" />
+              <Project Name="APAccountUpdatePhone.csd" Type="Layer" />
+              <Project Name="APAccountUserInfo.csd" Type="Layer" />
+              <Project Name="APEnterEmailPopup.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="new_v4">
+              <Project Name="APAccountConnectionScreen.csd" Type="Layer" />
+              <Project Name="APChangeDefaultPasswordScreen.csd" Type="Layer" />
+              <Project Name="APConnectWithCurrentAccount.csd" Type="Layer" />
+              <Project Name="APHaveUsedMonkeyApps.csd" Type="Layer" />
+              <Project Name="APLoginMethodsScreen.csd" Type="Layer" />
+              <Project Name="APUpdatePhoneNumberScreen.csd" Type="Layer" />
+            </Folder>
+            <Project Name="AccountEmailLogin.csd" Type="Layer" />
+            <Project Name="AccountEmailOTP.csd" Type="Layer" />
+            <Project Name="AccountManager.csd" Type="Layer" />
+            <Project Name="AccountPhoneLogin.csd" Type="Layer" />
+            <Project Name="AccountPhoneOTP.csd" Type="Layer" />
+            <Project Name="AccountPopup.csd" Type="Layer" />
+            <Project Name="AccountPopup_VN.csd" Type="Layer" />
+            <Project Name="AccountProfileCard.csd" Type="Layer" />
+            <Project Name="AccountProfileItem.csd" Type="Layer" />
+            <Project Name="BirthDayPicker.csd" Type="Layer" />
+            <Project Name="ChooseProfile.csd" Type="Layer" />
+            <Project Name="ListProfile.csd" Type="Layer" />
+            <Project Name="Login.csd" Type="Layer" />
+            <Project Name="ProfileAge.csd" Type="Layer" />
+            <Project Name="ProfileAgePopup.csd" Type="Layer" />
+            <Project Name="ProfileAvatar.csd" Type="Layer" />
+            <Project Name="ProfileAvatarPopup.csd" Type="Layer" />
+            <Project Name="ProfileEdit.csd" Type="Layer" />
+            <Project Name="ProfileFinish.csd" Type="Layer" />
+            <Project Name="ProfileName.csd" Type="Layer" />
+            <Project Name="ProfileNamePopup.csd" Type="Layer" />
+            <Project Name="ProfileSwitchPopup.csd" Type="Layer" />
+            <Project Name="Waiting_Login.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="book_page">
+            <Project Name="MSBookPage.csd" Type="Layer" />
+            <Project Name="MSBookText.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="free2paid">
+            <Folder Name="alert">
+              <Project Name="newAlert.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="gettingStarted">
+              <Project Name="gettingStartedScene.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="merge">
+              <Project Name="Merge1.csd" Type="Layer" />
+              <Project Name="Merge2.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="payment">
+              <Project Name="MJSubscriptionLandscape.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="SignInSignUpFlow">
+              <Project Name="ChooseAvartar.csd" Type="Layer" />
+              <Project Name="NameSetup.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="splash">
+              <Project Name="SplashScene.csd" Type="Layer" />
+            </Folder>
+            <Project Name="EndLessonScene.csd" Type="Layer" />
+            <Project Name="EndTrialLessonPopup.csd" Type="Layer" />
+            <Project Name="MSFreeContentPage.csd" Type="Layer" />
+            <Project Name="MsFreeItem.csd" Type="Layer" />
+            <Project Name="MsGroupFreeItems.csd" Type="Layer" />
+            <Project Name="MSMergeSuccess.csd" Type="Layer" />
+            <Project Name="MsProfileItem.csd" Type="Layer" />
+            <Project Name="ProfileAgeF2p.csd" Type="Layer" />
+            <Project Name="ProfileMini.csd" Type="Layer" />
+            <Project Name="sample.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="game">
+            <Folder Name="ai_speaking">
+              <Project Name="AISpeakingClosingPopup.csd" Type="Layer" />
+              <Project Name="AISpeakingFakeCallScreen.csd" Type="Layer" />
+              <Project Name="AISpeakingRelearnSplashScreen.csd" Type="Layer" />
+              <Project Name="AISpeakingReviewScreen.csd" Type="Layer" />
+              <Project Name="AISpeakingScene.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="birdie">
+              <Project Name="answer.csd" Type="Layer" />
+              <Project Name="game_birdie.csd" Type="Layer" />
+              <Project Name="game_birdie_answers.csd" Type="Layer" />
+              <Project Name="game_birdie_one_scene.csd" Type="Layer" />
+              <Project Name="tree.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="build_sentence">
+              <Project Name="game_build_sentence.csd" Type="Layer" />
+              <Project Name="game_build_sentence_night.csd" Type="Layer" />
+              <Project Name="owl.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="build_wall">
+              <Project Name="GameBuildWall.csd" Type="Layer" />
+              <Project Name="GameBuildWall_Crocodile.csd" Type="Layer" />
+              <Project Name="GameBuildWall_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="cau_hoi_mo">
+              <Project Name="CauHoiMo.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="chickens_to_coop">
+              <Project Name="chicken.csd" Type="Layer" />
+              <Project Name="coop.csd" Type="Layer" />
+              <Project Name="coop_4.csd" Type="Layer" />
+              <Project Name="game_chickens_to_coop.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="CompletePicture">
+              <Project Name="CompletePicture.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="diamond_dig">
+              <Project Name="GameDiamondDig.csd" Type="Layer" />
+              <Project Name="GameDiamondDig_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="FindDifferents">
+              <Project Name="findDiff.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="FindHiddenObject">
+              <Project Name="FindHiddenObject.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="FindTheWay">
+              <Project Name="FindTheWay.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="jumping_monkey">
+              <Project Name="GameJumpingMonkey.csd" Type="Layer" />
+              <Project Name="GameJumpingMonkey_Food.csd" Type="Layer" />
+              <Project Name="GameJumpingMonkey_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="jumpingfrog">
+              <Project Name="GameJumpingFrog.csd" Type="Layer" />
+              <Project Name="GameJumpingFrog_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="khi_xe_ui">
+              <Project Name="GameKhiXeUi.csd" Type="Layer" />
+              <Project Name="GameKhiXeUiItem.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="landtheplane">
+              <Project Name="GameLandThePlane.csd" Type="Layer" />
+              <Project Name="GameLandThePlane_Cloud.csd" Type="Layer" />
+              <Project Name="GameLandThePlane_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="lazer">
+              <Project Name="end_point.csd" Type="Layer" />
+              <Project Name="game_lazer.csd" Type="Layer" />
+              <Project Name="start_point.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="load_the_train">
+              <Project Name="GameLoadTheTrain.csd" Type="Layer" />
+              <Project Name="GameLoadTheTrain_Item.csd" Type="Layer" />
+              <Project Name="GameLoadTheTrain_ToaTau.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="LuaChon">
+              <Project Name="LuaChon.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="makeamatch">
+              <Project Name="GameMakeAMatch.csd" Type="Layer" />
+              <Project Name="GameMakeAMatch_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="matching">
+              <Project Name="Answer.csd" Type="Layer" />
+              <Project Name="Answer_2.csd" Type="Layer" />
+              <Project Name="Frame.csd" Type="Layer" />
+              <Project Name="Frame_2.csd" Type="Layer" />
+              <Project Name="GameMatching_1.csd" Type="Layer" />
+              <Project Name="GameMatching_2.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="NhinBongDoanVat">
+              <Project Name="NhinBongDoanVat.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="phonics">
+              <Project Name="GamePhonics.csd" Type="Layer" />
+              <Project Name="GamePhonics_Monkey.csd" Type="Layer" />
+              <Project Name="GamePhonics_TextVideo.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="plug_in_bulb2">
+              <Project Name="GamePlugInBulb2.csd" Type="Layer" />
+              <Project Name="GamePlugInBulb2_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="qa">
+              <Project Name="GameQA.csd" Type="Layer" />
+              <Project Name="GameQA_Answer.csd" Type="Layer" />
+              <Project Name="GameQA_AnswerItem.csd" Type="Layer" />
+              <Project Name="GameQA_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="quiz">
+              <Project Name="GameQuizLayout.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="rabbit_classify">
+              <Project Name="GameRabbitClassify.csd" Type="Layer" />
+              <Project Name="GameRabbitClassify_Item.csd" Type="Layer" />
+              <Image Name="rabbit_classify_nap_giua.png" />
+              <Image Name="rabbit_classify_than_giua.png" />
+              <Image Name="rabbitclassify_bg.png" />
+              <Image Name="rabbitclassify_bg_bot.png" />
+              <Image Name="rabbitclassify_bg_run.png" />
+              <Image Name="rabbitclassify_box_left.png" />
+              <Image Name="rabbitclassify_box_right.png" />
+              <Image Name="rabbitclassify_light_off.png" />
+              <Image Name="rabbitclassify_light_on.png" />
+              <Image Name="rabbitclassify_napphai.png" />
+              <Image Name="rabbitclassify_naptrai.png" />
+              <Image Name="rabbitclassify_title.png" />
+            </Folder>
+            <Folder Name="rest_in_nest">
+              <Project Name="GameRestInNest.csd" Type="Layer" />
+              <Project Name="GameRestInNest_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="shark">
+              <Project Name="GameShark.csd" Type="Layer" />
+              <Project Name="GameShark_Fish.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="shark2">
+              <Project Name="GameShark2.csd" Type="Layer" />
+              <Project Name="GameShark2_Fish.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="shook_book">
+              <Project Name="GameShookBook.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="TellTheStory">
+              <Project Name="TellTheStory.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="typing">
+              <Project Name="GameTyping.csd" Type="Layer" />
+              <Project Name="GameTyping_ItemAnswer.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="ufo">
+              <Project Name="GameUFO.csd" Type="Layer" />
+              <Project Name="GameUFO_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="waterspray">
+              <Project Name="GameWaterSpray.csd" Type="Layer" />
+              <Project Name="GameWaterSpray_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="word_machine">
+              <Project Name="game_word_machine.csd" Type="Layer" />
+              <Project Name="pipe.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="word_train">
+              <Project Name="GameWordTrain.csd" Type="Layer" />
+              <Project Name="GameWordTrain_Item.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="xep_chu">
+              <Project Name="GameXepChu.csd" Type="Layer" />
+              <Project Name="GameXepChu_Item.csd" Type="Layer" />
+            </Folder>
+          </Folder>
+          <Folder Name="licensekey">
+            <Project Name="AccountKit_Finish.csd" Type="Layer" />
+            <Project Name="InAppFinish_Gift.csd" Type="Layer" />
+            <Project Name="MJActiveLicense.csd" Type="Layer" />
+            <Project Name="MJActiveLicense_EN.csd" Type="Layer" />
+            <Project Name="MJDeviceInfoAlert.csd" Type="Layer" />
+            <Project Name="MJFullLicenseView.csd" Type="Layer" />
+            <Project Name="MJIntro_Verification.csd" Type="Layer" />
+            <Project Name="MJLicenseAlert.csd" Type="Layer" />
+            <Project Name="MJLicenseRemoveSuccess.csd" Type="Layer" />
+            <Project Name="MJListDeviceView.csd" Type="Layer" />
+            <Project Name="MJListDeviceView_Cell.csd" Type="Layer" />
+            <Project Name="MJListDeviceView_EN.csd" Type="Layer" />
+            <Project Name="MJListLicense.csd" Type="Layer" />
+            <Project Name="MJMailIntro.csd" Type="Layer" />
+            <Project Name="MJMailIntro_VN.csd" Type="Layer" />
+            <Project Name="MJOverLicenseView.csd" Type="Layer" />
+            <Project Name="MJVerifyInfoView.csd" Type="Layer" />
+            <Project Name="MJVerifyInfoView_EN.csd" Type="Layer" />
+            <Project Name="MJWarningRemoveView.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="new_ui">
+            <Folder Name="AISpeaking">
+              <Project Name="AISpeakingAskPermissionPopup.csd" Type="Layer" />
+              <Project Name="AISpeakingItem.csd" Type="Layer" />
+              <Project Name="AISpeakingOneTopic.csd" Type="Layer" />
+              <Project Name="AISpeakingShareVideoPopup.csd" Type="Layer" />
+              <Project Name="MSTabAISpeakings.csd" Type="Layer" />
+              <Project Name="ReportPopup.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="apps">
+              <Project Name="AppDrawer.csd" Type="Layer" />
+              <Project Name="AppDrawer_VN.csd" Type="Layer" />
+              <Project Name="AppDrawerNew.csd" Type="Layer" />
+              <Project Name="AppsCrossPromotion.csd" Type="Layer" />
+              <Project Name="LearnToRead.csd" Type="Layer" />
+              <Project Name="LearnToRead_VN.csd" Type="Layer" />
+              <Project Name="Maths.csd" Type="Layer" />
+              <Project Name="Maths_VN.csd" Type="Layer" />
+              <Project Name="Stories.csd" Type="Layer" />
+              <Project Name="Stories_VN.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="collection_items">
+              <Project Name="AudiobookItem.csd" Type="Layer" />
+              <Project Name="AudiobookItem_VN.csd" Type="Layer" />
+              <Project Name="CategoryItem.csd" Type="Layer" />
+              <Project Name="LessonItem.csd" Type="Layer" />
+              <Project Name="LessonItem_0.csd" Type="Layer" />
+              <Project Name="RemoteImageView.csd" Type="Layer" />
+              <Project Name="StoryItem.csd" Type="Layer" />
+              <Project Name="StoryItem_VN.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="intro">
+              <Project Name="DatePicker.csd" Type="Layer" />
+              <Project Name="Intro.csd" Type="Layer" />
+              <Project Name="Intro_Grade.csd" Type="Layer" />
+              <Project Name="Intro_Language.csd" Type="Layer" />
+              <Project Name="Intro_License.csd" Type="Layer" />
+              <Project Name="Intro_License_VN.csd" Type="Layer" />
+              <Project Name="Intro_Load.csd" Type="Layer" />
+              <Project Name="Intro_Load_VN.csd" Type="Layer" />
+              <Project Name="Intro_Mac.csd" Type="Layer" />
+              <Project Name="Intro_Mac_VN.csd" Type="Layer" />
+              <Project Name="Intro_VN.csd" Type="Layer" />
+              <Project Name="Intro_Welcome.csd" Type="Layer" />
+              <Project Name="Intro_Welcome_VN.csd" Type="Layer" />
+              <Project Name="Onboard.csd" Type="Layer" />
+              <Project Name="Onboard_VN.csd" Type="Layer" />
+              <Project Name="Onboard2.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="lesson">
+              <Project Name="ActivityEnd.csd" Type="Layer" />
+              <Project Name="ActivityEnd_Story.csd" Type="Layer" />
+              <Project Name="ActivityPreview_Game.csd" Type="Layer" />
+              <Project Name="ActivityPreview_Story.csd" Type="Layer" />
+              <Project Name="ActivityWaiting.csd" Type="Layer" />
+              <Project Name="LessonEnd.csd" Type="Layer" />
+              <Project Name="LessonPreview.csd" Type="Layer" />
+              <Project Name="PreActivity.csd" Type="Layer" />
+            </Folder>
+            <Folder Name="material">
+              <Project Name="MaterialBackWarning.csd" Type="Layer" />
+              <Project Name="MaterialEnterEmail.csd" Type="Layer" />
+              <Project Name="MaterialEnterEmail_0.csd" Type="Layer" />
+              <Project Name="MaterialMain.csd" Type="Layer" />
+              <Project Name="MaterialTopBar.csd" Type="Layer" />
+              <Project Name="MaterialWorksheetSearchView.csd" Type="Layer" />
+              <Project Name="PopularSearchItem.csd" Type="Layer" />
+              <Project Name="PopularSearchTemplate.csd" Type="Layer" />
+              <Project Name="WorksheetNoResult.csd" Type="Layer" />
+              <Project Name="WorksheetSearch_Item.csd" Type="Layer" />
+            </Folder>
+            <Project Name="AccountKit_Finish.csd" Type="Layer" />
+            <Project Name="AudiobookPlayer.csd" Type="Layer" />
+            <Project Name="AudiobookPlayer_VN.csd" Type="Layer" />
+            <Project Name="Audiobooks.csd" Type="Layer" />
+            <Project Name="Audiobooks_VN.csd" Type="Layer" />
+            <Project Name="Chapter_Prepare.csd" Type="Layer" />
+            <Project Name="ComplexCollection.csd" Type="Layer" />
+            <Project Name="ComplexCollection_VN.csd" Type="Layer" />
+            <Project Name="ExploreView.csd" Type="Layer" />
+            <Project Name="ExploreView_Audiobooks.csd" Type="Layer" />
+            <Project Name="ExploreView_Audiobooks_VN.csd" Type="Layer" />
+            <Project Name="ExploreView_Categories.csd" Type="Layer" />
+            <Project Name="ExploreView_Categories_VN.csd" Type="Layer" />
+            <Project Name="ExploreView_Lessons.csd" Type="Layer" />
+            <Project Name="ExploreView_Lessons_VN.csd" Type="Layer" />
+            <Project Name="ExploreView_VN.csd" Type="Layer" />
+            <Project Name="Favourite.csd" Type="Layer" />
+            <Project Name="Favourite_VN.csd" Type="Layer" />
+            <Project Name="Featured.csd" Type="Layer" />
+            <Project Name="Featured_VN.csd" Type="Layer" />
+            <Project Name="ForgotLicense.csd" Type="Layer" />
+            <Project Name="Free.csd" Type="Layer" />
+            <Project Name="Free_VN.csd" Type="Layer" />
+            <Project Name="GradeBox.csd" Type="Layer" />
+            <Project Name="GradeBox_VN.csd" Type="Layer" />
+            <Project Name="GroupPromotion.csd" Type="Layer" />
+            <Project Name="Guide.csd" Type="Layer" />
+            <Project Name="HomeUI.csd" Type="Layer" />
+            <Project Name="HomeUI_VN.csd" Type="Layer" />
+            <Project Name="LanguageSelection.csd" Type="Layer" />
+            <Project Name="LessonEndFX.csd" Type="Layer" />
+            <Project Name="Lessons.csd" Type="Layer" />
+            <Project Name="LessonSelect.csd" Type="Layer" />
+            <Project Name="LicenseLimitNotice.csd" Type="Layer" />
+            <Project Name="LicenseLimitNotice_en.csd" Type="Layer" />
+            <Project Name="LicenseOldNotice.csd" Type="Layer" />
+            <Project Name="LicenseOldNotice_en.csd" Type="Layer" />
+            <Project Name="MJLicenseActiveSuccess.csd" Type="Layer" />
+            <Project Name="new_stories.csd" Type="Layer" />
+            <Project Name="NotificationPopup.csd" Type="Layer" />
+            <Project Name="Playlist_Player.csd" Type="Layer" />
+            <Project Name="Playlist_Prepare.csd" Type="Layer" />
+            <Project Name="Playlist_Prepare_Dropdown.csd" Type="Layer" />
+            <Project Name="Playlist_Prepare_VN.csd" Type="Layer" />
+            <Project Name="Popular_Stories.csd" Type="Layer" />
+            <Project Name="qr_scan.csd" Type="Layer" />
+            <Project Name="Searchbar.csd" Type="Layer" />
+            <Project Name="Searchbar_new.csd" Type="Layer" />
+            <Project Name="Searchbar_VN.csd" Type="Layer" />
+            <Project Name="SearchView.csd" Type="Layer" />
+            <Project Name="SearchView_Audiobooks.csd" Type="Layer" />
+            <Project Name="SearchView_Audiobooks_VN.csd" Type="Layer" />
+            <Project Name="SearchView_VN.csd" Type="Layer" />
+            <Project Name="Sidebar.csd" Type="Layer" />
+            <Project Name="Sidebar_Ai_Speaking.csd" Type="Layer" />
+            <Project Name="Sidebar_VN.csd" Type="Layer" />
+            <Project Name="SimpleCollection.csd" Type="Layer" />
+            <Project Name="SimpleCollection_VN.csd" Type="Layer" />
+            <Project Name="Stories.csd" Type="Layer" />
+            <Project Name="Stories_new.csd" Type="Layer" />
+            <Project Name="Stories_VN.csd" Type="Layer" />
+            <Project Name="StoryAudioPlayer.csd" Type="Layer" />
+            <Project Name="Subscribe.csd" Type="Layer" />
+            <Project Name="Subscribe_Item.csd" Type="Layer" />
+            <Project Name="Subscribe_Item_Lifetime.csd" Type="Layer" />
+            <Project Name="Subscribe_VN.csd" Type="Layer" />
+            <Project Name="Subscribe_VN_Install.csd" Type="Layer" />
+            <Project Name="TrialPopup.csd" Type="Layer" />
+            <Project Name="Voucher_Detail.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="pay">
+            <Project Name="MJLicense.csd" Type="Layer" />
+            <Project Name="MJPayDetails.csd" Type="Layer" />
+            <Project Name="MJPayDetails_Portrait.csd" Type="Layer" />
+            <Project Name="MJPayGuide.csd" Type="Layer" />
+            <Project Name="MJPayPopup.csd" Type="Layer" />
+            <Project Name="MJPayPopup_BankInfo.csd" Type="Layer" />
+            <Project Name="MJPayPopup_BankTransfer.csd" Type="Layer" />
+            <Project Name="MJPayPopup_COD.csd" Type="Layer" />
+            <Project Name="MJPayPopup_OnePay.csd" Type="Layer" />
+            <Project Name="MJPayPopup_Store.csd" Type="Layer" />
+            <Project Name="MJSubscriptionItem.csd" Type="Layer" />
+            <Project Name="MJSubscriptionPage.csd" Type="Layer" />
+            <Project Name="MJSubscriptionPage_Landscape.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="popup">
+            <Project Name="AskPermissionPopup.csd" Type="Layer" />
+            <Project Name="EndTrialLessonPopup.csd" Type="Layer" />
+            <Project Name="GettingUserInfoPopup.csd" Type="Layer" />
+            <Project Name="RemindingUpdateInfoPopup.csd" Type="Layer" />
+            <Project Name="RewardPopup.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="rating">
+            <Project Name="RatingPopup.csd" Type="Layer" />
+            <Project Name="RatingReviewPopup.csd" Type="Layer" />
+          </Folder>
+          <Folder Name="reading_level">
+            <Project Name="MJGradeTab.csd" Type="Layer" />
+            <Project Name="MJGradeTab_Portrait.csd" Type="Layer" />
+            <Project Name="MJReadingGrade.csd" Type="Layer" />
+            <Project Name="MJReadingGrade_Portrait.csd" Type="Layer" />
+            <Project Name="MJReadingGradeContainer.csd" Type="Layer" />
+            <Project Name="MJReadingGradeContainer_Portrait.csd" Type="Layer" />
+            <Project Name="MJStoryInfo.csd" Type="Layer" />
+            <Project Name="MJStoryInfo_Portrait.csd" Type="Layer" />
+          </Folder>
+          <Project Name="BookPage.csd" Type="Layer" />
+          <Project Name="Calculator.csd" Type="Layer" />
+          <Project Name="DebugUI.csd" Type="Layer" />
+          <Project Name="GroupPromoNotification.csd" Type="Layer" />
+          <Project Name="Install_Promotion.csd" Type="Layer" />
+          <Project Name="MJUpdatePopup.csd" Type="Layer" />
+          <Project Name="MJWarningActive.csd" Type="Layer" />
+          <Project Name="MSUnzipError.csd" Type="Layer" />
+          <Project Name="PageMenuControl.csd" Type="Layer" />
+          <Project Name="StoryAlert.csd" Type="Layer" />
+          <Project Name="StoryAlert_2button.csd" Type="Layer" />
+          <Project Name="StoryAlert_2button_new.csd" Type="Layer" />
+          <Project Name="StoryAlert_2button_Portrait.csd" Type="Layer" />
+          <Project Name="StoryAlert_Portrait.csd" Type="Layer" />
+          <Project Name="StoryAlert_VN.csd" Type="Layer" />
+          <Project Name="StoryAlertLoveApp.csd" Type="Layer" />
+          <Project Name="StoryAlertPlayGame.csd" Type="Layer" />
+          <Project Name="StoryAlertPlayGame_VN.csd" Type="Layer" />
+          <Project Name="StoryEndingPage.csd" Type="Layer" />
+          <Project Name="StoryFeedback.csd" Type="Layer" />
+          <Project Name="StoryInfoCover.csd" Type="Layer" />
+          <Project Name="StoryLevelInfo.csd" Type="Layer" />
+          <Project Name="StoryLevelInfo_Guide.csd" Type="Layer" />
+          <Project Name="StoryNetworkDown.csd" Type="Layer" />
+          <Project Name="StoryNetworkDown_VN.csd" Type="Layer" />
+          <Project Name="StoryNotification_Landscape.csd" Type="Layer" />
+          <Project Name="StoryPageVC.csd" Type="Scene" />
+          <Project Name="StoryParentAccountProfile_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentAccountProfile_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentCoupon_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentDeleteCache_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentDetailSettings_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentEditProfile_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentEditProfile_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentEditUserInfo_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentEditUserInfo_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentHeader_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentHeader_Landscape_userID.csd" Type="Layer" />
+          <Project Name="StoryParentHeader_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentItem_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentItem_Landscape_big.csd" Type="Layer" />
+          <Project Name="StoryParentItem_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentLanguages_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentLanguages_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentLicense_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentMusicSettings_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentNotification_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentNotificationItem_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentNotificationItemNew_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentPage_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentPage_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentProfileDetail_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentProfileDetail_Landscape_VN.csd" Type="Layer" />
+          <Project Name="StoryParentReadingLevel_Landscape.csd" Type="Layer" />
+          <Project Name="StoryParentSupport_Landscape.csd" Type="Layer" />
+          <Project Name="StoryPopupInfo.csd" Type="Layer" />
+          <Project Name="StoryRateBonus.csd" Type="Layer" />
+          <Project Name="StoryRateBonus_VN.csd" Type="Layer" />
+          <Project Name="StoryRateConfirm.csd" Type="Layer" />
+          <Project Name="StoryRateConfirm_VN.csd" Type="Layer" />
+          <Project Name="StoryRatePopUp.csd" Type="Layer" />
+          <Project Name="StoryRatePopUp_Buy.csd" Type="Layer" />
+          <Project Name="StoryRatePopUp_Buy_VN.csd" Type="Layer" />
+          <Project Name="StoryRatePopUp_VN.csd" Type="Layer" />
+          <Project Name="StoryRateQuestLoveApp.csd" Type="Layer" />
+          <Project Name="StoryRateQuestLoveApp_VN.csd" Type="Layer" />
+          <Project Name="StoryRateThanks.csd" Type="Layer" />
+          <Project Name="StoryRateThanks_VN.csd" Type="Layer" />
+          <Project Name="StoryReadingLevel.csd" Type="Layer" />
+          <Project Name="StorySubscribePopup.csd" Type="Layer" />
+          <Project Name="StorySubscribePopup_VN.csd" Type="Layer" />
+          <Project Name="StoryTheEndPage.csd" Type="Layer" />
+          <Project Name="StoryUpdate.csd" Type="Layer" />
+          <Project Name="StoryWelcomePopUp.csd" Type="Layer" />
+          <Project Name="StoryWelcomePopUp_VN.csd" Type="Layer" />
+          <Project Name="TextStory.csd" Type="Layer" />
+          <Project Name="TruyenTranhPage.csd" Type="Layer" />
+          <Project Name="ViralGiftPopup.csd" Type="Layer" />
+          <Project Name="ViralPopup.csd" Type="Layer" />
+          <Project Name="ViralPopup_Item.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="fatopic">
+          <Image Name="dots.png" />
+        </Folder>
+        <Folder Name="flags">
+          <Image Name="AD.png" />
+          <Image Name="AE.png" />
+          <Image Name="AF.png" />
+          <Image Name="AG.png" />
+          <Image Name="AI.png" />
+          <Image Name="AL.png" />
+          <Image Name="AM.png" />
+          <Image Name="AO.png" />
+          <Image Name="AQ.png" />
+          <Image Name="AR.png" />
+          <Image Name="AS.png" />
+          <Image Name="AT.png" />
+          <Image Name="AU.png" />
+          <Image Name="AW.png" />
+          <Image Name="AX.png" />
+          <Image Name="AZ.png" />
+          <Image Name="BA.png" />
+          <Image Name="BB.png" />
+          <Image Name="BD.png" />
+          <Image Name="BE.png" />
+          <Image Name="BF.png" />
+          <Image Name="BG.png" />
+          <Image Name="BH.png" />
+          <Image Name="BI.png" />
+          <Image Name="BJ.png" />
+          <Image Name="BL.png" />
+          <Image Name="BM.png" />
+          <Image Name="BN.png" />
+          <Image Name="BO.png" />
+          <Image Name="BQ.png" />
+          <Image Name="BR.png" />
+          <Image Name="BS.png" />
+          <Image Name="BT.png" />
+          <Image Name="BV.png" />
+          <Image Name="BW.png" />
+          <Image Name="BY.png" />
+          <Image Name="BZ.png" />
+          <Image Name="CA.png" />
+          <Image Name="CC.png" />
+          <Image Name="CD.png" />
+          <Image Name="CF.png" />
+          <Image Name="CG.png" />
+          <Image Name="CH.png" />
+          <Image Name="CI.png" />
+          <Image Name="CK.png" />
+          <Image Name="CL.png" />
+          <Image Name="CM.png" />
+          <Image Name="CN.png" />
+          <Image Name="CO.png" />
+          <Image Name="CR.png" />
+          <Image Name="CU.png" />
+          <Image Name="CV.png" />
+          <Image Name="CW.png" />
+          <Image Name="CX.png" />
+          <Image Name="CY.png" />
+          <Image Name="CZ.png" />
+          <Image Name="DE.png" />
+          <Image Name="DJ.png" />
+          <Image Name="DK.png" />
+          <Image Name="DM.png" />
+          <Image Name="DO.png" />
+          <Image Name="DZ.png" />
+          <Image Name="EC.png" />
+          <Image Name="EE.png" />
+          <Image Name="EG.png" />
+          <Image Name="EH.png" />
+          <Image Name="ER.png" />
+          <Image Name="ES.png" />
+          <Image Name="ET.png" />
+          <Image Name="EU.png" />
+          <Image Name="FI.png" />
+          <Image Name="FJ.png" />
+          <Image Name="FK.png" />
+          <Image Name="FM.png" />
+          <Image Name="FO.png" />
+          <Image Name="FR.png" />
+          <Image Name="GA.png" />
+          <Image Name="GB.png" />
+          <Image Name="GD.png" />
+          <Image Name="GE.png" />
+          <Image Name="GF.png" />
+          <Image Name="GG.png" />
+          <Image Name="GH.png" />
+          <Image Name="GI.png" />
+          <Image Name="GL.png" />
+          <Image Name="GM.png" />
+          <Image Name="GN.png" />
+          <Image Name="GP.png" />
+          <Image Name="GQ.png" />
+          <Image Name="GR.png" />
+          <Image Name="GS.png" />
+          <Image Name="GT.png" />
+          <Image Name="GU.png" />
+          <Image Name="GW.png" />
+          <Image Name="GY.png" />
+          <Image Name="HK.png" />
+          <Image Name="HM.png" />
+          <Image Name="HN.png" />
+          <Image Name="HR.png" />
+          <Image Name="HT.png" />
+          <Image Name="HU.png" />
+          <Image Name="ID.png" />
+          <Image Name="IE.png" />
+          <Image Name="IL.png" />
+          <Image Name="IM.png" />
+          <Image Name="IN.png" />
+          <Image Name="IO.png" />
+          <Image Name="IQ.png" />
+          <Image Name="IR.png" />
+          <Image Name="IS.png" />
+          <Image Name="IT.png" />
+          <Image Name="JE.png" />
+          <Image Name="JM.png" />
+          <Image Name="JO.png" />
+          <Image Name="JP.png" />
+          <Image Name="KE.png" />
+          <Image Name="KG.png" />
+          <Image Name="KH.png" />
+          <Image Name="KI.png" />
+          <Image Name="KM.png" />
+          <Image Name="KN.png" />
+          <Image Name="KP.png" />
+          <Image Name="KR.png" />
+          <Image Name="KW.png" />
+          <Image Name="KY.png" />
+          <Image Name="KZ.png" />
+          <Image Name="LA.png" />
+          <Image Name="LB.png" />
+          <Image Name="LC.png" />
+          <Image Name="LI.png" />
+          <Image Name="LK.png" />
+          <Image Name="LR.png" />
+          <Image Name="LS.png" />
+          <Image Name="LT.png" />
+          <Image Name="LU.png" />
+          <Image Name="LV.png" />
+          <Image Name="LY.png" />
+          <Image Name="MA.png" />
+          <Image Name="MC.png" />
+          <Image Name="MD.png" />
+          <Image Name="ME.png" />
+          <Image Name="MF.png" />
+          <Image Name="MG.png" />
+          <Image Name="MH.png" />
+          <Image Name="MK.png" />
+          <Image Name="ML.png" />
+          <Image Name="MM.png" />
+          <Image Name="MN.png" />
+          <Image Name="MO.png" />
+          <Image Name="MP.png" />
+          <Image Name="MQ.png" />
+          <Image Name="MR.png" />
+          <Image Name="MS.png" />
+          <Image Name="MT.png" />
+          <Image Name="MU.png" />
+          <Image Name="MV.png" />
+          <Image Name="MW.png" />
+          <Image Name="MX.png" />
+          <Image Name="MY.png" />
+          <Image Name="MZ.png" />
+          <Image Name="NA.png" />
+          <Image Name="NC.png" />
+          <Image Name="NE.png" />
+          <Image Name="NF.png" />
+          <Image Name="NG.png" />
+          <Image Name="NI.png" />
+          <Image Name="NL.png" />
+          <Image Name="NO.png" />
+          <Image Name="NP.png" />
+          <Image Name="NR.png" />
+          <Image Name="NU.png" />
+          <Image Name="NZ.png" />
+          <Image Name="OM.png" />
+          <Image Name="PA.png" />
+          <Image Name="PE.png" />
+          <Image Name="PF.png" />
+          <Image Name="PG.png" />
+          <Image Name="PH.png" />
+          <Image Name="PK.png" />
+          <Image Name="PL.png" />
+          <Image Name="PM.png" />
+          <Image Name="PN.png" />
+          <Image Name="PR.png" />
+          <Image Name="PS.png" />
+          <Image Name="PT.png" />
+          <Image Name="PW.png" />
+          <Image Name="PY.png" />
+          <Image Name="QA.png" />
+          <Image Name="RE.png" />
+          <Image Name="RO.png" />
+          <Image Name="RS.png" />
+          <Image Name="RU.png" />
+          <Image Name="RW.png" />
+          <Image Name="SA.png" />
+          <Image Name="SB.png" />
+          <Image Name="SC.png" />
+          <Image Name="SD.png" />
+          <Image Name="SE.png" />
+          <Image Name="SG.png" />
+          <Image Name="SH.png" />
+          <Image Name="SI.png" />
+          <Image Name="SJ.png" />
+          <Image Name="SK.png" />
+          <Image Name="SL.png" />
+          <Image Name="SM.png" />
+          <Image Name="SN.png" />
+          <Image Name="SO.png" />
+          <Image Name="SR.png" />
+          <Image Name="SS.png" />
+          <Image Name="ST.png" />
+          <Image Name="SV.png" />
+          <Image Name="SX.png" />
+          <Image Name="SY.png" />
+          <Image Name="SZ.png" />
+          <Image Name="TC.png" />
+          <Image Name="TD.png" />
+          <Image Name="TF.png" />
+          <Image Name="TG.png" />
+          <Image Name="TH.png" />
+          <Image Name="TJ.png" />
+          <Image Name="TK.png" />
+          <Image Name="TL.png" />
+          <Image Name="TM.png" />
+          <Image Name="TN.png" />
+          <Image Name="TO.png" />
+          <Image Name="TR.png" />
+          <Image Name="TT.png" />
+          <Image Name="TV.png" />
+          <Image Name="TW.png" />
+          <Image Name="TZ.png" />
+          <Image Name="UA.png" />
+          <Image Name="UG.png" />
+          <Image Name="UM.png" />
+          <Image Name="US.png" />
+          <Image Name="UY.png" />
+          <Image Name="UZ.png" />
+          <Image Name="VA.png" />
+          <Image Name="VC.png" />
+          <Image Name="VE.png" />
+          <Image Name="VG.png" />
+          <Image Name="VI.png" />
+          <Image Name="VN.png" />
+          <Image Name="VU.png" />
+          <Image Name="WF.png" />
+          <Image Name="WS.png" />
+          <Image Name="YE.png" />
+          <Image Name="YT.png" />
+          <Image Name="ZA.png" />
+          <Image Name="ZM.png" />
+          <Image Name="ZW.png" />
+        </Folder>
+        <Folder Name="fonts">
+          <Image Name="Background.png" />
+          <File Name="CircularStd-Book.otf" />
+          <TTF Name="CircularStd-Book.ttf" />
+          <TTF Name="FiraSans-Black.ttf" />
+          <TTF Name="FiraSans-BlackItalic.ttf" />
+          <TTF Name="FiraSans-Bold.ttf" />
+          <TTF Name="FiraSans-BoldItalic.ttf" />
+          <TTF Name="FiraSans-ExtraBold.ttf" />
+          <TTF Name="FiraSans-ExtraBoldItalic.ttf" />
+          <TTF Name="FiraSans-ExtraLight.ttf" />
+          <TTF Name="FiraSans-ExtraLightItalic.ttf" />
+          <TTF Name="FiraSans-Italic.ttf" />
+          <TTF Name="FiraSans-Light.ttf" />
+          <TTF Name="FiraSans-LightItalic.ttf" />
+          <TTF Name="FiraSans-Medium.ttf" />
+          <TTF Name="FiraSans-MediumItalic.ttf" />
+          <TTF Name="FiraSans-Regular.ttf" />
+          <TTF Name="FiraSans-SemiBold.ttf" />
+          <TTF Name="FiraSans-SemiBoldItalic.ttf" />
+          <TTF Name="FiraSans-Thin.ttf" />
+          <TTF Name="FiraSans-ThinItalic.ttf" />
+          <TTF Name="IBMPlexSans-Bold.ttf" />
+          <TTF Name="IBMPlexSans-BoldItalic.ttf" />
+          <TTF Name="IBMPlexSans-ExtraLight.ttf" />
+          <TTF Name="IBMPlexSans-ExtraLightItalic.ttf" />
+          <TTF Name="IBMPlexSans-Italic.ttf" />
+          <TTF Name="IBMPlexSans-Light.ttf" />
+          <TTF Name="IBMPlexSans-LightItalic.ttf" />
+          <TTF Name="IBMPlexSans-Medium.ttf" />
+          <TTF Name="IBMPlexSans-MediumItalic.ttf" />
+          <TTF Name="IBMPlexSans-Regular.ttf" />
+          <TTF Name="IBMPlexSans-SemiBold.ttf" />
+          <TTF Name="IBMPlexSans-SemiBoldItalic.ttf" />
+          <TTF Name="IBMPlexSans-Text.ttf" />
+          <TTF Name="IBMPlexSans-TextItalic.ttf" />
+          <TTF Name="IBMPlexSans-Thin.ttf" />
+          <TTF Name="IBMPlexSans-ThinItalic.ttf" />
+          <TTF Name="IBMPlexSerif-Text.ttf" />
+          <TTF Name="icielBrandonText-Bold.ttf" />
+          <TTF Name="KGWHATTHETEACHERWANTS.TTF" />
+          <TTF Name="leelawad.ttf" />
+          <TTF Name="leelawdb.ttf" />
+          <TTF Name="Linotte Bold.ttf" />
+          <TTF Name="Linotte Heavy.ttf" />
+          <TTF Name="Linotte Light.ttf" />
+          <TTF Name="Linotte Regular.ttf" />
+          <TTF Name="Linotte Semi Bold.ttf" />
+          <TTF Name="Linotte-SemiBold-Book.ttf" />
+          <TTF Name="monkeystories_medium.ttf" />
+          <TTF Name="monkeystories_thin.ttf" />
+          <TTF Name="monkeystories_ultra.ttf" />
+          <TTF Name="Montserrat-Black.ttf" />
+          <TTF Name="Montserrat-BlackItalic.ttf" />
+          <TTF Name="Montserrat-Bold.ttf" />
+          <TTF Name="Montserrat-BoldItalic.ttf" />
+          <TTF Name="Montserrat-ExtraBold.ttf" />
+          <TTF Name="Montserrat-ExtraBoldItalic.ttf" />
+          <TTF Name="Montserrat-ExtraLight.ttf" />
+          <TTF Name="Montserrat-ExtraLightItalic.ttf" />
+          <TTF Name="Montserrat-Italic.ttf" />
+          <TTF Name="Montserrat-Light.ttf" />
+          <TTF Name="Montserrat-LightItalic.ttf" />
+          <TTF Name="Montserrat-Medium.ttf" />
+          <TTF Name="Montserrat-MediumItalic.ttf" />
+          <TTF Name="Montserrat-Regular.ttf" />
+          <TTF Name="Montserrat-SemiBold.ttf" />
+          <TTF Name="Montserrat-SemiBoldItalic.ttf" />
+          <TTF Name="Montserrat-Thin.ttf" />
+          <TTF Name="Montserrat-ThinItalic.ttf" />
+          <TTF Name="NetflixSans-Medium.ttf" />
+          <TTF Name="NetflixSans-Regular.ttf" />
+          <TTF Name="Nunito-Black.ttf" />
+          <TTF Name="Nunito-BlackItalic.ttf" />
+          <TTF Name="Nunito-Bold.ttf" />
+          <TTF Name="Nunito-BoldItalic.ttf" />
+          <TTF Name="Nunito-ExtraBold.ttf" />
+          <TTF Name="Nunito-ExtraBoldItalic.ttf" />
+          <TTF Name="Nunito-ExtraLight.ttf" />
+          <TTF Name="Nunito-ExtraLightItalic.ttf" />
+          <TTF Name="Nunito-Italic.ttf" />
+          <TTF Name="Nunito-Light.ttf" />
+          <TTF Name="Nunito-LightItalic.ttf" />
+          <TTF Name="Nunito-Regular.ttf" />
+          <TTF Name="Nunito-SemiBold.ttf" />
+          <TTF Name="Nunito-SemiBoldItalic.ttf" />
+          <TTF Name="old_stamper.ttf" />
+          <TTF Name="phonicfont.ttf" />
+          <TTF Name="Roboto-Bold.ttf" />
+          <TTF Name="RobotoCondensed-Bold.ttf" />
+          <TTF Name="Roboto-Medium.ttf" />
+          <TTF Name="Roboto-Regular.ttf" />
+          <TTF Name="Roboto-ThinItalic.ttf" />
+          <TTF Name="TOP_SECRET.ttf" />
+          <TTF Name="UTM Ambrose.ttf" />
+          <TTF Name="UTM American Sans.ttf" />
+          <TTF Name="Vollkorn-Regular.ttf" />
+        </Folder>
+        <Folder Name="free2paid">
+          <Folder Name="buttons">
+            <Image Name="button1.png" />
+            <Image Name="button2.png" />
+            <Image Name="button3.png" />
+            <Image Name="button4.png" />
+            <Image Name="textfield-background.png" />
+          </Folder>
+          <Folder Name="freeItems">
+            <Image Name="avata_example.png" />
+            <Image Name="big_cloud.png" />
+            <Image Name="blue_background.png" />
+            <Image Name="blue_light_background.png" />
+            <Image Name="blue_light_background_lock.png" />
+            <Image Name="blue_radius.png" />
+            <Image Name="cloud.png" />
+            <Image Name="date_background.png" />
+            <Image Name="double_items_unlock_background.png" />
+            <Image Name="Gift_01.png" />
+            <Image Name="green_background.png" />
+            <Image Name="green_light_background.png" />
+            <Image Name="green_light_background_lock.png" />
+            <Image Name="violet_background.png" />
+            <Image Name="violet_light_background.png" />
+            <Image Name="violet_light_background_lock.png" />
+            <Image Name="white_radius.png" />
+          </Folder>
+          <Folder Name="gettingStarted">
+            <Image Name="blue_btn.png" />
+            <Image Name="dots.png" />
+            <Image Name="have_account_region.png" />
+            <Image Name="no_account_region.png" />
+            <Image Name="red_btn.png" />
+          </Folder>
+          <Folder Name="icons">
+            <Image Name="Ellipse_1903.png" />
+            <Image Name="free_lesson_bachground_text.png" />
+          </Folder>
+          <Folder Name="images">
+            <Image Name="book.png" />
+            <Image Name="book1.png" />
+            <Image Name="book2.png" />
+            <Image Name="monkey.png" />
+          </Folder>
+          <Folder Name="merge">
+            <Image Name="background_lb_1year_pack.png" />
+            <Image Name="background_lb_free_pack.png" />
+            <Image Name="background_lb_free_profile.png" />
+            <Image Name="background_lb_new_account.png" />
+            <Image Name="btn_green_x_cross.png" />
+            <Image Name="btn_grey.png" />
+            <Image Name="btn_thin_blue.png" />
+            <Image Name="dash_line.png" />
+          </Folder>
+          <Folder Name="popup">
+            <Image Name="line.png" />
+            <Image Name="popup_background.png" />
+            <Image Name="popup_close_bg.png" />
+          </Folder>
+          <Folder Name="profile_mini">
+            <Image Name="background.png" />
+          </Folder>
+          <Folder Name="splash_scene">
+            <Folder Name="splash1">
+              <Image Name="displayer.png" />
+              <Image Name="group_1257.png" />
+              <Image Name="intersect.png" />
+              <Image Name="monkey.png" />
+              <Image Name="shadow_displayer.png" />
+            </Folder>
+            <Folder Name="splash2">
+              <Image Name="ellipse_1835.png" />
+              <Image Name="ellipse_1836.png" />
+              <Image Name="group_1257.png" />
+              <Image Name="intersect.png" />
+              <Image Name="k_1.png" />
+              <Image Name="k2.png" />
+              <Image Name="kid_with_the_speaker1.png" />
+            </Folder>
+            <Folder Name="splash3">
+              <Image Name="child_smile.png" />
+              <Image Name="group_1257.png" />
+              <Image Name="headphone_and_book.png" />
+              <Image Name="puzzle.png" />
+              <Image Name="sense.png" />
+            </Folder>
+          </Folder>
+          <Folder Name="subscription">
+            <Folder Name="intro">
+              <Image Name="img_01.png" />
+              <Image Name="img_02.png" />
+              <Image Name="img_03.png" />
+              <Image Name="img_04.png" />
+              <Image Name="img_05.png" />
+              <Image Name="normal_page_indicator.png" />
+              <Image Name="selected_page_indicator.png" />
+            </Folder>
+            <Image Name="background.png" />
+            <Image Name="button_disable.png" />
+            <Image Name="button_submit.png" />
+            <Image Name="character.png" />
+            <Image Name="check_icon.png" />
+            <Image Name="close.png" />
+            <Image Name="crosser.png" />
+            <Image Name="discount_bg.png" />
+            <Image Name="discount_bg2.png" />
+            <Image Name="dots.png" />
+            <Image Name="image.png" />
+            <Image Name="medal_01.png" />
+            <Image Name="medal_02.png" />
+            <Image Name="monkey.png" />
+            <Image Name="normal_check_icon.png" />
+            <Image Name="rec_box.png" />
+            <Image Name="rounded_rec_box.png" />
+            <Image Name="saleImage.png" />
+            <Image Name="selected_bg.png" />
+            <Image Name="stars.png" />
+            <Image Name="trial_background.png" />
+          </Folder>
+          <Image Name="age_f2p.png" />
+          <Image Name="button_age_f2p.png" />
+          <Image Name="button_age_next_f2p.png" />
+          <Image Name="button_age_next_f2p_green.png" />
+          <Image Name="button_next_disable.png" />
+          <Image Name="sample.png" />
+        </Folder>
+        <Folder Name="games">
+          <Folder Name="ai_speaking">
+            <Folder Name="closing_popup">
+              <Image Name="continue_button.png" />
+              <Image Name="crying_face.png" />
+              <Image Name="hang_up_button.png" />
+            </Folder>
+            <Folder Name="closing_popup_02">
+              <Image Name="exit_button.png" />
+              <Image Name="skip_button.png" />
+            </Folder>
+            <Folder Name="closing_popup_03">
+              <Image Name="bg.png" />
+              <Image Name="exit_button2.png" />
+              <Image Name="X.png" />
+            </Folder>
+            <Folder Name="relearn">
+              <Image Name="adin.png" />
+              <Image Name="issac.png" />
+              <Image Name="let_talk.png" />
+              <Image Name="lettalk_adin.png" />
+              <Image Name="lettalk_issac.png" />
+              <Image Name="lettalk_tyler.png.png" />
+              <Image Name="listen_and_repeat.png" />
+              <Image Name="review.png" />
+              <Image Name="review_adin.png" />
+              <Image Name="review_issac.png" />
+              <Image Name="review_tyler.png" />
+              <Image Name="title_let_talk.png" />
+              <Image Name="title_listen_and_repeat.png" />
+              <Image Name="title_review.png" />
+              <Image Name="tyler.png" />
+            </Folder>
+            <Image Name="avt_adin.png" />
+            <Image Name="avt_issac.png" />
+            <Image Name="avt_tyler.png" />
+            <Image Name="back_button.png" />
+            <Image Name="background.png" />
+            <Image Name="bar.png" />
+            <Image Name="bar_bg.png" />
+            <Image Name="button_bg.png" />
+            <Image Name="call_icon.png" />
+            <Image Name="camera_rec.png" />
+            <Image Name="icon_speaker.png" />
+            <Image Name="love_icon.png" />
+            <Image Name="popup_bg.png" />
+            <Image Name="re_learn.png" />
+            <Image Name="replay_icon.png" />
+            <Image Name="retry_icon.png" />
+            <Image Name="review_bg.png" />
+            <Image Name="text_background.png" />
+            <Image Name="text_background2.png" />
+            <Image Name="time_icon.png" />
+            <Image Name="total_sentence_icon.png" />
+            <Image Name="x_button.png" />
+          </Folder>
+          <Folder Name="birdie">
+            <Image Name="answer_frame.png" />
+            <Image Name="bird.png" />
+            <Image Name="capony.png" />
+            <Image Name="cloud.png" />
+            <Image Name="eye_close.png" />
+            <Image Name="eye_open.png" />
+            <Image Name="ground.png" />
+            <Image Name="logo.png" />
+            <Image Name="mouth.png" />
+            <Image Name="root.png" />
+          </Folder>
+          <Folder Name="build_sentence">
+            <Image Name="background.png" />
+            <Image Name="background_night.png" />
+            <Image Name="land.png" />
+            <Image Name="land_night.png" />
+            <Image Name="logo.png" />
+            <Image Name="owl1.png" />
+          </Folder>
+          <Folder Name="build_wall">
+            <Image Name="buildwall_bg.png" />
+            <Image Name="buildwall_bg2.png" />
+            <Image Name="buildwall_gach.png" />
+            <Image Name="buildwall_sun.png" />
+          </Folder>
+          <Folder Name="build_word">
+            <Image Name="gameName.png" />
+          </Folder>
+          <Folder Name="cau_hoi_mo">
+            <Image Name="bg.jpg" />
+            <Image Name="character.png" />
+            <Image Name="Layer-1-copy-2.png" />
+            <Image Name="Layer-33.png" />
+            <Image Name="Vector-Smart-Object.png" />
+            <Image Name="Vector-Smart-Object1.png" />
+          </Folder>
+          <Folder Name="chickens_to_coop">
+            <Image Name="background.png" />
+            <Image Name="chicken.png" />
+            <Image Name="coop.png" />
+            <Image Name="door.png" />
+            <Image Name="logo.png" />
+          </Folder>
+          <Folder Name="CompletePicture">
+            <Image Name="bg.jpg" />
+            <Image Name="frame.png" />
+            <Image Name="full.jpg" />
+            <Image Name="icon.png" />
+            <Image Name="Layer-131.png" />
+            <Image Name="Layer-36.png" />
+            <Image Name="Layer-5.png" />
+            <Image Name="Layer-7.png" />
+            <Image Name="loa.png" />
+            <Image Name="next_icon.png" />
+            <Image Name="Vector-Smart-Object1.png" />
+            <Image Name="Vector-Smart-Object2.png" />
+          </Folder>
+          <Folder Name="diamond_dig">
+            <Image Name="diamon_dig_bg.png" />
+            <Image Name="diamond_dig_game_name.png" />
+            <Image Name="diamond_dig_stone.png" />
+          </Folder>
+          <Folder Name="findDiff">
+            <Image Name="bg.jpg" />
+            <Image Name="frame.png" />
+            <Image Name="full.jpg" />
+            <Image Name="loa0.png" />
+            <Image Name="loa1.png" />
+            <Image Name="question.png" />
+            <Image Name="ring1.png" />
+            <Image Name="ring2.png" />
+          </Folder>
+          <Folder Name="findHiddenObj">
+            <Image Name="bg.jpg" />
+            <Image Name="board.png" />
+            <Image Name="full.jpg" />
+            <Image Name="icon.png" />
+            <Image Name="loa.png" />
+            <Image Name="panel.png" />
+            <Image Name="question.png" />
+          </Folder>
+          <Folder Name="findTheWay">
+            <Image Name="findWay_Layer-7.png" />
+            <Image Name="icon.png" />
+            <Image Name="loa.png" />
+          </Folder>
+          <Folder Name="jumping_monkey">
+            <Image Name="jumpingmonkey_bg.png" />
+            <Image Name="jumpingmonkey_board.png" />
+            <Image Name="jumpingmonkey_daythung.png" />
+            <Image Name="jumpingmonkey_domsang.png" />
+            <Image Name="jumpingmonkey_food1.png" />
+            <Image Name="jumpingmonkey_food10.png" />
+            <Image Name="jumpingmonkey_food11.png" />
+            <Image Name="jumpingmonkey_food2.png" />
+            <Image Name="jumpingmonkey_food3.png" />
+            <Image Name="jumpingmonkey_food4.png" />
+            <Image Name="jumpingmonkey_food5.png" />
+            <Image Name="jumpingmonkey_food6.png" />
+            <Image Name="jumpingmonkey_food7.png" />
+            <Image Name="jumpingmonkey_food8.png" />
+            <Image Name="jumpingmonkey_food9.png" />
+            <Image Name="jumpingmonkey_front1.png" />
+            <Image Name="jumpingmonkey_front2.png" />
+            <Image Name="jumpingmonkey_itembg.png" />
+          </Folder>
+          <Folder Name="jumpingfrog">
+            <Image Name="jumpingfrog_bg.png" />
+            <Image Name="jumpingfrog_finish.png" />
+          </Folder>
+          <Folder Name="khi_xe_ui">
+            <Image Name="khi_xe_ui_game_name.png" />
+            <Image Name="khixeui_bg.png" />
+            <Image Name="khixeui_mainha.png" />
+            <Image Name="khixeui_no4.png" />
+            <Image Name="khixeui_no9.png" />
+            <Image Name="khixeui_tang1.png" />
+            <Image Name="khixeui_tang4.png" />
+            <Image Name="khixeui_tang6.png" />
+            <Image Name="khixeui_tang9.png" />
+          </Folder>
+          <Folder Name="landtheplane">
+            <Image Name="landtheplane_1.png" />
+            <Image Name="landtheplane_2.png" />
+            <Image Name="landtheplane_3.png" />
+            <Image Name="landtheplane_4.png" />
+            <Image Name="landtheplane_cloud.png" />
+            <Image Name="landtheplane_finish.png" />
+            <Image Name="landtheplane_land1.png" />
+            <Image Name="landtheplane_land2.png" />
+            <Image Name="landtheplane_land3.png" />
+            <Image Name="landtheplane_land4.png" />
+            <Image Name="landtheplane_land5.png" />
+            <Image Name="landtheplane_start.png" />
+          </Folder>
+          <Folder Name="lazer">
+            <Image Name="end_light_off.png" />
+            <Image Name="end_light_on.png" />
+            <Image Name="light_off.png" />
+            <Image Name="light_on.png" />
+            <Image Name="logo.png" />
+            <Image Name="plug.png" />
+            <Image Name="plug_in.png" />
+            <Image Name="plug_out.png" />
+            <Image Name="start_light_off.png" />
+            <Image Name="start_light_on.png" />
+            <Image Name="text_frame.png" />
+            <Image Name="wire.png" />
+          </Folder>
+          <Folder Name="load_the_train">
+            <Image Name="1.png" />
+            <Image Name="10.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="bg.png" />
+            <Image Name="button.png" />
+            <Image Name="duongray.png" />
+            <Image Name="game_name.png" />
+            <Image Name="hand.png" />
+          </Folder>
+          <Folder Name="LuaChon">
+            <Image Name="bg.jpg" />
+            <Image Name="character.png" />
+            <Image Name="Layer-20-copy.png" />
+            <Image Name="Layer-30.png" />
+            <Image Name="Layer-33.png" />
+            <Image Name="Vector-Smart-Object.png" />
+            <Image Name="Vector-Smart-Object1.png" />
+          </Folder>
+          <Folder Name="makeamatch">
+            <Image Name="makeamatch_bg1.jpg" />
+            <Image Name="makeamatch_bg2.png" />
+            <Image Name="makeamatch_box1.png" />
+            <Image Name="makeamatch_box2.png" />
+            <Image Name="makeamatch_box3.png" />
+            <Image Name="makeamatch_box4.png" />
+          </Folder>
+          <Folder Name="matching_2">
+            <Image Name="answer.png" />
+            <Image Name="background_2.png" />
+            <Image Name="eye.png" />
+            <Image Name="eye_confuse.png" />
+            <Image Name="eye_open.png" />
+            <Image Name="fin_1.png" />
+            <Image Name="fin_2.png" />
+            <Image Name="fin_3.png" />
+            <Image Name="fin_4.png" />
+            <Image Name="fin_5.png" />
+            <Image Name="fin_6.png" />
+            <Image Name="fish_1.png" />
+            <Image Name="fish_2.png" />
+            <Image Name="fish_3.png" />
+            <Image Name="fish_4.png" />
+            <Image Name="fish_5.png" />
+            <Image Name="fish_6.png" />
+            <Image Name="logo.png" />
+            <Image Name="right_overlay.png" />
+            <Image Name="wrong_overlay.png" />
+          </Folder>
+          <Folder Name="NhinBongDoanVat">
+            <Image Name="bg.jpg" />
+            <Image Name="full.jpg" />
+            <Image Name="icon.png" />
+            <Image Name="loa.png" />
+            <Image Name="Vector Smart Object1.png" />
+          </Folder>
+          <Folder Name="phonics">
+            <Image Name="phonics_bg.jpg" />
+            <Image Name="phonics_bg.png" />
+            <Image Name="phonics_btplay.png" />
+            <Image Name="phonics_btrecort.png" />
+            <Image Name="phonics_stone.png" />
+            <Image Name="phonics_tivi.png" />
+          </Folder>
+          <Folder Name="plug_in_bulb2">
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="bg.png" />
+            <Image Name="logo.png" />
+            <Image Name="red.png" />
+          </Folder>
+          <Folder Name="qa">
+            <Image Name="qa_alertbg_true.png" />
+            <Image Name="qa_alertbg_wrong.png" />
+            <Image Name="qa_answer1.png" />
+            <Image Name="qa_answer2.png" />
+            <Image Name="qa_bg_left.png" />
+            <Image Name="qa_btnext.png" />
+            <Image Name="qa_iconbg.png" />
+            <Image Name="qa_item_choose.png" />
+            <Image Name="qa_item_circle.png" />
+            <Image Name="qa_item_current.png" />
+            <Image Name="qa_item_normal.png" />
+            <Image Name="qa_item_true.png" />
+            <Image Name="qa_item_wrong.png" />
+            <Image Name="qa_speaker1.png" />
+            <Image Name="qa_speaker2.png" />
+            <Image Name="qa_temp.jpg" />
+            <Image Name="qa_tick_title.png" />
+          </Folder>
+          <Folder Name="rabbit_classify">
+            <Image Name="rabbit_classify_nap_giua.png" />
+            <Image Name="rabbit_classify_than_giua.png" />
+            <Image Name="rabbitclassify_bg.png" />
+            <Image Name="rabbitclassify_bg_bot.png" />
+            <Image Name="rabbitclassify_bg_run.png" />
+            <Image Name="rabbitclassify_box_left.png" />
+            <Image Name="rabbitclassify_box_right.png" />
+            <Image Name="rabbitclassify_light_off.png" />
+            <Image Name="rabbitclassify_light_on.png" />
+            <Image Name="rabbitclassify_napphai.png" />
+            <Image Name="rabbitclassify_naptrai.png" />
+            <Image Name="rabbitclassify_title.png" />
+          </Folder>
+          <Folder Name="rest_in_nest">
+            <Image Name="rest_in_nest_1.png" />
+            <Image Name="rest_in_nest_2.png" />
+            <Image Name="rest_in_nest_3.png" />
+            <Image Name="rest_in_nest_4.png" />
+            <Image Name="rest_in_nest_5.png" />
+            <Image Name="rest_in_nest_6.png" />
+            <Image Name="rest_in_nest_7.png" />
+            <Image Name="rest_in_nest_bg.png" />
+            <Image Name="rest_in_nest_dich.png" />
+            <Image Name="rest_in_nest_game_name.png" />
+          </Folder>
+          <Folder Name="shark">
+            <Image Name="gameName.png" />
+            <Image Name="shark_gb.png" />
+          </Folder>
+          <Folder Name="shark2">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="bg.png" />
+            <Image Name="gameName.png" />
+          </Folder>
+          <Folder Name="shook_book">
+            <Image Name="ShookBook_bg1.png" />
+            <Image Name="ShookBook_bg2.png" />
+            <Image Name="ShookBook_book.png" />
+            <Image Name="ShookBook_btn_audio.png" />
+            <Image Name="ShookBook_game_name.png" />
+          </Folder>
+          <Folder Name="tellTheStory">
+            <Image Name="bg.jpg" />
+            <Image Name="icon.png" />
+            <Image Name="Layer-48-copy.png" />
+            <Image Name="Layer-50-copy.png" />
+            <Image Name="Layer-51.png" />
+            <Image Name="Layer-52.png" />
+            <Image Name="loa.png" />
+            <Image Name="next_icon.png" />
+            <Image Name="Vector-Smart-Object.png" />
+            <Image Name="Vector-Smart-Object1.png" />
+            <Image Name="Vector-Smart-Object2.png" />
+          </Folder>
+          <Folder Name="typing">
+            <Image Name="typing_bg.png" />
+            <Image Name="typing_clock.png" />
+            <Image Name="typing_itembg.png" />
+          </Folder>
+          <Folder Name="ufo">
+            <Image Name="ufo_bg.png" />
+            <Image Name="ufo_bg1.png" />
+            <Image Name="ufo_game_name.png" />
+            <Image Name="ufo_item.png" />
+          </Folder>
+          <Folder Name="waterspray">
+            <Image Name="gameName.png" />
+            <Image Name="waterspray_bg.png" />
+            <Image Name="waterspray_border.png" />
+          </Folder>
+          <Folder Name="word_machine">
+            <Image Name="background.png" />
+            <Image Name="bg.jpg" />
+            <Image Name="bg.png" />
+            <Image Name="bottom_part.png" />
+            <Image Name="filter.png" />
+            <Image Name="frame.png" />
+            <Image Name="logo.png" />
+            <Image Name="machine.png" />
+            <Image Name="pipe.png" />
+            <Image Name="pipe_end.png" />
+            <Image Name="stick.png" />
+            <Image Name="text_background.png" />
+          </Folder>
+          <Folder Name="word_train">
+            <Image Name="gameName.png" />
+            <Image Name="wordtrain_bg.png" />
+            <Image Name="wordtrain_board.png" />
+            <Image Name="wordtrain_ray.png" />
+          </Folder>
+          <Image Name="background.png" />
+          <Image Name="check.png" />
+          <Image Name="cross.png" />
+          <Image Name="frame_background_false.png" />
+          <Image Name="frame_background_right.png" />
+          <Image Name="frame_light_none.png" />
+          <Image Name="frame_light_off.png" />
+          <Image Name="frame_light_on.png" />
+          <Image Name="frame_text.png" />
+          <Image Name="light.png" />
+          <Image Name="light_hd.png" />
+        </Folder>
+        <Folder Name="install">
+          <Image Name="tick_box_0.png" />
+          <Image Name="tick_box_1.png" />
+        </Folder>
+        <Folder Name="license">
+          <Folder Name="active_license">
+            <Image Name="activelicense_bg.png" />
+            <Image Name="activelicense_box1.png" />
+            <Image Name="activelicense_box2.png" />
+            <Image Name="activelicense_btsend.png" />
+            <Image Name="activelicense_iconwarning.png" />
+          </Folder>
+          <Folder Name="alert">
+            <Image Name="licensealert_bg.png" />
+            <Image Name="licensealert_btcancel.png" />
+            <Image Name="licensealert_btok.png" />
+          </Folder>
+          <Folder Name="deviceinfoalert">
+            <Image Name="deviceinfoalert_bg.png" />
+            <Image Name="deviceinfoalert_box.png" />
+            <Image Name="deviceinfoalert_bt.png" />
+          </Folder>
+          <Folder Name="fulllicense">
+            <Image Name="fulllicense_bg.png" />
+            <Image Name="fulllicense_box.png" />
+            <Image Name="fulllicense_bthuy.png" />
+          </Folder>
+          <Folder Name="listdeviceview">
+            <Image Name="listdeviceview_bg.png" />
+            <Image Name="listdeviceview_btdelete.png" />
+            <Image Name="listdeviceview_dot.png" />
+            <Image Name="template.png" />
+          </Folder>
+          <Folder Name="verifyinfoview">
+            <Image Name="verifyinfoview_bg.png" />
+            <Image Name="verifyinfoview_send.png" />
+            <Image Name="verifyinfoview_textbox.png" />
+          </Folder>
+          <Folder Name="warningremoveview">
+            <Image Name="warningremoveview_bg.png" />
+            <Image Name="warningremoveview_btclose.png" />
+            <Image Name="warningremoveview_btok.png" />
+            <Image Name="warningremoveview_icon.png" />
+          </Folder>
+          <Image Name="btclose.png" />
+          <Image Name="logo.png" />
+        </Folder>
+        <Folder Name="mjstory">
+          <Folder Name="AISpeaking">
+            <Folder Name="proccessCircle">
+              <Image Name="Green Circle.png" />
+              <Image Name="Orange Circle.png" />
+            </Folder>
+            <Image Name="accept_button.png" />
+            <Image Name="button_share.png" />
+            <Image Name="camera.png" />
+            <Image Name="Download.png" />
+            <Image Name="downloadIcon.png" />
+            <Image Name="Elipse_blue.png" />
+            <Image Name="Elipse_gray.png" />
+            <Image Name="Ellipse 1894.png" />
+            <Image Name="Ellipse 1895.png" />
+            <Image Name="Ellipse 1896.png" />
+            <Image Name="Ellipse_green.png" />
+            <Image Name="Ellipsewhite.png" />
+            <Image Name="finish_button.png" />
+            <Image Name="image 202.png" />
+            <Image Name="Locked.png" />
+            <Image Name="Microphone.png" />
+            <Image Name="microphone2.png" />
+            <Image Name="My house.png" />
+            <Image Name="Ready_for_learn.png" />
+            <Image Name="Rectangle 2790.png" />
+            <Image Name="Rectangle 2791.png" />
+            <Image Name="Rectangle_blue.png" />
+            <Image Name="Rectangle_popup_permission.png" />
+            <Image Name="RectanglightBlue.png" />
+            <Image Name="smile_Icon.png" />
+            <Image Name="Subtract.png" />
+            <Image Name="tick_icon.png" />
+            <Image Name="Vector.png" />
+            <Image Name="vector_share_icon.png" />
+            <Image Name="X.png" />
+          </Folder>
+          <Folder Name="avatar">
+            <Image Name="boy_1.png" />
+            <Image Name="boy_2.png" />
+            <Image Name="boy_3.png" />
+            <Image Name="boy_4.png" />
+            <Image Name="boy_5.png" />
+            <Image Name="boy_6.png" />
+            <Image Name="boy_7.png" />
+            <Image Name="boy_8.png" />
+            <Image Name="girl_1.png" />
+            <Image Name="girl_2.png" />
+            <Image Name="girl_3.png" />
+            <Image Name="girl_4.png" />
+            <Image Name="girl_5.png" />
+            <Image Name="girl_6.png" />
+            <Image Name="girl_7.png" />
+            <Image Name="girl_8.png" />
+          </Folder>
+          <Folder Name="dropdown">
+            <Image Name="mj_level_background.png" />
+            <Image Name="mj_level_icon.png" />
+            <Image Name="mjsh_language_1.png" />
+            <Image Name="mjsh_language_12.png" />
+            <Image Name="mjsh_language_2.png" />
+            <Image Name="mjsh_language_3.png" />
+            <Image Name="mjsh_language_4.png" />
+            <Image Name="mjsh_language_arrow.png" />
+            <Image Name="mjsh_language_back.png" />
+            <Image Name="mjsh_language_bg.png" />
+            <Image Name="mjsh_selectlevel_1.png" />
+            <Image Name="mjsh_selectlevel_2.png" />
+            <Image Name="mjsh_selectlevel_3.png" />
+            <Image Name="mjsh_selectlevel_4.png" />
+            <Image Name="mjsh_selectlevel_5.png" />
+            <Image Name="mjsh_selectlevel_6.png" />
+            <Image Name="mjsh_selectlevel_7.png" />
+            <Image Name="mjsh_selectlevel_bg_1.png" />
+            <Image Name="mjsh_selectlevel_bg_2.png" />
+            <Image Name="mjsh_selectlevel_bg_3.png" />
+            <Image Name="mjsh_selectlevel_bg_4.png" />
+            <Image Name="mjsh_selectlevel_bg_5.png" />
+            <Image Name="mjsh_selectlevel_bg_6.png" />
+            <Image Name="mjsh_selectlevel_bg_7.png" />
+            <Image Name="mjsh_selectlevel_thumb.png" />
+            <Image Name="mjsh_text_field.png" />
+          </Folder>
+          <Folder Name="explore">
+            <Image Name="mjsh_explore_0.png" />
+            <Image Name="mjsh_explore_1.png" />
+            <Image Name="mjsh_explore_2.png" />
+            <Image Name="mjsh_explore_bar.png" />
+            <Image Name="mjsh_explore_barbottom.png" />
+            <Image Name="mjsh_explore_btlevel.png" />
+            <Image Name="mjsh_explore_buttonbar.png" />
+            <Image Name="mjsh_explore_drop.png" />
+            <Image Name="mjsh_explore_search.png" />
+            <Image Name="subscription_button_back.png" />
+          </Folder>
+          <Folder Name="home">
+            <Image Name="banner.png" />
+            <Image Name="bot_menu_1.png" />
+            <Image Name="bot_menu_2.png" />
+            <Image Name="bot_menu_3.png" />
+            <Image Name="bot_menu_4.png" />
+            <Image Name="bot_menu_5.png" />
+            <Image Name="bot_menu_6.png" />
+            <Image Name="bot_menu_7.png" />
+            <Image Name="bottom_menu.png" />
+            <Image Name="btn_lang.png" />
+            <Image Name="btn_search.png" />
+            <Image Name="feature_btplay.png" />
+            <Image Name="feature_layoutmo1.png" />
+            <Image Name="feature_layoutmo2.png" />
+            <Image Name="home_bg.png" />
+            <Image Name="home_linengang.png" />
+            <Image Name="mjsh_banner.png" />
+            <Image Name="mjsh_bot_menu_1.png" />
+            <Image Name="mjsh_bot_menu_10.png" />
+            <Image Name="mjsh_bot_menu_11.png" />
+            <Image Name="mjsh_bot_menu_12.png" />
+            <Image Name="mjsh_bot_menu_13.png" />
+            <Image Name="mjsh_bot_menu_2.png" />
+            <Image Name="mjsh_bot_menu_3.png" />
+            <Image Name="mjsh_bot_menu_4.png" />
+            <Image Name="mjsh_bot_menu_5.png" />
+            <Image Name="mjsh_bot_menu_6.png" />
+            <Image Name="mjsh_bot_menu_7.png" />
+            <Image Name="mjsh_bot_menu_8.png" />
+            <Image Name="mjsh_bot_menu_9.png" />
+            <Image Name="mjsh_bot_menu_noti.png" />
+            <Image Name="mjsh_btn_lang.png" />
+            <Image Name="mjsh_btn_search.png" />
+            <Image Name="mjsh_character_1.png" />
+            <Image Name="mjsh_feature.png" />
+            <Image Name="mjsh_feature_0.png" />
+            <Image Name="mjsh_feature_1.png" />
+            <Image Name="mjsh_feature_2.png" />
+            <Image Name="mjsh_img_drop.png" />
+            <Image Name="mjsh_stories_free.png" />
+            <Image Name="mjsh_stories_level_1.png" />
+            <Image Name="mjsh_stories_level_10.png" />
+            <Image Name="mjsh_stories_level_2.png" />
+            <Image Name="mjsh_stories_level_3.png" />
+            <Image Name="mjsh_stories_level_4.png" />
+            <Image Name="mjsh_stories_level_5.png" />
+            <Image Name="mjsh_stories_level_6.png" />
+            <Image Name="mjsh_stories_level_7.png" />
+            <Image Name="mjsh_stories_level_8.png" />
+            <Image Name="mjsh_stories_level_9.png" />
+            <Image Name="mjsh_stories_level_default.png" />
+            <Image Name="mjsh_stories_name.png" />
+            <Image Name="mjsh_stories_thumb_1.png" />
+            <Image Name="mjsh_topic_2.png" />
+            <Image Name="storyitem_iconnew.png" />
+            <Image Name="storyitem_iconread.png" />
+            <Image Name="top_menu.png" />
+          </Folder>
+          <Folder Name="lesson">
+            <Image Name="lesson_activity_frame.png" />
+            <Image Name="lesson_arrow.png" />
+            <Image Name="lesson_game_thumb1.png" />
+            <Image Name="lesson_game_thumb2.png" />
+            <Image Name="lesson_icon_gray.png" />
+            <Image Name="lesson_icon_white.png" />
+            <Image Name="lesson_next.png" />
+            <Image Name="lesson_node.png" />
+            <Image Name="lesson_play.png" />
+            <Image Name="lesson_story_thumb.png" />
+          </Folder>
+          <Folder Name="material">
+            <Folder Name="audibook">
+              <Image Name="item_audio_book.png" />
+            </Folder>
+            <Folder Name="learn">
+              <Image Name="bieu_tuong_khoa_bai_hoc.png" />
+              <Image Name="bong_den.png" />
+              <Image Name="bounding_box.png" />
+              <Image Name="button_exit_lesson.png" />
+              <Image Name="color.png" />
+              <Image Name="dau_hoc_lai.png" />
+              <Image Name="item_lock.png" />
+              <Image Name="khung_cho_nut_hoc.png" />
+              <Image Name="khung_cho_trang_thai_khoa_bai_hoc.png" />
+              <Image Name="khung_chua_trang_thai_bai_hoc.png" />
+              <Image Name="load.png" />
+              <Image Name="monkey.png" />
+              <Image Name="nut_hoc.png" />
+              <Image Name="popup.png" />
+              <Image Name="tick.png" />
+            </Folder>
+            <Folder Name="mat_duc">
+              <Folder Name="hd">
+                <Folder Name="popular_search_item">
+                  <Image Name="icon_listening.png" />
+                  <Image Name="icon_reading.png" />
+                  <Image Name="icon_worksheet.png" />
+                  <Image Name="item_thumbnail.png" />
+                  <Image Name="popular_search_footer_listening.png" />
+                  <Image Name="popular_search_footer_reading.png" />
+                  <Image Name="popular_search_footer_worksheet.png" />
+                  <Image Name="popular-search_item_border.png" />
+                  <Image Name="recent_listening.png" />
+                  <Image Name="recent_reading.png" />
+                  <Image Name="recent_worksheet.png" />
+                </Folder>
+                <Folder Name="read">
+                  <Folder Name="trang trong">
+                    <Image Name="read_border.png" />
+                  </Folder>
+                </Folder>
+              </Folder>
+            </Folder>
+            <Folder Name="mat2_read_item">
+              <Image Name="icon_read.png" />
+              <Image Name="read_border.png" />
+            </Folder>
+            <Image Name="close.png" />
+            <Image Name="mat_bg_active_tab.png" />
+            <Image Name="mat_bg_email.png" />
+            <Image Name="mat_bg_item.png" />
+            <Image Name="mat_bg_search.png" />
+            <Image Name="mat_bg_search_2.png" />
+            <Image Name="mat_btn_email.png" />
+            <Image Name="mat_btn_grade.png" />
+            <Image Name="mat_btn_qr.png" />
+            <Image Name="mat_btn_sendemail.png" />
+            <Image Name="mat_btn_tab_worksheet.png" />
+            <Image Name="mat_icon_cleartext.png" />
+            <Image Name="mat_icon_downloaded.png" />
+            <Image Name="mat_icon_edit_email.png" />
+            <Image Name="mat_icon_library.png" />
+            <Image Name="mat_icon_pdf.png" />
+            <Image Name="mat_icon_qr.png" />
+            <Image Name="mat_icon_search.png" />
+            <Image Name="mat_icon_sendemail.png" />
+            <Image Name="mat_icon_star.png" />
+            <Image Name="mat_icon_tick.png" />
+            <Image Name="mat_icon_warning.png" />
+            <Image Name="mat_icon_warning_big.png" />
+            <Image Name="mat_icon_worksheet.png" />
+            <Image Name="mat_img_no_result.png" />
+            <Image Name="mat_img_selected.png" />
+            <Image Name="mat_mask_item.png" />
+            <Image Name="mat_panel_info.png" />
+            <Image Name="mat_panel_popular_mask.png" />
+            <Image Name="mat_panel_search_popular.png" />
+            <Image Name="mat_pano_phonics.png" />
+            <Image Name="mat_pano_stories.png" />
+            <Image Name="mat_round_number.png" />
+            <Image Name="mat_round_number_2.png" />
+            <Image Name="mat_top_item.png" />
+          </Folder>
+          <Folder Name="mjstory" />
+          <Folder Name="new_support_ui">
+            <Image Name="contact_bg.png" />
+            <Image Name="fanpage_icon.png" />
+            <Image Name="hotline_icon.png" />
+            <Image Name="mail_icon.png" />
+            <Image Name="shape.png" />
+          </Folder>
+          <Folder Name="new_ui">
+            <Folder Name="login">
+              <Image Name="ap_icon_boy.png" />
+              <Image Name="ap_icon_gender.png" />
+              <Image Name="ap_icon_girl.png" />
+              <Image Name="ap_icon_user.png" />
+              <Image Name="ap_profile_background.png" />
+              <Image Name="ap_textfield_background.png" />
+              <Image Name="ap_wrong.png" />
+              <Image Name="button 1.png" />
+              <Image Name="button age 2.png" />
+              <Image Name="button seleced.png" />
+              <Image Name="button_login_facebook.png" />
+              <Image Name="button_login_google.png" />
+              <Image Name="button_login_phone.png" />
+              <Image Name="buttton age.png" />
+              <Image Name="edit.png" />
+              <Image Name="female 1.png" />
+              <Image Name="female.png" />
+              <Image Name="icon_back.png" />
+              <Image Name="male 1.png" />
+              <Image Name="male.png" />
+            </Folder>
+            <Image Name="6.png" />
+            <Image Name="activty_popup_shadow.png" />
+            <Image Name="bg.jpg" />
+            <Image Name="button_activity_play.png" />
+            <Image Name="button_appdrawer_close.png" />
+            <Image Name="button_appdrawer_download.png" />
+            <Image Name="button_audiobook_back.png" />
+            <Image Name="button_audiobook_backward.png" />
+            <Image Name="button_audiobook_forward.png" />
+            <Image Name="button_audiobook_next.png" />
+            <Image Name="button_audiobook_pause.png" />
+            <Image Name="button_audiobook_play.png" />
+            <Image Name="button_audiobook_play_control.png" />
+            <Image Name="button_close.png" />
+            <Image Name="button_collection_more.png" />
+            <Image Name="button_cover_autoplay.png" />
+            <Image Name="button_cover_download.png" />
+            <Image Name="button_cover_download_pressed.png" />
+            <Image Name="button_cover_narration_mute.png" />
+            <Image Name="button_cover_narration_normal.png" />
+            <Image Name="button_cover_progress.png" />
+            <Image Name="button_cover_progress_background.png" />
+            <Image Name="button_cover_read.png" />
+            <Image Name="button_cover_readmyself.png" />
+            <Image Name="button_cover_readnarration.png" />
+            <Image Name="button_down.png" />
+            <Image Name="button_explore_back.png" />
+            <Image Name="button_intro_grade_blue.png" />
+            <Image Name="button_intro_grade_new.png" />
+            <Image Name="button_intro_grade_new_selected.png" />
+            <Image Name="button_intro_grade_white.png" />
+            <Image Name="button_lesson_learn.png" />
+            <Image Name="button_lesson_relearn.png" />
+            <Image Name="button_lesson_relearn_fill.png" />
+            <Image Name="button_lesson_start.png" />
+            <Image Name="button_playlist.png" />
+            <Image Name="button_playlist_play.png" />
+            <Image Name="button_preact_play.png" />
+            <Image Name="button_preactivity_left.png" />
+            <Image Name="button_preactivity_left_pressed.png" />
+            <Image Name="button_preactivity_right.png" />
+            <Image Name="button_preactivity_right_pressed.png" />
+            <Image Name="button_sidebar_close.png" />
+            <Image Name="button_sidebar_lock.png" />
+            <Image Name="button_sidebar_more.png" />
+            <Image Name="button_story_menu_close.png" />
+            <Image Name="button_story_menu_favourite.png" />
+            <Image Name="button_story_menu_pause.png" />
+            <Image Name="button_story_menu_play.png" />
+            <Image Name="button_story_menu_refresh.png" />
+            <Image Name="button_story_menu_share.png" />
+            <Image Name="button_subscribe_close.png" />
+            <Image Name="button_trial_start.png" />
+            <Image Name="button_trial_start_pressed.png" />
+            <Image Name="device_ipad.png" />
+            <Image Name="Forrest_00010.png" />
+            <Image Name="frame_appdrawer_app.png" />
+            <Image Name="frame_appdrawer_app_background.png" />
+            <Image Name="frame_appdrawer_sidebar.png" />
+            <Image Name="frame_audiobook_content.png" />
+            <Image Name="frame_collection_background.png" />
+            <Image Name="frame_collection_more.png" />
+            <Image Name="frame_gradebox_background.png" />
+            <Image Name="frame_lesson_background_active.png" />
+            <Image Name="frame_lesson_background_active_current.png" />
+            <Image Name="frame_lesson_background_inactive.png" />
+            <Image Name="frame_searchbar_filter.png" />
+            <Image Name="frame_story_item_mask.png" />
+            <Image Name="hand_swipe.png" />
+            <Image Name="icon_app_learntoread.png" />
+            <Image Name="icon_app_maths.png" />
+            <Image Name="icon_app_maths_new.png" />
+            <Image Name="icon_app_stories.png" />
+            <Image Name="icon_app_vm.png" />
+            <Image Name="icon_searchbar_search.png" />
+            <Image Name="icon_sidebar_account.png" />
+            <Image Name="icon_sidebar_audiobooks.png" />
+            <Image Name="icon_sidebar_flag_us.png" />
+            <Image Name="icon_sidebar_free.png" />
+            <Image Name="icon_sidebar_lessons.png" />
+            <Image Name="icon_sidebar_license.png" />
+            <Image Name="icon_sidebar_settings.png" />
+            <Image Name="icon_sidebar_stories.png" />
+            <Image Name="icon_sidebar_subscription.png" />
+            <Image Name="icon_warn.png" />
+            <Image Name="image_appdrawer_learntoread_abc.png" />
+            <Image Name="image_appdrawer_learntoread_background.png" />
+            <Image Name="image_appdrawer_learntoread_logo.png" />
+            <Image Name="image_appdrawer_maths_background.png" />
+            <Image Name="image_appdrawer_maths_character_1.png" />
+            <Image Name="image_appdrawer_maths_character_2.png" />
+            <Image Name="image_appdrawer_maths_logo.png" />
+            <Image Name="image_appdrawer_maths_number.png" />
+            <Image Name="image_appdrawer_stories_background_1.png" />
+            <Image Name="image_appdrawer_stories_background_2.png" />
+            <Image Name="image_appdrawer_stories_logo.png" />
+            <Image Name="image_appdrawer_stories_logo_new.png" />
+            <Image Name="image_appdrawer_stories_monkey.png" />
+            <Image Name="image_appdrawer_stories_stories.png" />
+            <Image Name="image_audiobook_gradient.png" />
+            <Image Name="image_audiobook_player_background.png" />
+            <Image Name="image_audiobook_slider.png" />
+            <Image Name="image_audiobook_slider_background.png" />
+            <Image Name="image_audiobook_slider_ball.png" />
+            <Image Name="image_bar_audio.png" />
+            <Image Name="image_bar_audio_icon.png" />
+            <Image Name="image_bar_book.png" />
+            <Image Name="image_bar_book_icon.png" />
+            <Image Name="image_blue_dot.png" />
+            <Image Name="image_gradebox_gradebackground.png" />
+            <Image Name="image_gray_dot.png" />
+            <Image Name="image_green_dot.png" />
+            <Image Name="image_intro_background.png" />
+            <Image Name="image_intro_dot.png" />
+            <Image Name="image_intro_flag_us.png" />
+            <Image Name="image_intro_flag_vn.png" />
+            <Image Name="image_intro_load_1.png" />
+            <Image Name="image_intro_load_2.png" />
+            <Image Name="image_intro_load_3.png" />
+            <Image Name="image_intro_loading_bg.png" />
+            <Image Name="image_intro_loading_effect.png" />
+            <Image Name="image_intro_loading_progress.png" />
+            <Image Name="image_intro_progress.png" />
+            <Image Name="image_intro_progress_background.png" />
+            <Image Name="image_item_level_tag.png" />
+            <Image Name="image_item_mask.png" />
+            <Image Name="image_item_mask_audio.png" />
+            <Image Name="image_lesson_check.png" />
+            <Image Name="image_lesson_end_background.png" />
+            <Image Name="image_lesson_end_congratulation.png" />
+            <Image Name="image_lesson_flag.png" />
+            <Image Name="image_lesson_lock.png" />
+            <Image Name="image_lesson_status_locked.png" />
+            <Image Name="image_monkey_head.png" />
+            <Image Name="image_preact_arrow.png" />
+            <Image Name="image_preact_background.png" />
+            <Image Name="image_preact_check.png" />
+            <Image Name="image_preact_checked.png" />
+            <Image Name="image_preact_current.png" />
+            <Image Name="image_preact_normal.png" />
+            <Image Name="image_preactivity_background.png" />
+            <Image Name="image_preactivity_progress.png" />
+            <Image Name="image_preactivity_progress_background.png" />
+            <Image Name="image_story_menu_background.png" />
+            <Image Name="image_tag_audiobooks.png" />
+            <Image Name="image_trial_background.png" />
+            <Image Name="image_trial_book.png" />
+            <Image Name="image_trial_puzzle.png" />
+            <Image Name="image_trial_speaker.png" />
+            <Image Name="image_white_gradient.png" />
+            <Image Name="intro_letter.png" />
+            <Image Name="intro_page_1.png" />
+            <Image Name="intro_page_2.png" />
+            <Image Name="license_limit_step_1.png" />
+            <Image Name="license_limit_step_1_en.png" />
+            <Image Name="license_limit_step_2.png" />
+            <Image Name="license_limit_step_2_en.png" />
+            <Image Name="license_limit_step_3.png" />
+            <Image Name="license_limit_step_3_en.png" />
+            <Image Name="mac_mockup.png" />
+            <Image Name="Marty_00047.png" />
+            <Image Name="mp.png" />
+            <Image Name="mp_new.png" />
+            <Image Name="mp_title.png" />
+            <Image Name="mp_title_vi.png" />
+            <Image Name="ms.png" />
+            <Image Name="ms_new.png" />
+            <Image Name="ms_title.png" />
+            <Image Name="ms_title_vi.png" />
+            <Image Name="onboard_dialog.png" />
+            <Image Name="onboard_dialog_2.png" />
+            <Image Name="onboard_monkey.png" />
+            <Image Name="Orbit-128px.png" />
+            <Image Name="progress_background_download.png" />
+            <Image Name="progress_background_lesson.png" />
+            <Image Name="progress_lesson.png" />
+            <Image Name="progress_preact.png" />
+            <Image Name="progress_preact_background.png" />
+            <Image Name="qr_bar.png" />
+            <Image Name="qr_button_download.png" />
+            <Image Name="qr_button_next_page.png" />
+            <Image Name="qr_button_pause.png" />
+            <Image Name="qr_button_play.png" />
+            <Image Name="qr_button_prev_page.png" />
+            <Image Name="qr_dot_highlight.png" />
+            <Image Name="qr_dot_normal.png" />
+            <Image Name="qr_loading_background.png" />
+            <Image Name="qr_loading_bar.png" />
+            <Image Name="qr_sidebar.png" />
+            <Image Name="sale_page_2019_design copy.jpg" />
+            <Image Name="scroll_audiobooks.png" />
+            <Image Name="scroll_stories.png" />
+            <Image Name="searchbar_filter.png" />
+            <Image Name="searchbar_search.png" />
+            <Image Name="selectCourse.png" />
+            <Image Name="selectCourse_vi.png" />
+            <Image Name="tab_subscribe_feature_8.png" />
+            <Image Name="tabsubscribe_btclose.png" />
+            <Image Name="tabsubscribe_dot.png" />
+            <Image Name="tabsubscribe_feature1.png" />
+            <Image Name="tabsubscribe_feature2.png" />
+            <Image Name="tabsubscribe_feature3.png" />
+            <Image Name="tabsubscribe_feature4.png" />
+            <Image Name="tabsubscribe_feature5.png" />
+            <Image Name="tabsubscribe_feature6.png" />
+            <Image Name="tabsubscribe_feature7.png" />
+            <Image Name="tabsubscribe_gachnang.png" />
+            <Image Name="tabsubscribe_navibt.png" />
+            <Image Name="tabsubscribe_package_bg1.png" />
+            <Image Name="tabsubscribe_package_bg2.png" />
+            <Image Name="tabsubscribe_package_bt1.png" />
+            <Image Name="tabsubscribe_package_bt2.png" />
+            <Image Name="tabsubscribe_package_navi.png" />
+            <Image Name="tabsubscribe_plan1.png" />
+            <Image Name="tabsubscribe_plan2.png" />
+            <Image Name="tabsubscribe_plan3.png" />
+            <Image Name="tabsubscribe_planbg.png" />
+          </Folder>
+          <Folder Name="new_ui_vn">
+            <Image Name="bg.jpg" />
+            <Image Name="bt_ok_white.png" />
+            <Image Name="btn_normal.png" />
+            <Image Name="btn_pop_vn copy.png" />
+            <Image Name="btn_pop_vn.png" />
+            <Image Name="choosen_item.png" />
+            <Image Name="close_btn.png" />
+            <Image Name="gift.png" />
+            <Image Name="grade_choosen_btn.png" />
+            <Image Name="grade_unchoose_btn.png" />
+            <Image Name="image_bar_audio.png" />
+            <Image Name="image_item_mask_audio.png" />
+            <Image Name="intro_btn.png" />
+            <Image Name="license_close_btn.png" />
+            <Image Name="license_text_bg.png" />
+            <Image Name="monkey_stories_logo_vn.png" />
+            <Image Name="monkey_stories_logo_vn_new.png" />
+            <Image Name="networkdown_vi.png" />
+            <Image Name="networkdown_vi_new.png" />
+            <Image Name="play_btn.png" />
+            <Image Name="pop_vn.png" />
+            <Image Name="pop_vn_l.png" />
+            <Image Name="pop2_vn.png" />
+            <Image Name="popup_loveapp_cancel.png" />
+            <Image Name="search_btn.png" />
+            <Image Name="setting_choosen_btn.png" />
+            <Image Name="setting_panel_bg.png" />
+            <Image Name="setting_unchoosen_btn.png" />
+            <Image Name="sidebar_bg.png" />
+            <Image Name="simple_collection_bg.png" />
+            <Image Name="text_content.png" />
+            <Image Name="theendpage_recomment_vi.png" />
+            <Image Name="tym.png" />
+          </Folder>
+          <Folder Name="parent">
+            <Image Name="box tim.png" />
+            <Image Name="box xanh.png" />
+            <Image Name="lock-outline.png" />
+            <Image Name="parent_account.png" />
+            <Image Name="parent_icon_aboutus.png" />
+            <Image Name="parent_icon_arrow.png" />
+            <Image Name="parent_icon_call.png" />
+            <Image Name="parent_icon_coupon.png" />
+            <Image Name="parent_icon_deletecache.png" />
+            <Image Name="parent_icon_languages.png" />
+            <Image Name="parent_icon_licensekey.png" />
+            <Image Name="parent_icon_noti.png" />
+            <Image Name="parent_icon_readinglevels.png" />
+            <Image Name="parent_icon_send.png" />
+            <Image Name="parent_icon_support.png" />
+            <Image Name="parent_icon_tos.png" />
+            <Image Name="parent_language_en_us.png" />
+            <Image Name="parent_language_th_thai.png" />
+            <Image Name="parent_language_vi_vn.png" />
+            <Image Name="parent_license_background.png" />
+            <Image Name="parent_license_textfield_background.png" />
+            <Image Name="parent_notification_item_background_active.png" />
+            <Image Name="parent_notification_item_background_inactive.png" />
+            <Image Name="parent_notification_item_fade.png" />
+            <Image Name="parent_notification_item_open_url.png" />
+            <Image Name="parent_notification_item_shadow.png" />
+            <Image Name="parent_notification_item_tag_new.png" />
+            <Image Name="parent_readinglevel_background.png" />
+            <Image Name="parent_readinglevel_button_active.png" />
+            <Image Name="parent_readinglevel_button_inactive.png" />
+            <Image Name="parent_support_call_icon.png" />
+            <Image Name="parent_support_method_tag.png" />
+            <Image Name="parent_support_sendmail_icon.png" />
+            <Image Name="parent_textfield_background.png" />
+            <Image Name="preloader.png" />
+            <Image Name="reading_level_frame.png" />
+          </Folder>
+          <Folder Name="pay">
+            <Image Name="pay_arrow.png" />
+            <Image Name="pay_bestseller.png" />
+            <Image Name="pay_details.png" />
+            <Image Name="pay_frame.png" />
+            <Image Name="pay_guide_btclose.png" />
+            <Image Name="pay_guide_btinfo.png" />
+            <Image Name="pay_guide_doc.png" />
+            <Image Name="pay_guide_ngang.png" />
+            <Image Name="pay_item_background.png" />
+            <Image Name="pay_package_background.png" />
+            <Image Name="pay_package_background_1.png" />
+            <Image Name="pay_package_background_2.png" />
+            <Image Name="pay_package_tag.png" />
+            <Image Name="pay_package_tag_2.png" />
+            <Image Name="pay_popup_background.png" />
+            <Image Name="pay_popup_button_blue.png" />
+            <Image Name="pay_popup_button_grey.png" />
+            <Image Name="pay_popup_button_orange.png" />
+            <Image Name="pay_popup_close_button.png" />
+            <Image Name="pay_popup_icon_background_blue.png" />
+            <Image Name="pay_popup_icon_location.png" />
+            <Image Name="pay_popup_icon_mail.png" />
+            <Image Name="pay_popup_icon_person.png" />
+            <Image Name="pay_popup_icon_phone.png" />
+            <Image Name="pay_popup_method_background.png" />
+            <Image Name="pay_popup_method_inside_frame.png" />
+            <Image Name="pay_popup_text_background_blue.png" />
+            <Image Name="pay_shadow.png" />
+            <Image Name="subscription_bestsale.png" />
+            <Image Name="subscription_bubble.png" />
+            <Image Name="subscription_dot.png" />
+            <Image Name="subscription_person.png" />
+          </Folder>
+          <Folder Name="popup">
+            <Image Name="alertplaygame_bg.png" />
+            <Image Name="alertplaygame_bt.png" />
+            <Image Name="bg_textfield_confirm_password.png" />
+            <Image Name="button_back_left.png" />
+            <Image Name="button_save.png" />
+            <Image Name="calculator_bg.png" />
+            <Image Name="calculator_bg_new.png" />
+            <Image Name="calculator_clean.png" />
+            <Image Name="calculator_close.png" />
+            <Image Name="calculator_delete.png" />
+            <Image Name="calculator_number.png" />
+            <Image Name="calculator_temp.png" />
+            <Image Name="icon_password_eye.png" />
+            <Image Name="info_popup_warning.png" />
+            <Image Name="levelinfostory_bgdoc.png" />
+            <Image Name="levelinfostory_bgngang.png" />
+            <Image Name="levelinfostory_btclose.png" />
+            <Image Name="levelinfostory_guide_doc.png" />
+            <Image Name="levelinfostory_guide_ngang.png" />
+            <Image Name="levelinfostory_item.png" />
+            <Image Name="levelinfostory_itemchoose.png" />
+            <Image Name="networkdown_doc_1.png" />
+            <Image Name="networkdown_doc_2.png" />
+            <Image Name="networkdown_doc_bg.png" />
+            <Image Name="networkdown_doc_bt1.png" />
+            <Image Name="networkdown_doc_bt2.png" />
+            <Image Name="networkdown_doc_bt3.png" />
+            <Image Name="networkdown_doc_monkey.png" />
+            <Image Name="networkdown_ngang_bg.png" />
+            <Image Name="networkdown_ngang_bg_new.png" />
+            <Image Name="networkdown_ngang_bt1.png" />
+            <Image Name="networkdown_ngang_bt2.png" />
+            <Image Name="networkdown_ngang_bt3.png" />
+            <Image Name="networkdown_ngang_chitiet1.png" />
+            <Image Name="networkdown_ngang_chitiet2.png" />
+            <Image Name="networkdown_ngang_monekey.png" />
+            <Image Name="noti_bgmgs.png" />
+            <Image Name="noti_btclose.png" />
+            <Image Name="noti_btopen.png" />
+            <Image Name="noti_khung1.png" />
+            <Image Name="noti_khung2.png" />
+            <Image Name="noti_newicon.png" />
+            <Image Name="noti_newicon2.png" />
+            <Image Name="popup_bg.png" />
+            <Image Name="popup_bg_2.png" />
+            <Image Name="popup_bg_new.png" />
+            <Image Name="popup_bt_save.png" />
+            <Image Name="popup_bt1.png" />
+            <Image Name="popup_bt2.png" />
+            <Image Name="popup_btcancel.png" />
+            <Image Name="popup_btok.png" />
+            <Image Name="popup_daukhi1.png" />
+            <Image Name="popup_daukhi2.png" />
+            <Image Name="popup_hailong_bt1.png" />
+            <Image Name="popup_hailong_bt2.png" />
+            <Image Name="popup_la.png" />
+            <Image Name="popup_logo.png" />
+            <Image Name="popup_loveapp_bg.png" />
+            <Image Name="popup_loveapp_btok.png" />
+            <Image Name="popup_loveapp_cancel.png" />
+            <Image Name="popup_loveapp_logo.png" />
+            <Image Name="popup_rate_heart.png" />
+            <Image Name="popup_ratebg.png" />
+            <Image Name="popup_ratebt.png" />
+            <Image Name="popup_ratebuy_bg.png" />
+            <Image Name="popup_ratebuy_btclose.png" />
+            <Image Name="popup_ratebuy_btrate.png" />
+            <Image Name="popup_taykhi1.png" />
+            <Image Name="popup_taykhi2.png" />
+            <Image Name="popup_welcome_bg.png" />
+            <Image Name="popup_welcome_bg_ngang.png" />
+            <Image Name="popup_welcome_bg_ngang_new.png" />
+            <Image Name="popup_welcome_bt1.png" />
+            <Image Name="popup_welcome_bt1_ngang.png" />
+            <Image Name="popup_welcome_bt2.png" />
+            <Image Name="popup_welcome_bt2_ngang.png" />
+            <Image Name="popup_welcome_monkey.png" />
+            <Image Name="popup_welcome_monkey_ngang.png" />
+            <Image Name="ratebonus_bg.png" />
+            <Image Name="ratebonus_bt.png" />
+            <Image Name="ratebonus_gift.png" />
+            <Image Name="ratebonus_num_gift.png" />
+            <Image Name="readinglevel_bg.png" />
+            <Image Name="readinglevel_monkey.png" />
+            <Image Name="readinglevel_titlebg.png" />
+            <Image Name="readinglevel_welcome_bgdoc.png" />
+            <Image Name="readinglevel_welcome_bgdoc2.png" />
+            <Image Name="readinglevel_welcome_bgngang.png" />
+            <Image Name="readinglevel_welcome_bt.png" />
+            <Image Name="readinglevel_welcome_logo.png" />
+            <Image Name="right_button.png" />
+            <Image Name="storyreadinglevel_item.png" />
+            <Image Name="storyreadinglevel_itemchoose.png" />
+            <Image Name="textfield_email.png" />
+            <Image Name="update_bg.png" />
+            <Image Name="viral_facebook_btn.png" />
+            <Image Name="viral_popup_bg.png" />
+            <Image Name="viral_popup_button.png" />
+            <Image Name="viral_popup_cloud.png" />
+            <Image Name="viral_popup_confetti.png" />
+            <Image Name="viral_popup_monkey.png" />
+            <Image Name="viral_popup_share.png" />
+            <Image Name="viral_popup_speaker.png" />
+            <Image Name="viral_popup_text.png" />
+          </Folder>
+          <PlistImageFolder Image="storystore.png" PListFile="storystore.plist" Name=".storystore_PList.Dir">
+            <PlistImageFile Name="storystore_storystore_allbookicon.png" Key="storystore/storystore_allbookicon.png" />
+            <PlistImageFile Name="storystore_storystore_arrow.png" Key="storystore/storystore_arrow.png" />
+            <PlistImageFile Name="storystore_storystore_bookbg.png" Key="storystore/storystore_bookbg.png" />
+            <PlistImageFile Name="storystore_storystore_btautoplay.png" Key="storystore/storystore_btautoplay.png" />
+            <PlistImageFile Name="storystore_storystore_btclose.png" Key="storystore/storystore_btclose.png" />
+            <PlistImageFile Name="storystore_storystore_btdownload.png" Key="storystore/storystore_btdownload.png" />
+            <PlistImageFile Name="storystore_storystore_btLang.png" Key="storystore/storystore_btLang.png" />
+            <PlistImageFile Name="storystore_storystore_btorder.png" Key="storystore/storystore_btorder.png" />
+            <PlistImageFile Name="storystore_storystore_btreaditmyself.png" Key="storystore/storystore_btreaditmyself.png" />
+            <PlistImageFile Name="storystore_storystore_btreadtome.png" Key="storystore/storystore_btreadtome.png" />
+            <PlistImageFile Name="storystore_storystore_flag.png" Key="storystore/storystore_flag.png" />
+            <PlistImageFile Name="storystore_storystore_orderbg.png" Key="storystore/storystore_orderbg.png" />
+            <PlistImageFile Name="storystore_storystore_progress.png" Key="storystore/storystore_progress.png" />
+            <PlistImageFile Name="storystore_storystore_progressbg.png" Key="storystore/storystore_progressbg.png" />
+          </PlistImageFolder>
+          <Folder Name="theendpage">
+            <Image Name="congratulation.png" />
+            <Image Name="questlove_bg.png" />
+            <Image Name="questlove_no.png" />
+            <Image Name="questlove_yes.png" />
+            <Image Name="theendpage_bg.png" />
+            <Image Name="theendpage_btplay.png" />
+            <Image Name="theendpage_btplaygame.png" />
+            <Image Name="theendpage_btskip.png" />
+            <Image Name="theendpage_doyoulike.png" />
+            <Image Name="theendpage_hill.png" />
+            <Image Name="theendpage_linerun.png" />
+            <Image Name="theendpage_manhgo.png" />
+            <Image Name="theendpage_manhgo_2.png" />
+            <Image Name="theendpage_monkey1.png" />
+            <Image Name="theendpage_monkey2.png" />
+            <Image Name="theendpage_monkey3.png" />
+            <Image Name="theendpage_recomment.png" />
+            <Image Name="theendpage_title.png" />
+            <Image Name="theendpage_title_done.png" />
+            <Image Name="theendpage_title_learn.png" />
+          </Folder>
+          <Image Name="11.png" />
+          <Image Name="bg.jpg" />
+          <Image Name="bottommenu_feedback.png" />
+          <File Name="bridge_text.plist" />
+          <File Name="define_lang_content.plist" />
+          <Image Name="en_flag.png" />
+          <Image Name="endingpage_bg.png" />
+          <Image Name="endingpage_btclose.png" />
+          <Image Name="endingpage_thanhchan.png" />
+          <Image Name="endingpage_title1.png" />
+          <Image Name="favorite_btremov.png" />
+          <Image Name="favorite_bttick.png" />
+          <Image Name="favorite_btuntick.png" />
+          <Image Name="favorite_numbg.png" />
+          <Image Name="favorite_progressdot.png" />
+          <File Name="hoideptrai.plist" />
+          <Image Name="image_gradebox_disable.png" />
+          <Image Name="indicator.png" />
+          <Image Name="indicator2.png" />
+          <Image Name="indo_flag.png" />
+          <Image Name="lang_bg.png" />
+          <Image Name="lexile_icon.png" />
+          <Image Name="lock.png" />
+          <Image Name="mj_vienlamnoi.png" />
+          <Image Name="mjsh_delete_search.png" />
+          <Image Name="monkey_logo.png" />
+          <Image Name="monkey_logo_vi.png" />
+          <Image Name="monkeystories_doc.png" />
+          <Image Name="monkeystories_doc_new.png" />
+          <Image Name="monkeystories_logo.png" />
+          <Image Name="monkeystories_logo_new.png" />
+          <Image Name="monkeystories_ngang.png" />
+          <Image Name="networkdown_ngang_bg.png" />
+          <Image Name="papgemenucontrol_bg.png" />
+          <Image Name="papgemenucontrol_btclose.png" />
+          <Image Name="papgemenucontrol_btfavorite.png" />
+          <Image Name="papgemenucontrol_btpause.png" />
+          <Image Name="papgemenucontrol_btplay.png" />
+          <Image Name="papgemenucontrol_btrefresh.png" />
+          <Image Name="papgemenucontrol_btshare.png" />
+          <Image Name="papgemenucontrol_btshow.png" />
+          <Image Name="read_it_now_background.png" />
+          <Image Name="storestory_lock.png" />
+          <Image Name="story_guide_1.png" />
+          <Image Name="story_guide_2.png" />
+          <Image Name="storyinfo_arrow.png" />
+          <Image Name="storyinfo_btautoplay.png" />
+          <Image Name="storyinfo_btclose.png" />
+          <Image Name="storyinfo_btclose_portrait.png" />
+          <Image Name="storyinfo_btdownload.png" />
+          <Image Name="storyinfo_btreadmyself.png" />
+          <Image Name="storyinfo_btreadtome.png" />
+          <Image Name="storyinfo_cover.png" />
+          <Image Name="storyinfo_cover_portrait.png" />
+          <Image Name="storyinfo_level_portrait.png" />
+          <Image Name="storyinfo_level1.png" />
+          <Image Name="storyinfo_level2.png" />
+          <Image Name="storyinfo_level3.png" />
+          <Image Name="storyinfo_level4.png" />
+          <Image Name="storyinfo_level5.png" />
+          <Image Name="storyinfo_level6.png" />
+          <Image Name="storyinfo_level7.png" />
+          <Image Name="storyinfo_logo_portrait.png" />
+          <Image Name="storyinfo_mjtext.png" />
+          <Image Name="storyinfo_progress.png" />
+          <Image Name="storyinfo_progressbg.png" />
+          <Image Name="storystore_downloadbg.png" />
+          <Image Name="storystore_navi.png" />
+          <Image Name="storyupdate_bg.png" />
+          <Image Name="storyupdate_progress.png" />
+          <Image Name="storyupdate_progressbg.png" />
+          <Image Name="storywelcome_bg.png" />
+          <Image Name="storywelcome_logo.png" />
+          <Image Name="text_story_background.png" />
+          <Image Name="thai_flag.png" />
+          <Image Name="userfeedback_doc.png" />
+          <Image Name="userfeedback_ngang.png" />
+          <Image Name="vi_flag.png" />
+          <Image Name="welcome_progress.png" />
+          <Image Name="welcome_progress_background.png" />
+        </Folder>
+        <Folder Name="popup">
+          <Folder Name="popup">
+            <Image Name="line.png" />
+            <Image Name="popup_background.png" />
+            <Image Name="signup_button.png" />
+            <Image Name="unlock_all_lesson_button.png" />
+          </Folder>
+          <Image Name="download_icon.png" />
+          <Image Name="green_bg.png" />
+          <Image Name="popup_mic.png" />
+          <Image Name="popupBg.png" />
+          <Image Name="vm_exit.png" />
+        </Folder>
+        <Folder Name="profile_parent">
+          <Image Name="gray_box.png" />
+          <Image Name="tick_checked.png" />
+          <Image Name="update_button.png" />
+        </Folder>
+        <Folder Name="rating">
+          <Image Name="button_bg.png" />
+          <Image Name="confuse.png" />
+          <Image Name="exit.png" />
+          <Image Name="fb_icon.png" />
+          <Image Name="happy.png" />
+          <Image Name="line.png" />
+          <Image Name="rating_bg.png" />
+          <Image Name="sad.png" />
+          <Image Name="textbox_bg.png" />
+          <Image Name="title_bg.png" />
+        </Folder>
+        <Folder Name="scene">
+          <Folder Name="account">
+            <Folder Name="register_screen">
+              <Image Name="black_down_arrow.png" />
+              <Image Name="button_black.png" />
+              <Image Name="button_blue.png" />
+              <Image Name="button_green.png" />
+              <Image Name="button_next.png" />
+              <Image Name="button_red.png" />
+              <Image Name="horizontal_border_line.png" />
+              <Image Name="icon_apple.png" />
+              <Image Name="icon_facebook.png" />
+              <Image Name="icon_google.png" />
+            </Folder>
+            <Image Name="eye_hide_pass.png" />
+            <Image Name="eye_hide_pass_red.png" />
+            <Image Name="eye_show_pass.png" />
+            <Image Name="line.png" />
+            <Image Name="quick_login_bg.png" />
+            <Image Name="red_box.png" />
+            <Image Name="red_eye.png" />
+            <Image Name="red_line.png" />
+          </Folder>
+          <Folder Name="onboarding">
+            <Image Name="green_button.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="subscription">
+          <Image Name="dots.png" />
+        </Folder>
+        <Folder Name="test">
+          <Image Name="1_bg0001.png" />
+          <Image Name="1_bg0002.png" />
+          <Image Name="1_c0001.png" />
+          <Image Name="2_c0002.png" />
+          <Image Name="demotruyen_bg_trang1.png" />
+          <Image Name="demotruyen_bg_trang2.png" />
+        </Folder>
+        <Folder Name="update_popup">
+          <Image Name="update_bg.png" />
+          <Image Name="update_bt.png" />
+        </Folder>
+        <Folder Name="user_account">
+          <Image Name="close_button.png" />
+        </Folder>
+        <Image Name="bg.jpg" />
+        <Image Name="button_join.png" />
+        <Image Name="cb_checked.png" />
+        <Image Name="cb_normal.png" />
+        <Image Name="exit_2.png" />
+        <Image Name="group_promo_background.png" />
+        <Image Name="group_promo_close.png" />
+        <Image Name="group_promo_join_en.png" />
+        <Image Name="group_promo_join_vi.png" />
+        <Image Name="group_promo_monkey.png" />
+        <Image Name="group_promo_notification_new.png" />
+        <TTF Name="Montserrat-Medium.ttf" />
+        <Image Name="success.png" />
+        <Image Name="support.png" />
+        <Image Name="unsuccess.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

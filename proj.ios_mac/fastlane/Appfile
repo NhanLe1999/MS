@@ -1,0 +1,6 @@
+app_identifier(ENV["APP_IDENTIFIER"]) # The bundle identifier of your app
+apple_id("monkeyappes@gmail.com") # Your Apple email address
+ENV["FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD"] = "lkyc-hymh-blgk-bycv"
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile

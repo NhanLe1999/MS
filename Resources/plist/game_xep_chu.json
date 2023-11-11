@@ -1,0 +1,152 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":2,
+		"data": [{
+				"audio_path":"xep_chu/demo1.mp3",
+				"highlight": [{
+						"s": 0,
+						"e": 230,
+						"img_path": "",
+						"isFly": false,
+						"w": "I",
+						"audio_path": "khi_xe_ui/khi_xe_ui_at.mp3"
+					}, {
+						"s": 230,
+						"e": 400,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "am",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3"
+					}, {
+						"s": 400,
+						"e": 1190,
+						"img_path": "",
+						"isFly": false,
+						"w": "hungry.",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3"
+					}, {
+						"s": 1190,
+						"e": 1570,
+						"img_path": "",
+						"isFly": true,
+						"w": "Are",
+						"audio_path": "khi_xe_ui/khi_xe_ui_are.mp3"
+					}, {
+						"s": 1570,
+						"e": 1820,
+						"img_path": "",
+						"isFly": false,
+						"w": "you",
+						"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+					}, {
+						"s": 1820,
+						"e": 2230,
+						"img_path": "",
+						"isFly": false,
+						"w": "hungry",
+						"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3"
+					}, {
+						"s": 2230,
+						"e": 2550,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "too?",
+						"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+					}
+				]
+			},{
+				"audio_path":"xep_chu/demo1.mp3",
+				"highlight": [{
+						"s": 0,
+						"e": 100,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "Bears",
+						"audio_path": "khi_xe_ui/khi_xe_ui_at.mp3"
+					}, {
+						"s": 100,
+						"e": 200,
+						"img_path": "",
+						"isFly": false,
+						"w": "like",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3"
+					}, {
+						"s": 200,
+						"e": 300,
+						"img_path": "",
+						"isFly": false,
+						"w": "to",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3"
+					}, {
+						"s": 300,
+						"e": 400,
+						"img_path": "",
+						"isFly": true,
+						"w": "eat",
+						"audio_path": "khi_xe_ui/khi_xe_ui_are.mp3"
+					}, {
+						"s": 400,
+						"e": 500,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "honey.",
+						"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+					}
+				]
+			}, {
+				"audio_path":"xep_chu/demo1.mp3",
+				"highlight": [{
+						"s": 0,
+						"e": 100,
+						"img_path": "",
+						"isFly": false,
+						"w": "The",
+						"audio_path": "khi_xe_ui/khi_xe_ui_at.mp3"
+					}, {
+						"s": 100,
+						"e": 200,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "fox",
+						"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3"
+					}, {
+						"s": 200,
+						"e": 300,
+						"img_path": "",
+						"isFly": true,
+						"w": "runs",
+						"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3"
+					}, {
+						"s": 300,
+						"e": 400,
+						"img_path": "",
+						"isFly": false,
+						"w": "in",
+						"audio_path": "khi_xe_ui/khi_xe_ui_are.mp3"
+					}, {
+						"s": 400,
+						"e": 500,
+						"img_path": "",
+						"isFly": false,
+						"w": "the",
+						"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+					}, {
+						"s": 500,
+						"e": 600,
+						"img_path": "xep_chu/7.png",
+						"isFly": true,
+						"w": "snow.",
+						"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,55 @@
+
+Record_hd.png
+size: 379,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse
+  rotate: false
+  xy: 54, 362
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Ellipse1
+  rotate: false
+  xy: 163, 286
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+Ellipse2
+  rotate: false
+  xy: 256, 256
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+Ellipse3
+  rotate: false
+  xy: 184, 73
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+Ellipse4
+  rotate: false
+  xy: 71, 287
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Ellipse5
+  rotate: false
+  xy: 2, 104
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 2, 367
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1

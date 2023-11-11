@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string></string>
+		<key>option</key>
+		<array>
+			<dict>
+				<key>tag</key>
+				<integer>216</integer>
+				<key>icon</key>
+				<string>parent_account.png</string>
+				<key>content</key>
+				<string>Tài khoản người dùng </string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>101</integer>
+				<key>icon</key>
+				<string>parent_icon_noti.png</string>
+				<key>content</key>
+				<string>Thông báo</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cài đặt</string>
+		<key>option</key>
+		<array>
+			<dict>
+				<key>tag</key>
+				<integer>201</integer>
+				<key>icon</key>
+				<string>parent_icon_languages.png</string>
+				<key>content</key>
+				<string>Ngôn ngữ hiển thị</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>204</integer>
+				<key>icon</key>
+				<string>parent_icon_deletecache.png</string>
+				<key>content</key>
+				<string>Xoá nội dung đã tải</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>202</integer>
+				<key>icon</key>
+				<string>parent_icon_licensekey.png</string>
+				<key>content</key>
+				<string>Mã kích hoạt</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>215</integer>
+				<key>icon</key>
+				<string>parent_icon_device.png</string>
+				<key>content</key>
+				<string>Quản lý gói học</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>206</integer>
+				<key>icon</key>
+				<string>parent_icon_bgmusic.png</string>
+				<key>content</key>
+				<string>Nhạc nền</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>999</integer>
+				<key>icon</key>
+				<string>parent_icon_bug.png</string>
+				<key>content</key>
+				<string>Debug</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Thông tin</string>
+		<key>option</key>
+		<array>
+			<dict>
+				<key>tag</key>
+				<integer>301</integer>
+				<key>icon</key>
+				<string>parent_icon_readinglevels.png</string>
+				<key>content</key>
+				<string>Hệ thống cấp độ</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>302</integer>
+				<key>icon</key>
+				<string>parent_icon_support.png</string>
+				<key>content</key>
+				<string>Hỗ trợ</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>304</integer>
+				<key>icon</key>
+				<string>parent_icon_privacy.png</string>
+				<key>content</key>
+				<string>Chính sách quyền riêng tư</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>303</integer>
+				<key>icon</key>
+				<string>parent_icon_tos.png</string>
+				<key>content</key>
+				<string>Điều khoản sử dụng</string>
+			</dict>
+			<dict>
+				<key>tag</key>
+				<integer>333</integer>
+				<key>icon</key>
+				<string>deleteaccount.png</string>
+				<key>content</key>
+				<string>Xóa tài khoản</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

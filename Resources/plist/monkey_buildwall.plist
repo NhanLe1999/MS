@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>list_object</key>
+	<array>
+		<dict>
+			<key>icon_id</key>
+			<integer>0</integer>
+			<key>path</key>
+			<string></string>
+			<key>properties</key>
+			<array>
+				<dict>
+					<key>key</key>
+					<string>cau</string>
+					<key>text</key>
+					<string>1</string>
+					<key>audios</key>
+					<array>
+						<dict>
+							<key>voice_id</key>
+							<integer>0</integer>
+							<key>path</key>
+							<string>voice 1</string>
+						</dict>
+						<dict>
+							<key>voice_id</key>
+							<integer>1</integer>
+							<key>path</key>
+							<string>voice 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>key</key>
+					<string>name</string>
+					<key>text</key>
+					<string>Did Max get the parrot back?</string>
+					<key>audios</key>
+					<array>
+						<dict>
+							<key>voice_id</key>
+							<integer>0</integer>
+							<key>path</key>
+							<string>voice 1</string>
+						</dict>
+						<dict>
+							<key>voice_id</key>
+							<integer>1</integer>
+							<key>path</key>
+							<string>voice 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string></string>
+			<key>properties</key>
+			<array>
+				<dict>
+					<key>key</key>
+					<string>cau</string>
+					<key>text</key>
+					<string>1</string>
+					<key>audios</key>
+					<array>
+						<dict>
+							<key>voice_id</key>
+							<integer>0</integer>
+							<key>path</key>
+							<string>voice 1</string>
+						</dict>
+						<dict>
+							<key>voice_id</key>
+							<integer>1</integer>
+							<key>path</key>
+							<string>voice 2</string>
+						</dict>
+					</array>
+				</dict>
+				<dict>
+					<key>key</key>
+					<string>name</string>
+					<key>text</key>
+					<string>DId</string>
+					<key>audios</key>
+					<array>
+						<dict>
+							<key>voice_id</key>
+							<integer>0</integer>
+							<key>path</key>
+							<string>voice 1</string>
+						</dict>
+						<dict>
+							<key>voice_id</key>
+							<integer>1</integer>
+							<key>path</key>
+							<string>voice 2</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>content_info</key>
+	<array>
+		<dict>
+			<key>text_full</key>
+			<string>Did Max get the parrot back?</string>
+			<key>text_true</key>
+			<string>Did</string>
+			<key>text_false</key>
+			<string>Jane</string>
+			<key>audio_path_full</key>
+			<string>build_wall/cau1_full.wav</string>
+			<key>audio_path_quest</key>
+			<string>build_wall/cau1_quest.wav</string>
+			<key>audio_path_true</key>
+			<string>build_wall/cau1_true.wav</string>
+			<key>audio_path_false</key>
+			<string>build_wall/cau1_false.wav</string>
+		</dict>
+		<dict>
+			<key>text_full</key>
+			<string>Did Max get the parrot back?</string>
+			<key>text_true</key>
+			<string>Max</string>
+			<key>text_false</key>
+			<string>Jane</string>
+			<key>audio_path_full</key>
+			<string>build_wall/cau1_full.wav</string>
+			<key>audio_path_quest</key>
+			<string>build_wall/cau1_quest.wav</string>
+			<key>audio_path_true</key>
+			<string>build_wall/cau1_true.wav</string>
+			<key>audio_path_false</key>
+			<string>build_wall/cau1_false.wav</string>
+		</dict>
+		<dict>
+			<key>text_full</key>
+			<string>Did Max get the parrot back?</string>
+			<key>text_true</key>
+			<string>parrot</string>
+			<key>text_false</key>
+			<string>Jane</string>
+			<key>audio_path_full</key>
+			<string>build_wall/cau1_full.wav</string>
+			<key>audio_path_quest</key>
+			<string>build_wall/cau1_quest.wav</string>
+			<key>audio_path_true</key>
+			<string>build_wall/cau1_true.wav</string>
+			<key>audio_path_false</key>
+			<string>build_wall/cau1_false.wav</string>
+		</dict>
+		<dict>
+			<key>text_full</key>
+			<string>Did Max get the parrot back?</string>
+			<key>text_true</key>
+			<string>get the</string>
+			<key>text_false</key>
+			<string>get to</string>
+			<key>audio_path_full</key>
+			<string>build_wall/cau1_full.wav</string>
+			<key>audio_path_quest</key>
+			<string>build_wall/cau1_quest.wav</string>
+			<key>audio_path_true</key>
+			<string>build_wall/cau1_true.wav</string>
+			<key>audio_path_false</key>
+			<string>build_wall/cau1_false.wav</string>
+		</dict>
+	</array>
+	<key>game_info</key>
+	<dict>
+		<key>id</key>
+		<integer>13</integer>
+		<key>title</key>
+		<string>Monkey Phonics</string>
+		<key>intro</key>
+		<string>Drag the text to match the pictures.</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

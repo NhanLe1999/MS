@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":stories" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":stories" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.0" />
+      </configuration>
+    </facet>
+    <facet type="native-android-gradle" name="Native-Android-Gradle">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="enDebug-arm64-v8a" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="enDebug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleEnDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileEnDebugSources" />
+        <afterSyncTasks>
+          <task>generateEnDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res;file://$MODULE_DIR$/res;file://$MODULE_DIR$/src/en/res;file://$MODULE_DIR$/build/generated/fabric/res/en/debug;file://$MODULE_DIR$/build/generated/res/google-services/en/debug;file://$MODULE_DIR$/build/generated/res/resValues/en/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/build/intermediates/javac/enDebug/classes" />
+    <output-test url="file://$MODULE_DIR$/build/intermediates/javac/enDebugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../.." isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/Licensekey">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/Licensekey" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/accountkit">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/accountkit" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/activity">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/activity" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/api">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/api" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/base_include">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/base_include" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/CompareAndContrast">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/CompareAndContrast" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/CoverStory">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/CoverStory" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/ImmortalCircle">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/ImmortalCircle" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/MultipleChoice">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/MultipleChoice" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/SayWhy">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/SayWhy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/WhatAreTheyThinking">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/WhatAreTheyThinking" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/WhatHappenedNext">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/WhatHappenedNext" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/build_sentence">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/build_sentence" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/build_wall">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/build_wall" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/build_word">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/build_word" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/chickens_to_coop">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/chickens_to_coop" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/diamond_dig">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/diamond_dig" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/house_of_words">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/house_of_words" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/jumping_frog">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/jumping_frog" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/jumping_monkey">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/jumping_monkey" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/khi_xe_ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/khi_xe_ui" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/land_the_plane">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/land_the_plane" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/load_the_train">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/load_the_train" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/make_a_match">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/make_a_match" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/make_fire_works">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/make_fire_works" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/matching">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/matching" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/phonics">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/phonics" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/plub_in_bulb2">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/plub_in_bulb2" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/plug_the_bulbs">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/plug_the_bulbs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/puzzle">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/puzzle" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/qa">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/qa" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/quizz">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/quizz" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/rabbit_classify">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/rabbit_classify" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/rest_in_nest">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/rest_in_nest" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/sequencing">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/sequencing" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/shark">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/shark" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/shark2">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/shark2" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/shook_book">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/shook_book" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/sing_birdie">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/sing_birdie" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/story_elements">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/story_elements" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/typing">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/typing" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/ufo">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/ufo" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/waterspray">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/waterspray" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/wheel_spin">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/wheel_spin" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/word_machine">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/word_machine" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/word_train">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/word_train" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/games/xep_chu">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/games/xep_chu" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/lib">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/lib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/lib/az">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/lib/az" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/lib/id3v2lib/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/lib/id3v2lib/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/lib/logger">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/lib/logger" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/manager">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/manager" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/mjlib">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/mjlib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/app_drawer">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/app_drawer" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/audiobook">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/audiobook" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/collection_items">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/collection_items" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/face">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/face" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/intro">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/intro" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/new_ui/lesson">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/new_ui/lesson" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BalloonTheClown">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BalloonTheClown" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BalloonTheClown_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BalloonTheClown_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BreakTheEgg">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BreakTheEgg" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BuggiesV2">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BuggiesV2" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BuildBridge">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BuildBridge" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/BuildBridge_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/BuildBridge_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/CarOnHighway">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/CarOnHighway" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/CatchingThief">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/CatchingThief" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/CaterpillaRacing">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/CaterpillaRacing" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/ChasePenguinToIgloo">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/ChasePenguinToIgloo" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/CloudCatcher">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/CloudCatcher" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/ClownOnBike">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/ClownOnBike" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/DefeatTheDragon">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/DefeatTheDragon" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/DeliveryFood">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/DeliveryFood" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/DinosaurChasing">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/DinosaurChasing" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FireFighter">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FireFighter" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FireFly">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FireFly" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FishingBoat">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FishingBoat" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FoodRestaurant">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FoodRestaurant" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FootballKick">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FootballKick" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FrogSentence">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FrogSentence" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/FruitJumpRope">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/FruitJumpRope" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/GearsForCar">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/GearsForCar" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/GingerBreadMan">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/GingerBreadMan" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/GingerBreadMan_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/GingerBreadMan_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/GymWithTheMonkey">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/GymWithTheMonkey" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/HatchingEggs">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/HatchingEggs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/HotAirBalloon">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/HotAirBalloon" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/MPBubbleBoom">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/MPBubbleBoom" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/MexicanCactus">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/MexicanCactus" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/MexicanCactus_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/MexicanCactus_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/MonsterTeeth">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/MonsterTeeth" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/Ninja">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/Ninja" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/Robot">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/Robot" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/RythmMatching">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/RythmMatching" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/Seapearl">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/Seapearl" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/Seapearl_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/Seapearl_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SheepVsWolves">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SheepVsWolves" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SheepVsWolves_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SheepVsWolves_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/ShootingStar">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/ShootingStar" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SkiingRacing">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SkiingRacing" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/Snail">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/Snail" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceShip">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceShip" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceShip_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceShip_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceStation">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SpaceStation" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/SweetLand">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/SweetLand" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/TracingLetter">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/TracingLetter" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/UFO">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/UFO" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WaterBalloon">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WaterBalloon" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WaterPipe">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WaterPipe" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WhackAMole">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WhackAMole" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WizardCauldron">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WizardCauldron" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WizardCauldron_VM">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WizardCauldron_VM" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WordTv">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WordTv" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/WordWheel">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/WordWheel" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/phonic_games/piggy">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/phonic_games/piggy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/popup">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/popup" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/rating">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/rating" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/recorder">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/recorder" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/bookpage">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/bookpage" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/homescene">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/homescene" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/homescene/subscriptions">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/homescene/subscriptions" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/popup">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/popup" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/popup/MSEventPopup">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/popup/MSEventPopup" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/story/popup/ViralPopup">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/story/popup/ViralPopup" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/ChoBoPhanTimTongThe">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/ChoBoPhanTimTongThe" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/CompletePicture">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/CompletePicture" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/DanhGia">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/DanhGia" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/DienThe">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/DienThe" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindDifferents">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindDifferents" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindHiddenObject">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindHiddenObject" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindTheWay">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/FindTheWay" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GameNoi">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GameNoi" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GameOChu">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GameOChu" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GhepTranh">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/GhepTranh" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/LuaChon">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/LuaChon" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/NhinBongDoanVat">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/NhinBongDoanVat" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/NoiDiem">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/NoiDiem" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/PhanLoai">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/PhanLoai" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/SapXep">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/SapXep" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/TellTheStory">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/TellTheStory" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/TimTuCungVanLoai">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/TimTuCungVanLoai" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/ToMau">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/ToMau" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/VMRythmMatching">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/VMRythmMatching" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/cau_hoi_mo">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/cau_hoi_mo" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Classes/vmonkey_games/jumping_monkey_vmonkey">
+      <sourceFolder url="file://$MODULE_DIR$/../../Classes/vmonkey_games/jumping_monkey_vmonkey" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../Resources">
+      <sourceFolder url="file://$MODULE_DIR$/../../Resources" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/SQLiteCpp/sqlite3">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/SQLiteCpp/sqlite3" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/SQLiteCpp/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/SQLiteCpp/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/api">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/api" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/new">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/new" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/new_v2">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/new_v2" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/new_v3">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/new_v3" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../account_profiles/new_v4">
+      <sourceFolder url="file://$MODULE_DIR$/../../account_profiles/new_v4" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/jni/hellocpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/enDebug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/enDebug/compileEnDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/en/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/enDebug/compileEnDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/fabric/res/en/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/google-services/en/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/en/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/en/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enDebug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/enDebugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/aidl_source_output_dir/enDebugAndroidTest/compileEnDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/source/buildConfig/androidTest/en/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/renderscript_source_output_dir/enDebugAndroidTest/compileEnDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/rs/androidTest/en/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/res/resValues/androidTest/en/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEnDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/build/generated/ap_generated_sources/enDebugUnitTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEnDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/en/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestEn/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testEn/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.cxx" />
+      <excludeFolder url="file://$MODULE_DIR$/.externalNativeBuild" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/2d">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/2d" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/audio">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/audio" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/audio_utils">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/audio_utils" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/jni" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/utils">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/audio/android/utils" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/base">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/base" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/base/allocator">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/base/allocator" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/deprecated">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/deprecated" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocosbuilder">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocosbuilder" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/ActionTimeline">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/ActionTimeline" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ArmatureNodeReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ArmatureNodeReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ButtonReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ButtonReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/CheckBoxReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/CheckBoxReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ComAudioReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ComAudioReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/GameMapReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/GameMapReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/GameNode3DReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/GameNode3DReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ImageViewReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ImageViewReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/LayoutReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/LayoutReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/Light3DReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/Light3DReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ListViewReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ListViewReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/LoadingBarReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/LoadingBarReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/Node3DReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/Node3DReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/NodeReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/NodeReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/PageViewReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/PageViewReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ParticleReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ParticleReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ProjectNodeReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ProjectNodeReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ScrollViewReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/ScrollViewReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SingleNodeReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SingleNodeReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SkeletonReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SkeletonReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SliderReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SliderReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SpriteReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/SpriteReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TabControlReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TabControlReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextAtlasReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextAtlasReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextBMFontReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextBMFontReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextFieldReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextFieldReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/TextReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/UserCameraReader">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/editor-support/cocostudio/WidgetReader/UserCameraReader" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/math">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/math" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/network">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/network" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/platform">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/platform" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/platform/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/platform/android" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/platform/android/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/platform/android/jni" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/renderer">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/renderer" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/storage/local-storage">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/storage/local-storage" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/ui" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/cocos/ui/UIEditBox">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/cocos/ui/UIEditBox" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/extensions/GUI/CCControlExtension">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/extensions/GUI/CCControlExtension" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/extensions/GUI/CCScrollView">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/extensions/GUI/CCScrollView" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/extensions/assets-manager">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/extensions/assets-manager" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/extensions/physics-nodes">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/extensions/physics-nodes" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/ConvertUTF">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/ConvertUTF" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/android-specific/pvmp3dec/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/android-specific/pvmp3dec/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/android-specific/tremolo/Tremolo">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/android-specific/tremolo/Tremolo" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/clipper">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/clipper" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/edtaa3func">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/edtaa3func" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/gaf/Library/Sources">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/gaf/Library/Sources" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/md5">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/md5" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/poly2tri/common">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/poly2tri/common" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/poly2tri/sweep">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/poly2tri/sweep" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/recast/DebugUtils">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/recast/DebugUtils" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/recast/Detour">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/recast/Detour" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/recast/DetourCrowd">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/recast/DetourCrowd" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/recast/DetourTileCache">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/recast/DetourTileCache" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/recast/fastlz">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/recast/fastlz" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/tinyxml2">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/tinyxml2" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/unzip">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/unzip" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/xxhash">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/xxhash" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../cocos2d/external/xxtea">
+      <sourceFolder url="file://$MODULE_DIR$/../../cocos2d/external/xxtea" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/Lession/lib">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/Lession/lib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/Lession/model">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/Lession/model" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lesson">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lesson" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib/chart">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib/chart" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib/time">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore/lib/time" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../mj_applib/QuizCore/maths">
+      <sourceFolder url="file://$MODULE_DIR$/../../mj_applib/QuizCore/maths" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/BaoAnh">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/BaoAnh" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Huy">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Huy" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Minh">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Minh" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/My">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/My" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Nam">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Nam" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Thanh">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/CTV/Thanh" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/HuyPhuong">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/HuyPhuong" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../sub_monkey_maths/HuyPhuong/game">
+      <sourceFolder url="file://$MODULE_DIR$/../../sub_monkey_maths/HuyPhuong/game" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/Library/Android/sdk/ndk/21.1.6352462/sources/android/cpufeatures">
+      <sourceFolder url="file://$USER_HOME$/Library/Android/sdk/ndk/21.1.6352462/sources/android/cpufeatures" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-location:12.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:./app/libs/safejni.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.anjlab.android.iab.v3:library:1.0.44@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.libphonenumber:libphonenumber:8.10.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.dagger:dagger:2.24@jar" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.auto.value:auto-value-annotations:1.6.5@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-android:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-applinks:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-tasks:1.4.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.zxing:core:3.3.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.device.yearclass:yearclass:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp:okhttp:2.6.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.6.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:disklrucache:4.9.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:annotations:4.9.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-lite:3.0.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:crashlytics:2.10.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:crashlytics-ndk:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:crashlytics-core:2.7.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:beta:1.2.10@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:answers:1.4.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: io.fabric.sdk.android:fabric:1.4.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database:19.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:account-kit-sdk:5.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-android-sdk:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-login:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-share:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-common:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.onesignal:OneSignal:3.10.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.browser:browser:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-places:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-applinks:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-messenger:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:facebook-core:5.11.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:extension-mediasession:2.10.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.media:media:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth:19.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-messaging:20.1.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-config:19.1.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-core:16.0.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-invites:16.0.6@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-appinvite:16.0.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:20.1.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-impl:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-stats:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-dynamic-links:19.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-auth-interop:19.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-datatransport:17.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations:16.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-abt:19.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:19.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-components:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-api-phone:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-location:15.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-auth-base:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-installations-interop:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-measurement-connector:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places-placereport:15.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-backend-cct:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders-json:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mixpanel.android:mixpanel-android:5.6.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.datatransport:transport-api:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.nisrulz:qreader:2.1.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-core:2.10.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-ui:2.10.5@aar" level="project" />
+    <orderEntry type="library" name="Gradle: io.hypertrack:smart-scheduler:0.0.13@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-collection:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.HBiSoft:HBRecorder:0.1.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.clevertap.android:clevertap-android-sdk:3.7.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.installreferrer:installreferrer:1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.exoplayer:exoplayer-hls:2.8.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase.messaging.cpp:firebase_messaging_cpp:@aar" level="project" />
+    <orderEntry type="module" module-name="libcocos2dx" />
+  </component>
+</module>

@@ -1,0 +1,96 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+
+		"box": [
+			{
+				"audio_mc_path": "rabbit_classify/rabbit_classify_preSv.mp3",
+				"data": [{
+						"id": 1,
+						"text": "toy",
+						"duration": 0.1
+					}, {
+						"id": 2,
+						"text": "candy",
+						"duration": 0.5
+					}
+					, {
+						"id": 2,
+						"text": "candy",
+						"duration": 0.7
+					}
+				]
+			},
+			{
+				"audio_mc_path": "rabbit_classify/rabbit_classify_preSv.mp3",
+				"data": [{
+						"id": 3,
+						"text": "coin",
+						"duration": 0.1
+					}, {
+						"id": 4,
+						"text": "cake",
+						"duration": 0.5
+					}
+				]
+			},
+			{
+				"audio_mc_path": "rabbit_classify/rabbit_classify_preSv.mp3",
+				"data": [{
+						"id": 3,
+						"text": "coin",
+						"duration": 0.1
+					}
+				]
+			}
+		],
+		"item": [{
+				"text": "",
+				"type": [2,4],
+				"img_path": "rabbit_classify/1.png",
+				"audio_path": ""
+			}, {
+				"type": [2,4],
+				"img_path": "rabbit_classify/2.png",
+				"audio_path": "",
+				"text": ""
+			}, {
+				"type": [1,3],
+				"text": "",
+				"img_path": "rabbit_classify/3.png",
+				"audio_path": ""
+			}, {
+				"type": [1,3],
+				"text": "",
+				"img_path": "rabbit_classify/4.png",
+				"audio_path": ""
+			}, {
+				"type": [2,4],
+				"text": "",
+				"img_path": "rabbit_classify/5.png",
+				"audio_path": ""
+			}, {
+				"type": [1,3],
+				"text": "",
+				"img_path": "rabbit_classify/6.png",
+				"audio_path": ""
+			}, {
+				"type": [2,4],
+				"text": "",
+				"img_path": "rabbit_classify/7.png",
+				"audio_path": ""
+			}, {
+				"type": [1,3],
+				"img_path": "rabbit_classify/8.png",
+				"audio_path": "",
+				"text": ""
+			}
+		]
+	}
+}

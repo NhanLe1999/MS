@@ -1,0 +1,124 @@
+{
+"skeleton": {
+	"hash": "vcQDOU8rKH3C901HP3FuO5gcZ/I",
+	"spine": "3.8.99",
+	"x": -441.75,
+	"y": -441.75,
+	"width": 883.5,
+	"height": 883.5,
+	"images": "./images/",
+	"audio": "E:/Tung - Animator/AI Speaking/Sound wave"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "scaleX": 0.95, "scaleY": 0.95, "color": "ff0000ff" },
+	{ "name": "bone2", "parent": "root", "scaleX": 0.75, "scaleY": 0.75, "color": "00ff03ff" },
+	{ "name": "bone3", "parent": "root", "scaleX": 0.57, "scaleY": 0.57, "color": "ecff00ff" },
+	{ "name": "bone4", "parent": "root", "scaleX": 0.57, "scaleY": 0.57, "color": "005fffff" },
+	{ "name": "bone5", "parent": "root", "scaleX": 0.57, "scaleY": 0.57, "color": "005fffff" }
+],
+"slots": [
+	{ "name": "Ellipse MJ", "bone": "bone", "attachment": "Ellipse MJ2" },
+	{ "name": "Ellipse MJ2", "bone": "bone2", "attachment": "Ellipse MJ2" },
+	{ "name": "Ellipse MJ3", "bone": "bone3", "attachment": "Ellipse MJ3" },
+	{ "name": "Ellipse MJ4", "bone": "bone4", "attachment": "Ellipse MJ4" },
+	{ "name": "Ellipse MJ5", "bone": "bone5", "attachment": "Ellipse MJ5" }
+],
+"skins": [
+	{
+		"name": "MJ",
+		"attachments": {
+			"Ellipse MJ": {
+				"Ellipse MJ2": { "name": "Ellipse MJ", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ2": {
+				"Ellipse MJ2": { "name": "Ellipse MJ", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ3": {
+				"Ellipse MJ3": { "name": "Ellipse MJ", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ4": {
+				"Ellipse MJ4": { "name": "Ellipse MJ", "y": 0.72, "width": 930, "height": 930 }
+			},
+			"Ellipse MJ5": {
+				"Ellipse MJ5": { "name": "Ellipse MJ", "y": 0.72, "width": 930, "height": 930 }
+			}
+		}
+	},
+	{
+		"name": "MS",
+		"attachments": {
+			"Ellipse MJ": {
+				"Ellipse MJ2": { "name": "Ellipse MS", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ2": {
+				"Ellipse MJ2": { "name": "Ellipse MS", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ3": {
+				"Ellipse MJ3": { "name": "Ellipse MS", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ4": {
+				"Ellipse MJ4": { "name": "Ellipse MS", "width": 930, "height": 930 }
+			},
+			"Ellipse MJ5": {
+				"Ellipse MJ5": { "name": "Ellipse MS", "width": 930, "height": 930 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"Ellipse MJ": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"Ellipse MJ4": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"Ellipse MJ5": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 1.3333, "name": "Ellipse MJ5" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{},
+					{ "time": 0.6333, "x": 1.368, "y": 1.368, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 1.368, "y": 1.368 }
+				]
+			},
+			"bone2": {
+				"scale": [
+					{},
+					{ "time": 0.6333, "x": 1.267, "y": 1.267, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 1.267, "y": 1.267 }
+				]
+			},
+			"bone3": {
+				"scale": [
+					{},
+					{ "time": 0.6333, "x": 1.316, "y": 1.316, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "x": 1.316, "y": 1.316 }
+				]
+			}
+		}
+	}
+}
+}

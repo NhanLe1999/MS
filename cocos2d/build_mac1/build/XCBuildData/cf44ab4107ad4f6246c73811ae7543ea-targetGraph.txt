@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+libcocos2d iOS in cocos2d_libs, no dependencies

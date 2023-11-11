@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>homepage</key>
+	<dict>
+		<key>character</key>
+		<string>Nhân vật</string>
+		<key>topic_new</key>
+		<string>Mới nhất</string>
+		<key>topic_popular</key>
+		<string>Nhiều người đọc</string>
+		<key>topic_recentlyread</key>
+		<string>Vừa đọc xong</string>
+		<key>topic_category</key>
+		<string>Chủ đề</string>
+		<key>feature_msg</key>
+		<string>Đọc ngay</string>
+		<key>chooselanguage</key>
+		<string>Chọn ngôn ngữ của truyện</string>
+		<key>bottommenu1</key>
+		<string>Trang chủ</string>
+		<key>bottommenu2</key>
+		<string>Kho truyện</string>
+		<key>bottommenu3</key>
+		<string>Miễn phí</string>
+		<key>bottommenu4</key>
+		<string>Đặt mua</string>
+		<key>bottommenu5</key>
+		<string>Bố mẹ</string>
+		<key>bottommenu6</key>
+		<string>Yêu thích</string>
+		<key>bottommenu7</key>
+		<string>Bài học</string>
+	</dict>
+	<key>explorepage</key>
+	<dict>
+		<key>title_all</key>
+		<string>Tất cả cấp độ</string>
+		<key>title_level</key>
+		<string>Cấp độ</string>
+		<key>sort1</key>
+		<string>Phổ biến nhất</string>
+		<key>sort2</key>
+		<string>Mới nhất</string>
+		<key>sort3</key>
+		<string>Dễ đến khó</string>
+		<key>sort4</key>
+		<string>CẤP ĐỘ</string>
+		<key>btchooselevel</key>
+		<string>Chọn cấp độ</string>
+	</dict>
+	<key>freepage</key>
+	<dict>
+		<key>title</key>
+		<string>Truyện miễn phí trong ngày</string>
+		<key>item_level</key>
+		<string>Cấp độ:</string>
+		<key>item_pagenumber</key>
+		<string>Số trang:</string>
+	</dict>
+	<key>parentpage</key>
+	<dict>
+		<key>delete_cache</key>
+		<string>Xóa truyện đã tải</string>
+		<key>title</key>
+		<string>Dành Cho Bố Mẹ</string>
+		<key>language1</key>
+		<string>English</string>
+		<key>language2</key>
+		<string>ภาษาไทย</string>
+		<key>language3</key>
+		<string>Bahasa</string>
+		<key>language4</key>
+		<string>Tiếng Việt</string>
+		<key>language_title</key>
+		<string>Chọn ngôn ngữ hiển thị</string>
+		<key>language_title_portrait</key>
+		<string>Ngôn ngữ hiển thị</string>
+		<key>support_option1</key>
+		<string>Cách 1</string>
+		<key>support_option2</key>
+		<string>Cách 2</string>
+		<key>support_title1</key>
+		<string>Gửi email cho chúng tôi:</string>
+		<key>support_title</key>
+		<string>Hỗ trợ</string>
+		<key>support_title2</key>
+		<string>Gọi tới Hotline:</string>
+		<key>support_action1</key>
+		<string>Gửi email</string>
+		<key>support_action2</key>
+		<string>Gọi điện</string>
+		<key>support_version</key>
+		<string>Phiên bản</string>
+		<key>support_deviceid</key>
+		<string>Device ID</string>
+		<key>coupon_title_portrait</key>
+		<string>Mã giảm giá</string>
+		<key>license_title_portrait</key>
+		<string>Mã kích hoạt</string>
+	</dict>
+	<key>subscribepage</key>
+	<dict>
+		<key>title</key>
+		<string>Chọn gói mua</string>
+	</dict>
+	<key>favoritespage</key>
+	<dict>
+		<key>title</key>
+		<string>Truyện yêu thích</string>
+		<key>title_select</key>
+		<string>Chọn truyện để xóa</string>
+		<key>selectlb</key>
+		<string>Xóa</string>
+		<key>selectlb_cancel</key>
+		<string>Huỷ</string>
+		<key>title_selected_it</key>
+		<string>Truyện đã chọn</string>
+		<key>title_selected_nhieu</key>
+		<string>Truyện đã chọn</string>
+		<key>remove_title</key>
+		<string>Xoá truyện khỏi danh sách Yêu thích</string>
+		<key>remove_alert_content</key>
+		<string>Bạn có muốn xoá những truyện này ra khỏi danh sách Yêu thích?</string>
+		<key>remove_alert_btok</key>
+		<string>Có</string>
+		<key>remove_alert_btcancel</key>
+		<string>Không</string>
+	</dict>
+	<key>storypagevc</key>
+	<dict>
+		<key>alert_rate_content</key>
+		<string>Bạn đã đánh giá ứng dụng chưa?</string>
+		<key>alert_btok</key>
+		<string>Có</string>
+		<key>alert_btok1</key>
+		<string>Đồng ý</string>
+		<key>alert_btcancel</key>
+		<string>Không</string>
+		<key>alert_rate_ok</key>
+		<string>Tôi đã đánh giá rồi!</string>
+		<key>alert_rate_cancel</key>
+		<string>Chưa. Bây giờ tôi sẽ làm.</string>
+		<key>alert_rate_guiderate</key>
+		<string>Chưa. Hãy chỉ tôi cách đánh giá.</string>
+		<key>alert_subscribe_content</key>
+		<string>Bạn đã đọc hết một truyện miễn phí của ngày hôm nay. Vui lòng đăng ký mua để đọc thêm truyện.</string>
+		<key>alert_loveapp_content</key>
+		<string>Bạn có hài lòng với chương trình của chúng tôi?</string>
+		<key>alert_subscribe_content_rate</key>
+		<string>Bạn đã đọc hết truyện miễn phí. Vui lòng đăng ký mua để tiếp tục.</string>
+		<key>alert_sub_buy</key>
+		<string>Đăng ký mua!</string>
+		<key>alert_sub_rate</key>
+		<string>Tiếp tục đọc truyện miễn phí</string>
+		<key>alert_playgame_content</key>
+		<string>Vui lòng đăng ký mua để chơi game!</string>
+		<key>alert_playgame_btok</key>
+		<string>Đăng ký mua!</string>
+	</dict>
+	<key>ratepopup</key>
+	<dict>
+		<key>rate_title</key>
+		<string>QUÀ TẶNG</string>
+		<key>rate_bt</key>
+		<string>Đánh giá</string>
+		<key>rate_content</key>
+		<string>Hãy đánh giá $(appname)*để thêm lượt đọc truyện!</string>
+		<key>rate_numstory</key>
+		<string>lượt đọc</string>
+		<key>bonus_title</key>
+		<string>CHÚC MỪNG</string>
+		<key>bonus_content</key>
+		<string>lượt đọc</string>
+		<key>bonus_content2</key>
+		<string>Bạn được tặng</string>
+		<key>ratebuy_title</key>
+		<string>Bạn có thích $(appname) không?</string>
+		<key>ratebuy_content</key>
+		<string>Hãy đánh giá ứng dụng!</string>
+		<key>ratebuy_bt</key>
+		<string>ĐÁNH GIÁ!</string>
+	</dict>
+	<key>levelinfo</key>
+	<dict>
+		<key>guide_title</key>
+		<string>Mẹo nhỏ</string>
+		<key>guide_content</key>
+		<string>Nhấn nút này để*tìm hiểu cấp độ*của truyện</string>
+		<key>lexile_score</key>
+		<string>Điểm Lexile</string>
+		<key>word_count</key>
+		<string>Số từ</string>
+		<key>page_count</key>
+		<string>Số trang</string>
+		<key>welcome_title</key>
+		<string>Hệ thống cấp độ truyện</string>
+		<key>welcome_content</key>
+		<string>Kho truyện phong phú được phân chia thành các cấp độ từ dễ đến khó và áp dụng hệ thống Tiêu chuẩn Chung của Mỹ trong giảng dạy tiếng Anh đối với học sinh mầm non, tiểu học và trung học (CCSS).  Ở mỗi cấp độ đọc, các truyện được xây dựng và trình bày phù hợp với khả năng đọc hiểu của trẻ ở từng độ tuổi.</string>
+		<key>reading_title</key>
+		<string>Cấp độ truyện của $(appname)</string>
+		<key>btnext</key>
+		<string>Tìm hiểu thêm</string>
+	</dict>
+	<key>general</key>
+	<dict>
+		<key>level</key>
+		<string>Cấp độ</string>
+		<key>search</key>
+		<string>Tìm kiếm</string>
+		<key>search_input</key>
+		<string>Nhập tên truyện...</string>
+	</dict>
+	<key>popup</key>
+	<dict>
+		<key>welcome_title</key>
+		<string>CHÀO MỪNG BẠN ĐẾN VỚI</string>
+		<key>welcome_content</key>
+		<string>Giỏi tiếng Anh trước tuổi lên 10</string>
+		<key>welcome_content_vmonkey</key>
+		<string>Kho truyện tiếng Việt tương tác số 1 Việt nam</string>
+		<key>welcome_btsub</key>
+		<string>Đăng ký mua</string>
+		<key>welcome_btfree</key>
+		<string>Dùng thử miễn phí mỗi ngày</string>
+		<key>network_ok</key>
+		<string>Sử dụng ngoại tuyến</string>
+		<key>network_cancel</key>
+		<string>Thử lại</string>
+		<key>network_cancel_msgdoc</key>
+		<string>Không thể kết nối được với*máy chủ $(appname), vui lòng*kiểm tra kết nối mạng và thử lại.</string>
+		<key>network_cancel_msgngang</key>
+		<string>Không thể kết nối được với máy chủ*$(appname), vui lòng kiểm tra kết nối mạng và thử lại.</string>
+		<key>network_title</key>
+		<string>Không thể kết nối</string>
+		<key>noti_title</key>
+		<string>Thông báo</string>
+		<key>noti_open</key>
+		<string>MỞ</string>
+		<key>menu_play</key>
+		<string>Đọc</string>
+		<key>menu_startover</key>
+		<string>Bắt đầu lại</string>
+		<key>menu_favorite</key>
+		<string>Yêu thích</string>
+		<key>menu_share</key>
+		<string>Chia sẻ</string>
+		<key>menu_close</key>
+		<string>Thoát truyện</string>
+		<key>update_btok</key>
+		<string>Cập nhật ngay!</string>
+		<key>update_btcancel</key>
+		<string>Bỏ qua</string>
+		<key>menu_pause</key>
+		<string>Dừng</string>
+	</dict>
+	<key>endingpage</key>
+	<dict>
+		<key>rate1</key>
+		<string>I love it</string>
+		<key>rate2</key>
+		<string>It&apos;s ok</string>
+		<key>rate3</key>
+		<string>No, I don&apos;t</string>
+		<key>queslovestory</key>
+		<string>Do you like this story?</string>
+		<key>recoment</key>
+		<string>Our recommended stories:</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":2,
+		"object": [{
+				"img_path":"shook_book/5.png",
+				"text":"chair",
+				"audio_path":"shook_book/chair.mp3"
+			},{
+				"img_path":"shook_book/6.png",
+				"text":"table",
+				"audio_path":"shook_book/table.mp3"
+			}, {
+				"img_path":"shook_book/7.png",
+				"text":"meat",
+				"audio_path":"shook_book/meat.mp3"
+			}
+		],
+		"letter": [{
+				"text":"t",
+				"audio_path":"shook_book/T.mp3"
+			},{
+				"text":"m",
+				"audio_path":"shook_book/M.mp3"
+			}
+		]
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":3,
+		"data": [{
+				"img_path":"diamond_dig/1.png",
+				"highlight": [{
+						"isTrueAnswer": true,
+						"w": "Alvin even love to take a bath.",
+						"audio_path": "diamond_dig/1.mp3"
+					}, {
+						"isTrueAnswer": false,
+						"w": "Alvin even scrubs his bath toys with the bath sponge.",
+						"audio_path": "diamond_dig/2.mp3"
+					}
+				]
+			},{
+				"img_path":"diamond_dig/1.png",
+				"highlight": [{
+						"isTrueAnswer": true,
+						"w": "Alvin even love to take a bath.",
+						"audio_path": "diamond_dig/1.mp3"
+					}, {
+						"isTrueAnswer": false,
+						"w": "Alvin even scrubs his bath toys with the bath sponge.",
+						"audio_path": "diamond_dig/2.mp3"
+					}
+				]
+			}, {
+				"img_path":"diamond_dig/1.png",
+				"highlight": [{
+						"isTrueAnswer": true,
+						"w": "Alvin even love to take a bath.",
+						"audio_path": "diamond_dig/1.mp3"
+					}, {
+						"isTrueAnswer": false,
+						"w": "Alvin even scrubs his bath toys with the bath sponge.",
+						"audio_path": "diamond_dig/2.mp3"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="camera_activity">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="intro_message">
+        <![CDATA[
+This sample uses the camera/camcorder as the A/V source for the MediaRecorder API.
+A TextureView is used as the camera preview which limits the code to API 14+. This
+can be easily replaced with a SurfaceView to run on older devices.
+        ]]>
+    </string>
+
+    <string name="btnCapture">capture</string>
+<!--    <string name="ak_login_protocol_scheme">ak520137134992261</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb520137134992261</string>-->
+<!--    <string name="facebook_client_token">798e11b5f2d2d3ff8e6216d914e4b353</string>-->
+<!--    <string name="CLEVER_TAP_ID">W46-6KK-685Z</string>-->
+<!--    <string name="CLEVER_TAP_TOKEN">336-640</string>-->
+<!--    <string name="facebook_app_id">520137134992261</string>-->
+</resources>

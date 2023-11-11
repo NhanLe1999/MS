@@ -1,0 +1,41 @@
+
+mic_hd.png
+size: 378,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mic
+  rotate: true
+  xy: 2, 7
+  size: 165, 240
+  orig: 165, 240
+  offset: 0, 0
+  index: -1
+shape1
+  rotate: false
+  xy: 311, 79
+  size: 65, 93
+  orig: 75, 106
+  offset: 4, 6
+  index: -1
+shape2
+  rotate: false
+  xy: 244, 3
+  size: 55, 73
+  orig: 66, 86
+  offset: 5, 6
+  index: -1
+shape3
+  rotate: false
+  xy: 244, 78
+  size: 65, 94
+  orig: 75, 105
+  offset: 6, 6
+  index: -1
+shape4
+  rotate: false
+  xy: 301, 2
+  size: 55, 74
+  orig: 66, 85
+  offset: 6, 6
+  index: -1

@@ -1,0 +1,3 @@
+[submodule "mj_applib"]
+	path = mj_applib
+	url = https://github.com/eduhub123/mj_applib.git

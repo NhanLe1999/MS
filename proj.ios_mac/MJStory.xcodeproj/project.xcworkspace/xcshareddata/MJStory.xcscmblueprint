@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "58EB2DFED622577C624C93B10D74F85111F48FC5+++B3083D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++BE27516" : 0,
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++B3083D6" : 0,
+    "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++417FD42" : 0,
+    "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++30D824F" : 0,
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++650FD17" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF08E317-090D-4AB2-A59A-177E9E683E59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++BE27516" : "",
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++B3083D6" : "MJStory\/",
+    "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++417FD42" : "..\/..\/..\/Users\/hoisung\/MJ",
+    "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++30D824F" : "..\/..\/Users\/hoisung\/MJ",
+    "58EB2DFED622577C624C93B10D74F85111F48FC5+++650FD17" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MJStory",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "proj.ios_mac\/MJStory.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eduhub123\/MJ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++30D824F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eduhub123\/MJ.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08E73CB368F15A8A477D654F52C40DB069CFA3F3+++417FD42"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eduhub123\/MJStory.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58EB2DFED622577C624C93B10D74F85111F48FC5+++650FD17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/eduhub123\/MJStory.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58EB2DFED622577C624C93B10D74F85111F48FC5+++B3083D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/havanhoi\/social_login.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58EB2DFED622577C624C93B10D74F85111F48FC5+++BE27516"
+    }
+  ]
+}

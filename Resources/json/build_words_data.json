@@ -1,0 +1,33 @@
+[
+    {
+        "word" : "potato",
+        "char_audio" : {
+             "p" : "build_word/p.mp3",
+             "o" : "build_word/o.mp3",
+             "t" : "build_word/t.mp3",
+             "a" : "build_word/a.mp3",
+             "t" : "build_word/t.mp3",
+             "o" : "build_word/o.mp3"
+        },
+        "word_audio" : "build_word/camp.mp3"
+    },
+     {
+         "word" : "camp",
+         "char_audio" : {
+             "c" : "build_word/c.mp3",
+             "a" : "build_word/a.mp3",
+             "m" : "build_word/m.mp3",
+             "p" : "build_word/p.mp3"
+         },
+        "word_audio" : "build_word/camp.mp3"
+     },
+     {
+         "word" : "pop",
+         "char_audio" : {
+            "p" : "build_word/p.mp3",
+            "o" : "build_word/o.mp3",
+            "p" : "build_word/p.mp3"
+         },
+         "word_audio" : "build_word/camp.mp3"
+     }
+]

@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key.support.app.info.curr.version</key>
+	<string>เวอร์ชันในปัจจุบัน:</string>
+	<key>key.support.app.info.new.version</key>
+	<string>เวอร์ชันล่าสุด:</string>
+	<key>key.support.app.info</key>
+	<string>ข้อมูลการสมัคร</string>
+	<key>key.support.update.now</key>
+	<string>อัปเดตทันที</string>
+	<key>key.support.send.mail</key>
+	<string>ส่งอีเมล</string>
+	<key>key.support.call</key>
+	<string>โทร</string>
+	<key>key.support</key>
+	<string>ช่วยเหลือ</string>
+	<key>key.suggest.adding.profile</key>
+	<string>เพิ่มผู้เรียนในหมวดผู้ปกครอง</string>
+	<key>key.reender.password</key>
+	<string>ป้อนรหัสผ่านอีกครั้ง</string>
+	<key>key.ap.calculator</key>
+	<string>โปรดดำเนินทางคณิตศาสตร์เพื่อดำเนินการต่อ</string>
+	<key>key.choose.a.course</key>
+	<string>เลือกบทเรียน</string>
+	<key>key.popup.skip.msg</key>
+	<string>ลงทะเบียนตอนนี้เพื่อได้เรียนรู้กับการทดลอง ก่อนภัยใน %d วันแบบไม่ จำกัดครั้งเรียน
+กดดำเนินการต่อหากคุณไม่ต้องการลงทะเบียนบัญชี</string>
+	<key>key.skip</key>
+	<string>ข้าม</string>
+	<key>key.child.name</key>
+	<string>ชื่อของคุณ</string>
+	<key>key.edit.profile</key>
+	<string>แก้ไขโปรไฟล์</string>
+	<key>key.new.profile</key>
+	<string>โปรไฟล์ใหม่</string>
+	<key>key.trial</key>
+	<string>ทดลอง</string>
+	<key>key.selected</key>
+	<string>เลือก</string>
+	<key>key.account.information</key>
+	<string>ข้อมูลเกี่ยวกับบัญชี</string>
+	<key>key.selection.title</key>
+	<string>เลือก</string>
+	<key>key.search</key>
+	<string>ค้นหา</string>
+	<key>key.full.profiles</key>
+	<string>คุณได้สร้างโปรไฟล์ครบแล้ว</string>
+	<key>key.grade.kindergarten</key>
+	<string>ระดับ 1 และ 2</string>
+	<key>key.register.popup.msg</key>
+	<string>กรุณาผู้ปกครองลงทะเบียนบัญชีเพื่อใช้คุณสมบัตินี้</string>
+	<key>key.download</key>
+	<string>ดาวน์โหลด</string>
+	<key>key.upgrade.account.popup.msg</key>
+	<string>ลงทะเบียนเลยเพื่อได้เรียนฟรีเพิ่ม 5 วันไม่จำกัดครั้ง</string>
+	<key>key.please.select.gender</key>
+	<string>โปรดเลือกเพศของเด็ก</string>
+	<key>key.profile.created</key>
+	<string>ชื่อโปรไฟล์ได้สร้างแล้ว</string>
+	<key>key.profile.invalid</key>
+	<string>ชื่อโปรไฟล์มีตัวอักษรพิเศษ</string>
+	<key>key.please.enter.child.name</key>
+	<string>กรุณาใส่ชื่อลูกลูกของคุณ</string>
+	<key>key.select.country.code</key>
+	<string>เลือกประเทศ / ภูมิภาค</string>
+	<key>key.reset.password.tiltle2</key>
+	<string>(ผู้ปกครองโปรดป้อนรหัสผ่านสำหรับบัญชีเพื่อเริ่มใช้โปรแกรม)</string>
+	<key>key.save</key>
+	<string>บันทึก</string>
+	<key>key.please.enter.email.phone.number</key>
+	<string>โปรดกรอกหมายเลขโทรศัพท์หรืออีเมลหรือบัญชี</string>
+	<key>key.invalid.phone.number</key>
+	<string>หมายเลขโทรศัพท์ไมถูกต้อง</string>
+	<key>key.please.enter.phone.number</key>
+	<string>โปรดกรอกหมายเลขโทรศัพท์</string>
+	<key>key.reset.password.tiltle</key>
+	<string>ตั้งรหัสผ่านใหม่</string>
+	<key>key.enter.email</key>
+	<string>กรอกอีเมล</string>
+	<key>key.phonic.popup.msg</key>
+	<string>กิจกรรมเสริม 2,000 เกมโต้ตอบเพื่อช่วยให้เด็กฝึกการออกเสียงและพัฒนาทักษะการพูดได้อย่างสมบูรณ์แบบ</string>
+	<key>key.comming.soon</key>
+	<string>เปิดตัวเร็วๆนี้</string>
+	<key>key.all.grades</key>
+	<string>ทุกระดับ</string>
+	<key>key.welcome.back</key>
+	<string>ยินดี %s
+ที่กลับมา!</string>
+	<key>key.welcome.to</key>
+	<string>ยินดี %s พบกับ
+%s !</string>
+	<key>key.not.have.account</key>
+	<string>คุณยังไม่มีบัญชี? </string>
+	<key>key.forgot.account</key>
+	<string>ลืมรหัส</string>
+	<key>key.enter.phone.or.email</key>
+	<string>ป้อนบัญชีผู้ใช้/เบอร์โทรศัพท์/อีเมล</string>
+	<key>key.have.account</key>
+	<string>คุณมีบัญชีแล้วหรือยัง? </string>
+	<key>key.or</key>
+	<string>หรือ</string>
+	<key>key.please.login.with.gmail</key>
+	<string>โปรดเลือกเพื่อเข้าสู่ระบบด้วย Gmail APPNAME ของคุณ </string>
+	<key>key.email.phone.wrong</key>
+	<string>ชื่อผู้ใช้/หมายเลขโทรศัพท์/อีเมลของคุณไม่ถูกต้อง</string>
+	<key>key.quick.login</key>
+	<string>เข้าสู่ระบบด่วน: </string>
+	<key>key.logout</key>
+	<string>ออกจากระบบ</string>
+	<key>key.detail</key>
+	<string>รายละเอียด</string>
+	<key>key.adding.your.address</key>
+	<string>เพิ่มที่อยู่ของคุณ</string>
+	<key>key.adding.your.email</key>
+	<string>เพิ่มอีเมลของคุณ</string>
+	<key>key.adding.your.phone</key>
+	<string>เพิ่มหมายเลขโทรศัพท์ของคุณ</string>
+	<key>key.adding.your.name</key>
+	<string>เพิ่มชื่อของคุณ</string>
+	<key>key.change.profile</key>
+	<string>เปลี่ยนโปรไฟล์ของผู้เรียน</string>
+	<key>new_onboard_title</key>
+	<string>เลือกระดับที่เหมาะสมให้กับลูกน้อยของคุณ</string>
+	<key>rating_entering_warning_text</key>
+	<string>(*) ข้อมูลที่จำเป็นต้องระบุ</string>
+	<key>rating_cancel_text</key>
+	<string>ยกเลิก</string>
+	<key>rating_empty_texbox</key>
+	<string>โปรดฝากความคิดเห็น/รีวิว/คำติชม</string>
+	<key>rating_review_fb_text</key>
+	<string>เข้าถึงเว็บไซต์</string>
+	<key>rating_review_post_text</key>
+	<string>โพสต์ คำติชมของคุณ</string>
+	<key>rating_review_confused_description</key>
+	<string>หากคุณไม่ทราบวิธีใช้งาน APPNAME โปรดเยี่ยมชมหน้าเว็บไซต์ของเราที่
+DONG HANH CUNG CON HOC MONKEY หรือฝากความคิดเห็นเอาไว้</string>
+	<key>rating_review_confused_title</key>
+	<string>มีข้อผิดพลาดหรือไม่?</string>
+	<key>rating_review_sad_description</key>
+	<string>เราต้องการที่จะปรับปรุง APPNAME ให้ดีขึ้น และสร้างประสบการณ์ความสนุกให้กับคุณ!</string>
+	<key>rating_review_sad_title</key>
+	<string>ช่วยเราปรับปรุง?</string>
+	<key>rating_happy_tile</key>
+	<string>พอใจ</string>
+	<key>rating_confused_tile</key>
+	<string>เฉย ๆ</string>
+	<key>rating_sad_tile</key>
+	<string>ไม่พอใจ</string>
+	<key>rating_tile</key>
+	<string>คุณรู้สึกอย่างไร</string>
+	<key>ap_waring_entering_otp</key>
+	<string>โปรดป้อนรหัส OTP</string>
+	<key>ap_security_question_title</key>
+	<string>โปรดตอบคำถามด้านความปลอดภัยดังต่อไปนี้เพื่อยืนยันบัญชีของคุณ</string>
+	<key>ap_password_recovery_method_title</key>
+	<string>คุณต้องการรีเซ็ตรหัสผ่านของคุณด้วยวิธีไหน?</string>
+	<key>ap_open_security_question</key>
+	<string>ตอบคำถามด้านความปลอดภัยเพื่อยืนยันบัญชีของคุณ</string>
+	<key>ap_send_code_to_sms_question</key>
+	<string>ส่งรหัสผ่านทางข้อความ SMS</string>
+	<key>ap_send_code_to_email_question</key>
+	<string>ส่งรหัสผ่านทางอีเมล</string>
+	<key>ap_forgot_pass_title</key>
+	<string>ลืมรหัสผ่าน</string>
+	<key>ap_forgot_account_title</key>
+	<string>Forgot account</string>
+	<key>ap_waring_password</key>
+	<string>รหัสผ่านของคุณจะต้องมีอย่างน้อย 4 ตัวอักษร</string>
+	<key>ap_change_password_title</key>
+	<string>โปรดเปลี่ยนรหัสผ่านของคุณเพื่อเข้าถึงแอพพลิเคชั่น</string>
+	<key>ap_password_changed_successfully</key>
+	<string>เปลี่ยนรหัสผ่านสำเร็จแล้ว</string>
+	<key>ap_enter_new_password_for_old_user_title</key>
+	<string>บัญชีของคุณไม่มีรหัสผ่าน! โปรดสร้างรหัสผ่านเพื่อปกป้องบัญชีของคุณ</string>
+	<key>ap_waring_entering_password</key>
+	<string>โปรดป้อนข้อมูลในช่องรหัสผ่าน!</string>
+	<key>ap_match_password</key>
+	<string>รหัสผ่านไม่ตรงกัน</string>
+	<key>ap_disable_security_question_verification</key>
+	<string>ประเภทของการยืนยันนี้จะถูกล็อกภายใน 24 ชั่วโมง</string>
+	<key>ap_failed_verification</key>
+	<string>ยืนยันบัญชีล้มเหลว</string>
+	<key>ap_successful_verification</key>
+	<string>ยืนยันบัญชีสำเร็จ</string>
+	<key>ap_wrong_phone_number</key>
+	<string>หมายเลขโทรศัพท์ไม่ถูกต้อง หรือใช้งานไม่ได้!</string>
+	<key>ap_email_verification_code</key>
+	<string>ส่งรหัสยืนยันไปยังที่อยู่อีเมลของคุณแล้ว</string>
+	<key>ap_phone_verification_code</key>
+	<string>ส่งรหัสยืนยันไปยังโทรศัพท์ของคุณแล้ว</string>
+	<key>ap_resend_code_button_title2</key>
+	<string>ส่งอีกครั้ง</string>
+	<key>ap_resend_code_button_title</key>
+	<string>ส่งรหัสอีกครั้ง (%d)</string>
+	<key>ap_continue_button_title</key>
+	<string>ดำเนินการต่อ</string>
+	<key>ap_phone_otp_title</key>
+	<string>โปรดตรวจสอบข้อความ SMS ของคุณ เราได้ส่งรหัสยืนยันไปยัง:</string>
+	<key>ap_email_otp_title</key>
+	<string>โปรดตรวจสอบอีเมลของคุณ เราได้ส่งรหัสยืนยันไปยัง:</string>
+	<key>ap_finish_button_title</key>
+	<string>เสร็จสิ้น</string>
+	<key>ap_enter_new_password_title</key>
+	<string>ยืนยันบัญชีสำเร็จ
+โปรดรีเซ็ตรหัสผ่านของคุณเพื่อเข้าถึงแอพพลิเคชั่น</string>
+	<key>ap_register_button_title</key>
+	<string>ลงทะเบียน</string>
+	<key>ap_register_title</key>
+	<string>โปรดป้อนรหัสผ่านของคุณเพื่อเข้าถึงแอพพลิเคชั่น</string>
+	<key>ap_send_title</key>
+	<string>ส่ง</string>
+	<key>ap_enter_phone</key>
+	<string>ป้อนหมายเลขโทรศัพท์</string>
+	<key>ap_enter_password</key>
+	<string>ป้อนรหัสผ่าน</string>
+	<key>ap_reenter_password</key>
+	<string>ป้อนรหัสผ่านอีกครั้ง</string>
+	<key>ap_login_title</key>
+	<string>โปรดป้อนรหัสผ่านของคุณเพื่อเข้าถึงแอพพลิเคชั่น</string>
+	<key>ap_login_button_title</key>
+	<string>เข้าสู่ระบบ</string>
+	<key>ap_enter_phone_number_title</key>
+	<string>โปรดป้อนหมายเลขโทรศัพท์ของคุณเพื่อสมัครสมาชิกไปยังโปรแกรม</string>
+	<key>free_welcome</key>
+	<string>สัมผัสประสบการณ์กับคุณสมบัติทั้งหมดได้ฟรี 2 วันด้วย</string>
+	<key>recorder.warning</key>
+	<string>คุณสมบัตินี้ไม่พร้อมให้ใช้งานบนอุปกรณ์ของคุณ โปรดทำการอัพเกรดไปเป็นเวอร์ชั่นที่ใหม่กว่า</string>
+	<key>author.rewrite</key>
+	<string>เขียนขึ้นใหม่โดย:</string>
+	<key>settings.title</key>
+	<string>การตั้งค่า</string>
+	<key>parent.license.ask</key>
+	<string>โปรดป้อนรหัสเปิดใช้งานหากคุณได้ทำการซื้อเรียบร้อยแล้ว</string>
+	<key>settings.subscribe.license</key>
+	<string>ลงทะเบียนเพื่อซื้อรหัสใบอนุญาต</string>
+	<key>parent.license.expire</key>
+	<string>วันหมดอายุของใบอนุญาต</string>
+	<key>parent.license.lifetime</key>
+	<string>ไม่จำกัด</string>
+	<key>parent.license.free.trial</key>
+	<string>ทดลองใช้งาน</string>
+	<key>parent.license.info</key>
+	<string>ยังไม่ได้เปิดใช้งานบนอุปกรณ์</string>
+	<key>parent.license.note</key>
+	<string>รหัสยืนยัน ประกอบไปด้วย 10 อักษร</string>
+	<key>parent.coupon.discount</key>
+	<string>อัตราส่วนลด</string>
+	<key>parent.coupon.ask</key>
+	<string>โปรดป้อนรหัสส่วนลดของคุณ</string>
+	<key>parent.coupon.info</key>
+	<string>รหัสส่วนลดที่พร้อมให้ใช้งาน</string>
+	<key>parent.delete_cache.confirm</key>
+	<string>กดที่ ตกลง เพื่อลบเนื้อหาที่ดาวน์โหลดทั้งหมด</string>
+	<key>parent.delete_cache.info</key>
+	<string>รวมความสามารถในการจุเนื้อหาที่ดาวน์โหลด:</string>
+	<key>parent.delete_cache.action</key>
+	<string>ลบข้อมูลที่ดาวน์โหลด</string>
+	<key>parent.delete_cache.warn</key>
+	<string>แอพพลิเคชั่นจะทำการรีเซ็ตอัตโนมัติหลังจากข้อมูลถูกลบ</string>
+	<key>pay.price_detail1</key>
+	<string>รายเดือน</string>
+	<key>pay.price_detail2</key>
+	<string>ตลอดชีพ</string>
+	<key>pay.price_detail3</key>
+	<string>รายปี</string>
+	<key>pay.price_detail4</key>
+	<string>ทุก ๆ 6 เดือน</string>
+	<key>pay.lbbestseller</key>
+	<string>ดีที่สุด</string>
+	<key>pay.lbrestore</key>
+	<string>หากคุณได้ซื้อผ่านทางบัญชีของ Apple Account คุณสามารถกู้แพ็คเกจของคุณคืนได้ที่นี่</string>
+	<key>pay.lbcoupon</key>
+	<string>เพิ่มรหัสส่วนลด xxx ABCDE สำเร็จแล้ว</string>
+	<key>pay.lbcoupon30</key>
+	<string>ราคาตามที่ได้กล่าวมาแล้วได้ลดลงไป 40% เมื่อเปรียบเทียบกับราคาเดิม</string>
+	<key>pay.bubble</key>
+	<string>เข้าถึงนิทานได้มากกว่า 900 เรื่องได้โดยไม่จำกัดจำนวน</string>
+	<key>pay.feature1</key>
+	<string>ปรับปรุงนิทานใหม่ให้ทันสมัยทุกสัปดาห์</string>
+	<key>pay.feature2</key>
+	<string>นิทานถูกจัดหมวดหมู่ออกเป็นระดับต่าง ๆ โปรดปฏิบัติตามคำแนะนำจากมาตรฐานร่วมของมลรัฐ</string>
+	<key>pay.feature3</key>
+	<string>เรียนแบบออฟไลน์ได้โดยไม่ต้องคำนึงถึงสถานที่ และเวลา</string>
+	<key>product.name.com.earlystart.stories.1month</key>
+	<string>
+เรียน 
+1 เดือน</string>
+	<key>product.name.com.earlystart.stories.1year</key>
+	<string>
+เรียน
+1 ปี</string>
+	<key>product.name.com.earlystart.stories.6month</key>
+	<string>
+เรียน
+6 เดือน</string>
+	<key>product.name.com.earlystart.stories.lifetime</key>
+	<string>
+เรียน
+ตลอดชีพ</string>
+	<key>pay.verify.failed</key>
+	<string>ไม่สามารถยืนยันการซื้อได้ โปรดลองใหม่อีกครั้ง</string>
+	<key>pay.verify.success</key>
+	<string>ยืนยันการซื้อสำเร็จแล้ว</string>
+	<key>pay.purchase.failed</key>
+	<string>การซื้อล้มเหลว โปรดลองใหม่อีกครั้ง</string>
+	<key>pay.restore.failed</key>
+	<string>ไม่สามารถกู้แพ็คเกจที่ซื้อคืนได้ โปรดลองใหม่อีกครั้ง</string>
+	<key>pay.restore.complete</key>
+	<string>กู้แพ็คเกจที่คุณซื้อคืนแล้ว</string>
+	<key>parent.common.error</key>
+	<string>มีข้อผิดพลาดเกิดขึ้น โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ตของคุณ แล้วลองใหม่อีกครั้ง</string>
+	<key>parent.license.success</key>
+	<string>เปิดใช้งานใบอนุญาตของคุณเรียบร้อยแล้ว</string>
+	<key>feedback.title</key>
+	<string>ส่งคำติชมไปยัง $(appname) แล้วรับการเข้าถึงฟรีเพิ่มขึ้น 2 วัน!</string>
+	<key>feedback.content</key>
+	<string>ส่งรีวิวของคุณเพื่อรับการเข้าถึงฟรีเพิ่มขึ้น 2 วัน!</string>
+	<key>feedback.btsend</key>
+	<string>ส่งตอนนี้</string>
+	<key>feedback.textfield.placeholder</key>
+	<string>เขียนคำติชมของคุณที่นี่</string>
+	<key>feedback.alert.content</key>
+	<string>โปรดเขียนอย่างน้อย 15 คำ</string>
+	<key>feedback.alert.button</key>
+	<string>ลองใหม่อีกครั้ง</string>
+	<key>notifree.title</key>
+	<string>เรียนฟรี</string>
+	<key>notifree.content1</key>
+	<string>คุณมี</string>
+	<key>notifree.content2</key>
+	<string>วันในการเข้าถึงได้วันละหนึ่งเนื้อหา</string>
+	<key>notifree.content4</key>
+	<string>วันในการเข้าถึงได้วันละทุกเนื้อหา</string>
+	<key>notifree.content3</key>
+	<string>คุณใช้วันละ 01 เนื้อหาในหมวดหมู่ &quot;ฟรี&quot; </string>
+	<key>reading.level.intro</key>
+	<string>ระดับนี้สำหรับเด็ก</string>
+	<key>reading.level.include</key>
+	<string>ประกอบไปด้วย:</string>
+	<key>reading.level.include1</key>
+	<string>ประกอบไปด้วย:</string>
+	<key>parent.coupon.success</key>
+	<string>เพิ่มรหัสส่วนลดสำเร็จแล้ว</string>
+	<key>lesson.comingsoon</key>
+	<string>จะมีการเผยแพร่คุณสมบัตินี้ในอนาคต</string>
+	<key>level_info.coming_soon</key>
+	<string>เร็ว ๆ นี้!</string>
+	<key>story.info.lexile</key>
+	<string>คะแนนของระบบวัดความสามารถในการอ่านแบบ Lexile</string>
+	<key>story.info.word_count</key>
+	<string>จำนวนคำ</string>
+	<key>story.info.page_count</key>
+	<string>จำนวนหน้า</string>
+	<key>pay.info.expiry</key>
+	<string>แพ็คเกจของคุณจะหมดอายุในวันที่</string>
+	<key>pay.info.lifetime</key>
+	<string>คุณได้สมัครสมาชิกไปยังแพ็คเกจตลอดชีพ</string>
+	<key>search.placeholder</key>
+	<string>พิมพ์ชื่อของนิทานที่นี่</string>
+	<key>calculator_title</key>
+	<string>โปรดทำการคำนวณเพื่อดำเนินการต่อ</string>
+	<key>lesson.popup.info</key>
+	<string>เกี่ยวกับบทเรียน
+แต่ละบทเรียนมีกิจกรรม 8-10 อย่างในนิทานหนึ่งเรื่องซึ่งประกอบไปด้วย: การอ่าน กิจกรรมโต้ตอบด้วยเกม และการอ่านเพื่อความเข้าใจ เด็ก ๆ สามารถเรียนรู้คำศัพท์ ตลอดจนหลักไวยกรณ์ และพัฒนาแพ็คเกจของทักษะ 4 ด้าน คือ: การฟัง - การพูด - การอ่าน - การเขียน&quot;</string>
+	<key>pay.action.buy</key>
+	<string>ซื้อตอนนี้</string>
+	<key>pay.action.subscribe</key>
+	<string>สมัครสมาชิก</string>
+	<key>support.action.error</key>
+	<string>อุปกรณ์ของคุณไม่รองรับคุณสมบัตินี้</string>
+	<key>support.mail.title</key>
+	<string>ฝ่ายบริการลูกค้าของ $(appname)</string>
+	<key>story.download.failure</key>
+	<string>ดาวน์โหลดล้มเหลว โปรดตรวจสอบการเชื่อมต่ออินเตอร์เน็ตของคุณ และความสามารถของอุปกรณ์ของคุณ</string>
+	<key>story.download.failure.try</key>
+	<string>ลองใหม่อีกครั้ง</string>
+	<key>story.download.failure.close</key>
+	<string>ปิด</string>
+	<key>storycover.download.error</key>
+	<string>ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ $(appname) ได้ โปรดลองใหม่อีกครั้ง!</string>
+	<key>sidebar.des.stories</key>
+	<string>อ่าน</string>
+	<key>sidebar.des.material</key>
+	<string>เอกสารเรียน</string>
+	<key>sidebar.des.lessons</key>
+	<string>เรียน</string>
+	<key>sidebar.des.ai_speaking</key>
+	<string>พูด</string>
+	<key>sidebar.des.audiobooks</key>
+	<string>ฟัง</string>
+	<key>sidebar.des.free</key>
+	<string>ฟรี</string>
+	<key>sidebar.des.subscriptions</key>
+	<string>สมัครสมาชิก</string>
+	<key>sidebar.des.favourite</key>
+	<string>ไลบรารี</string>
+	<key>sidebar.des.settings</key>
+	<string>การตั้งค่า</string>
+	<key>sidebar.des.support</key>
+	<string>Support</string>
+	<key>sidebar.des.account</key>
+	<string>บัญชี</string>
+	<key>sidebar.des.parents</key>
+	<string>ผู้ปกครอง</string>
+	<key>sidebar.des.close</key>
+	<string>ปิด</string>
+	<key>sidebar.des.more</key>
+	<string>แอพพลิเคชั่นอื่น</string>
+	<key>sidebar.des.license</key>
+	<string>รหัสยืนยัน</string>
+	<key>stories.category.title</key>
+	<string>หัวข้อ</string>
+	<key>stories.genre.title</key>
+	<string>ประเภท</string>
+	<key>stories.popular.title</key>
+	<string>นิทานยอดนิยม</string>
+	<key>stories.newstories.title</key>
+	<string>นิทานใหม่</string>
+	<key>stories.recent.title</key>
+	<string>นิทานล่าสุด</string>
+	<key>audiobooks.popular.title</key>
+	<string>หนังสือเสียงยอดนิยม</string>
+	<key>audiobooks.newest.title</key>
+	<string>หนังสือเสียงใหม่</string>
+	<key>stories.more</key>
+	<string>ทั้งหมด</string>
+	<key>lesson.item.download</key>
+	<string>ดาวน์โหลด</string>
+	<key>lesson.item.title</key>
+	<string>บทเรียน</string>
+	<key>aispeaking.conversation.item.title</key>
+	<string>การสนทนา</string>
+	<key>lesson.item.downloading</key>
+	<string>กำลังดาวน์โหลด...</string>
+	<key>lesson.item.learn</key>
+	<string>เรียน</string>
+	<key>lesson.item.relearn</key>
+	<string>เรียนใหม่</string>
+	<key>lesson.item.locked</key>
+	<string>ล็อก</string>
+	<key>lesson.actipreview.acti</key>
+	<string>กิจกรรม</string>
+	<key>lesson.lessonpreview.actistatus</key>
+	<string>ทำกิจกรรมเสร็จสมบูรณ์</string>
+	<key>lesson.lessonpreview.start</key>
+	<string>ดำเนินการเรียนรู้ต่อไป</string>
+	<key>lesson.preactivity.btback</key>
+	<string>กลับไปยังบทเรียน</string>
+	<key>lesson.preactivity.btcontinue</key>
+	<string>ดำเนินการเรียนรู้ต่อไป</string>
+	<key>lesson.waiting</key>
+	<string>โปรดรอ</string>
+	<key>lesson.end.lesson</key>
+	<string>คุณได้เรียนจบบทเรียนแล้ว</string>
+	<key>audiobooks.duration</key>
+	<string>นาที</string>
+	<key>free.story.title</key>
+	<string>นิทาน และหนังสือเสียงฟรี</string>
+	<key>free.lesson.title</key>
+	<string>บทเรียนฟรี</string>
+	<key>intro.grade.title</key>
+	<string>คุณกำลังเรียนอยู่ในระดับใด?</string>
+	<key>intro.grade.detail</key>
+	<string>ข้อมูลนี้จะช่วยทำให้แอพพลิเคชั่นสามารถเลือกเนื้อหาที่เหมาะสมมากที่สุดให้กับคุณ</string>
+	<key>intro.grade.btnext</key>
+	<string>ดำเนินการต่อ</string>
+	<key>intro.load.progress</key>
+	<string>กำลังติดตั้ง...</string>
+	<key>intro.load.progress.2</key>
+	<string>ปรับปรุงเนื้อหาใหม่...</string>
+	<key>intro.grade.notice</key>
+	<string>สามารถเปลี่ยนแปลงระดับของการเรียนรู้ได้</string>
+	<key>intro.load.title</key>
+	<string>ไลบรารีดิจิทัลขนาดใหญ่สำหรับเด็ก ๆ</string>
+	<key>intro.load.detail</key>
+	<string>ปรับปรุงข้อมูลทุกสัปดาห์ เรียนรู้ได้ทุกที่ ทุกเวลา</string>
+	<key>intro.load.stories</key>
+	<string>นิทานมีรูปภาพประกอบ</string>
+	<key>intro.load.audiobooks</key>
+	<string>หนังสือเสียง</string>
+	<key>intro.load.lessons</key>
+	<string>บทเรียน</string>
+	<key>intro.load.trysample</key>
+	<string>อ่านตัวอย่างของนิทาน</string>
+	<key>intro.load.skip</key>
+	<string>กำลังโหลด...</string>
+	<key>intro.load.restore</key>
+	<string>กู้แพ็คเกจที่ซื้อคืน</string>
+	<key>intro.load.download</key>
+	<string>ดาวน์โหลดตัวอย่างของนิทาน</string>
+	<key>intro.load.prepare</key>
+	<string>เตรียมตัวอย่างของนิทาน</string>
+	<key>search.placeholder.audiobook</key>
+	<string>พิมพ์ชื่อของหนังสือเสียงที่นี่</string>
+	<key>favorite.title</key>
+	<string>ชื่นชอบ</string>
+	<key>favorite.stories</key>
+	<string>นิทานที่ชื่นชอบ</string>
+	<key>favorite.audiobook</key>
+	<string>หนังสือเสียงที่ชื่นชอบ</string>
+	<key>downloaded.stories</key>
+	<string>นิทานที่ดาวน์โหลด</string>
+	<key>downloaded.audiobooks</key>
+	<string>หนังสือเสียงที่ดาวน์โหลด</string>
+	<key>learn.audiobooks</key>
+	<string>หนังสือเสียงที่ฟังแล้ว</string>
+	<key>downloaded.lessons</key>
+	<string>บทเรียนที่ดาวน์โหลด</string>
+	<key>sub.text.title</key>
+	<string>สมัครสมาชิกสำหรับการใช้งานแบบไม่จำกัดของ $(appname)</string>
+	<key>sub.text.title.vn</key>
+	<string>สมัครสมาชิกสำหรับการใช้งานแบบไม่จำกัดของ $(appname)</string>
+	<key>sub.text.title.detail</key>
+	<string>คุณสามารถยกเลิกสมาชิกได้ตลอดเวลา</string>
+	<key>sub.text.plan.title</key>
+	<string>เนื้อหา</string>
+	<key>sub.text.detail1</key>
+	<string>นิทานมีรูปภาพประกอบ</string>
+	<key>sub.text.detail2</key>
+	<string>หนังสือเสียง</string>
+	<key>sub.text.detail3</key>
+	<string>บทเรียน</string>
+	<key>sub.text.number.detail</key>
+	<string></string>
+	<key>sub.text.features.title</key>
+	<string>คุณสมบัติหลัก</string>
+	<key>sub.text.features.title1</key>
+	<string>นิทานที่เคลื่อนไหวอย่างมีชีวิตชีวา</string>
+	<key>sub.text.features.title2</key>
+	<string>กิจกรรมการเรียนรู้ด้วยเกม</string>
+	<key>sub.text.features.title3</key>
+	<string>ปรับปรุงเนื้อหาใหม่ให้ทันสมัยทุกสัปดาห์</string>
+	<key>sub.text.features.title4</key>
+	<string>เรียนแบบออฟไลน์โดยต้องคำนึงถึงสถานที่ และเวลา</string>
+	<key>sub.text_restore</key>
+	<string>คุณได้ซื้อกู้แพ็คเกจคืนที่นี่</string>
+	<key>sub.text.startyourweek</key>
+	<string>สมัครสมาชิกตอนนี้</string>
+	<key>sub.text.subscribenow</key>
+	<string>สมัครสมาชิกตอนนี้</string>
+	<key>sub.text.run</key>
+	<string>สมัครสมาชิกสำหรับการใช้งานแบบไม่จำกัดของ $(appname)</string>
+	<key>sub.text.run.vn</key>
+	<string>สมัครสมาชิกสำหรับการใช้งานแบบไม่จำกัดของ $(appname)</string>
+	<key>sub.item.1mon</key>
+	<string>1 เดือน</string>
+	<key>sub.item.month</key>
+	<string>เดือน</string>
+	<key>sub.item.6mon</key>
+	<string>6 เดือน</string>
+	<key>sub.item.1year</key>
+	<string>1 ปี</string>
+	<key>sub.item.lifetime</key>
+	<string>ตลอดชีพ</string>
+	<key>sub.item.purchase</key>
+	<string>ลงทะเบียนตอนนี้</string>
+	<key>favorite.edit</key>
+	<string>แก้ไข</string>
+	<key>downloaded.edit</key>
+	<string>ลบ</string>
+	<key>favorite.done</key>
+	<string>เสร็จสิ้น</string>
+	<key>sub.text.features.title5</key>
+	<string>เชื่อมต่อข้อมูลแล้ว</string>
+	<key>sub.text.features.title6</key>
+	<string>ไม่มีการโฆษณา</string>
+	<key>sub.text.features.title7</key>
+	<string>เล่นหนังสือเสียงในขณะที่ปิดหน้าจอ</string>
+	<key>sub.text.features.title8</key>
+	<string>อนุญาตให้บุตรหลานของคุณบันทึกเรื่องราว และบันทึกเป็นวีดีโอได้</string>
+	<key>sub.popup.content</key>
+	<string>คุณได้ใช้เนื้อหาฟรีเกินจำนวนจำกัดของวันแล้ว โปรดสมัครสมาชิกเพื่อใช้งานแอพพลิเคชั่นต่อไป</string>
+	<key>sub.popup.btok</key>
+	<string>ลงทะเบียนเพื่อซื้อ</string>
+	<key>sub.popup.content.free</key>
+	<string>เนื้อหานี้ใช้งานได้เฉพาะสำหรับลูกค้าผู้ลงทะเบียนเท่านั้น</string>
+	<key>sub.popup.feature.free</key>
+	<string>คุณสมบัตินี้ใช้งานได้เฉพาะสำหรับลูกค้าผู้ลงทะเบียนเท่านั้น</string>
+	<key>sub.popup.btsub</key>
+	<string>ลงทะเบียนเพื่อซื้อ</string>
+	<key>sub.popup.btfree</key>
+	<string>ทดลองใช้งานฟรี</string>
+	<key>rate.popup.title</key>
+	<string>ของขวัญ</string>
+	<key>rate.popup.content</key>
+	<string>ให้คะแนน $(appname) สำหรับการใช้งานไม่จำกัดเป็นระยะเวลา 2 วัน</string>
+	<key>rate.popup.bt</key>
+	<string>ให้คะแนน</string>
+	<key>rate.popup.num</key>
+	<string>การใช้งานไม่จำกัดเป็นระยะเวลา 2 วัน</string>
+	<key>lesson.popup.prior</key>
+	<string>บทเรียนนี้ยังไม่พร้อมให้ใช้งาน เรามาเรียนบทเรียนก่อนหน้าให้เสร็จสมบูรณ์กันก่อนเถอะ</string>
+	<key>lesson.popup.prior.activity</key>
+	<string>โอ้! กิจกรรมนั้นยังไม่พร้อมให้ใช้งาน เรามาทำกิจกรรมนี้ให้เสร็จสิ้นกันก่อนเถอะ</string>
+	<key>feedback.title.active</key>
+	<string>โปรดให้คำติชมสำหรับ $(appname) เพื่อให้เราสามารถพัฒนาโปรแกรมได้!</string>
+	<key>rate.thanks.title</key>
+	<string>ขอบคุณ!</string>
+	<key>rate.thanks.close</key>
+	<string>ปิด</string>
+	<key>rate.active.title</key>
+	<string>โปรดส่งคำติชม</string>
+	<key>thumb.story.level</key>
+	<string></string>
+	<key>audiobooks.recent.title</key>
+	<string>หนังสือเสียงล่าสุด</string>
+	<key>favourite.tab.favourite</key>
+	<string>ชื่นชอบ</string>
+	<key>favourite.tab.downloaded</key>
+	<string>ดาวน์โหลดแล้ว</string>
+	<key>intro.swipe</key>
+	<string>ปัดไปทางซ้ายเพื่อเริ่มสัมผัสประสบการณ์</string>
+	<key>intro.drag</key>
+	<string>กดที่ลูกศรทางด้านขวาเพื่อเริ่มสัมผัสประสบการณ์</string>
+	<key>intro.stories</key>
+	<string>ไลบรารีขนาดใหญ่ของนิทานที่มีรูปภาพประกอบแบบโต้ตอบ</string>
+	<key>intro.stories.sub</key>
+	<string>รวมถึงหนังสือมากกว่า +900 เล่ม ที่มีการปรับปรุงให้ทันสมัยทุกสัปดาห์</string>
+	<key>intro.stories.sub.vi</key>
+	<string>จัดหมวดหมู่เป็นระดับต่าง ๆ 11 ระดับที่คุ้นเคยสำหรับเด็ก ๆ และปรับปรุงให้ทันสมัยทุกสัปดาห์</string>
+	<key>intro.audiobooks</key>
+	<string>หนังสือเสียงที่ได้รับเลือก และมีชีวิตชีวา</string>
+	<key>intro.audiobooks.sub</key>
+	<string>รวมไปถึงนิทานที่โด่งดังไปทั่วโลก</string>
+	<key>intro.audiobooks.sub.vi</key>
+	<string>รวมถึงนิทานที่มีชื่อเสียงระดับโลกซึ่งได้รับการปรับปรุงใหม่มากมายให้เหมาะสมกับวัฒนธรรมของเวียดนาม</string>
+	<key>intro.lessons</key>
+	<string>บทเรียนแบบอเมริกัน</string>
+	<key>intro.lessons.sub</key>
+	<string>พัฒนา 4 ทักษะที่จำเป็นทั้งหมด คือ: การฟัง การพูด การอ่าน และการเขียน</string>
+	<key>intro.start</key>
+	<string>สำรวจเลยตอนนี้</string>
+	<key>intro.start.vi</key>
+	<string>มาสำรวจกันเลย!</string>
+	<key>intro.samplestory</key>
+	<string>พัฒนาขึ้นโดยผู้เชี่ยวชาญด้านภาษาชั้นนำต่าง ๆ</string>
+	<key>intro.samplestory.vi</key>
+	<string>สร้าง และพัฒนาขึ้นโดยผู้เชี่ยวชาญด้านภาษา</string>
+	<key>onboard.optout.1</key>
+	<string>ทราบวิธีใช้งานแล้ว</string>
+	<key>onboard.optout.2</key>
+	<string>ข้ามคำแนะนำ</string>
+	<key>onboard.next</key>
+	<string>ดำเนินการต่อ</string>
+	<key>onboard.finish</key>
+	<string>เสร็จสิ้น</string>
+	<key>collection.more</key>
+	<string>สำรวจ</string>
+	<key>swipe.down</key>
+	<string>ปัดลงด้านล้างเพื่ออ่านอีกครั้ง</string>
+	<key>swipe.left</key>
+	<string>Swipe left to change the page</string>
+	<key>search.no.result.stories</key>
+	<string>ไม่พบนิทาน</string>
+	<key>search.no.result.audiobooks</key>
+	<string>ไม่พบหนังสือเสียง</string>
+	<key>lessons.completed</key>
+	<string>เรียนบทเรียนเสร็จสมบูรณ์แล้ว</string>
+	<key>audio.player.duration</key>
+	<string>Duration:</string>
+	<key>audio.player.level</key>
+	<string>Grade:</string>
+	<key>favourite.empty</key>
+	<string>รายการที่คุณชื่นชอบจะแสดงไว้ที่นี่</string>
+	<key>downloaded.empty</key>
+	<string>รายการที่คุณได้ดาวน์โหลดจะแสดงไว้ที่นี่</string>
+	<key>record.swipe</key>
+	<string>การบันทึก โปรดปัดไปทางซ้ายเพื่อดำเนินการต่อ</string>
+	<key>record.recording</key>
+	<string>กำลังบันทึก</string>
+	<key>forgot.license.ask</key>
+	<string>โปรดป้อนหมายเลขโทรศัพท์ หรืออีเมลที่คุณใช้ในการสมัครสมาชิก</string>
+	<key>forgot.license.action</key>
+	<string>ส่ง</string>
+	<key>forgot.license.invalid</key>
+	<string>โปรดป้อนรูปแบบของอีเมล หรือหมายเลขโทรศัพท์ที่ถูกต้อง</string>
+	<key>settings.forgot.license</key>
+	<string>ลืมรหัสยืนยันใช่ไหม?</string>
+	<key>settings.deactivate.device</key>
+	<string>ปิดการใช้งานแอพพลิเคชั่น</string>
+	<key>deactive.question</key>
+	<string>คุณต้องการปิดการใช้งาน $(appname) บนอุปกรณ์นี้หรือไม่?</string>
+	<key>deactive.yes</key>
+	<string>ใช่</string>
+	<key>deactive.no</key>
+	<string>ไม่ใช่</string>
+	<key>deactive.question.2</key>
+	<string>หาก &quot;ใช่&quot; การเข้าถึงคุณสมบัติต่าง ๆ ของคุณจาก $(appname) จะได้รับการปฏิเสธบนอุปกรณ์นี้</string>
+	<key>deactive.wait</key>
+	<string>โปรดรอ...</string>
+	<key>parent.license.empty</key>
+	<string>โปรดป้อนรหัสยืนยัน</string>
+	<key>parent.delete.cache.single</key>
+	<string>ลบนิทานที่มีรูปภาพประกอบ หรือหนังสือเสียงที่ถูกเลือก </string>
+	<key>parent.delete.cache.single.info</key>
+	<string>เลือกเนื้อหาที่คุณต้องการลบ</string>
+	<key>parent.delete.cache.all</key>
+	<string>ลบข้อมูลที่ดาวน์โหลดทั้งหมด</string>
+	<key>audio.onboard.screensaver</key>
+	<string>เคล็ดลับ: คุณสามารถฟังหนังสือเสียงต่อไปได้ในขณะที่ปิดหน้าจอ!</string>
+	<key>price.text.detail</key>
+	<string>คุณจะถูกเรียกเก็บค่าใช้จ่ายหลังจากการทดลองใช้งานของคุณหมดอายุแล้วเท่านั้น</string>
+	<key>price.time.small.unit</key>
+	<string>เดือน</string>
+	<key>price.time.great.unit</key>
+	<string>ปี</string>
+	<key>free.story.vn.title</key>
+	<string>นิทานฟรี</string>
+	<key>free.lesson.vn.title</key>
+	<string>หนังสือเสียงฟรี</string>
+	<key>free.story.vn.sorry</key>
+	<string>กำลังปรับปรุงข้อมูล...</string>
+	<key>background.music.on.off</key>
+	<string>เปิด/ปิดเสียงเพลงประกอบ</string>
+	<key>extra.title</key>
+	<string>Author:</string>
+	<key>download.content.size</key>
+	<string>เนื้อหานี้คือ</string>
+	<key>download.confirm</key>
+	<string>คุณต้องการดาวน์โหลดหรือไม่?</string>
+	<key>viral.popup.title</key>
+	<string>การเรียนรู้ฟรี</string>
+	<key>viral.popup.content</key>
+	<string>แชร์ตอนนี้ เพื่อรับการเข้าถึงเนื้อหาแบบไม่จำกัดจำนวนเพิ่มขึ้น 7 วัน สำหรับคุณ และเพื่อนที่คุณแชร์ด้วย!</string>
+	<key>viral.popup.button</key>
+	<string>แชร์</string>
+	<key>viral.sub.popup.title</key>
+	<string>ชื่อของคุณ</string>
+	<key>viral.sub.popup.content</key>
+	<string>บอกให้เพื่อน ๆ ของคุณทราบว่าคุณเป็นหนึ่งในผู้แชร์แอพพลิเคชั่นอันยอดเยี่ยมนี้!</string>
+	<key>viral.sub.popup.button</key>
+	<string>ส่ง</string>
+	<key>viral.sub.popup.name</key>
+	<string>ชื่อ และนามสกุลของคุณ (ไม่จำเป็น)</string>
+	<key>viral.sub.popup.phone</key>
+	<string>หมายเลขโทรศัพท์...</string>
+	<key>viral.gift.title</key>
+	<string>ขอแสดงความยินดี</string>
+	<key>viral.gift.content</key>
+	<string>คุณสามารถเข้าถึงแอพพลิเคชั่นของเราได้ฟรี 7 วัน</string>
+	<key>viral.gift.button</key>
+	<string>ยอมรับ</string>
+	<key>viral.receive.text</key>
+	<string>คุณได้รับคำเชิญจากเพื่อน ๆ ของคุณ โปรดคลิกที่นี่!</string>
+	<key>viral.receive.popup.title</key>
+	<string>คุณได้รับของขวัญหนึ่งชิ้น!</string>
+	<key>viral.receive.popup.content</key>
+	<string>ป้อนหมายเลขโทรศัพท์ของคุณเพื่อรับของขวัญเซอร์ไพร์สจากเพื่อน ๆ ของคุณ!</string>
+	<key>viral.receive.popup.button</key>
+	<string>รับของขวัญของคุณ</string>
+	<key>lb.playlist.for</key>
+	<string>ใน</string>
+	<key>lb.playlist.play</key>
+	<string>เล่น</string>
+	<key>lb.playlist.play.continue</key>
+	<string>ดำเนินการต่อ</string>
+	<key>lb.playlist.minute</key>
+	<string>นาที</string>
+	<key>collection.play.all</key>
+	<string>เล่นทั้งหมด</string>
+	<key>playlist.nowplaying</key>
+	<string>กำลังเล่นตอนนี้</string>
+	<key>playlist.end.duration</key>
+	<string>หมดเวลาการฟัง {duration} นาทีแล้ว</string>
+	<key>pay.notice.detail</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อของคุณคืนได้บนอุปกรณ์ {os}  อื่น ๆ ได้
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว</string>
+	<key>pay.notice.detail.ios</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อของคุณคืนได้บนอุปกรณ์ {os}  อื่น ๆ ได้
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว
+เพื่อดำเนินการซื้อต่อไป โปรดกดที่ &quot;ซื้อตอนนี้&quot;
+ในการรับรหัสเปิดใช้งาน และจ่ายชำระในวันจัดส่ง โปรดคลิกที่ &quot;จ่ายชำระ COD&quot;</string>
+	<key>pay.notice.detail.ios.voucher</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อของคุณคืนได้บนอุปกรณ์ {os}  อื่น ๆ ได้
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว
+เพื่อดำเนินการซื้อต่อไป โปรดกดที่ &quot;ซื้อตอนนี้&quot;
+ในการใช้งานรหัสเปิดใช้งาน โปรดกดที่ &quot;&quot;ติดต่อเรา&quot;</string>
+	<key>pay.notice.detail.ios.win</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อของคุณคืนได้บนอุปกรณ์ {os}  อื่น ๆ ได้
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว
+ในการรับรหัสเปิดใช้งาน และจ่ายชำระในวันจัดส่ง โปรดคลิกที่ &quot;จ่ายชำระ COD&quot;</string>
+	<key>pay.notice.detail.ios.voucher.win</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อของคุณคืนได้บนอุปกรณ์ {os}  อื่น ๆ ได้
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว
+ในการใช้งานรหัสเปิดใช้งาน โปรดกดที่ &quot;&quot;ติดต่อเรา&quot;</string>
+	<key>pay.notice.detail.continue</key>
+	<string>ซื้อตอนนี้</string>
+	<key>pay.notice.detail.other</key>
+	<string>ข้อมูลเพิ่มเติม</string>
+	<key>pay.notice.detail.other.voucher</key>
+	<string>ติดต่อเรา</string>
+	<key>pay.notice.detail.android</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+คุณสามารถกู้แพ็คเกจที่ซื้อคืนได้บนอุปกรณ์ Android อื่น ๆ
+เราจะตรวจสอบแพ็คเกจที่ซื้อ และจำนวนรวมของอุปกรณ์ที่เปิดใช้งานแล้ว</string>
+	<key>sidebar.des.qr</key>
+	<string>แสกนรหัสคิวอาร์</string>
+	<key>qr.instruction</key>
+	<string>โปรดสแกนรหัสเพื่อฟังเรื่องราวในแอป:
+    - สำหรับเอกสารเรียน รหัสโค้ด QR อยู่ที่ปกหน้า
+    - สำหรับเอกสารเรียน รหัสโค้ด QR อยู่ที่ปกหลัง</string>
+	<key>qr.onboard</key>
+	<string>โปรดแสกนรหัสคิวอาร์หนังสือที่จัดพิมพ์เพื่อรับฟังนิทาน</string>
+	<key>qr.lexile</key>
+	<string>คะแนนของระบบวัดความสามารถในการอ่านแบบ Lexile:</string>
+	<key>qr.level</key>
+	<string>ระดับ:</string>
+	<key>qr.page</key>
+	<string>จำนวนหน้า:</string>
+	<key>qr.prev.page</key>
+	<string>หน้าก่อนหน้า</string>
+	<key>qr.next.page</key>
+	<string>หน้าถัดไป</string>
+	<key>qr.play</key>
+	<string>อ่านให้ฉันฟัง</string>
+	<key>qr.pause</key>
+	<string>หยุดชั่วคราว</string>
+	<key>qr.alert</key>
+	<string>แสกนสำเร็จแล้ว โปรดเข้าถึง &quot;แสกนรหัสคิวอาร์&quot; บนหน้าหลักของคุณเพื่อเล่นนิทาน</string>
+	<key>audio.player.number.chapters</key>
+	<string>จำนวนของบทต่าง ๆ</string>
+	<key>audiobook.chapters</key>
+	<string>บท</string>
+	<key>label.summary</key>
+	<string>บทสรุป</string>
+	<key>playlist.exclude.novels</key>
+	<string>รายการนี้ไม่รวมนิยาย</string>
+	<key>audiobook.novels</key>
+	<string>นิยาย</string>
+	<key>voucher.discount.inapp</key>
+	<string>ส่วนลดสำหรับการซื้อสินค้าในแอพฯ</string>
+	<key>voucher.discount</key>
+	<string>ส่วนลดสำหรับบัตรกำนัล</string>
+	<key>support_action3</key>
+	<string>เข้าร่วม</string>
+	<key>support_title3</key>
+	<string>เข้าร่วมกลุ่ม Facebook ของเรา</string>
+	<key>support_option3</key>
+	<string>ทางเลือกที่ 3:</string>
+	<key>text.title.detail_sub</key>
+	<string>รายละเอียดอยู่ที่นี่</string>
+	<key>key.onboard.login</key>
+	<string>สร้างบัญชีเพื่อเริ่มการเรียนรู้</string>
+	<key>key.onboard.login.text</key>
+	<string>ผู้ปกครองสามารถสร้างบัญชีสำหรับเด็ก ๆ ได้เพื่อเริ่มการเรียนรู้ และการใช้เนื้อหาทั้งหมดที่ซื้อ</string>
+	<key>key.onboard.account.license</key>
+	<string>คุณมีรหัสยืนยันหรือไม่?</string>
+	<key>key.onboard.account.license.yesbtn</key>
+	<string>มี!</string>
+	<key>key.onboard.account.license.nobtn</key>
+	<string>ไม่มี!</string>
+	<key>key.onboard.account.profile.title</key>
+	<string>เลือกโปรไฟล์</string>
+	<key>key.onboard.account.new.profile</key>
+	<string>สร้างโปรไฟล์ใหม่</string>
+	<key>key.onboard.account.welcome.profile</key>
+	<string></string>
+	<key>key.account.profile.name.title</key>
+	<string>คำนำ</string>
+	<key>key.account.profile.name.title.new</key>
+	<string>สร้างโปรไฟล์ผู้เรียน</string>
+	<key>key.account.profile.name.title.des</key>
+	<string>Monkey จะแนะนำเนื้อหาที่เหมาะสม
+เพื่อสร้างตารางเรียนให้ผู้เรียน</string>
+	<key>key.account.profile.name.text</key>
+	<string>ป้อนชื่อ</string>
+	<key>key.account.profile.age.title</key>
+	<string>ป้อนอายุ</string>
+	<key>key.account.profile.avatar.title</key>
+	<string>เลือกรูปโปรไฟล์</string>
+	<key>key.account.profile.change.title</key>
+	<string>เปลี่ยนโปรไฟล์</string>
+	<key>key.parent.account</key>
+	<string>บัญชีผู้ใช้งาน</string>
+	<key>key.parent.account.info</key>
+	<string>ข้อมูลผู้ใช้งาน</string>
+	<key>key.parent.account.info.user</key>
+	<string>ข้อมูลบัญชีผู้ใช้งาน</string>
+	<key>key.parent.account.info.profile</key>
+	<string>การจัดการโปรไฟล์</string>
+	<key>key.popup.user.info.name</key>
+	<string>ชื่อผู้ใช้</string>
+	<key>key.popup.user.info.address</key>
+	<string>ที่อยู่</string>
+	<key>key.popup.user.info.email</key>
+	<string>อีเมล</string>
+	<key>key.popup.user.info.phone</key>
+	<string>หมายเลขโทรศัพท์</string>
+	<key>key.parent.profile.edit.title</key>
+	<string>แก้ไขข้อมูลผู้ใช้งาน</string>
+	<key>key.parent.profile.name</key>
+	<string>ชื่อ</string>
+	<key>key.parent.profile.gender</key>
+	<string>เพศ</string>
+	<key>key.parent.profile.edit.age</key>
+	<string>อายุ</string>
+	<key>key.account.reach.max.profile</key>
+	<string>คุณมีโปรไฟล์เกินจำนวนที่จำกัด</string>
+	<key>key.account.time.update</key>
+	<string>มันเป็นเวลา 3 วันแล้วที่คุณไม่ได้เชื่อมต่อข้อมูลล่าสุดของคุณ เชื่อมต่อกับอินเตอร์เน็ตเพื่อเชื่อมต่อข้อมูลเลยตอนนี้</string>
+	<key>key.account.btn.next</key>
+	<string>ต่อไป</string>
+	<key>key.account.btn.done</key>
+	<string>เสร็จสิ้น</string>
+	<key>key.account.btn.back</key>
+	<string>กลับไป</string>
+	<key>key.account.btn.edit</key>
+	<string>แก้ไข</string>
+	<key>settings.buy.license</key>
+	<string>ลงทะเบียนเพื่อซื้อรหัสเปิดใช้งาน</string>
+	<key>key.pay.init.window</key>
+	<string>ในการรับรหัสเปิดใช้งาน และซื้อจากที่บ้าน โปรดกดที่ &quot;รับรหัสเปิดใช้งาน&quot;</string>
+	<key>key.pay.init.button.title</key>
+	<string>รับรหัสยืนยัน</string>
+	<key>sidebar.des.lessons.vm</key>
+	<string>บทเรียน</string>
+	<key>key.accountv3.popup.enteremail.desc</key>
+	<string>Monkey มอบอีบุ๊ค &quot;Learn English effectively with Monkey Stories&quot;
+ให้ผู้ปกครอง โปรดตรวจสอบอีเมลของคุณเพื่อดาวน์โหลดไฟล์</string>
+	<key>key.accountv3.popup.enteremail.desc.vm</key>
+	<string>Vmonkey ขอมอบผู้ปกครองไลบรารีชุดหนังสือการ์คูน &quot;ลิงน้อยขี้เล่น&quot;
+ให้ผู้ปกครอง โปรดตรวจสอบอีเมลของคุณเพื่อดาวน์โหลดไฟล์</string>
+	<key>key.accountv3.popup.enteremail.invalid.email</key>
+	<string>อีเมลไม่ถูกต้อง</string>
+	<key>key.accountv3.popup.enteremail.thankyou</key>
+	<string>ขอบคุณที่คุณได้ไว้ใจเราและเลือกใช้ Monkey โปรดตรวจสอบอีเมลของคุณเพื่อดาวน์โหลดเอกสารร่วมทางในการเรียนกับลูกนะคะ</string>
+	<key>key.accountv3.screen.account.title</key>
+	<string>ข้อมูลของผู้ใช้งาน</string>
+	<key>key.accountv3.screen.account.title.parents</key>
+	<string>ข้อมูลของผู้ปกครอง</string>
+	<key>key.accountv3.screen.account.name</key>
+	<string>ชื่อ</string>
+	<key>key.accountv3.screen.account.popup.noname</key>
+	<string>โปรดป้อนชื่อของผู้ปกครอง</string>
+	<key>key.accountv3.screen.account.phone</key>
+	<string>หมายเลขโทรศัพท์</string>
+	<key>key.accountv3.screen.account.managepassword</key>
+	<string>บัญชีและรหัสผ่าน</string>
+	<key>key.accountv3.screen.account.manageprofiles</key>
+	<string>การจัดการโปรไฟล์</string>
+	<key>key.accountv3.screen.account.add.email.to.signin</key>
+	<string>เพิ่มวิํธีเข้าสู่ระบบด้วยอีเมล์</string>
+	<key>key.accountv3.screen.account.add.phone.to.signin</key>
+	<string>เพิ่มวิํธีเข้าสู่ระบบโดยด้วยหมายเลขโทรศัพท์</string>
+	<key>key.accountv3.screen.addpassword.title</key>
+	<string>เพิ่มรหัสผ่าน</string>
+	<key>key.accountv3.screen.addpassword.desc</key>
+	<string>โปรดสร้างรหัสผ่านเพื่อความปลอดภัยให้กับบัญชีของคุณ</string>
+	<key>key.accountv3.screen.confirmpassword.title</key>
+	<string>ยืนยันบัญชี</string>
+	<key>key.accountv3.screen.confirmpassword.desc</key>
+	<string>กรุณากรอกรหัสผ่านเพื่อความปลอดภัยให้กับบัญชีของคุณ</string>
+	<key>key.accountv3.screen.updateemail.title</key>
+	<string>อัปเดตอีเมล</string>
+	<key>key.accountv3.screen.updateemail.desc</key>
+	<string>โปรดอัปเดตอีเมลของคุณ เพื่อได้รับความช่วยเหลือที่ดีที่สุดจาก Monkey.</string>
+	<key>key.accountv3.screen.updateemail.popup.sendotp</key>
+	<string>โปรดกรอกรหัสยืนยันที่ได้ส่งไปในอีเมล %s เพื่อเพิ่มวิธีใหม่ในการเข้าสู่ระบบ</string>
+	<key>key.accountv3.screen.updatepassword.title</key>
+	<string>อัปเดตรหัสผ่าน</string>
+	<key>key.accountv3.screen.updatepassword.old.password</key>
+	<string>รหัสผ่านเก่า</string>
+	<key>key.accountv3.screen.updatepassword.new.password</key>
+	<string>รหัสผ่านใหม่</string>
+	<key>key.accountv3.screen.updatepassword.renew.password</key>
+	<string>ยืนยันรหัสผ่าน</string>
+	<key>key.accountv3.screen.updatephone.title</key>
+	<string>อัปเดตหมายเลขโทรศัพท์</string>
+	<key>key.accountv3.screen.updatephone.desc</key>
+	<string>โปรดอัปเดตหมายเลขโทรศัพท์ของคุณเพื่อได้รับความช่วยเหลือที่ดีที่สุดจาก Monkey.</string>
+	<key>key.accountv3.screen.updatephone.placeholder</key>
+	<string>กรอกหมายเลขโทรศัพท์ของคุณ</string>
+	<key>key.accountv3.screen.confirmotp.title</key>
+	<string>ยืนยันอีเมล</string>
+	<key>key.accountv3.screen.confirmotp.desc</key>
+	<string>โปรดกรอกรหัสยืนยันที่ได้ส่งไปในอีเมล
+%s
+เพื่อเพิ่มวิธีใหม่ในการเข้าสู่ระบบ</string>
+	<key>key.accountv3.screen.confirmotp.activationcode</key>
+	<string>รหัสยืนยัน</string>
+	<key>key.accountv3.button.title.add</key>
+	<string>เพิ่ม</string>
+	<key>key.accountv3.button.title.update</key>
+	<string>อัปเดต</string>
+	<key>key.accountv3.button.title.save</key>
+	<string>บันทึก</string>
+	<key>key.accountv3.button.title.details</key>
+	<string>รายละเอียด</string>
+	<key>key.accountv3.button.title.signout</key>
+	<string>ออกจากระบบ</string>
+	<key>key.accountv3.button.title.sendcode</key>
+	<string>ส่งรหัสยืนยัน</string>
+	<key>key.accountv3.button.title.resendcode</key>
+	<string>ส่งรหัสใหม่อีกครั้ง</string>
+	<key>key.accountv3.button.title.addpassword</key>
+	<string>เพิ่มรหัสผ่าน</string>
+	<key>key.accountv3.button.title.updatepassword</key>
+	<string>อัปเดตรหัสผ่าน</string>
+	<key>key.accountv3.button.title.confirm</key>
+	<string>ยืนยัน</string>
+	<key>key.accountv3.text.password</key>
+	<string>รหัสผ่าน</string>
+	<key>key.accountv3.text.have.new.way.to.signin</key>
+	<string>คุณจะมีเพิ่มวิธีในการเข้าสู่ระบบ</string>
+	<key>MORAL_STORIES</key>
+	<string>บทเรียนในชีวิตประจำวัน</string>
+	<key>WORLD_OF_TALES</key>
+	<string>เรื่องราวคลาสสิค</string>
+	<key>FAMOUS_FABLES</key>
+	<string>นิทาน</string>
+	<key>POEMS</key>
+	<string>บทกวี</string>
+	<key>key.v4.change.password.title</key>
+	<string>เปลี่ยนรหัสผ่าน</string>
+	<key>key.v4.default.password.small.title</key>
+	<string>คุณกำลังใช้รหัสผ่าน.กรุณาเปลี่ยนรหัสผ่านเพื่อเ
+พิ่มความปลอดภัยและจำได้ง่ายกว่า.</string>
+	<key>key.v4.connection</key>
+	<string>เชื่อมต่อ</string>
+	<key>key.v4.have.used.monkey.apps</key>
+	<string>ผู้ปกครองเคยใช้โปรแกรมใดของ Monkey หรือยัง ?</string>
+	<key>key.v4.free.or.not</key>
+	<string>(ใช้เรียนฟรีหรือใช้แบบเสียค่าเรียน)</string>
+	<key>key.v4.have.used</key>
+	<string>ฉันใช้แล้ว</string>
+	<key>key.v4.not.use</key>
+	<string>ฉันยังไม่เคยใช้</string>
+	<key>key.v4.connect.with.current.account</key>
+	<string> &lt;font color=&apos;#000000&apos; size=&quot;%d&quot; face=&quot;%s&quot;&gt;  เชื่อมต่อกับบัญชี &lt;font color=&apos;#2CB8E9&apos;&gt; %s &lt;/font&gt; เพื่อคงไว้บทเรียนเก่าที่เด็กกำลังเรียน &lt;/font&gt;</string>
+	<key>key.v4.connection.with.a.account</key>
+	<string>เชื่อมต่อบัญชีนี้เพื่อเก็บค์กระบวนการเรียน</string>
+	<key>key.v4.connection.with.a.account2</key>
+	<string>เชื่อมต่อบัญชีนี้เพื่อเก็บค์กระบวนการเรียน</string>
+	<key>key.v4.connection.with.a.account.small</key>
+	<string>ข้อมูลบัญชีใช้งานไปแล้ว</string>
+	<key>key.v4.txt.or</key>
+	<string>- - - - - - - - - - - - - หรือ - - - - - - - - - - - -</string>
+	<key>key.accountv4.screen.updatephone.desc</key>
+	<string>กรุณาอัพเดทเบอร์โทรของคุณ เพื่อได้รับความช่วยเหลือจาก 
+Monkey เมื่อลืมรหัสผ่าน</string>
+	<key>key.v4.username</key>
+	<string>บัญชี</string>
+	<key>key.v4.email</key>
+	<string>อีเมล</string>
+	<key>key.v4.change.password</key>
+	<string>เปลี่ยนรหัสผ่านบัญชี</string>
+	<key>key.v4.login.methods.screen.title</key>
+	<string>บัญชีนี้สามารถเข้าสู่ระบบด้วย %d รูปแบบ</string>
+	<key>key.v4.methods.password.changed</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&quot;25&quot; face=&quot;fonts/leelawdb.ttf&quot;&gt; รหัสผ่านของวิธีเข้าสู่ระบบโดยรูปแบบที่ %s พึ่งได้เปลี่ยนแล้ว &lt;/font&gt;</string>
+	<key>key.v4.method</key>
+	<string>รูปแบบที่</string>
+	<key>key.v4.change.password.button.title</key>
+	<string>เปลี่ยนรหัสผ่าน</string>
+	<key>key.open.lesson.from.qr.overles</key>
+	<string>คุณพึ่งได้เรียนสำเร็จบทเรียนที่ %d
+จงเรียนบทเรียนที่ %d 
+และบทเรียนตามลำดับ
+เพื่อปลดล็อคบทเรียนที่ %d</string>
+	<key>key.open.lesson.from.qr.notyet</key>
+	<string>คุณเรียนบทเรียนที่ 1 ยังไม่สำเร็จ
+จงเรียนบทเรียนตามลำดับ
+เพื่อปลดล็อคบทเรียนที่ %d</string>
+	<key>key.support.info.email</key>
+	<string>contact@monkeyenglish.net</string>
+	<key>key.support.info.phonenumber</key>
+	<string>020385919</string>
+	<key>key.support.fbgroup.name</key>
+	<string>Monkey Stories
+Thailand</string>
+	<key>key.support.fbgroup.link</key>
+	<string>https://www.fb.com/MonkeystoriesThai</string>
+	<key>SupportView_Mail</key>
+	<string>สวัสดีคะ สำหรับการสนับสนุนที่ดีที่สุดโปรดให้ Monkey Care ทราบข้อมูลต่อไปนี้
+	1. ชื่อเต็ม: \n
+    2. หมายเลขโทรศัพท์: \n
+    3. อีเมล: (ใช้ได้กับลูกค้าที่ส่งจดหมายจาก @ icloud.com) \n
+    4. ข้อมูลต้องการช่วยเหลือ: \n
+    Monkey Care จะตรวจสอบข้อมูลที่คุณให้และตอบกลับโดยเร็วที่สุด \n
+    ขอแสดงความนับถือ \n \n</string>
+	<key>SupportView_Mail_title</key>
+	<string>ช่วยเหลือเกี่ยวกับ</string>
+	<key>new_finish</key>
+	<string>สำเร็จ</string>
+	<key>sub.text.detail3.vm</key>
+	<string>Lesson</string>
+	<key>key.play.now</key>
+	<string>Play now</string>
+	<key>key.material.main.title1</key>
+	<string>เลือกหลักสูตร</string>
+	<key>key.material.main.title2</key>
+	<string>เพื่อดาวน์โหลดบทเรียน</string>
+	<key>key.material.explore</key>
+	<string>ค้นพบ</string>
+	<key>key.material.worksheet</key>
+	<string>เอกสารเรียน</string>
+	<key>key.material.search</key>
+	<string>ค้นหา</string>
+	<key>key.material.library</key>
+	<string>ห้องสมุด</string>
+	<key>key.material.button.scan.qr</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt;สแกนรหัส QR&lt;/font&gt;</string>
+	<key>key.material.button.scan.qr - 2</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt;สแกนรหัส QR&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt; บนเอกสารของคุณเพื่อเปิดเรื่องราวหรือบทเรียนที่เกี่ยวข้องบนแอพ&lt;/font&gt;</string>
+	<key>key.material.button.enter.email</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt;ป้อน&lt;/font&gt;&lt;font color=&apos;#27AFE5&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt;ที่อยู่อีเมล&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;19&apos; face=&apos;fonts/leelawdb.ttf&apos;&gt;ของคุณเพื่อรับเอกสาร&lt;/font&gt;</string>
+	<key>key.material.button.sendemail</key>
+	<string>ส่งอีเมล</string>
+	<key>key.material.button.register</key>
+	<string>ยืนยัน</string>
+	<key>key.material.button.confirm</key>
+	<string>ยืนยัน</string>
+	<key>key.material.placeholder.search.audiobook</key>
+	<string>ค้นหาตามหัวข้อหนังสือเสียง</string>
+	<key>key.material.placeholder.search.story</key>
+	<string>ค้นหาตามหัวข้อเรื่อง</string>
+	<key>key.material.placeholder.search.phonics</key>
+	<string>ค้นหาตามหัวข้อ Phonics</string>
+	<key>key.material.popup.enter.email</key>
+	<string>ผู้ปกครองโปรดลงทะเบียนเพื่อรับเอกสารเรียน:</string>
+	<key>key.material.choose.worksheet.first</key>
+	<string>ผุ้ปกครองโปรดเลือกเอกสารเรียนที่ต้องการดาวน์โหลดก่อน!</string>
+	<key>key.material.max.worksheet.canbe.selected</key>
+	<string>ผู้ปกครองโปรดเลือกเอกสารเรียนมากสุด
+%d ฉบับในแต่ละครั้ง</string>
+	<key>key.material.confirm.email.to.send</key>
+	<string>ผู้ปกครองโปรดยืนยันที่อยู่อีเมลเพื่อรับเอกสารเรียน:</string>
+	<key>key.material.warning.no.email</key>
+	<string>กรุณากรอกที่อยู่อีเมลของคุณที่นี่</string>
+	<key>key.material.warning.invalid.email</key>
+	<string>ที่อยู่อีเมลไม่ถูกต้อง ผู้ปกครองโปรดตรวจสอบอีกครั้ง!</string>
+	<key>key.material.notice.success.register.email</key>
+	<string>การลงทะเบียนอีเมลเรียบร้อยแล้ว!
+ผู้ปกครองโปรดตรวจสอบอีเมลเพื่อรับเอกสาร.</string>
+	<key>key.material.notice.success.send.worksheet</key>
+	<string>เอกสารเรียบร้อยแล้ว
+ผู้ปกครองโปรดตรวจสอบอีเมลเพื่อดาวน์โหลด
+เอกสารเรียน</string>
+	<key>key.material.noresult.title</key>
+	<string>ขออภัย Monkey ไม่พบ</string>
+	<key>key.material.noresult.warn1</key>
+	<string>โปรดตรวจสอบการสะกดผิด</string>
+	<key>key.material.noresult.warn2</key>
+	<string>ค้นหาตามหัวข้อเรื่อง / หนังสือพูด</string>
+	<key>key.material.title.recent.search</key>
+	<string>ค้นหาล่าสุด</string>
+	<key>key.material.title.popular.search</key>
+	<string>ค้นหายอดนิยม</string>
+	<key>key.material.story.readed</key>
+	<string>เรื่องเคยอ่าน</string>
+	<key>key.material.lesson.learned</key>
+	<string>บทเรียนเคยเรียน</string>
+	<key>key.material.worksheet.downloaded</key>
+	<string>เอกสารเคยดาวน์โหลด</string>
+	<key>key.material.note.title</key>
+	<string>หมายเหตุ</string>
+	<key>key.material.note.desc</key>
+	<string>ผู้ปกครองควรดาวน์โหลดและปริ้นตามนิยายและ
+นิทานที่เด็กๆ เรียนแล้ว!</string>
+	<key>key.material.note.desc.2</key>
+	<string>ผู้ปกครองควรเน้นดาวน์โหลดและปริ้นเอกสาร
+การเรียนเฉพาะบทเรียนที่น้องเคยเรียนแล้ว!</string>
+	<key>key.material.selected.worksheet</key>
+	<string>เอกสารถูกเลือก</string>
+	<key>key.material.desc.free.limit</key>
+	<string>บัญชีฟรีอนุญาตให้ดาวน์โหลด %dฉบับ/วัน
+กรุณาสมัครซื้อเพื่อใช้ได้ไม่จำกัด !</string>
+	<key>account.expired</key>
+	<string>หมดอายุ</string>
+	<key>key.material.worksheet.title</key>
+	<string>เอกสารเรียน</string>
+	<key>key.material.worksheet.unsend</key>
+	<string>ยังไม่ส่ง</string>
+	<key>key.material.worksheet.exit.warning</key>
+	<string>เอกสารเรียนที่เลือกแล้วจะหายไป เมื่อพ่อแม่ออกไป</string>
+	<key>key.material.worksheet.exit</key>
+	<string>ออกไป</string>
+	<key>key.material.worksheet.continue.select</key>
+	<string>เลือกถัดไป</string>
+	<key>key.unzip.error.reparing.lesson</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; บทเรียน&quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; เกิดข้อผิดพลาด!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;โปรดคลิก&lt;font color = &quot;#ff0000&quot;&gt;ดำเนินการต่อ&lt;/font&gt;เพื่อหลีกเลี่ยงการหยุดชะงักระหว่างการเรียน!&lt;/font&gt;</string>
+	<key>key.unzip.error.reparing.story</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; เรื่องราว &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; เรื่องราวเกิดข้อผิดพลาด!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;โปรดคลิก&lt;font color = &quot;#ff0000&quot;&gt;ยกเลิก&lt;/font&gt;เพื่อหลีกเลี่ยงการหยุดชะงักในระหว่างการเรียน!&lt;/font&gt;</string>
+	<key>key.reply</key>
+	<string>เรียนอีกครั้ง</string>
+	<key>key.setting.audio.ios</key>
+	<string>คุณยังไม่เปิดอนุญาตให้แอปพลิเคชันใช้ไมโครโฟนไปที่การตั้งค่า -&gt; ความเป็นส่วนตัว -&gt; ไมโครโฟน -&gt;  Monkey Stories เปิด (ON)</string>
+	<key>key.setting.audio.android</key>
+	<string>คุณยังไม่เปิดอนุญาตให้แอปพลิเคชันใช้ไมโครโฟนไปที่การตั้งค่า -&gt; แอพ -&gt;Monkey Stories -&gt; สิทธิ์ -&gt; ไมโครโฟน -&gt; อนุญาต</string>
+	<key>key.go.setting.ios</key>
+	<string>การตั้งค่า</string>
+	<key>key.close.setting.ios</key>
+	<string>ปิด</string>
+	<key>key.notification.not.found.result.of.stories</key>
+	<string>ระดับ &quot;%s&quot; ของหัวข้อนี้ยังไม่ได้เปิดตัว</string>
+	<key>key.notification.choose.stories.another.level</key>
+	<string>โปรดเลือกบทเรียนในระดับอื่น</string>
+	<key>key.notification.update.list.stories</key>
+	<string>Monkey จะมีการอัพเดทบทเรียนตลอด</string>
+	<key>apple.login.failed</key>
+	<string>เข้าสู่ระบบด้วย Apple ไม่สำเร็จ</string>
+	<key>facebook.login.failed</key>
+	<string>เข้าสู่ระบบด้วย Facebook ไม่สำเร็จ</string>
+	<key>google.login.failed</key>
+	<string>เข้าสู่ระบบด้วย Google ไม่สำเร็จ</string>
+	<key>onboard.ask.record.permission</key>
+	<string>&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt; ผู้ปกครองโปรดอนุญาตให้แอปเข้าถึง&lt;/font&gt; &lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Microphone &lt;/font&gt;&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;เพื่อให้เด็กฝึกฝน&lt;br/&gt;การออกเสียงกับ Monkey Stories นะ&lt;/font&gt;</string>
+	<key>onboard.ask.record.permission.android</key>
+	<string>&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;ผู้ปกครองโปรดอนุญาตให้เข้าถึง &lt;/font&gt; &lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Microphone &lt;/font&gt;&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;และ &lt;/font&gt;&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;File &lt;/font&gt;&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;เพื่อให้น้องฝึก การออกเสียงกับ Monkey Stories นะ&lt;/font&gt;</string>
+	<key>reject.record.audio</key>
+	<string>บัญชีใช้งานปฏิเสธการอัดของ Application</string>
+	<key>subscription.already.purchase1</key>
+	<string>ผู้ปกครองเคยซื้อผลิตภัณฑ์ด้วยบัญชี Apple/Google แล้ว อื่น โปรดตรวจสอบอีกครั้ง</string>
+	<key>subscription.yes</key>
+	<string>ตกลง</string>
+	<key>subscription.already.register.message</key>
+	<string>&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;30&apos; color=&apos;#8ca7b6&apos;&gt;ผู้ปกครองเคยซื้อผลิตภัณฑ์ใน Monkey Account: &lt;font color=&apos;#17BBDE&apos;&gt;%s&lt;/font&gt;. ออกจากบัญชีปัจจุบันเพื่อเข้าสู่บัญชีที่ซื้อ&lt;/font&gt;</string>
+	<key>subscription.failure.title</key>
+	<string>ชำระเงินไม่สำเร็จ โปรดกรอกข้อมูลเพื่อได้รับคำแนะนำจากเจ้าหน้าที่</string>
+	<key>subscription.restore.success</key>
+	<string>กู้คืนแพ็คเกจสำเร็จ</string>
+	<key>subscription.purchase.success</key>
+	<string>ชำระเงินสำเร็จ</string>
+	<key>subscription.purchase.success.access.all</key>
+	<string>ผู้ปกครองสามารถเข้าถึงบทเรียนทั้งหมด บนแอป Monkey Stories</string>
+	<key>subscription.purchase.start.learning.now</key>
+	<string>เริ่มเรียนทันที</string>
+	<key>subscription.purchase.success.1profile</key>
+	<string>ผู้ปกครองสามารถสร้างเพิ่ม 1 โปรไฟล์ผู้เรียนและ เข้าถึงบทเรียนทั้งหมดของ Monkey Stories</string>
+	<key>subscription.purchase.success.2months</key>
+	<string>ผู้ปกครองจะได้ใช้งานเพิ่มอีก 2 เดือนไม่จำกัดและสามารถเข้าถึงบทเรียนทั้งหมดบน Monkey Stories</string>
+	<key>subscription.purchase.changesuccess</key>
+	<string>เปลี่ยนแพ็คเกจเรียบร้อย</string>
+	<key>subscription.purchase.success.changesubscription</key>
+	<string> &lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;29&apos; color=&apos;#666666&apos;&gt;แพ็จเกจที่ซื้อ &lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt; จะใช้งานได้ในการชำระเงินครั้งต่อไป.&lt;/font&gt;</string>
+	<key>subscription.already.purchase.address</key>
+	<string>&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;28&apos; color=&apos;#666666&apos;&gt;บัญชีของผู้ปกครองถูกซื้อบนอุปกรณ์ 1&lt;br/&gt;เครื่องแล้วโดยใช้  &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt;&lt;br/&gt;ในวันที่  &lt;font color= &apos;#fbad18&apos;&gt;%s&lt;/font&gt;. โปรดจัดการ&lt;br/&gt;การซื้อของผู้ปกครองบนแพลตฟอร์มนั้น&lt;/font&gt;</string>
+	<key>subscription.purchase.success.changesubscription2</key>
+	<string>&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;29&apos; color=&apos;#666666&apos;&gt;แพ็คเกจของผู้ปกครองจะต่ออายุ&lt;br/&gt;โดยอัตโนมัติ:&lt;font color= &apos;#1ec2f3&apos;&gt; %s &lt;/font&gt;ด้วยราคา &lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt;&lt;br/&gt;ในการชำระเงินรอบถัดไป: &lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt;&lt;/font&gt;</string>
+	<key>subscription.please.insert.email</key>
+	<string>ป้อน Email ของคุณ</string>
+	<key>subscription.please.insert.username</key>
+	<string>กรุณากรอกชื่อของคุณ</string>
+	<key>subscription.error.network</key>
+	<string>การเชื่อมต่อล้มเหลวโปรดตรวจสอบอีกครั้ง</string>
+	<key>ap.register.change.password.title</key>
+	<string>ตั้งรหัสผ่านใหม่</string>
+	<key>ap.register.change.password.des</key>
+	<string>บัญชีของคุณสามารถเข้าสู่ระบบบนทุกอุปกรณ์</string>
+	<key>subscription.response.get.info.email</key>
+	<string>ผู้ปกครองโปรดตรวจสอบอีเมลเป็นประจำเพื่อไม่พลาดข้อมูลข่าวสารจาก  Monkey นะคะ</string>
+	<key>subscription.wrong.format.name</key>
+	<string>กรุณาตรวจสอบชื่ออีกครั้ง</string>
+	<key>full.name.email</key>
+	<string>ชื่อ - นามสกุล</string>
+	<key>new.earlystart.stories.1month.40_off</key>
+	<string>1 เดือน</string>
+	<key>new.earlystart.stories.6month.40_off</key>
+	<string>6 เดือน</string>
+	<key>new.earlystart.stories.1year.40_off</key>
+	<string>1 ปี</string>
+	<key>new.earlystart.stories.lifetime.40_off</key>
+	<string>แพ็คเกจตลอดชีพ</string>
+	<key>ap.register.screen.description.1</key>
+	<string>บันทึกกระบวนการเรียนของเด็ก</string>
+	<key>ap.register.screen.description.2</key>
+	<string>รับรายงานการเรียน</string>
+	<key>ap.register.screen.description.3</key>
+	<string>ใช้บนหลายอุปกรณ์</string>
+	<key>ap.register.screen.title</key>
+	<string>ลงทะเบียน</string>
+	<key>ap.login.screen.title</key>
+	<string>เข้าสู่ระบบด้วยบัญชี Monkey</string>
+	<key>ap.fill.username.phone</key>
+	<string>ป้อนบัญชีผู้ใช้หรือหมายเลขโทรศัพท์</string>
+	<key>ap.fill.your.password</key>
+	<string>ป้อนรหัสผ่าน</string>
+	<key>ap.have.not.account.sign.up</key>
+	<string>ผู้ปกครองยังไม่มีบัญชี? สมัครทันที</string>
+	<key>ap.have.an.account.sign.in</key>
+	<string>ผู้ปกครองมีบัญชีแล้ว เข้าสู่ระบบทันที</string>
+	<key>ap.enter.your.phone.number</key>
+	<string>ป้อนหมายเลขโทรศัพท์ของคุณ...</string>
+	<key>ap.register.continue.with</key>
+	<string>หรือดำเนินการต่อสำหรับ</string>
+	<key>ap.confirm.your.password</key>
+	<string>หรือดำเนินการต่อสำหรับ</string>
+	<key>ap.waring.entering.password</key>
+	<string>โปรดป้อนรหัสผ่าน</string>
+	<key>ap.waring.invalid.password</key>
+	<string>รหัสต้องมีอย่างน้อย 4 หลัก</string>
+	<key>ap.please.reenter.password</key>
+	<string>โปรดยืนยันรหัสผ่าน</string>
+	<key>ap.check.password.match</key>
+	<string>รหัสผ่านไม่ตรงกัน</string>
+	<key>monkey.talking.call.text</key>
+	<string>โทร %s</string>
+	<key>monkey.talking.calling.text</key>
+	<string>กำลังโทร %s</string>
+	<key>monkey.talking.ask.permission.text</key>
+	<string>	&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;ผู้ปกครองโปรดอนุญาตให้ Monkey เข้าถึง &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;กล้องและไมโครโฟ &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;นเพื่อช่วยให้บุตรหลานของคุณฝึกฝนการสนทนา &lt;/font&gt;
+	&lt;/string&gt;</string>
+	<key>monkey.talking.ask.permission.title.text</key>
+	<string>แจ้งเตือน</string>
+	<key>monkey.talking.ask.permission.accept.text</key>
+	<string>ตกลง</string>
+	<key>monkey.talking.share.description.text</key>
+	<string>มาแชร์วิดีโอนี้กันเถอะ!</string>
+	<key>monkey.talking.share.text</key>
+	<string>แชร์</string>
+	<key>monkey.talking.share.finish.text</key>
+	<string>จบ</string>
+	<key>learn.stories</key>
+	<string>นิทานที่อ่านแล้ว</string>
+	<key>lb.sure.to.hang.up</key>
+	<string>คุณต้องการที่จะจบบทเรียน?</string>
+	<key>lb.continue</key>
+	<string>ดำเนินการต่อ</string>
+	<key>lb.hang.up</key>
+	<string>จบ</string>
+	<key>lb.conversation.paused.title</key>
+	<string>หยุดบทสนทนา</string>
+	<key>lb.exit</key>
+	<string>Exit</string>
+	<key>lb.skip</key>
+	<string>ข้าม</string>
+	<key>lb.conversation.paused.content</key>
+	<string>บทเรียนกำลังหยุดชั่วคราว น้องสามารถกด Skip เพื่อเปลี่ยนเป็นโหมดพูดคุยหรือกด EXIT เพื่อออกจากบทเรียน</string>
+	<key>subscription.please.insert.phonenumber</key>
+	<string>หมายเลขโทรศัพท์</string>
+	<key>subscription.wrong.format</key>
+	<string>หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
+	<key>subscription.response.popup.message</key>
+	<string>Monkey จะติดต่อเพื่อนแนะนำข้อมูล
+ภายใน 24 ชั่วโมง</string>
+	<key>subscription.response.title</key>
+	<string>ลงทะเบียนสำเร็จ</string>
+	<key>subscription.response.button.title</key>
+	<string>ดูข้อมูลเพิ่มเติม</string>
+	<key>fullmemory.warning</key>
+	<string>หน่วยความจำของอุปกรณ์เต็มแล้ว ผู้ปกครองโปรดตรวจสอบใหม่อีกครั้ง</string>
+	<key>free2paid.profileage.title</key>
+	<string>สร้างโปรไฟล์เรียนสำหรับน้อง</string>
+	<key>free2paid.profileage.subtitle</key>
+	<string>น้องอายุเท่าไหร่?</string>
+	<key>free2paid.profileage.buttonnext</key>
+	<string>ดำเนินการต่อ</string>
+	<key>key.free2paid.popup.notification</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;บทเรียนของวันนี้เรียนเสร็จแล้ว&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;ผู้ปกครองโปรดอนุญาตให้เข้าถึง &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;32&apos; color=&apos;#01C4F8&apos;&gt;​​&quot;การแจ้งเตือน&quot;&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;เพื่อ Monkey สามารถช่วยให้เด็กเรียนรู้&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;อย่างประสิทธิภาพมากยิ่งขึ้น&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.content.of.profile.mini</key>
+	<string>สร้างโปรไฟล์ทดลองเรียนสำหรับน้อง</string>
+	<key>f2p.title.of.end.trial.lesson.popup</key>
+	<string>การทดลองเรียนสิ้นสุดแล้ว</string>
+	<key>f2p.content.of.end.trial.lesson.popup</key>
+	<string>เพื่อให้ลูกของคุณใช้งานต่อไป ผู้ปกครองโปรด
+ปลดล็อกเนื้อหาทั้งหมด หรือ ลงทะเบียน
+ทดลองเรียนฟรี เพื่อดำเนินการให้เด็กทดลองเรียนต่อ</string>
+	<key>f2p.text.of.button.unclock.all.lesson</key>
+	<string>ปลดล็อกทั้งหมด</string>
+	<key>f2p.text.of.button.signup.free</key>
+	<string>สมัครทดลองเรียน</string>
+	<key>f2p.title.end.lesson.scene</key>
+	<string>น้องจบบทเรียนของวันนี้แล้ว</string>
+	<key>f2p.content.of.end.lesson.scene</key>
+	<string>หากต้องการเรียนรู้บทเรียนเพิ่มเติมผู้ปกครอง
+ช่วยให้เด็กปลดล็อคหรือกลับมาในวันถัดไป</string>
+	<key>f2p.text.of.top.button.of.end.lesson.scene</key>
+	<string>ปลดล็อกทั้งหมด</string>
+	<key>f2p.text.of.bottom.button.of.end.lesson.scene</key>
+	<string>กลับมาภายหลัง</string>
+	<key>MSFreeContentPage.title</key>
+	<string>เนื้อหาฟรี</string>
+	<key>MSFreeContentPage.Unlock_all</key>
+	<string>ปลดล็อคทั้งหมด</string>
+	<key>MSFreeContentPage.discover</key>
+	<string>ค้นหา</string>
+	<key>text_of_pop_study_trial_14_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;เด็ก ๆ จะได้ทดลองเรียน &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;14 บทเรียน &lt;/font&gt;
+		&lt;br&gt;&lt;/br&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;หลังจากนั้นผู้ปกครองจะต้องปลดล็อกเนื้อหา&lt;/font&gt;
+		&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;ทั้งหมด เพื่อให้เด็กสามารถเรียนรู้อย่างต่อเนื่อง&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_7_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;เด็ก ๆ จะได้ทดลองเรียน &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;7 บทเรียน &lt;/font&gt;
+		&lt;br&gt;&lt;/br&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;หลังจากนั้นผู้ปกครองจะต้องปลดล็อกเนื้อหา&lt;/font&gt;
+		&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;ทั้งหมด เพื่อให้เด็กสามารถเรียนรู้อย่างต่อเนื่อง&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_10_lesson_free_unlock</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;ขอบคุณผู้ปกครองที่สร้างบัญชี&lt;br/&gt;Monkey ขอมอบให้น้อง&lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 บทเรียนฟรี&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;หลังจากนั้น ผู้ปกครองจะต้องปลดล็อกเนื้อหา&lt;br/&gt;ทั้งหมด เพื่อให้เด็กสามารถศึกษาเรียนรู้ต่อไป&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>key_open_lock_all_stories</key>
+	<string>ปลดล็อกทั้งหมด</string>
+	<key>key_try_learn_now</key>
+	<string>ทดลองเรียนเลย</string>
+	<key>key_title_study_stories</key>
+	<string>หลักสูตรทดลองใช้งาน</string>
+	<key>getting.started.scene.txt.btn.signin</key>
+	<string>เข้าสู่ระบบ</string>
+	<key>getting.started.scene.txt.have.account</key>
+	<string>ฉันมีบัญชีแล้ว</string>
+	<key>getting.started.scene.txt.btn.start.now</key>
+	<string>เริ่มทันที</string>
+	<key>getting.started.scene.txt.had.no.account</key>
+	<string>ฉันยังไม่มีบัญชี</string>
+	<key>getting.started.scene.txt.quiz.had.account</key>
+	<string>คุณผู้ปกครองเคยมีบัญชี Monkey Stories หรือยัง?</string>
+	<key>splash.scene.txt1.page0</key>
+	<string>เก่งภาษาอังกฤษก่อนอายุ 10 ปี</string>
+	<key>splash.scene.txt2.page0</key>
+	<string>เป็นทางเลือกอันดับ 1 สำหรับเด็กอายุ 0-10 ปี
+เพื่อเริ่มเรียนภาษาอังกฤษ</string>
+	<key>splash.scene.txt.package.applied.page1</key>
+	<string>ใช้สำหรับแพ็คเกจเรียน 6 เดือน 1 ปี และ ตลอดชีพ</string>
+	<key>splash.scene.txt.package.applied.page2</key>
+	<string>ใช้สำหรับแพ็คเกจเรียน 1 เดือน 6 เดือน และ 1 ปี</string>
+	<key>splash.scene.txt.discount.page1</key>
+	<string>ส่วนลดพิเศษถึง</string>
+	<key>splash.scene.txt1.page2</key>
+	<string>เด็กเรียนรู้ภาษาอังกฤษ
+ด้วยความสนุกสนานไม่กดดัน</string>
+	<key>splash.scene.txt.item1.page2</key>
+	<string>นิยายนิทานแบบโต้ตอบ
+มากกว่า 1000 เรื่องราว</string>
+	<key>splash.scene.txt.item2.page2</key>
+	<string>บทเรียนประกอบใน
+กิจกรรมเกมโต้ตอบและเรียนรู้วิธีการออกเสียง</string>
+	<key>splash.scene.txt.item3.page2</key>
+	<string>หนังสือเสียงมากกว่า 200 เล่ม</string>
+	<key>splash.scene.txt.continue</key>
+	<string>ดำเนินการต่อ</string>
+	<key>date.title</key>
+	<string>วันที่ </string>
+	<key>name.stories</key>
+	<string>Stories</string>
+	<key>name.phonic</key>
+	<string>Phonic</string>
+	<key>name.reading_comprehension</key>
+	<string>Reading Comprehension</string>
+	<key>f2p.key_try_learn_now</key>
+	<string>เรียนต่อ</string>
+	<key>f2p.key.content.trial_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;ขอบคุณผู้ปกครองที่สร้างบัญชี  Monkey ขอมอบให้น้อง &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 บทเรียนฟรี &lt;/font&gt;
+		&lt;font face=&apos;fonts/leelawdb.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;หลังจากนั้น ผู้ปกครองจะต้องปลดล็อกเนื้อหาทั้งหมดเพื่อให้เด็กสามารถศึกษาเรียนรู้ต่อไป&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.key.content.end_trial_lesson</key>
+	<string>ทุกบทเรียนทดลองได้เรียนเสร็จสมบูรณ์แล้ว
+ผู้ปกครองช่วยปลดล็อคเพื่อเด็กได้เรียน
+อย่างต่อเนื่องนะคะ</string>
+	<key>title.of.popup.notice.completed.lesson</key>
+	<string>บทเรียนยังไม่พร้อม</string>
+	<key>content.v1.of.popup.notice.completed.lesson</key>
+	<string>เพื่อเรียนบทเรียนนี้ ผู้ปกครองต้องปลดล็อคเนื้อหาทั้งหมด 
+หรือกลับมาในวันพรุ่งนี้</string>
+	<key>content.v2.of.popup.notice.completed.lesson</key>
+	<string>กรุณาเรียนจบบทเรียนของของวันนี้.
+เพื่อเรียนบทเรียนนี้ ผู้ปกครองต้องปลดล็อคเนื้อหาทั้งหมด 
+หรือกลับมาในวันพรุ่งนี้</string>
+	<key>text.continue.learn</key>
+	<string>ทดลองเรียนต่อ</string>
+	<key>free2paid.ask.name</key>
+	<string>น้องชื่ออะไรคะ?</string>
+	<key>placeholder.textfield.name.setup</key>
+	<string>ป้อนชื่อ</string>
+	<key>free2paid.birthday.title</key>
+	<string>ลูกของคุณเกิดเมื่อไหร่?</string>
+	<key>month_1</key>
+	<string>มกราคม</string>
+	<key>month_2</key>
+	<string>กุมภาพันธ์</string>
+	<key>month_3</key>
+	<string>มีนาคม</string>
+	<key>month_4</key>
+	<string>เมษายน</string>
+	<key>month_5</key>
+	<string>พฤษภาคม</string>
+	<key>month_6</key>
+	<string>มิถุนายน</string>
+	<key>month_7</key>
+	<string>กรกฎาคม</string>
+	<key>month_8</key>
+	<string>สิงหาคม</string>
+	<key>month_9</key>
+	<string>กันยายน</string>
+	<key>month_10</key>
+	<string>ตุลาคม</string>
+	<key>month_11</key>
+	<string>พฤศจิกายน</string>
+	<key>month_12</key>
+	<string>ธันวาคม</string>
+	<key>onboard.birthday.f2p.picker.title</key>
+	<string>วันเกิดของเด็ก</string>
+	<key>timepicker_done</key>
+	<string>ดำเนินการต่อ</string>
+	<key>key_title_subscription</key>
+	<string>ลงทะเบียนตอนนี้เพื่อรับการทดลองใช้โปรแกรม 7 วัน</string>
+	<key>subscription.popular</key>
+	<string>ขายดี</string>
+	<key>subscription.bonus.profile</key>
+	<string>แถม 1 โปรไฟล์การเรียน</string>
+	<key>subscription.discount.format</key>
+	<string>โปรโมชั่น %d %%</string>
+	<key>sub.parent.name</key>
+	<string>คุณพ่อ ชัยชนะ</string>
+	<key>sub.review</key>
+	<string>เห็นลูกมีผลพัฒนาอย่างชัดเจนในการออกเสียง รู้คำศัพท์ใหม่ ๆ มากขึ้น โดยใช้โครงสร้างไวยากรณ์ตามธรรมชาติ ผมคิดเลยว่าผมพาลูกไปอยู่ในทิศทางที่ถูกต้อง เมื่อให้ลูกเรียนรู้กับ Monkey Stories</string>
+	<key>terms.of.service</key>
+	<string>โปรดดูข้อกำหนดการใช้งานและนโยบายความเป็นส่วนตัวสำหรับข้อมูลเพิ่มเติม การสมัครสมาชิกจะต่ออายุโดยอัตโนมัติเว้นแต่การต่ออายุอัตโนมัติจะถูกปิดอย่างน้อย 24 ชั่วโมงก่อนวันหมดอายุ บัญชีจะถูกเรียกเก็บเงินสำหรับการต่ออายุตามราคาของแพ็คเกจที่เลือก ภายใน 24 ชั่วโมงก่อนสิ้นสุดระยะเวลาการสมัคร คุณสามารถไปที่การตั้งค่าในบัญชี iTunes ของคุณเพื่อจัดการการสมัครรับข้อมูลและปิดการต่ออายุอัตโนมัติ บัญชี iTunes ของคุณจะถูกเรียกเก็บเงินเมื่อการซื้อได้รับการยืนยัน หลังจากที่ยืนยันการสั่งซื้อสำเร็จ บัญชีการทดลองใช้จะหมดลง</string>
+	<key>message.payment.sucess</key>
+	<string>เชิญผู้ปกครองสร้างบัญชี
+และบันทึกโปรไฟล์การเรียนของเด็ก</string>
+	<key>title.payment.sucess</key>
+	<string>หลักสูตรทดลองเรียนด้วยบัญชีไม่ จำกัด</string>
+	<key>message.noti.payment</key>
+	<string>คุณจะไม่ได้รับรหัสเปิดใช้งาน
+อุปกรณ์นี้จะเปิดใช้งานโดยอัตโนมัติ
+หากต้องการชำระเงิน กด ​​&quot;ซื้อเลย&quot;
+หากต้องการรับข้อมูลเพิ่มเติมเกี่ยวกับ
+ผลิตภัณฑ์โปรดเลือก &quot;ข้อมูลเพิ่มเติม&quot;</string>
+	<key>sub.restore</key>
+	<string>กู้แพ็คเกจที่ซื้อคืน</string>
+	<key>title.support.payment</key>
+	<string>ลงทะเบียนสมัคสั่งซื้อ</string>
+	<key>title.support.payment.th</key>
+	<string>ลงทะเบียนสมัคสั่งซื้อ</string>
+	<key>message.support.payment</key>
+	<string>ช่วยให้ลูกเก่งภาษาอังกฤษ
+เหมือนเด็ก 10 ล้านคนที่กำลังเรียน Monkey อยู่</string>
+	<key>message.support.payment.th</key>
+	<string>รับโปรโมชั่นส่วนลด 40% และให้น้องใช้งาน Monkey Stories โดยเร็วที่สุด</string>
+	<key>title.button.complete</key>
+	<string>สมัคทันที</string>
+	<key>title.button.complete.th</key>
+	<string>สมัคทันที</string>
+	<key>MSMergeSuccess.title</key>
+	<string>เชื่อมต่อสำเร็จ</string>
+	<key>MSMergeSuccessSub.title</key>
+	<string>โปรดเลือก 1 โปรไฟล์เพื่อเริ่มเรียน</string>
+	<key>merge1.scene.txt.title.link.profile</key>
+	<string>เชื่อมต่อโปรไฟล์</string>
+	<key>merge1.scene.txt.trial.learning.profile</key>
+	<string>โปรไฟล์ ทดลองเรียน</string>
+	<key>merge1.scene.txt.free.pack</key>
+	<string>แพ็คเกจเรียนรู้ฟรี</string>
+	<key>merge1.scene.txt.learning.profile</key>
+	<string>โปรไฟล์การเรียน</string>
+	<key>merge1.scene.txt.new.account</key>
+	<string>บัญชีใหม่</string>
+	<key>merge1.scene.txt.years.pack</key>
+	<string>แพ็คเกจเรียน ~ ปี</string>
+	<key>merge1.scene.txt.new.account.info</key>
+	<string>ข้อมูลเกี่ยวกับบัญชี</string>
+	<key>merge1.scene.txt.full.name</key>
+	<string>ชื่อ - นามสกุล</string>
+	<key>merge1.scene.txt.phone.number</key>
+	<string>หมายเลขโทรศัพท์</string>
+	<key>merge1.scene.txt.email</key>
+	<string>อีเมล</string>
+	<key>merge1.scene.btn.link</key>
+	<string>เชื่อมต่อ</string>
+	<key>merge1.scene.btn.skip</key>
+	<string>ข้าม</string>
+	<key>merge1.scene.txt.device.profile</key>
+	<string>โปรไฟล์บันทึกบนอุปกรณ์</string>
+	<key>merge2.scene.txt.title.link.profile</key>
+	<string>เชื่อมต่อโปรไฟล์</string>
+	<key>merge2.scene.txt.account</key>
+	<string>บัญชี</string>
+	<key>merge2.scene.txt.account.info</key>
+	<string>ข้อมูลเกี่ยวกับบัญชี</string>
+	<key>merge2.scene.txt.full.name</key>
+	<string>ชื่อ - นามสกุล</string>
+	<key>merge2.scene.txt.phone.number</key>
+	<string>หมายเลขโทรศัพท์</string>
+	<key>merge2.scene.txt.email</key>
+	<string>อีเมล</string>
+	<key>merge2.scene.txt.learning.profile</key>
+	<string>โปรไฟล์การศึกษา</string>
+	<key>merge2.scene.txt.warning</key>
+	<string>สร้างโปรไฟล์เกินจำนวนที่กำหนด
+ผู้กองกรุณาลบ 1 โปรไฟล์เพื่อเชื่อมโยงบัญชี</string>
+	<key>merge2.scene.btn.submit</key>
+	<string>ยืนยัน</string>
+	<key>merge2.scene.txt.free.pack</key>
+	<string>Gói học miễn phí</string>
+	<key>product.name.com.earlystart.stories.package</key>
+	<string>แพ็คเกจ</string>
+	<key>content.f2p.lifetime.purchased.account</key>
+	<string>บัญชีนี้ได้ซื้อแพ็คเกจเรียนตลอดชีพ
+กรุณาสร้างบัญชีใหม่
+เพื่อเชื่อมกับแพ็คเกจที่ผู้ปกครองเพิ่งซื้อ</string>
+	<key>subscription.confirm</key>
+	<string>ยืนยัน</string>
+	<key>free2paid.create.child.profile</key>
+	<string>สร้างโปรไฟล์เรียนสำหรับน้อง</string>
+	<key>delete.account</key>
+	<string>ลบบัญชี</string>
+	<key>key.message.poup.incorrect.account</key>
+	<string>The account you logged in is invalid.</string>
+</dict>
+</plist>

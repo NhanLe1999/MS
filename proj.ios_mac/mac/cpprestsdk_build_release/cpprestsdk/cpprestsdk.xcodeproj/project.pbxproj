@@ -1,0 +1,729 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		3A2EA97A0F1E417395FE447A /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 071B4234D5AA4AB3BD601588 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				A7F3EA01E844418B865BC17A /* CMake Rules */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+		77A5B05571984E9C9E8C7298 /* install */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 98057104FB5B45BC93D2A009 /* Build configuration list for PBXAggregateTarget "install" */;
+			buildPhases = (
+				C7D0CDC65D6146DC9956F7FB /* CMake PostBuild Rules */,
+			);
+			dependencies = (
+				A9709FEBE31E49C989FCE48A /* PBXTargetDependency */,
+			);
+			name = install;
+			productName = install;
+		};
+		8A89AD8F52D24FC7A6B291C7 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 01AE5560DFE54DE3B2A88C85 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				C36E59B08BE54CA3A813AF93 /* CMake Rules */,
+			);
+			dependencies = (
+				56DC5A0C0AF44C449AAA73F9 /* PBXTargetDependency */,
+				6FE119DDCC814497AE079555 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		04465A15878A4B428E4C0577 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_msg.cpp */ = {isa = PBXBuildFile; fileRef = CAC93553CB94467ABE32BDA8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_msg.cpp */; };
+		049CB6AE0E4D4B2D9BF81C42 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/filestream.h */ = {isa = PBXBuildFile; fileRef = 0FA3872B1FF44158AA24630F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/filestream.h */; };
+		0633B0B30CD348468D82B21D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_msg.cpp */ = {isa = PBXBuildFile; fileRef = E6EB8FBFEE324251AB2A570B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_msg.cpp */; };
+		0AB607D29DBC43469D41F835 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxtasks.h */ = {isa = PBXBuildFile; fileRef = A9918F5503E64CDCB5F77347 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxtasks.h */; };
+		0B189BD600C248A4B0764186 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/SafeInt3.hpp */ = {isa = PBXBuildFile; fileRef = 9D823758014541798A37D3F9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/SafeInt3.hpp */; };
+		0BFCAA83E72D49ADA888F9A3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth2.cpp */ = {isa = PBXBuildFile; fileRef = A1E85E387F4A4FBB823799E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth2.cpp */; };
+		0F1B222B48A141FF80C8996A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth1.cpp */ = {isa = PBXBuildFile; fileRef = A593186E1A2E4EA08BE30423 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth1.cpp */; };
+		128DE3608EB748EFABC0AED8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_client.h */ = {isa = PBXBuildFile; fileRef = 13C470DFAA21466A89C826F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_client.h */; };
+		143C02C7555249CF98FE9203 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_asio.cpp */ = {isa = PBXBuildFile; fileRef = 9ED195E55807493D997865B8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_asio.cpp */; };
+		1846FCCF8CBC4A868DD98A92 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener_msg.cpp */ = {isa = PBXBuildFile; fileRef = 2B446571012649A4855D2326 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener_msg.cpp */; };
+		1E725D67B49B47C2B42A3CDD /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/basic_types.h */ = {isa = PBXBuildFile; fileRef = 71BCFFDB3F7E46DD8F082C34 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/basic_types.h */; };
+		243829E024E648849559D0E4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxcancellation_token.h */ = {isa = PBXBuildFile; fileRef = 4D8140919297464DA2C9544C /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxcancellation_token.h */; };
+		2571666DF30E4BD1B33A20B2 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri_builder.cpp */ = {isa = PBXBuildFile; fileRef = 6C086939E2174178ADAC58A0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri_builder.cpp */; };
+		2D1CEBE061454AC195CAB3DB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/rawptrstream.h */ = {isa = PBXBuildFile; fileRef = AE3764D78B6E4CB88D441580 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/rawptrstream.h */; };
+		3508003643C141169A1A66B6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_msg.h */ = {isa = PBXBuildFile; fileRef = 94B89943326642DE94EDB381 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_msg.h */; };
+		3F66E8F8A06F4A349FD62FDD /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxinterface.h */ = {isa = PBXBuildFile; fileRef = 5AD94B09F36841B89D974162 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxinterface.h */; };
+		406507B5368A44F48121A856 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplx.cpp */ = {isa = PBXBuildFile; fileRef = E355635182E34A3B9822447B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplx.cpp */; };
+		40D4B404A7CD47AFBCC87A8D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server_api.h */ = {isa = PBXBuildFile; fileRef = F79067B55793486D80D33696 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server_api.h */; };
+		417759450DD346919E026F95 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_listener.h */ = {isa = PBXBuildFile; fileRef = 5CD13FDC4BCF470CB8D6E783 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_listener.h */; };
+		46ABC30E87BF47679A59D83C /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_headers.h */ = {isa = PBXBuildFile; fileRef = 0F6C4684328247D69687BEE1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_headers.h */; };
+		4C42CA5AE1864C8DA15D259F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json.cpp */ = {isa = PBXBuildFile; fileRef = 70D47DF333744B15B059B729 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json.cpp */; };
+		50093422AE5745708D01F4F4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = A183AA448A494ACF95C97CE0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/CMakeLists.txt */; };
+		50C7A5DAC08342518EF81B37 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_helpers.cpp */ = {isa = PBXBuildFile; fileRef = 47F0453B4B064BCC9965672F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_helpers.cpp */; };
+		511C81AC52404ADBA3A176F4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxlinux.h */ = {isa = PBXBuildFile; fileRef = 5A0D0F0A1A24490693AA5F5F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxlinux.h */; };
+		56696D8E20E444A2B162C57B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/json.h */ = {isa = PBXBuildFile; fileRef = BA59393357B1462EBA372FD0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/json.h */; };
+		5D5191F321F643B6ACA8D39B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/streams.h */ = {isa = PBXBuildFile; fileRef = 6BBFB91F0E5145F99F6264D5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/streams.h */; };
+		5ED4CE28236741D4A1FB77CF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplxapple.cpp */ = {isa = PBXBuildFile; fileRef = 54588797CEDA4495AD95099D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplxapple.cpp */; };
+		615674E678E14329ADCC5078 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener.cpp */ = {isa = PBXBuildFile; fileRef = 9FCD56CB9DD24F5E9B4A4FF0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener.cpp */; };
+		6172B7542D4F445EA57739A9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pch/stdafx.h */ = {isa = PBXBuildFile; fileRef = 3604C5AC6C3A4A589306D0D1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pch/stdafx.h */; };
+		6B02E283CB5D44CD81B208BC /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_wspp.cpp */ = {isa = PBXBuildFile; fileRef = 63C0B79F44374CA590B88EDA /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_wspp.cpp */; };
+		6FE608759CEC493FAFC14C1B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/resource.h */ = {isa = PBXBuildFile; fileRef = 6FB74B4EDD2E4F5995D2376B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/resource.h */; };
+		71F4DE51966B4861AE55C363 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/connection_pool_helpers.h */ = {isa = PBXBuildFile; fileRef = 1EDA873F53984817A42D6E11 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/connection_pool_helpers.h */; };
+		7340D5AEECB04718B6AE16BF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/asyncrt_utils.cpp */ = {isa = PBXBuildFile; fileRef = 6E05C8EAF0B7465D878AD0A6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/asyncrt_utils.cpp */; };
+		753D926C2FD449348F8C67A2 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_helpers.h */ = {isa = PBXBuildFile; fileRef = AD2339EF9D1D4DE59202BD3A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_helpers.h */; };
+		76F09D365AE84C798D58C1D9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/base64.cpp */ = {isa = PBXBuildFile; fileRef = D269B0154F344D69B6D1B3F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/base64.cpp */; };
+		7BCD98F58C714C7C841A7AAB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/version.h */ = {isa = PBXBuildFile; fileRef = 32D0B99AB3E0481DBFF88A17 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/version.h */; };
+		7C717E489BEB475BB264D021 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxwin.h */ = {isa = PBXBuildFile; fileRef = F9EA52B047E54A75A4C08B8B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxwin.h */; };
+		7DE98767A17445AD9132EA4F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplx.h */ = {isa = PBXBuildFile; fileRef = 2A07F3CBF6FB480EAA0A142D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplx.h */; };
+		7F5B260429714C069DEC9D99 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri_builder.h */ = {isa = PBXBuildFile; fileRef = 86055995D44D42B693F77370 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri_builder.h */; };
+		8F63B8F08FCB44FB8EA9FF70 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/web_utilities.cpp */ = {isa = PBXBuildFile; fileRef = FCFB0A2F89154DA4B86B9A95 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/web_utilities.cpp */; };
+		91C52AB568374A3DABE96BE3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth1.h */ = {isa = PBXBuildFile; fileRef = 68A8C7DE6A9748539421A2EE /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth1.h */; };
+		91EB6237ACF843418BA3D0C1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/threadpool.cpp */ = {isa = PBXBuildFile; fileRef = FE58A00F7F60480A85F53A31 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/threadpool.cpp */; };
+		9273BFD709B248348864BA6F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_impl.h */ = {isa = PBXBuildFile; fileRef = EE799F3E3CE043D28DA581F8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_impl.h */; };
+		981911785A6D439CA1A5B659 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/asyncrt_utils.h */ = {isa = PBXBuildFile; fileRef = 1ACDC19F5C394803AD232955 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/asyncrt_utils.h */; };
+		9862B74CCE6348C4A9A101DC /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth2.h */ = {isa = PBXBuildFile; fileRef = FA0E4BA20EFF4A59B5333BC3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth2.h */; };
+		A49E380816A343ECB9B67316 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_compression.cpp */ = {isa = PBXBuildFile; fileRef = C58F28E8B7A04FD58A8F8EB3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_compression.cpp */; };
+		A87A95D1497A4B7BBBB02350 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_serialization.cpp */ = {isa = PBXBuildFile; fileRef = 74A1157E60E54412A313C450 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_serialization.cpp */; };
+		AA04E8C875B1403692D2B3A2 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/interopstream.h */ = {isa = PBXBuildFile; fileRef = 53E485E1C3474A6E9732E269 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/interopstream.h */; };
+		ABA07C780E9C4311A8F470C5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client.cpp */ = {isa = PBXBuildFile; fileRef = D179C922562D442FB561EED4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client.cpp */; };
+		ACF5FD9CFA9C4FB2A4199BA6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri.h */ = {isa = PBXBuildFile; fileRef = B4347B3D0D6F4EC79B3A1F59 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri.h */; };
+		AD140C476A074EB480A23C43 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/threadpool.h */ = {isa = PBXBuildFile; fileRef = A12052C5663845FDAB372F52 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/threadpool.h */; };
+		AE7336B4031C45F999EBA47F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_msg.cpp */ = {isa = PBXBuildFile; fileRef = A780075BA8AC40528887AAF3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_msg.cpp */; };
+		B9AB790143784FE89B95FF43 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server.h */ = {isa = PBXBuildFile; fileRef = 31AAF99A97C0482BB31FB66D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server.h */; };
+		BB41EB1A9B0B49CAB48F5C39 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client.cpp */ = {isa = PBXBuildFile; fileRef = 73EA0B575BE94896AB92A1A5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client.cpp */; };
+		BB8A39600F974840A711C335 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/base_uri.h */ = {isa = PBXBuildFile; fileRef = 624822DF22F0448FA13F6940 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/base_uri.h */; };
+		BCE664A12E5C411A9148791D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/fileio.h */ = {isa = PBXBuildFile; fileRef = 585B552735B24B2FA8073190 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/fileio.h */; };
+		C4C755ACCBDA4351973466B1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri.cpp */ = {isa = PBXBuildFile; fileRef = F0D3775E16E14309A696659F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri.cpp */; };
+		C9ED61985A5C4EDBB0E465F1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/internal_http_helpers.h */ = {isa = PBXBuildFile; fileRef = 8BD85D40AF5D4544942EFD20 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/internal_http_helpers.h */; };
+		CB05D7C123374423A98615A9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/nosal.h */ = {isa = PBXBuildFile; fileRef = 32736400991A4474B58434E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/nosal.h */; };
+		D149A36A20C24006B8B0C4B8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/astreambuf.h */ = {isa = PBXBuildFile; fileRef = 30596882EA8A4E469874D94A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/astreambuf.h */; };
+		D6692B1B8BBC4525B39C59B6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/x509_cert_utilities.cpp */ = {isa = PBXBuildFile; fileRef = 12E01B00678C4C97AA747197 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/x509_cert_utilities.cpp */; };
+		D6AE34DDAAF944B583C5D01D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_constants.dat */ = {isa = PBXBuildFile; fileRef = 65799AE478A84ACB80F85E10 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_constants.dat */; };
+		D6DD7F56ED124709942F36D9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_api.cpp */ = {isa = PBXBuildFile; fileRef = 60776ADA87474B5AAC277D2A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_api.cpp */; };
+		D960465839754222B390075F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/streams/fileio_posix.cpp */ = {isa = PBXBuildFile; fileRef = 708B94775A7944559EA4B50D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/streams/fileio_posix.cpp */; };
+		DBCEBA8C9392454CB5A3E940 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_compression.h */ = {isa = PBXBuildFile; fileRef = CB1CFB3788C74003AD8FA012 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_compression.h */; };
+		DCA5F21FD76B47E58B7CDC67 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/cpprest_compat.h */ = {isa = PBXBuildFile; fileRef = 62B4679B40B94B9787D92F85 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/cpprest_compat.h */; };
+		DD9FA9487BAD4EAB83F12AD7 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/containerstream.h */ = {isa = PBXBuildFile; fileRef = 075CB0EE1FAD4AD4B46EF369 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/containerstream.h */; };
+		DE5C258DBEE243718212A01D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_client.h */ = {isa = PBXBuildFile; fileRef = 21BEACF488BE4CE7A2EDD7B3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_client.h */; };
+		E390D766E1014EE0A77C5EAB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/web_utilities.h */ = {isa = PBXBuildFile; fileRef = 54786B24FCD04A6290066C3D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/web_utilities.h */; };
+		E89C6EC3943C4039B1C08FA4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxconv.h */ = {isa = PBXBuildFile; fileRef = 276F09932B4E4F52B47D5B4A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxconv.h */; };
+		E994F3EF79F04D9DB5D181E5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/producerconsumerstream.h */ = {isa = PBXBuildFile; fileRef = 322FE608E5D74812875CE311 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/producerconsumerstream.h */; };
+		F2E7A501CDD54DD7B35CF702 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_parsing.cpp */ = {isa = PBXBuildFile; fileRef = BF399A0BFD32443C8A8D5057 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_parsing.cpp */; };
+		F8BF52EF86E24FE398901303 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_impl.h */ = {isa = PBXBuildFile; fileRef = CFBE9A3D3ACC47FA936C4767 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_impl.h */; };
+		FB8D0E27202A4ABAA18ADB15 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_asio.cpp */ = {isa = PBXBuildFile; fileRef = D98E505DCDAF4B6FA8092161 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_asio.cpp */; };
+		FC95B2576B1345C48C5A9104 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_impl.h */ = {isa = PBXBuildFile; fileRef = F2F1D741A26242229F977F16 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_impl.h */; };
+		FD7A374A83B544C6A2ED1F4B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_msg.h */ = {isa = PBXBuildFile; fileRef = D891C260439E49508CB069DB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_msg.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		6B80D4F8E41445378A2EB486 /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		06E3397309D642A8AA5232C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0525F7777DB545ABAC4E8463 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A89AD8F52D24FC7A6B291C7;
+			remoteInfo = ALL_BUILD;
+		};
+		54C6CE855A4641DCB1A74313 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0525F7777DB545ABAC4E8463 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3A2EA97A0F1E417395FE447A;
+			remoteInfo = ZERO_CHECK;
+		};
+		ECFC8DCC24A644FAB7B75A3B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0525F7777DB545ABAC4E8463 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 136C07CF452A46079C3C402A;
+			remoteInfo = cpprest;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		075CB0EE1FAD4AD4B46EF369 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/containerstream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = containerstream.h; path = include/cpprest/containerstream.h; sourceTree = SOURCE_ROOT; };
+		0F6C4684328247D69687BEE1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_headers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_headers.h; path = include/cpprest/http_headers.h; sourceTree = SOURCE_ROOT; };
+		0FA3872B1FF44158AA24630F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/filestream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = filestream.h; path = include/cpprest/filestream.h; sourceTree = SOURCE_ROOT; };
+		12E01B00678C4C97AA747197 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/x509_cert_utilities.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = x509_cert_utilities.cpp; path = src/http/client/x509_cert_utilities.cpp; sourceTree = SOURCE_ROOT; };
+		13C470DFAA21466A89C826F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_client.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_client.h; path = include/cpprest/http_client.h; sourceTree = SOURCE_ROOT; };
+		1ACDC19F5C394803AD232955 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/asyncrt_utils.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = asyncrt_utils.h; path = include/cpprest/asyncrt_utils.h; sourceTree = SOURCE_ROOT; };
+		1EDA873F53984817A42D6E11 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/connection_pool_helpers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = connection_pool_helpers.h; path = src/http/common/connection_pool_helpers.h; sourceTree = SOURCE_ROOT; };
+		21BEACF488BE4CE7A2EDD7B3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_client.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ws_client.h; path = include/cpprest/ws_client.h; sourceTree = SOURCE_ROOT; };
+		276F09932B4E4F52B47D5B4A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxconv.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxconv.h; path = include/pplx/pplxconv.h; sourceTree = SOURCE_ROOT; };
+		2A07F3CBF6FB480EAA0A142D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplx.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplx.h; path = include/pplx/pplx.h; sourceTree = SOURCE_ROOT; };
+		2A13F3FEFF7F492FAE62D1F7 /* cpprest */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libcpprest.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B446571012649A4855D2326 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener_msg.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_listener_msg.cpp; path = src/http/listener/http_listener_msg.cpp; sourceTree = SOURCE_ROOT; };
+		30596882EA8A4E469874D94A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/astreambuf.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = astreambuf.h; path = include/cpprest/astreambuf.h; sourceTree = SOURCE_ROOT; };
+		31AAF99A97C0482BB31FB66D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_server.h; path = include/cpprest/details/http_server.h; sourceTree = SOURCE_ROOT; };
+		322FE608E5D74812875CE311 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/producerconsumerstream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = producerconsumerstream.h; path = include/cpprest/producerconsumerstream.h; sourceTree = SOURCE_ROOT; };
+		32736400991A4474B58434E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/nosal.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = nosal.h; path = include/cpprest/details/nosal.h; sourceTree = SOURCE_ROOT; };
+		32D0B99AB3E0481DBFF88A17 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/version.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = version.h; path = include/cpprest/version.h; sourceTree = SOURCE_ROOT; };
+		3604C5AC6C3A4A589306D0D1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pch/stdafx.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = stdafx.h; path = src/pch/stdafx.h; sourceTree = SOURCE_ROOT; };
+		47F0453B4B064BCC9965672F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_helpers.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_helpers.cpp; path = src/http/common/http_helpers.cpp; sourceTree = SOURCE_ROOT; };
+		4D8140919297464DA2C9544C /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxcancellation_token.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxcancellation_token.h; path = include/pplx/pplxcancellation_token.h; sourceTree = SOURCE_ROOT; };
+		53E485E1C3474A6E9732E269 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/interopstream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = interopstream.h; path = include/cpprest/interopstream.h; sourceTree = SOURCE_ROOT; };
+		54588797CEDA4495AD95099D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplxapple.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = pplxapple.cpp; path = src/pplx/pplxapple.cpp; sourceTree = SOURCE_ROOT; };
+		54786B24FCD04A6290066C3D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/web_utilities.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = web_utilities.h; path = include/cpprest/details/web_utilities.h; sourceTree = SOURCE_ROOT; };
+		585B552735B24B2FA8073190 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/fileio.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = fileio.h; path = include/cpprest/details/fileio.h; sourceTree = SOURCE_ROOT; };
+		5A0D0F0A1A24490693AA5F5F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxlinux.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxlinux.h; path = include/pplx/pplxlinux.h; sourceTree = SOURCE_ROOT; };
+		5AD94B09F36841B89D974162 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxinterface.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxinterface.h; path = include/pplx/pplxinterface.h; sourceTree = SOURCE_ROOT; };
+		5CD13FDC4BCF470CB8D6E783 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_listener.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_listener.h; path = include/cpprest/http_listener.h; sourceTree = SOURCE_ROOT; };
+		60776ADA87474B5AAC277D2A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_api.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_server_api.cpp; path = src/http/listener/http_server_api.cpp; sourceTree = SOURCE_ROOT; };
+		624822DF22F0448FA13F6940 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/base_uri.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = base_uri.h; path = include/cpprest/base_uri.h; sourceTree = SOURCE_ROOT; };
+		62B4679B40B94B9787D92F85 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/cpprest_compat.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = cpprest_compat.h; path = include/cpprest/details/cpprest_compat.h; sourceTree = SOURCE_ROOT; };
+		63C0B79F44374CA590B88EDA /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_wspp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ws_client_wspp.cpp; path = src/websockets/client/ws_client_wspp.cpp; sourceTree = SOURCE_ROOT; };
+		65799AE478A84ACB80F85E10 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_constants.dat */ = {isa = PBXFileReference; explicitFileType = sourcecode; fileEncoding = 4; name = http_constants.dat; path = include/cpprest/details/http_constants.dat; sourceTree = SOURCE_ROOT; };
+		68A8C7DE6A9748539421A2EE /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth1.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = oauth1.h; path = include/cpprest/oauth1.h; sourceTree = SOURCE_ROOT; };
+		6BBFB91F0E5145F99F6264D5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/streams.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = streams.h; path = include/cpprest/streams.h; sourceTree = SOURCE_ROOT; };
+		6C086939E2174178ADAC58A0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri_builder.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = uri_builder.cpp; path = src/uri/uri_builder.cpp; sourceTree = SOURCE_ROOT; };
+		6E05C8EAF0B7465D878AD0A6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/asyncrt_utils.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = asyncrt_utils.cpp; path = src/utilities/asyncrt_utils.cpp; sourceTree = SOURCE_ROOT; };
+		6FB74B4EDD2E4F5995D2376B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/resource.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = resource.h; path = include/cpprest/details/resource.h; sourceTree = SOURCE_ROOT; };
+		708B94775A7944559EA4B50D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/streams/fileio_posix.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = fileio_posix.cpp; path = src/streams/fileio_posix.cpp; sourceTree = SOURCE_ROOT; };
+		70D47DF333744B15B059B729 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = json.cpp; path = src/json/json.cpp; sourceTree = SOURCE_ROOT; };
+		71BCFFDB3F7E46DD8F082C34 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/basic_types.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = basic_types.h; path = include/cpprest/details/basic_types.h; sourceTree = SOURCE_ROOT; };
+		73EA0B575BE94896AB92A1A5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ws_client.cpp; path = src/websockets/client/ws_client.cpp; sourceTree = SOURCE_ROOT; };
+		74A1157E60E54412A313C450 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_serialization.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = json_serialization.cpp; path = src/json/json_serialization.cpp; sourceTree = SOURCE_ROOT; };
+		86055995D44D42B693F77370 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri_builder.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = uri_builder.h; path = include/cpprest/uri_builder.h; sourceTree = SOURCE_ROOT; };
+		8BD85D40AF5D4544942EFD20 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/internal_http_helpers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = internal_http_helpers.h; path = src/http/common/internal_http_helpers.h; sourceTree = SOURCE_ROOT; };
+		94B89943326642DE94EDB381 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_msg.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_msg.h; path = include/cpprest/http_msg.h; sourceTree = SOURCE_ROOT; };
+		9D823758014541798A37D3F9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/SafeInt3.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; fileEncoding = 4; name = SafeInt3.hpp; path = include/cpprest/details/SafeInt3.hpp; sourceTree = SOURCE_ROOT; };
+		9ED195E55807493D997865B8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_asio.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_client_asio.cpp; path = src/http/client/http_client_asio.cpp; sourceTree = SOURCE_ROOT; };
+		9FCD56CB9DD24F5E9B4A4FF0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_listener.cpp; path = src/http/listener/http_listener.cpp; sourceTree = SOURCE_ROOT; };
+		A12052C5663845FDAB372F52 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/threadpool.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = threadpool.h; path = include/pplx/threadpool.h; sourceTree = SOURCE_ROOT; };
+		A183AA448A494ACF95C97CE0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = src/CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		A1E85E387F4A4FBB823799E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth2.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = oauth2.cpp; path = src/http/oauth/oauth2.cpp; sourceTree = SOURCE_ROOT; };
+		A593186E1A2E4EA08BE30423 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth1.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = oauth1.cpp; path = src/http/oauth/oauth1.cpp; sourceTree = SOURCE_ROOT; };
+		A780075BA8AC40528887AAF3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_msg.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_msg.cpp; path = src/http/common/http_msg.cpp; sourceTree = SOURCE_ROOT; };
+		A9918F5503E64CDCB5F77347 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxtasks.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxtasks.h; path = include/pplx/pplxtasks.h; sourceTree = SOURCE_ROOT; };
+		AD2339EF9D1D4DE59202BD3A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_helpers.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_helpers.h; path = include/cpprest/details/http_helpers.h; sourceTree = SOURCE_ROOT; };
+		AE3764D78B6E4CB88D441580 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/rawptrstream.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = rawptrstream.h; path = include/cpprest/rawptrstream.h; sourceTree = SOURCE_ROOT; };
+		B29B885AA02B44C8B5981DEF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		B4347B3D0D6F4EC79B3A1F59 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = uri.h; path = include/cpprest/uri.h; sourceTree = SOURCE_ROOT; };
+		BA59393357B1462EBA372FD0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/json.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = json.h; path = include/cpprest/json.h; sourceTree = SOURCE_ROOT; };
+		BF399A0BFD32443C8A8D5057 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_parsing.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = json_parsing.cpp; path = src/json/json_parsing.cpp; sourceTree = SOURCE_ROOT; };
+		C58F28E8B7A04FD58A8F8EB3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_compression.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_compression.cpp; path = src/http/common/http_compression.cpp; sourceTree = SOURCE_ROOT; };
+		CAC93553CB94467ABE32BDA8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_msg.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ws_msg.cpp; path = src/websockets/client/ws_msg.cpp; sourceTree = SOURCE_ROOT; };
+		CB1CFB3788C74003AD8FA012 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_compression.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_compression.h; path = include/cpprest/http_compression.h; sourceTree = SOURCE_ROOT; };
+		CFBE9A3D3ACC47FA936C4767 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_impl.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_client_impl.h; path = src/http/client/http_client_impl.h; sourceTree = SOURCE_ROOT; };
+		D179C922562D442FB561EED4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_client.cpp; path = src/http/client/http_client.cpp; sourceTree = SOURCE_ROOT; };
+		D269B0154F344D69B6D1B3F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/base64.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = base64.cpp; path = src/utilities/base64.cpp; sourceTree = SOURCE_ROOT; };
+		D891C260439E49508CB069DB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_msg.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ws_msg.h; path = include/cpprest/ws_msg.h; sourceTree = SOURCE_ROOT; };
+		D98E505DCDAF4B6FA8092161 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_asio.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_server_asio.cpp; path = src/http/listener/http_server_asio.cpp; sourceTree = SOURCE_ROOT; };
+		E355635182E34A3B9822447B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplx.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = pplx.cpp; path = src/pplx/pplx.cpp; sourceTree = SOURCE_ROOT; };
+		E6EB8FBFEE324251AB2A570B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_msg.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = http_client_msg.cpp; path = src/http/client/http_client_msg.cpp; sourceTree = SOURCE_ROOT; };
+		EE799F3E3CE043D28DA581F8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_impl.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ws_client_impl.h; path = src/websockets/client/ws_client_impl.h; sourceTree = SOURCE_ROOT; };
+		F0D3775E16E14309A696659F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = uri.cpp; path = src/uri/uri.cpp; sourceTree = SOURCE_ROOT; };
+		F2F1D741A26242229F977F16 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_impl.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_server_impl.h; path = src/http/listener/http_server_impl.h; sourceTree = SOURCE_ROOT; };
+		F79067B55793486D80D33696 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server_api.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = http_server_api.h; path = include/cpprest/details/http_server_api.h; sourceTree = SOURCE_ROOT; };
+		F9EA52B047E54A75A4C08B8B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxwin.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pplxwin.h; path = include/pplx/pplxwin.h; sourceTree = SOURCE_ROOT; };
+		FA0E4BA20EFF4A59B5333BC3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth2.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = oauth2.h; path = include/cpprest/oauth2.h; sourceTree = SOURCE_ROOT; };
+		FCFB0A2F89154DA4B86B9A95 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/web_utilities.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = web_utilities.cpp; path = src/utilities/web_utilities.cpp; sourceTree = SOURCE_ROOT; };
+		FE58A00F7F60480A85F53A31 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/threadpool.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = threadpool.cpp; path = src/pplx/threadpool.cpp; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1A56566859C343F1B53F9826 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				D179C922562D442FB561EED4 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client.cpp */,
+				9ED195E55807493D997865B8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_asio.cpp */,
+				E6EB8FBFEE324251AB2A570B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_msg.cpp */,
+				12E01B00678C4C97AA747197 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/x509_cert_utilities.cpp */,
+				C58F28E8B7A04FD58A8F8EB3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_compression.cpp */,
+				47F0453B4B064BCC9965672F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_helpers.cpp */,
+				A780075BA8AC40528887AAF3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_msg.cpp */,
+				9FCD56CB9DD24F5E9B4A4FF0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener.cpp */,
+				2B446571012649A4855D2326 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener_msg.cpp */,
+				60776ADA87474B5AAC277D2A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_api.cpp */,
+				D98E505DCDAF4B6FA8092161 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_asio.cpp */,
+				A593186E1A2E4EA08BE30423 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth1.cpp */,
+				A1E85E387F4A4FBB823799E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth2.cpp */,
+				70D47DF333744B15B059B729 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json.cpp */,
+				BF399A0BFD32443C8A8D5057 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_parsing.cpp */,
+				74A1157E60E54412A313C450 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_serialization.cpp */,
+				E355635182E34A3B9822447B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplx.cpp */,
+				54588797CEDA4495AD95099D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplxapple.cpp */,
+				FE58A00F7F60480A85F53A31 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/threadpool.cpp */,
+				708B94775A7944559EA4B50D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/streams/fileio_posix.cpp */,
+				F0D3775E16E14309A696659F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri.cpp */,
+				6C086939E2174178ADAC58A0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri_builder.cpp */,
+				6E05C8EAF0B7465D878AD0A6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/asyncrt_utils.cpp */,
+				D269B0154F344D69B6D1B3F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/base64.cpp */,
+				FCFB0A2F89154DA4B86B9A95 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/web_utilities.cpp */,
+				73EA0B575BE94896AB92A1A5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client.cpp */,
+				63C0B79F44374CA590B88EDA /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_wspp.cpp */,
+				CAC93553CB94467ABE32BDA8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_msg.cpp */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		52DBCC642A034774B49353BE = {
+			isa = PBXGroup;
+			children = (
+				6D989EC0D82A4BF089BE07F6 /* ALL_BUILD */,
+				CC2CC9424FD6413FAE4441D6 /* cpprest */,
+				BC19F404B7014BE5A9E0EEDF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5DB4CF51FB8A4A44A1B80AFA /* cpprest */ = {
+			isa = PBXGroup;
+			children = (
+				FB3F7E37D6C847A3A157FC85 /* details */,
+				30596882EA8A4E469874D94A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/astreambuf.h */,
+				1ACDC19F5C394803AD232955 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/asyncrt_utils.h */,
+				624822DF22F0448FA13F6940 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/base_uri.h */,
+				075CB0EE1FAD4AD4B46EF369 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/containerstream.h */,
+				0FA3872B1FF44158AA24630F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/filestream.h */,
+				13C470DFAA21466A89C826F3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_client.h */,
+				CB1CFB3788C74003AD8FA012 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_compression.h */,
+				0F6C4684328247D69687BEE1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_headers.h */,
+				5CD13FDC4BCF470CB8D6E783 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_listener.h */,
+				94B89943326642DE94EDB381 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/http_msg.h */,
+				53E485E1C3474A6E9732E269 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/interopstream.h */,
+				BA59393357B1462EBA372FD0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/json.h */,
+				68A8C7DE6A9748539421A2EE /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth1.h */,
+				FA0E4BA20EFF4A59B5333BC3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/oauth2.h */,
+				322FE608E5D74812875CE311 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/producerconsumerstream.h */,
+				AE3764D78B6E4CB88D441580 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/rawptrstream.h */,
+				6BBFB91F0E5145F99F6264D5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/streams.h */,
+				B4347B3D0D6F4EC79B3A1F59 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri.h */,
+				86055995D44D42B693F77370 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/uri_builder.h */,
+				32D0B99AB3E0481DBFF88A17 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/version.h */,
+				21BEACF488BE4CE7A2EDD7B3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_client.h */,
+				D891C260439E49508CB069DB /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/ws_msg.h */,
+			);
+			name = cpprest;
+			sourceTree = "<group>";
+		};
+		6D989EC0D82A4BF089BE07F6 /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				C6C1CD30A40C495F9CA362CD /* CMake Rules */,
+				B29B885AA02B44C8B5981DEF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+		76EABF086A41403A90C1902D /* pplx */ = {
+			isa = PBXGroup;
+			children = (
+				2A07F3CBF6FB480EAA0A142D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplx.h */,
+				4D8140919297464DA2C9544C /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxcancellation_token.h */,
+				276F09932B4E4F52B47D5B4A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxconv.h */,
+				5AD94B09F36841B89D974162 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxinterface.h */,
+				5A0D0F0A1A24490693AA5F5F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxlinux.h */,
+				A9918F5503E64CDCB5F77347 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxtasks.h */,
+				F9EA52B047E54A75A4C08B8B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/pplxwin.h */,
+				A12052C5663845FDAB372F52 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/pplx/threadpool.h */,
+			);
+			name = pplx;
+			sourceTree = "<group>";
+		};
+		BC19F404B7014BE5A9E0EEDF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2A13F3FEFF7F492FAE62D1F7 /* cpprest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6C1CD30A40C495F9CA362CD /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		CB3704312F7746809FACABAF /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				5DB4CF51FB8A4A44A1B80AFA /* cpprest */,
+				76EABF086A41403A90C1902D /* pplx */,
+				CFBE9A3D3ACC47FA936C4767 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_impl.h */,
+				1EDA873F53984817A42D6E11 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/connection_pool_helpers.h */,
+				8BD85D40AF5D4544942EFD20 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/internal_http_helpers.h */,
+				F2F1D741A26242229F977F16 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_impl.h */,
+				3604C5AC6C3A4A589306D0D1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pch/stdafx.h */,
+				EE799F3E3CE043D28DA581F8 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_impl.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		CC2CC9424FD6413FAE4441D6 /* cpprest */ = {
+			isa = PBXGroup;
+			children = (
+				CB3704312F7746809FACABAF /* Header Files */,
+				1A56566859C343F1B53F9826 /* Source Files */,
+				A183AA448A494ACF95C97CE0 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/CMakeLists.txt */,
+			);
+			name = cpprest;
+			sourceTree = "<group>";
+		};
+		FB3F7E37D6C847A3A157FC85 /* details */ = {
+			isa = PBXGroup;
+			children = (
+				9D823758014541798A37D3F9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/SafeInt3.hpp */,
+				71BCFFDB3F7E46DD8F082C34 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/basic_types.h */,
+				62B4679B40B94B9787D92F85 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/cpprest_compat.h */,
+				585B552735B24B2FA8073190 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/fileio.h */,
+				65799AE478A84ACB80F85E10 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_constants.dat */,
+				AD2339EF9D1D4DE59202BD3A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_helpers.h */,
+				31AAF99A97C0482BB31FB66D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server.h */,
+				F79067B55793486D80D33696 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/http_server_api.h */,
+				32736400991A4474B58434E1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/nosal.h */,
+				6FB74B4EDD2E4F5995D2376B /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/resource.h */,
+				54786B24FCD04A6290066C3D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include/cpprest/details/web_utilities.h */,
+			);
+			name = details;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		136C07CF452A46079C3C402A /* cpprest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 782DBF7DC0774200873DFC25 /* Build configuration list for PBXNativeTarget "cpprest" */;
+			buildPhases = (
+				F4975510F9E24B04A74E668C /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = cpprest;
+			productName = cpprest;
+			productReference = 2A13F3FEFF7F492FAE62D1F7 /* cpprest */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0525F7777DB545ABAC4E8463 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1140;
+			};
+			buildConfigurationList = C869CC08AC7F4099BC75989E /* Build configuration list for PBXProject "cpprestsdk" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				6B80D4F8E41445378A2EB486 /* Release */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 52DBCC642A034774B49353BE;
+			projectDirPath = ../../../../proj.ios_mac/mac/cpprestsdk;
+			projectRoot = "";
+			targets = (
+				8A89AD8F52D24FC7A6B291C7 /* ALL_BUILD */,
+				3A2EA97A0F1E417395FE447A /* ZERO_CHECK */,
+				136C07CF452A46079C3C402A /* cpprest */,
+				77A5B05571984E9C9E8C7298 /* install */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		18DB444347A04EA2AE9477EB = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		A7F3EA01E844418B865BC17A /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk -f /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		C36E59B08BE54CA3A813AF93 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk -f /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		C7D0CDC65D6146DC9956F7FB /* CMake PostBuild Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake PostBuild Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk -f /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/CMakeScripts/install_postBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		DC16B4799546439FBB3A1E87 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		FBF4B6D3B80145F68D3CDACA = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F4975510F9E24B04A74E668C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ABA07C780E9C4311A8F470C5 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client.cpp */,
+				143C02C7555249CF98FE9203 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_asio.cpp */,
+				0633B0B30CD348468D82B21D /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/http_client_msg.cpp */,
+				D6692B1B8BBC4525B39C59B6 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/client/x509_cert_utilities.cpp */,
+				A49E380816A343ECB9B67316 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_compression.cpp */,
+				50C7A5DAC08342518EF81B37 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_helpers.cpp */,
+				AE7336B4031C45F999EBA47F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/common/http_msg.cpp */,
+				615674E678E14329ADCC5078 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener.cpp */,
+				1846FCCF8CBC4A868DD98A92 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_listener_msg.cpp */,
+				D6DD7F56ED124709942F36D9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_api.cpp */,
+				FB8D0E27202A4ABAA18ADB15 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/listener/http_server_asio.cpp */,
+				0F1B222B48A141FF80C8996A /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth1.cpp */,
+				0BFCAA83E72D49ADA888F9A3 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/http/oauth/oauth2.cpp */,
+				4C42CA5AE1864C8DA15D259F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json.cpp */,
+				F2E7A501CDD54DD7B35CF702 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_parsing.cpp */,
+				A87A95D1497A4B7BBBB02350 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/json/json_serialization.cpp */,
+				406507B5368A44F48121A856 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplx.cpp */,
+				5ED4CE28236741D4A1FB77CF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/pplxapple.cpp */,
+				91EB6237ACF843418BA3D0C1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pplx/threadpool.cpp */,
+				D960465839754222B390075F /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/streams/fileio_posix.cpp */,
+				C4C755ACCBDA4351973466B1 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri.cpp */,
+				2571666DF30E4BD1B33A20B2 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/uri/uri_builder.cpp */,
+				7340D5AEECB04718B6AE16BF /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/asyncrt_utils.cpp */,
+				76F09D365AE84C798D58C1D9 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/base64.cpp */,
+				8F63B8F08FCB44FB8EA9FF70 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/utilities/web_utilities.cpp */,
+				BB41EB1A9B0B49CAB48F5C39 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client.cpp */,
+				6B02E283CB5D44CD81B208BC /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_client_wspp.cpp */,
+				04465A15878A4B428E4C0577 /* /Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/websockets/client/ws_msg.cpp */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		56DC5A0C0AF44C449AAA73F9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 136C07CF452A46079C3C402A /* cpprest */;
+			targetProxy = ECFC8DCC24A644FAB7B75A3B /* PBXContainerItemProxy */;
+		};
+		6FE119DDCC814497AE079555 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3A2EA97A0F1E417395FE447A /* ZERO_CHECK */;
+			targetProxy = 54C6CE855A4641DCB1A74313 /* PBXContainerItemProxy */;
+		};
+		A9709FEBE31E49C989FCE48A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A89AD8F52D24FC7A6B291C7 /* ALL_BUILD */;
+			targetProxy = 06E3397309D642A8AA5232C3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0A70151C94D84124AE3AC1A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = install;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		16EE119BCD6940DD87B7AB88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		57B8612DCD8C49BAA69FF3B3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LIBRARY = "libc++";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/Binaries/Release;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'","'CPPREST_EXCLUDE_BROTLI=1'",CPPREST_FORCE_HTTP_CLIENT_ASIO,CPPREST_FORCE_HTTP_LISTENER_ASIO,BOOST_ALL_NO_LIB,CPPREST_NO_SSL_LEAK_SUPPRESS);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/include,/Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/src/pch,/Users/apple/MJ_ToolTest/proj.ios_mac/mac/cpprestsdk/libs/websocketpp);
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CPLUSPLUSFLAGS = "                -Wno-return-type-c-linkage -Wno-unneeded-internal-declaration -std=c++11 -fno-strict-aliasing     -DNDEBUG -Werror -pedantic -Wall -Wextra -Wcast-qual -Wconversion '-Wformat=2' -Winit-self -Winvalid-pch -Wmissing-format-attribute -Wmissing-include-dirs -Wpacked -Wredundant-decls -Wno-overloaded-virtual -Wno-sign-conversion -Wno-deprecated -Wno-unknown-pragmas -Wno-reorder -Wno-char-subscripts -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-unknown-warning-option -Wno-return-type-c-linkage -Wno-unused-function -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-unused-local-typedefs '-std=gnu++11'  ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = cpprest;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/src;
+				SYSTEM_HEADER_SEARCH_PATHS = (/usr/local/include,/usr/local/opt/openssl/include);
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+		8B39BEFE070C4935A1BC11F3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++11";
+				CLANG_CXX_LIBRARY = "libc++";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk;
+				SYMROOT = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk/build;
+			};
+			name = Release;
+		};
+		8E79BC135CCB42438344D68C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = /Users/apple/MJ_ToolTest/build_release_mac/proj.ios_mac/mac/cpprestsdk;
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("$(inherited)");
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		01AE5560DFE54DE3B2A88C85 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8E79BC135CCB42438344D68C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		071B4234D5AA4AB3BD601588 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				16EE119BCD6940DD87B7AB88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		782DBF7DC0774200873DFC25 /* Build configuration list for PBXNativeTarget "cpprest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57B8612DCD8C49BAA69FF3B3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		98057104FB5B45BC93D2A009 /* Build configuration list for PBXAggregateTarget "install" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A70151C94D84124AE3AC1A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C869CC08AC7F4099BC75989E /* Build configuration list for PBXProject "cpprestsdk" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B39BEFE070C4935A1BC11F3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0525F7777DB545ABAC4E8463 /* Project object */;
+}

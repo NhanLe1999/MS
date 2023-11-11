@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>homepage</key>
+	<dict>
+		<key>character</key>
+		<string>ตัวละคร</string>
+		<key>topic_new</key>
+		<string>ใหม่สุด</string>
+		<key>topic_popular</key>
+		<string>หลายคนอ่าน</string>
+		<key>topic_recentlyread</key>
+		<string>เพิ่งอ่านจบ</string>
+		<key>topic_category</key>
+		<string> หัวข้อ</string>
+		<key>feature_msg</key>
+		<string>อ่านทันที</string>
+		<key>chooselanguage</key>
+		<string>เลือกภาษาของเรื่องราว</string>
+		<key>bottommenu1</key>
+		<string>หน้าแรก</string>
+		<key>bottommenu2</key>
+		<string>คลังสินค้าของเรื่องราว</string>
+		<key>bottommenu3</key>
+		<string>ฟรี</string>
+		<key>bottommenu4</key>
+		<string>สั่งซื้อ</string>
+		<key>bottommenu5</key>
+		<string>ผู้ปกครอง</string>
+		<key>bottommenu6</key>
+		<string>ที่ชื่นชอบ</string>
+		<key>bottommenu7</key>
+		<string>บทเรียน</string>
+	</dict>
+	<key>explorepage</key>
+	<dict>
+		<key>title_all</key>
+		<string>ทุกระดับ</string>
+		<key>title_level</key>
+		<string>ระดับ</string>
+		<key>sort1</key>
+		<string>นิยมที่พบบ่อยที่สุด</string>
+		<key>sort2</key>
+		<string>ใหม่สุด</string>
+		<key>sort3</key>
+		<string>ง่ายถึงยาก</string>
+		<key>sort4</key>
+		<string>ระดับ</string>
+		<key>btchooselevel</key>
+		<string>เลือกระดับ</string>
+	</dict>
+	<key>freepage</key>
+	<dict>
+		<key>title</key>
+		<string>เรื่องราวฟรีประจำวัน</string>
+		<key>item_level</key>
+		<string>ระดับ:</string>
+		<key>item_pagenumber</key>
+		<string>เลขหน้า:</string>
+	</dict>
+	<key>parentpage</key>
+	<dict>
+		<key>delete_cache</key>
+		<string>ลบเรื่องราวที่ดาวน์โหลด</string>
+		<key>title</key>
+		<string>สำหรับผู้ปกครอง</string>
+		<key>language1</key>
+		<string>English</string>
+		<key>language4</key>
+		<string>Tiếng Việt</string>
+		<key>language3</key>
+		<string>Bahasa</string>
+		<key>language2</key>
+		<string>ภาษาไทย</string>
+		<key>language_title</key>
+		<string>เลือกภาษาที่แสดง</string>
+		<key>language_title_portrait</key>
+		<string>ภาษาที่แสดง</string>
+		<key>support_option1</key>
+		<string>วิธีที่ 1</string>
+		<key>support_option2</key>
+		<string>วิธีที่ 2</string>
+		<key>support_title1</key>
+		<string>ส่งอีเมลให้ทางเรา:</string>
+		<key>support_title</key>
+		<string>ช่วยเหลือ</string>
+		<key>support_title2</key>
+		<string>โทรเข้ามาHotline:</string>
+		<key>support_action1</key>
+		<string>ส่งอีเมล</string>
+		<key>support_action2</key>
+		<string>โทร</string>
+		<key>support_version</key>
+		<string>เวอร์ชัน</string>
+		<key>support_deviceid</key>
+		<string>Device ID</string>
+		<key>coupon_title_portrait</key>
+		<string>รหัสส่วนลด</string>
+		<key>license_title_portrait</key>
+		<string>รหัสเปิดใช้งาน</string>
+	</dict>
+	<key>subscribepage</key>
+	<dict>
+		<key>title</key>
+		<string>เลือกแพ็คเกจการซื้อ</string>
+	</dict>
+	<key>favoritespage</key>
+	<dict>
+		<key>title</key>
+		<string>เรื่องราวที่ชื่นชอบ</string>
+		<key>title_select</key>
+		<string>เลือกเรื่องราวที่จะลบ</string>
+		<key>selectlb</key>
+		<string>ลบ</string>
+		<key>selectlb_cancel</key>
+		<string>ยกเลิก</string>
+		<key>title_selected_it</key>
+		<string>เรื่องราวที่ถูกเลือก</string>
+		<key>title_selected_nhieu</key>
+		<string>เรื่องราวที่ถูกเลือก</string>
+		<key>remove_title</key>
+		<string>ลบเรื่องราวออกจากรายการที่ชื่นชอบ</string>
+		<key>remove_alert_content</key>
+		<string>คุณต้องการลบเรื่องราวนี้ออกจากรายการที่ชื่นชอบหรือไม่?</string>
+		<key>remove_alert_btok</key>
+		<string>yes</string>
+		<key>remove_alert_btcancel</key>
+		<string>no</string>
+	</dict>
+	<key>storypagevc</key>
+	<dict>
+		<key>alert_rate_content</key>
+		<string>คุณให้ประเมินผลแอปพลิเคชันหรือยัง?</string>
+		<key>alert_btok</key>
+		<string>yes</string>
+		<key>alert_btok1</key>
+		<string>ตกลง</string>
+		<key>alert_btcancel</key>
+		<string>ไม่ตกลง</string>
+		<key>alert_rate_ok</key>
+		<string>ฉัน/ผมได้ให้ประเมินผลแล้ว!</string>
+		<key>alert_rate_cancel</key>
+		<string>ยัง.จะทำเดี๋ยวนี้ .</string>
+		<key>alert_rate_guiderate</key>
+		<string>ยัง. โปรดแสดงวิธีการประเมินให้ฉันดู</string>
+		<key>alert_subscribe_content</key>
+		<string>คุณได้อ่านเรื่องราวฟรีสำหรับวันนี้ กรุณาลงทะเบียนเพื่อซื้อเรื่องราวเพิ่มเติม.</string>
+		<key>alert_loveapp_content</key>
+		<string>คุณพอใจกับโปรแกรมของทางเราหรือไม่</string>
+		<key>alert_subscribe_content_rate</key>
+		<string>คุณได้อ่านหมดจำนวนเรื่องราวฟรี โปรดลงทะเบียนเพื่อซื้อดำเนินการต่อ.</string>
+		<key>alert_sub_buy</key>
+		<string>ลงทะเบียนเพื่อซื้อ!</string>
+		<key>alert_sub_rate</key>
+		<string>อ่านเรื่องราวฟรีต่อ</string>
+		<key>alert_playgame_content</key>
+		<string>กรุณาลงทะเบียนเพื่อเล่นเกม!</string>
+		<key>alert_playgame_btok</key>
+		<string>ลงทะเบียนเพื่อซื้อ!</string>
+	</dict>
+	<key>ratepopup</key>
+	<dict>
+		<key>rate_title</key>
+		<string>ของขวัญ</string>
+		<key>rate_bt</key>
+		<string>ประเมินผล</string>
+		<key>rate_content</key>
+		<string>โปรดประเมินผล $(appname)*เพื่อได้คิวอ่านเรื่องราวต่อ!</string>
+		<key>rate_numstory</key>
+		<string>คิวอ่าน</string>
+		<key>bonus_title</key>
+		<string>ขอแสดงความยินดี</string>
+		<key>bonus_content</key>
+		<string>คิวอ่าน</string>
+		<key>bonus_content2</key>
+		<string>คุณได้รับรางวัล</string>
+		<key>ratebuy_title</key>
+		<string>คุณชอบ $(appname) ไหม?</string>
+		<key>ratebuy_content</key>
+		<string>โปรดให้ประเมินผลแอปพลิเคชัน!</string>
+		<key>ratebuy_bt</key>
+		<string>ประเมินผล!</string>
+	</dict>
+	<key>levelinfo</key>
+	<dict>
+		<key>guide_title</key>
+		<string>เคล็ดลับเล็ก ๆ</string>
+		<key>guide_content</key>
+		<string>กดที่ปุ่มนี้เพื่อ * ปรึกษาระดับ * ของเรื่องราว</string>
+		<key>lexile_score</key>
+		<string>คะแนน Lexile</string>
+		<key>word_count</key>
+		<string>จำนวนคำ</string>
+		<key>page_count</key>
+		<string>จํานวนหน้า</string>
+		<key>welcome_title</key>
+		<string>ระบบระดับเนื้อเรื่องราว</string>
+		<key>welcome_content</key>
+		<string>คลังเรื่องราวที่หลากหลายแบ่งออกเป็นระดับตั้งแต่ระดับง่ายไปยากและใช้ระบบมาตรฐานทั่วไปของสหรัฐอเมริกาสำหรับการสอนภาษาอังกฤษกับเด็กวัยเรียนระดับประถมศึกษาและมัธยมศึกษา (CCSS) ในแต่ละระดับการอ่านเรื่องราวจะถูกสร้างและนำเสนอตามความสามารถในการอ่านเพื่อความเข้าใจของเด็กแต่ละวัย </string>
+		<key>reading_title</key>
+		<string>ระดับของเรื่องราว $(appname)</string>
+		<key>btnext</key>
+		<string>ปรึกษาเพิ่มเติม</string>
+	</dict>
+	<key>general</key>
+	<dict>
+		<key>level</key>
+		<string>ระดับ</string>
+		<key>search</key>
+		<string>ค้นหา</string>
+		<key>search_input</key>
+		<string>ป้อนชื่อเรื่องราว...</string>
+	</dict>
+	<key>popup</key>
+	<dict>
+		<key>welcome_title</key>
+		<string>ยินดีต้อนรับเข้าสู่</string>
+		<key>welcome_content</key>
+		<string>เด็กเก่งภาษาอังกฤษก่อนอายุ 10 ปี</string>
+		<key>welcome_content_vmonkey</key>
+		<string>Pintar bahasa Inggris sebelum berusia 10 tahun</string>
+		<key>welcome_btsub</key>
+		<string>ลงทะเบียนเพื่อซื้อ</string>
+		<key>welcome_btfree</key>
+		<string>ลองใช้ฟรีทุกวัน</string>
+		<key>network_ok</key>
+		<string>ใช้ออฟไลน์</string>
+		<key>network_cancel</key>
+		<string>ลองใหม่อีกครั้ง</string>
+		<key>network_cancel_msgdoc</key>
+		<string>ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์* $(appname), กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง.</string>
+		<key>network_cancel_msgngang</key>
+		<string>ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์* $(appname), กรุณาตรวจสอบการเชื่อมต่อเครือข่ายแล้วลองอีกครั้ง.</string>
+		<key>network_title</key>
+		<string>ไม่สามารถเชื่อมต่อ</string>
+		<key>noti_title</key>
+		<string>แจ้งเตือน</string>
+		<key>noti_open</key>
+		<string>เปิด</string>
+		<key>menu_play</key>
+		<string>อ่าน</string>
+		<key>menu_startover</key>
+		<string>เริ่มต้นใหม่</string>
+		<key>menu_favorite</key>
+		<string>ชื่นชอบ</string>
+		<key>menu_share</key>
+		<string>แบ่งปัน</string>
+		<key>menu_close</key>
+		<string>ทางออก</string>
+		<key>update_btok</key>
+		<string>อัปเดตทันที!</string>
+		<key>update_btcancel</key>
+		<string>ข้ามไป</string>
+		<key>menu_pause</key>
+		<string>หยุด</string>
+	</dict>
+	<key>endingpage</key>
+	<dict>
+		<key>rate1</key>
+		<string>I love it</string>
+		<key>rate2</key>
+		<string>It&apos;s ok</string>
+		<key>rate3</key>
+		<string>No, I don&apos;t</string>
+		<key>queslovestory</key>
+		<string>Do you like this story?</string>
+		<key>recoment</key>
+		<string>Our recommended stories:</string>
+	</dict>
+</dict>
+</plist>

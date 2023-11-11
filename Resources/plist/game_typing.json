@@ -1,0 +1,41 @@
+{
+    "game_info": {
+        "audio_intro": "",
+        "id": 13,
+        "intro": "Drag the text to match the pictures.",
+        "title": "Monkey Phonics",
+        "audio_title": ""
+    },
+    "content_info": [
+        {
+            "text": "draw",
+            "gaf_path": "sounds/typing/sample/draw/draw.gaf",
+            "img_path": "games/sample/bat.png",
+            "audio_path": "sounds/typing/sample/typing_draw.wav"
+        },
+        {
+            "audio_path": "phonics/cat.mp3",
+            "img_path": "games/sample/bat.png",
+            "gaf_path": "sounds/typing/sample/draw/draw.gaf",
+            "text": "cat"
+        },
+        {
+            "gaf_path": "sounds/typing/sample/draw/draw.gaf",
+            "text": "dog",
+            "img_path": "games/sample/bat.png",
+            "audio_path": "phonics/cat.mp3"
+        },
+        {
+            "gaf_path": "sounds/typing/sample/draw/draw.gaf",
+            "text": "jump",
+            "img_path": "games/sample/bat.png",
+            "audio_path": "phonics/cat.mp3"
+        },
+        {
+            "audio_path": "phonics/cat.mp3",
+            "img_path": "games/sample/bat.png",
+            "text": "push",
+            "gaf_path": "sounds/typing/sample/draw/draw.gaf"
+        }
+    ]
+}

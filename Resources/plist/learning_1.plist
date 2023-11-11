@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>learn</key>
+	<dict>
+		<key>category</key>
+		<integer>1</integer>
+		<key>id_story</key>
+		<integer>110</integer>
+		<key>intro</key>
+		<string>you have learned:</string>
+		<key>id</key>
+		<integer>1</integer>
+		<key>text_info</key>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>test</string>
+				<key>audio_path</key>
+				<string>game-audio/g/358b964773330f394b7d0d73a72ce626.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>break a cup</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>aligator</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>pick up the stick</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>giraffe</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>love my dad</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>apple</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>shoot a gun</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>shoot a gun</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>pick up the stick</string>
+				<key>img_path</key>
+				<string>keyword-img/p/7f4be3cbf8b4c3e2babd9c7b21be8a75.png</string>
+				<key>audio_path</key>
+				<string>game-audio/1/b33a801c1d4498171263f41dc9f6e18f.mp3</string>
+			</dict>
+		</array>
+		<key>path_audio</key>
+		<string>sound/qa/soundtest.mp3</string>
+	</dict>
+</dict>
+</plist>

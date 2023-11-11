@@ -1,0 +1,27 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":2,
+		"data": [{
+				"audio_path":"load_the_train/1.mp3",
+				"img_path":"load_the_train/11.png",
+				"highlight": ["Jack","just","stole","the","chicken","and","the","golden","harp."]
+			},{
+				"audio_path":"load_the_train/1.mp3",
+				"img_path":"load_the_train/11.png",
+				"highlight": ["Jack","just","stole","the","chicken","and","the","golden"]
+			}, {
+				"audio_path":"load_the_train/1.mp3",
+				"img_path":"load_the_train/11.png",
+				"highlight": ["Jack","just","stole","the","chicken","and","the"]
+			}
+		],
+		"other_text":["a","b","c","d","e","f"]
+	}
+}

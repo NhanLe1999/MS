@@ -1,0 +1,26 @@
+{
+  "text_info": [
+    {
+      "text": "exercise every day",
+      "audio_path": "game-audio/q/81a8b2fa9a87b294ac9e42105f319022.mp3",
+      "img_path": "keyword-img/a/00f1297823625834949f807b33f1f90b.jpg"
+    },
+    {
+      "text": "brush teeth twice a day",
+      "audio_path": "game-audio/t/dbe39b7079526fdf78d6cbae2559bcd6.mp3",
+      "img_path": "keyword-img/k/15e70e83922d083c34ee82179ae60596.jpg"
+    }
+  ],
+  "game": {
+    "id": 13,
+    "level_story": "D",
+    "id_story": 75,
+    "lang_id": 1,
+    "title": "Sing, Birdie!",
+    "intro": "Sing, Birdie!",
+    "audio_title": "game-audio/s/4c2533e5329790134f4745b2d36858fc.mp3",
+    "audio_intro": [
+      "game-audio/y/19bc42b6ed5ff8cff1b6da0b0a117e66.mp3"
+    ]
+  }
+}

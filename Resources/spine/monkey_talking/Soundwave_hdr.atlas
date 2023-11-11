@@ -1,0 +1,20 @@
+
+Soundwave_hdr.png
+size: 1866,934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse MJ
+  rotate: false
+  xy: 2, 2
+  size: 930, 930
+  orig: 930, 930
+  offset: 0, 0
+  index: -1
+Ellipse MS
+  rotate: false
+  xy: 934, 2
+  size: 930, 930
+  orig: 930, 930
+  offset: 0, 0
+  index: -1

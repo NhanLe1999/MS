@@ -1,0 +1,42 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"type_play": 9,
+		"data": [{
+				"text": "at",
+				"audio_path": "khi_xe_ui/khi_xe_ui_at.mp3"
+			}, {
+				"text": "an",
+				"audio_path": "khi_xe_ui/khi_xe_ui_an.mp3"
+			}, {
+				"text": "a",
+				"audio_path": "khi_xe_ui/khi_xe_ui_a.mp3"
+			}, {
+				"text": "are",
+				"audio_path": "khi_xe_ui/khi_xe_ui_are.mp3"
+			}, {
+				"text": "is",
+				"audio_path": "khi_xe_ui/khi_xe_ui_is.mp3"
+			}, {
+				"text": "it",
+				"audio_path": "khi_xe_ui/khi_xe_ui_it.mp3"
+			}, {
+				"text": "on",
+				"audio_path": "khi_xe_ui/khi_xe_ui_on.mp3"
+			}, {
+				"text": "the",
+				"audio_path": "khi_xe_ui/khi_xe_ui_the.mp3"
+			}, {
+				"text": "was",
+				"audio_path": "khi_xe_ui/khi_xe_ui_was.mp3"
+			}
+
+		]
+	}
+}

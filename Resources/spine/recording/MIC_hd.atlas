@@ -1,0 +1,41 @@
+
+MIC_hd.png
+size: 542,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: true
+  xy: 360, 2
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+mic
+  rotate: true
+  xy: 448, 30
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+mic_outline
+  rotate: true
+  xy: 2, 6
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+shape1
+  rotate: true
+  xy: 130, 2
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+shape4
+  rotate: true
+  xy: 245, 2
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1

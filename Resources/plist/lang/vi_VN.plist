@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key.support.app.info.curr.version</key>
+	<string>Phiên bản hiện tại:</string>
+	<key>key.support.app.info.new.version</key>
+	<string>Phiên bản mới nhất:</string>
+	<key>key.support.app.info</key>
+	<string>Thông tin ứng dụng</string>
+	<key>key.support.update.now</key>
+	<string>Cập nhật ngay</string>
+	<key>key.support.send.mail</key>
+	<string>Gửi email</string>
+	<key>key.support.call</key>
+	<string>Gọi điện</string>
+	<key>key.support</key>
+	<string>Hỗ trợ</string>
+	<key>key.suggest.adding.profile</key>
+	<string>Tạo mới hồ sơ trong cài đặt bố mẹ</string>
+	<key>key.reender.password</key>
+	<string>Vui nhập lại mật khẩu</string>
+	<key>key.ap.calculator</key>
+	<string>Vui lòng thực hiện phép toán để tiếp tục</string>
+	<key>key.choose.a.course</key>
+	<string>Chọn khoá học</string>
+	<key>key.popup.skip.msg</key>
+	<string>Đăng ký tài khoản ngay để trải nghiệm %d ngày học thử không giới hạn
+Bấm Tiếp tục nếu bạn không muốn đăng ký tài khoản</string>
+	<key>key.skip</key>
+	<string>Bỏ qua</string>
+	<key>key.child.name</key>
+	<string>Tên của bé</string>
+	<key>key.edit.profile</key>
+	<string>Chỉnh sửa hồ sơ</string>
+	<key>key.new.profile</key>
+	<string>Thêm hồ sơ</string>
+	<key>key.trial</key>
+	<string>Dùng thử</string>
+	<key>key.selected</key>
+	<string>Đã Chọn</string>
+	<key>key.account.information</key>
+	<string>Thông tin tài khoản</string>
+	<key>key.selection.title</key>
+	<string>Chọn</string>
+	<key>key.search</key>
+	<string>Tìm kiếm</string>
+	<key>key.full.profiles</key>
+	<string>Bạn đã tạo đủ hồ sơ</string>
+	<key>key.grade.kindergarten</key>
+	<string>Cấp độ 1 &amp; 2</string>
+	<key>key.register.popup.msg</key>
+	<string>Ba mẹ vui lòng đăng ký tài khoản để sử dụng tính năng này</string>
+	<key>key.download</key>
+	<string>Tải về</string>
+	<key>key.upgrade.account.popup.msg</key>
+	<string>Đăng ký tài khoản ngay để được nhận thêm 5 ngày học thử không giới hạn</string>
+	<key>key.please.select.gender</key>
+	<string>Vui lòng chọn giới tính của bé</string>
+	<key>key.profile.created</key>
+	<string>Tên hồ sơ đã được tạo</string>
+	<key>key.profile.invalid</key>
+	<string>Tên hồ sơ có chứa kí tự đặc biệt</string>
+	<key>key.please.enter.child.name</key>
+	<string>Vui lòng nhập tên của bé</string>
+	<key>key.select.country.code</key>
+	<string>Lựa chọn quốc gia/ vùng miền</string>
+	<key>key.reset.password.tiltle2</key>
+	<string>(Ba mẹ vui lòng nhập mật khẩu cho tài khoản để bắt đầu sử dụng chương trình)</string>
+	<key>key.save</key>
+	<string>Lưu</string>
+	<key>key.please.enter.email.phone.number</key>
+	<string>Vui lòng nhập số điện thoại hoặc email hoặc tên đăng nhập</string>
+	<key>key.invalid.phone.number</key>
+	<string>Số điện thoại không hợp lệ</string>
+	<key>key.please.enter.phone.number</key>
+	<string>Vui lòng nhập số điện thoại</string>
+	<key>key.reset.password.tiltle</key>
+	<string>Đặt lại mật khẩu</string>
+	<key>key.enter.email</key>
+	<string>Nhập địa chỉ email...</string>
+	<key>key.phonic.popup.msg</key>
+	<string>Bổ sung 2000 hoạt động tương tác giúp trẻ hoàn thiện cách phát âm và phát triển kỹ năng nói.</string>
+	<key>key.comming.soon</key>
+	<string>Sắp ra mắt...</string>
+	<key>key.all.grades</key>
+	<string>Tất cả cấp độ</string>
+	<key>key.welcome.back</key>
+	<string>Chào mừng %s đã 
+quay trở lại!</string>
+	<key>key.welcome.to</key>
+	<string>Chào mừng %s đến với
+%s!</string>
+	<key>key.not.have.account</key>
+	<string>Bạn chưa có tài khoản? </string>
+	<key>key.forgot.account</key>
+	<string>Quên tài khoản</string>
+	<key>key.enter.phone.or.email</key>
+	<string>Nhập tên đăng nhập/sđt/email</string>
+	<key>key.have.account</key>
+	<string>Bạn đã có tài khoản? </string>
+	<key>key.or</key>
+	<string>Hoặc</string>
+	<key>key.please.login.with.gmail</key>
+	<string>Vui lòng quay lại màn hình đăng nhập,chọn hình thức đăng nhập
+bằng Gmail với tài khoản  APPNAME 
+để sử dụng chương trình.</string>
+	<key>key.email.phone.wrong</key>
+	<string>Tên đăng nhập, Số điện thoại hoặc Email của bạn nhập không hợp lệ!</string>
+	<key>key.quick.login</key>
+	<string>Đăng nhập nhanh: </string>
+	<key>key.logout</key>
+	<string>Đăng xuất</string>
+	<key>key.detail</key>
+	<string>Chi tiết</string>
+	<key>key.adding.your.address</key>
+	<string>Thêm địa chỉ</string>
+	<key>key.adding.your.email</key>
+	<string>Thêm địa chỉ email</string>
+	<key>key.adding.your.phone</key>
+	<string>Thêm số điện thoại</string>
+	<key>key.adding.your.name</key>
+	<string>Thêm họ và tên</string>
+	<key>key.change.profile</key>
+	<string>Đổi người học</string>
+	<key>new_onboard_title</key>
+	<string>Chọn cấp độ truyện đọc phù hợp với trẻ</string>
+	<key>rating_entering_warning_text</key>
+	<string>(*) là những thông tin bắt buộc.</string>
+	<key>rating_cancel_text</key>
+	<string>Hủy</string>
+	<key>rating_empty_texbox</key>
+	<string>Xin hãy viết một nhận xét</string>
+	<key>rating_review_fb_text</key>
+	<string>Truy cập trang</string>
+	<key>rating_review_post_text</key>
+	<string>Đăng nhận xét</string>
+	<key>rating_review_confused_description</key>
+	<string>Nếu như bạn chưa biết cách sử dụng APPNAME, hãy truy cập trang của 
+chúng tôi ĐỒNG HÀNH CÙNG CON HỌC MONKEY hoặc viết một đánh giá?</string>
+	<key>rating_review_confused_title</key>
+	<string>Có điều gì không ổn?</string>
+	<key>rating_review_sad_description</key>
+	<string>Chúng tôi rất muốn làm cho APPNAME trở nên tốt hơn và
+tạo trải nghiệm vui vẻ cho bạn!</string>
+	<key>rating_review_sad_title</key>
+	<string>Hãy giúp chúng tôi cải thiện?</string>
+	<key>rating_happy_tile</key>
+	<string>Hài lòng</string>
+	<key>rating_confused_tile</key>
+	<string>Phân vân</string>
+	<key>rating_sad_tile</key>
+	<string>Không hài lòng</string>
+	<key>rating_tile</key>
+	<string>Bạn thấy sao về</string>
+	<key>ap_waring_entering_otp</key>
+	<string>Vui lòng nhập OTP vào ô trống.</string>
+	<key>ap_security_question_title</key>
+	<string>Bạn vui lòng trả lời các câu hỏi sau để xác thực tài khoản.</string>
+	<key>ap_password_recovery_method_title</key>
+	<string>Bạn muốn đặt lại mật khẩu bằng cách nào?</string>
+	<key>ap_open_security_question</key>
+	<string>Trả lời câu hỏi để xác thực tài khoản</string>
+	<key>ap_send_code_to_sms_question</key>
+	<string>Gửi mã qua SMS</string>
+	<key>ap_send_code_to_email_question</key>
+	<string>Gửi mã qua email</string>
+	<key>ap_forgot_pass_title</key>
+	<string>Quên mật khẩu</string>
+	<key>ap_forgot_account_title</key>
+	<string>Quên tài khoản đăng nhập</string>
+	<key>ap_waring_password</key>
+	<string>Mật khẩu nhập phải ít nhất 4 ký tự</string>
+	<key>ap_change_password_title</key>
+	<string>Ba mẹ vui lòng đặt lại mật khẩu để 
+đăng nhập ứng dụng.</string>
+	<key>ap_password_changed_successfully</key>
+	<string>Mật khẩu đã được đặt thành công.</string>
+	<key>ap_enter_new_password_for_old_user_title</key>
+	<string>Tài khoản của bạn chưa có mật khẩu!
+ Vui lòng tạo mật khẩu để đăng nhập 
+dễ dàng và bảo mật hơn.</string>
+	<key>ap_waring_entering_password2</key>
+	<string>Vui lòng nhập mật khẩu !</string>
+	<key>ap_waring_entering_password</key>
+	<string>Vui lòng nhập mật khẩu !</string>
+	<key>ap_match_password</key>
+	<string>Mật khẩu không trùng khớp</string>
+	<key>ap_disable_security_question_verification</key>
+	<string>Hình thức xác minh này đã bị khóa 24h </string>
+	<key>ap_failed_verification</key>
+	<string>Xác thực tài khoản không thành công</string>
+	<key>ap_successful_verification</key>
+	<string>Xác thực tài khoản thành công</string>
+	<key>ap_wrong_phone_number</key>
+	<string>Số Điện Thoại nhập sai hoặc không tồn tại !</string>
+	<key>ap_email_verification_code</key>
+	<string>Mã xác minh vừa được gửi đến địa chỉ email</string>
+	<key>ap_phone_verification_code</key>
+	<string>Mã xác minh vừa được gửi đến số điện thoại</string>
+	<key>ap_resend_code_button_title2</key>
+	<string>Gửi Lại</string>
+	<key>ap_resend_code_button_title</key>
+	<string>Gửi lại mã (%d) </string>
+	<key>ap_continue_button_title</key>
+	<string>Tiếp Tục</string>
+	<key>ap_phone_otp_title</key>
+	<string>Vui lòng kiểm tra tin nhắn trên điện thoại.
+Chúng tôi đã gửi mã xác nhận đến số:</string>
+	<key>ap_email_otp_title</key>
+	<string>Vui lòng kiếm tra hộp thư đến trên email.
+Chúng tôi đã gửi mã xác nhận đến email:</string>
+	<key>ap_finish_button_title</key>
+	<string>Hoàn Thành</string>
+	<key>ap_enter_new_password_title</key>
+	<string>Ba mẹ đã xác thực tài khoản thành
+ công, vui lòng đặt lại mật khẩu 
+để đăng nhập ứng dụng.</string>
+	<key>ap_register_button_title</key>
+	<string>Đăng Ký</string>
+	<key>ap_register_title</key>
+	<string>Ba mẹ vui lòng nhập mật khẩu để
+đăng nhập vào ứng dụng</string>
+	<key>ap_send_title</key>
+	<string>Gửi</string>
+	<key>ap_enter_phone</key>
+	<string>Nhập số điện thoại...</string>
+	<key>ap_enter_password</key>
+	<string>Nhập mật khẩu ...</string>
+	<key>ap_reenter_password</key>
+	<string>Nhập lại mật khẩu ...</string>
+	<key>ap_login_title</key>
+	<string>Ba mẹ vui lòng nhập mật khẩu
+để đăng nhập vào ứng dụng.</string>
+	<key>ap_login_button_title</key>
+	<string>Đăng Nhập</string>
+	<key>ap_enter_phone_number_title</key>
+	<string>Ba mẹ vui lòng nhập số điện thoại
+để đăng ký sử dụng chương trình</string>
+	<key>free_welcome</key>
+	<string>Trải nghiệm toàn bộ tính năng miễn phí trong 2 ngày cùng</string>
+	<key>recorder.warning</key>
+	<string>Tính năng này không khả dụng trên phiên bản hệ điều hành của bạn. Vui lòng cập nhật lên phiên bản mới hơn.</string>
+	<key>author.rewrite</key>
+	<string>Viết lại bởi:</string>
+	<key>settings.title</key>
+	<string>Cài đặt</string>
+	<key>parent.license.ask</key>
+	<string>Nếu bạn đã mua và có mã kích hoạt,
+vui lòng nhập tại đây</string>
+	<key>settings.subscribe.license</key>
+	<string>Đăng ký mua mã kích hoạt</string>
+	<key>parent.license.expire</key>
+	<string>Hạn sử dụng</string>
+	<key>parent.license.lifetime</key>
+	<string>Không giới hạn</string>
+	<key>parent.license.free.trial</key>
+	<string>Dùng thử</string>
+	<key>parent.license.info</key>
+	<string>Thiết bị đang được kích hoạt</string>
+	<key>parent.license.note</key>
+	<string>Mã kích hoạt gồm 10 ký tự</string>
+	<key>parent.coupon.discount</key>
+	<string>Mức giảm giá</string>
+	<key>parent.coupon.ask</key>
+	<string>Vui lòng nhập mã giảm giá của bạn</string>
+	<key>parent.coupon.info</key>
+	<string>Mã giảm giá hiện tại</string>
+	<key>parent.delete_cache.confirm</key>
+	<string>Ấn OK để xoá toàn bộ nội dung đã tải</string>
+	<key>parent.delete_cache.info</key>
+	<string>Tổng dung lượng các nội dung đã tải là:</string>
+	<key>parent.delete_cache.action</key>
+	<string>Xoá nội dung đã tải</string>
+	<key>parent.delete_cache.warn</key>
+	<string>Chương trình sẽ khởi động lại sau khi xoá</string>
+	<key>pay.price_detail1</key>
+	<string>Mỗi tháng</string>
+	<key>pay.price_detail2</key>
+	<string>Trọn đời</string>
+	<key>pay.price_detail3</key>
+	<string>Mỗi năm</string>
+	<key>pay.price_detail4</key>
+	<string>Mỗi 6 tháng</string>
+	<key>pay.lbbestseller</key>
+	<string>Tốt nhất</string>
+	<key>pay.lbrestore</key>
+	<string>Nếu bạn đã mua qua tài khoản Apple, bạn có thể khôi phục gói mua tại đây</string>
+	<key>pay.lbcoupon</key>
+	<string>Mã giảm giá xxx ABCDE đã được áp dụng thành công</string>
+	<key>pay.lbcoupon30</key>
+	<string>Mức giá trên đã được giảm 40% so với giá gốc</string>
+	<key>pay.bubble</key>
+	<string>Đọc không giới hạn 500+ đầu truyện</string>
+	<key>pay.feature1</key>
+	<string>Truyện mới bổ sung hàng tuần</string>
+	<key>pay.feature2</key>
+	<string>Truyện được chia cấp độ theo tiêu chuẩn giáo dục Mỹ - CCSS</string>
+	<key>pay.feature3</key>
+	<string>Đọc truyện mọi lúc, mọi nơi, không cần kết nối mạng</string>
+	<key>product.name.com.earlystart.stories.1month</key>
+	<string>1 tháng</string>
+	<key>product.name.com.earlystart.stories.1year</key>
+	<string>1 năm</string>
+	<key>product.name.com.earlystart.stories.6month</key>
+	<string>6 tháng</string>
+	<key>product.name.com.earlystart.stories.lifetime</key>
+	<string>Trọn đời</string>
+	<key>pay.verify.failed</key>
+	<string>Không thể xác thực thanh toán.
+Vui lòng thử lại.</string>
+	<key>pay.verify.success</key>
+	<string>Xác thực thanh toán thành công.</string>
+	<key>pay.purchase.failed</key>
+	<string>Thanh toán không thành công.
+ Vui lòng thử lại.</string>
+	<key>pay.restore.failed</key>
+	<string>Không thể khôi phục gói mua.
+Vui lòng thử lại.</string>
+	<key>pay.restore.complete</key>
+	<string>Các gói mua của bạn đã được khôi phục.</string>
+	<key>parent.common.error</key>
+	<string>Đã có lỗi xảy ra.
+Vui lòng kiểm tra kết nối mạng và thử lại sau.</string>
+	<key>parent.license.success</key>
+	<string>Bạn đã kích hoạt thành công.</string>
+	<key>feedback.title</key>
+	<string>Hãy góp ý cho $(appname) và nhận thêm 2 ngày sử dụng miễn phí!</string>
+	<key>feedback.content</key>
+	<string>Gửi ý kiến của bạn để nhận thêm 2 ngày sử dụng miễn phí!</string>
+	<key>feedback.btsend</key>
+	<string>Gửi ngay</string>
+	<key>feedback.textfield.placeholder</key>
+	<string>Viết lời góp ý của bạn ở đây...</string>
+	<key>feedback.alert.content</key>
+	<string>Vui lòng viết ít nhất 15 từ.</string>
+	<key>feedback.alert.button</key>
+	<string>Thử lại</string>
+	<key>notifree.title</key>
+	<string>Miễn phí</string>
+	<key>notifree.content1</key>
+	<string>Bạn còn</string>
+	<key>notifree.content2</key>
+	<string>ngày để sử dụng miễn phí 01 nội dung bất kỳ mỗi ngày.</string>
+	<key>notifree.content4</key>
+	<string>ngày để sử dụng miễn phí toàn bộ chương trình học.</string>
+	<key>notifree.content3</key>
+	<string>Bạn được sử dụng 01 nội dung mỗi ngày trong mục &quot;Miễn phí&quot;</string>
+	<key>reading.level.intro</key>
+	<string>Cấp độ này dành cho trẻ</string>
+	<key>reading.level.include</key>
+	<string>bao gồm các mục:</string>
+	<key>reading.level.include1</key>
+	<string>bao gồm mục:</string>
+	<key>parent.coupon.success</key>
+	<string>Mã giảm giá đã được áp dụng thành công.</string>
+	<key>lesson.comingsoon</key>
+	<string>Tính năng này sẽ được ra mắt
+trong thời gian tới.</string>
+	<key>level_info.coming_soon</key>
+	<string>Sẽ được ra mắt
+trong thời gian tới!</string>
+	<key>story.info.lexile</key>
+	<string>Điểm Lexile</string>
+	<key>story.info.word_count</key>
+	<string>Số từ</string>
+	<key>story.info.page_count</key>
+	<string>Số trang</string>
+	<key>pay.info.expiry</key>
+	<string>Gói mua của bạn sẽ hết hạn vào </string>
+	<key>pay.info.lifetime</key>
+	<string>Bạn đã đăng ký gói mua trọn đời.</string>
+	<key>search.placeholder</key>
+	<string>Nhập tên truyện tại đây...</string>
+	<key>calculator_title</key>
+	<string>Vui lòng
+thực hiện phép toán để tiếp tục</string>
+	<key>lesson.popup.info</key>
+	<string>Giới thiệu về bài học#Mỗi bài học có 8-10 hoạt động xoay quanh nội dung một truyện, bao gồm: đọc truyện, trò chơi tương tác và trả lời câu hỏi đọc hiểu. Qua đó trẻ được học từ vựng, ngữ pháp và phát triển kỹ năng nghe-nói-đọc-viết.</string>
+	<key>pay.action.buy</key>
+	<string>Mua ngay</string>
+	<key>pay.action.subscribe</key>
+	<string>Đăng ký</string>
+	<key>support.action.error</key>
+	<string>Thiết bị của bạn không hỗ trợ tính năng này.</string>
+	<key>support.mail.title</key>
+	<string>Hỗ trợ về ứng dụng $(appname)</string>
+	<key>story.download.failure</key>
+	<string>Tải truyện không thành công.
+Vui lòng kiểm tra kết nối mạng và dung lượng máy.</string>
+	<key>story.download.failure.try</key>
+	<string>Thử lại</string>
+	<key>story.download.failure.close</key>
+	<string>Đóng</string>
+	<key>storycover.download.error</key>
+	<string>Không thể kết nối được với máy chủ $(appname). Vui lòng thử lại!</string>
+	<key>sidebar.des.stories</key>
+	<string>Đọc</string>
+	<key>sidebar.des.material</key>
+	<string>Học liệu</string>
+	<key>sidebar.des.lessons</key>
+	<string>Học</string>
+	<key>sidebar.des.ai_speaking</key>
+	<string>Nói </string>
+	<key>sidebar.des.audiobooks</key>
+	<string>Nghe</string>
+	<key>sidebar.des.free</key>
+	<string>Miễn phí</string>
+	<key>sidebar.des.subscriptions</key>
+	<string>Đặt mua</string>
+	<key>sidebar.des.favourite</key>
+	<string>Thư viện</string>
+	<key>sidebar.des.settings</key>
+	<string>Cài đặt</string>
+	<key>sidebar.des.support</key>
+	<string>Hỗ trợ</string>
+	<key>sidebar.des.account</key>
+	<string>Tài khoản</string>
+	<key>sidebar.des.parents</key>
+	<string>Bố mẹ</string>
+	<key>sidebar.des.close</key>
+	<string>Đóng</string>
+	<key>sidebar.des.more</key>
+	<string>Ứng dụng khác</string>
+	<key>sidebar.des.license</key>
+	<string>Mã kích hoạt</string>
+	<key>stories.category.title</key>
+	<string>Chủ đề</string>
+	<key>stories.genre.title</key>
+	<string>Thể loại</string>
+	<key>stories.popular.title</key>
+	<string>Truyện nhiều người đọc</string>
+	<key>stories.newstories.title</key>
+	<string>Truyện mới nhất</string>
+	<key>stories.recent.title</key>
+	<string>Truyện vừa đọc</string>
+	<key>audiobooks.popular.title</key>
+	<string>Sách nói phổ biến</string>
+	<key>audiobooks.newest.title</key>
+	<string>Sách nói mới nhất</string>
+	<key>stories.more</key>
+	<string>Tất cả</string>
+	<key>lesson.item.download</key>
+	<string>Tải xuống</string>
+	<key>lesson.item.title</key>
+	<string>Bài học</string>
+	<key>aispeaking.conversation.item.title</key>
+	<string>Hội thoại</string>
+	<key>lesson.item.downloading</key>
+	<string>Đang tải...</string>
+	<key>lesson.item.learn</key>
+	<string>Học</string>
+	<key>lesson.item.relearn</key>
+	<string>Học lại</string>
+	<key>lesson.item.locked</key>
+	<string>Khoá</string>
+	<key>lesson.actipreview.acti</key>
+	<string>Hoạt động</string>
+	<key>lesson.lessonpreview.actistatus</key>
+	<string>hoạt động hoàn thành</string>
+	<key>lesson.lessonpreview.start</key>
+	<string>Tiếp tục học</string>
+	<key>lesson.preactivity.btback</key>
+	<string>Trở lại bài học</string>
+	<key>lesson.preactivity.btcontinue</key>
+	<string>Tiếp tục học</string>
+	<key>lesson.waiting</key>
+	<string>Vui lòng đợi</string>
+	<key>lesson.end.lesson</key>
+	<string>You have completed lesson</string>
+	<key>audiobooks.duration</key>
+	<string>phút</string>
+	<key>free.story.title</key>
+	<string>Truyện và sách nói miễn phí</string>
+	<key>free.lesson.title</key>
+	<string>Bài học miễn phí</string>
+	<key>intro.grade.title</key>
+	<string>Bạn học lớp mấy</string>
+	<key>intro.grade.detail</key>
+	<string>Thông tin này sẽ giúp ứng dụng lựa chọn nội dung học phù hợp nhất với bạn</string>
+	<key>intro.grade.btnext</key>
+	<string>Tiếp tục</string>
+	<key>intro.load.progress</key>
+	<string>Thiết lập ứng dụng...</string>
+	<key>intro.load.progress.2</key>
+	<string>Cập nhật nội dung mới...</string>
+	<key>intro.grade.notice</key>
+	<string>Lựa chọn cấp độ học có thể thay đổi</string>
+	<key>intro.load.title</key>
+	<string>Thư viện số khổng lồ cho trẻ</string>
+	<key>intro.load.detail</key>
+	<string>Cập nhật hàng tuần. Học mọi lúc, mọi nơi</string>
+	<key>intro.load.stories</key>
+	<string>Truyện tranh</string>
+	<key>intro.load.audiobooks</key>
+	<string>sách nói</string>
+	<key>intro.load.lessons</key>
+	<string>bài học</string>
+	<key>intro.load.trysample</key>
+	<string>Đọc truyện mẫu</string>
+	<key>intro.load.skip</key>
+	<string>Vào ứng dụng</string>
+	<key>intro.load.restore</key>
+	<string>Khôi phục gói mua</string>
+	<key>intro.load.download</key>
+	<string>Tải truyện mẫu</string>
+	<key>intro.load.prepare</key>
+	<string>Chuẩn bị truyện mẫu</string>
+	<key>search.placeholder.audiobook</key>
+	<string>Nhập tên sách nói tại đây...</string>
+	<key>favorite.title</key>
+	<string>Yêu thích</string>
+	<key>favorite.stories</key>
+	<string>Truyện yêu thích</string>
+	<key>favorite.audiobook</key>
+	<string>Sách nói yêu thích</string>
+	<key>downloaded.stories</key>
+	<string>Truyện đã tải</string>
+	<key>downloaded.audiobooks</key>
+	<string>Sách nói đã tải</string>
+	<key>learn.audiobooks</key>
+	<string>Sách nói đã học</string>
+	<key>downloaded.lessons</key>
+	<string>Bài học đã tải</string>
+	<key>sub.text.title</key>
+	<string>Đăng ký sử dụng $(appname) không giới hạn</string>
+	<key>sub.text.title.vn</key>
+	<string>Đăng ký sử dụng $(appname) không giới hạn</string>
+	<key>sub.text.title.detail</key>
+	<string>Bạn có thể huỷ đăng ký bất cứ lúc nào</string>
+	<key>sub.text.plan.title</key>
+	<string>Nội dung</string>
+	<key>sub.text.detail1</key>
+	<string>Truyện tranh 
+tương tác</string>
+	<key>sub.text.detail2</key>
+	<string>Sách nói</string>
+	<key>sub.text.detail3</key>
+	<string>Bài học Đọc hiểu
+và bài học Ngữ âm</string>
+	<key>sub.text.number.detail</key>
+	<string></string>
+	<key>sub.text.features.title</key>
+	<string>Tính năng chính</string>
+	<key>sub.text.features.title1</key>
+	<string>Truyện tranh hoạt hình sống động</string>
+	<key>sub.text.features.title2</key>
+	<string>Nghe sách nói ngay cả khi màn hình ứng dụng đã tắt</string>
+	<key>sub.text.features.title3</key>
+	<string> Hàng nghìn hoạt động chơi mà học hấp dẫn</string>
+	<key>sub.text.features.title4</key>
+	<string>Đọc và học mọi lúc, mọi nơi, không cần kết nối Internet</string>
+	<key>sub.text_restore</key>
+	<string>Bạn đã mua? Khôi phục gói mua tại đây.</string>
+	<key>sub.text.startyourweek</key>
+	<string>Đăng ký ngay</string>
+	<key>sub.text.subscribenow</key>
+	<string>Đăng ký ngay</string>
+	<key>sub.text.run</key>
+	<string>Đăng ký sử dụng $(appname) không giới hạn</string>
+	<key>sub.text.run.vn</key>
+	<string>Đăng ký sử dụng $(appname) không giới hạn</string>
+	<key>sub.item.1mon</key>
+	<string>1 tháng</string>
+	<key>sub.item.month</key>
+	<string>tháng</string>
+	<key>sub.item.6mon</key>
+	<string>6 tháng</string>
+	<key>sub.item.1year</key>
+	<string>1 năm</string>
+	<key>sub.item.lifetime</key>
+	<string>Trọn đời</string>
+	<key>sub.item.purchase</key>
+	<string>Đăng ký ngay</string>
+	<key>favorite.edit</key>
+	<string>Chỉnh sửa</string>
+	<key>downloaded.edit</key>
+	<string>Xoá</string>
+	<key>favorite.done</key>
+	<string>Xong</string>
+	<key>sub.text.features.title5</key>
+	<string>Nội dung cập nhật mới hàng tuần</string>
+	<key>sub.text.features.title6</key>
+	<string>Không quảng cáo</string>
+	<key>sub.text.features.title7</key>
+	<string>Hiển thị chữ theo giọng đọc</string>
+	<key>sub.text.features.title8</key>
+	<string>Thu giọng trẻ theo truyện, lưu dưới dạng video</string>
+	<key>sub.popup.content</key>
+	<string>Bạn đã sử dụng hết nội dung miễn phí ngày hôm nay. Vui lòng đăng ký mua để tiếp tục sử dụng chương trình.</string>
+	<key>sub.popup.btok</key>
+	<string>Đăng ký mua</string>
+	<key>sub.popup.content.free</key>
+	<string>Nội dung này chỉ dành cho khách hàng đã đăng ký mua.</string>
+	<key>sub.popup.feature.free</key>
+	<string>Tính năng này chỉ dành cho khách hàng đã đăng ký mua.</string>
+	<key>sub.popup.btsub</key>
+	<string>Đăng ký mua</string>
+	<key>sub.popup.btfree</key>
+	<string>Sử dụng nội dung miễn phí</string>
+	<key>rate.popup.title</key>
+	<string>QUÀ TẶNG</string>
+	<key>rate.popup.content</key>
+	<string>Hãy đánh giá $(appname) và nhận 2 ngày sử dụng miễn phí không giới hạn</string>
+	<key>rate.popup.bt</key>
+	<string>Đánh giá</string>
+	<key>rate.popup.num</key>
+	<string>2 ngày sử dụng miễn phí</string>
+	<key>lesson.popup.prior</key>
+	<string>Bài học này đang bị khoá. Bé hãy hoàn thành bài học trước!</string>
+	<key>lesson.popup.prior.activity</key>
+	<string>Oh! That activity is not ready yet. Let&apos;s finish this one first.</string>
+	<key>feedback.title.active</key>
+	<string>Hãy góp ý cho $(appname) để chúng tôi hoàn thiện chương trình tốt hơn!</string>
+	<key>rate.thanks.title</key>
+	<string>CẢM ƠN BẠN!</string>
+	<key>rate.thanks.close</key>
+	<string>ĐÓNG</string>
+	<key>rate.active.title</key>
+	<string>Vui lòng đánh giá</string>
+	<key>thumb.story.level</key>
+	<string></string>
+	<key>audiobooks.recent.title</key>
+	<string>Sách nói vừa nghe</string>
+	<key>favourite.tab.favourite</key>
+	<string>Yêu thích</string>
+	<key>favourite.tab.downloaded</key>
+	<string>Đã tải</string>
+	<key>intro.swipe</key>
+	<string>Trượt sang trái để bắt đầu trải nghiệm</string>
+	<key>intro.drag</key>
+	<string>Ấn phím mũi tên phải để bắt đầu trải nghiệm</string>
+	<key>intro.stories</key>
+	<string>Kho truyện tranh tương tác khổng lồ</string>
+	<key>intro.stories.sub</key>
+	<string>Gồm hơn 500 đầu truyện, được bổ sung hàng tuần</string>
+	<key>intro.stories.sub.vi</key>
+	<string>Chia theo cấp độ tuổi thuộc 10 chủ đề gần gũi, được cập nhật hàng tuần</string>
+	<key>intro.audiobooks</key>
+	<string>Kho sách nói chọn lọc, sống động</string>
+	<key>intro.audiobooks.sub</key>
+	<string>Gồm nhiều truyện kinh điển trên thế giới được làm mới</string>
+	<key>intro.audiobooks.sub.vi</key>
+	<string>Gồm nhiều truyện kinh điển trên thế giới được làm mới, phù hợp với văn hoá Việt</string>
+	<key>intro.lessons</key>
+	<string>Hệ thống bài học chuẩn Mỹ</string>
+	<key>intro.lessons.sub</key>
+	<string>Phát triển đầy đủ 4 kỹ năng: nghe, nói, đọc, viết</string>
+	<key>intro.start</key>
+	<string>Khám phá ngay</string>
+	<key>intro.start.vi</key>
+	<string>Khám phá nào!</string>
+	<key>intro.samplestory</key>
+	<string>Được phát triển bởi các chuyên gia ngôn ngữ hàng đầu</string>
+	<key>intro.samplestory.vi</key>
+	<string>Được xây dựng và phát triển bởi các chuyên gia ngôn ngữ</string>
+	<key>onboard.optout.1</key>
+	<string>Đã biết cách dùng? </string>
+	<key>onboard.optout.2</key>
+	<string>Bỏ qua hướng dẫn.</string>
+	<key>onboard.next</key>
+	<string>Tiếp tục</string>
+	<key>onboard.finish</key>
+	<string>Hoàn thành</string>
+	<key>collection.more</key>
+	<string>Khám phá thêm</string>
+	<key>swipe.down</key>
+	<string>Vuốt xuống dưới để đọc lại</string>
+	<key>swipe.left</key>
+	<string>Vuốt sang trái để chuyển trang</string>
+	<key>search.no.result.stories</key>
+	<string>Không tìm thấy truyện</string>
+	<key>search.no.result.audiobooks</key>
+	<string>Không tìm thấy sách nói</string>
+	<key>lessons.completed</key>
+	<string>bài học hoàn thành</string>
+	<key>audio.player.duration</key>
+	<string>Thời lượng:</string>
+	<key>audio.player.level</key>
+	<string>Cấp độ:</string>
+	<key>favourite.empty</key>
+	<string>Các nội dung bạn yêu thích sẽ được hiển thị ở đây.</string>
+	<key>downloaded.empty</key>
+	<string>Các nội dung đã tải sẽ được hiển thị ở đây.</string>
+	<key>record.swipe</key>
+	<string>Đang ghi âm, trượt sang trái để tiếp tục</string>
+	<key>record.recording</key>
+	<string>Đang ghi âm</string>
+	<key>forgot.license.ask</key>
+	<string>Vui lòng nhập số điện thoại hoặc email
+bạn đã đăng ký mua chương trình</string>
+	<key>forgot.license.action</key>
+	<string>Gửi</string>
+	<key>forgot.license.invalid</key>
+	<string>Vui lòng nhập đúng định dạng cho email hoặc số điện thoại</string>
+	<key>settings.forgot.license</key>
+	<string>Quên mã kích hoạt?</string>
+	<key>settings.deactivate.device</key>
+	<string>Hủy kích hoạt ứng dụng</string>
+	<key>deactive.question</key>
+	<string>Bạn có muốn hủy kích hoạt $(appname) trên thiết bị này không?</string>
+	<key>deactive.yes</key>
+	<string>Có</string>
+	<key>deactive.no</key>
+	<string>Không</string>
+	<key>deactive.question.2</key>
+	<string>Nếu bấm &quot;Có&quot;, bạn sẽ không được phép sử dụng tất cả các tính năng của $(appname) trên thiết bị này nữa.</string>
+	<key>deactive.wait</key>
+	<string>Vui lòng chờ...</string>
+	<key>parent.license.empty</key>
+	<string>Vui lòng nhập mã kích hoạt</string>
+	<key>parent.delete.cache.single</key>
+	<string>Xoá từng truyện tranh hoặc sách nói</string>
+	<key>parent.delete.cache.single.info</key>
+	<string>Chọn nội dung muốn xoá</string>
+	<key>parent.delete.cache.all</key>
+	<string>Xoá toàn bộ dữ liệu đã tải</string>
+	<key>audio.onboard.screensaver</key>
+	<string>Gợi ý: Bạn có thể tiếp tục nghe sách nói sau khi tắt màn hình thiết bị!</string>
+	<key>price.text.detail</key>
+	<string>Chỉ tính phí sau khi hết hạn dùng thử</string>
+	<key>price.time.small.unit</key>
+	<string>tháng</string>
+	<key>price.time.great.unit</key>
+	<string>năm</string>
+	<key>free.story.vn.title</key>
+	<string>Đọc truyện miễn phí</string>
+	<key>free.lesson.vn.title</key>
+	<string>Sách nói miễn phí</string>
+	<key>free.story.vn.sorry</key>
+	<string>Đang cập nhật...</string>
+	<key>background.music.on.off</key>
+	<string>Tắt/Bật nhạc nền</string>
+	<key>extra.title</key>
+	<string>Viết bởi:</string>
+	<key>download.content.size</key>
+	<string>Nội dung này có dung lượng </string>
+	<key>download.confirm</key>
+	<string>Bạn có muốn tải về?</string>
+	<key>viral.popup.title</key>
+	<string>HỌC
+MIỄN PHÍ</string>
+	<key>viral.popup.content</key>
+	<string>CHIA SẺ NGAY để cả bạn và người được chia sẻ có thêm 7 ngày học miễn phí không giới hạn nội dung</string>
+	<key>viral.popup.button</key>
+	<string>CHIA SẺ</string>
+	<key>viral.sub.popup.title</key>
+	<string>TÊN CỦA BẠN</string>
+	<key>viral.sub.popup.content</key>
+	<string>Hãy để bạn bè biết bạn là
+người chia sẻ ứng dụng tuyệt vời này</string>
+	<key>viral.sub.popup.button</key>
+	<string>GỬI</string>
+	<key>viral.sub.popup.name</key>
+	<string>Họ và tên của bạn... (tùy chọn)</string>
+	<key>viral.sub.popup.phone</key>
+	<string>Số điện thoại...</string>
+	<key>viral.gift.title</key>
+	<string>CHÚC MỪNG
+BẠN</string>
+	<key>viral.gift.content</key>
+	<string>Bạn có 7 ngày học
+miễn phí chương trình</string>
+	<key>viral.gift.button</key>
+	<string>Đồng ý</string>
+	<key>viral.receive.text</key>
+	<string>Bạn nhận được chia sẻ từ bạn bè? Bấm vào đây</string>
+	<key>viral.receive.popup.title</key>
+	<string>BẠN CÓ QUÀ</string>
+	<key>viral.receive.popup.content</key>
+	<string>Nhập số điện thoại của bạn để nhận
+những điều bất ngờ từ bạn bè nhé!</string>
+	<key>viral.receive.popup.button</key>
+	<string>Nhận quà</string>
+	<key>lb.playlist.for</key>
+	<string>trong</string>
+	<key>lb.playlist.play</key>
+	<string>Nghe</string>
+	<key>lb.playlist.play.continue</key>
+	<string>Tiếp tục</string>
+	<key>lb.playlist.minute</key>
+	<string>phút</string>
+	<key>collection.play.all</key>
+	<string>Nghe tất cả</string>
+	<key>playlist.nowplaying</key>
+	<string>Đang nghe</string>
+	<key>playlist.end.duration</key>
+	<string>Đã hết {duration} phút nghe truyện.</string>
+	<key>pay.notice.detail</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt.Thiết bị này sẽ được tự động kích hoạt.
+        Bạn có thể khôi phục gói mua trên các thiết bị {os} khác.
+        Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.</string>
+	<key>pay.notice.detail.ios</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Bạn có thể khôi phục gói mua trên các thiết bị {os} khác. Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.
+
+• Để tiếp tục thanh toán, ấn &quot;Mua ngay&quot;.
+• Để nhận mã kích hoạt và thanh toán tại nhà, ấn &quot;Nhận mã kích hoạt&quot;.</string>
+	<key>pay.notice.detail.ios.win</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Bạn có thể khôi phục gói mua trên các thiết bị {os} khác. Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.
+
+• Để nhận mã kích hoạt và thanh toán tại nhà, ấn &quot;Nhận mã kích hoạt&quot;.</string>
+	<key>pay.notice.detail.ios.voucher.win</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Bạn có thể khôi phục gói mua trên các thiết bị {os} khác. Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.
+
+        • Để sử dụng mã giảm giá, ấn &quot;Liên hệ với chúng tôi&quot;.</string>
+	<key>pay.notice.detail.ios.voucher</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Bạn có thể khôi phục gói mua trên các thiết bị {os} khác. Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.
+
+        • Để tiếp tục thanh toán, ấn &quot;Mua ngay&quot;.
+        • Để sử dụng mã giảm giá, ấn &quot;Liên hệ với chúng tôi&quot;.</string>
+	<key>pay.notice.detail.continue</key>
+	<string>Mua ngay</string>
+	<key>pay.notice.detail.other</key>
+	<string>Nhận thêm thông tin</string>
+	<key>pay.notice.detail.other.voucher</key>
+	<string>Liên hệ với chúng tôi</string>
+	<key>pay.notice.detail.android</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Bạn có thể khôi phục gói mua trên các thiết bị cùng hệ điều hành Android khác. Chúng tôi sẽ kiểm tra gói mua và tổng số lượng thiết bị được kích hoạt.</string>
+	<key>sidebar.des.qr</key>
+	<string>Quét mã</string>
+	<key>qr.instruction</key>
+	<string>Vui lòng quét mã để nghe truyện trong ứng dụng:
+    - Với học liệu, mã QR nằm ở trang bìa trước
+    - Với sách truyện, mã QR nằm ở trang bìa sau</string>
+	<key>qr.onboard</key>
+	<string>Quét mã QR trên sách in để nghe đọc truyện</string>
+	<key>qr.lexile</key>
+	<string>Điểm lexile:</string>
+	<key>qr.level</key>
+	<string>Cấp độ:</string>
+	<key>qr.page</key>
+	<string>Số trang:</string>
+	<key>qr.prev.page</key>
+	<string>Trang trước</string>
+	<key>qr.next.page</key>
+	<string>Trang sau</string>
+	<key>qr.play</key>
+	<string>Đọc cho bé</string>
+	<key>qr.pause</key>
+	<string>Tạm dừng</string>
+	<key>qr.alert</key>
+	<string>Quét mã thành công. Vui lòng vào mục Quét mã ở trang chủ để nghe truyện.</string>
+	<key>audio.player.number.chapters</key>
+	<string>Số chương:</string>
+	<key>audiobook.chapters</key>
+	<string>chương</string>
+	<key>label.summary</key>
+	<string>Tóm tắt</string>
+	<key>playlist.exclude.novels</key>
+	<string>Danh sách này không bao gồm truyện tiểu thuyết.</string>
+	<key>audiobook.novels</key>
+	<string>Tiểu thuyết</string>
+	<key>voucher.discount.inapp</key>
+	<string>Mức giá ưu đãi dành riêng cho thanh toán trong ứng dụng.</string>
+	<key>voucher.discount</key>
+	<string>Mức giá ưu đãi dành cho mã giảm giá </string>
+	<key>support_action3</key>
+	<string>Tham gia</string>
+	<key>support_title3</key>
+	<string>Tham gia vào nhóm Facebook</string>
+	<key>support_option3</key>
+	<string>Cách 3:</string>
+	<key>text.title.detail_sub</key>
+	<string>, chi tiết tại đây.</string>
+	<key>key.onboard.login</key>
+	<string>Tạo một tài khoản để bắt đầu học </string>
+	<key>key.onboard.login.text</key>
+	<string>(Ba mẹ đăng ký tài khoản để bắt đầu học và 
+sử dụng toàn bộ nội dung đã mua)</string>
+	<key>key.onboard.account.license</key>
+	<string>Ba mẹ đã có mã kích hoạt chưa?</string>
+	<key>key.onboard.account.license.yesbtn</key>
+	<string>Tôi đã có !</string>
+	<key>key.onboard.account.license.nobtn</key>
+	<string>Tôi chưa có !</string>
+	<key>key.onboard.account.profile.title</key>
+	<string>Chọn người học</string>
+	<key>key.onboard.account.new.profile</key>
+	<string>Tạo người học mới </string>
+	<key>key.onboard.account.welcome.profile</key>
+	<string></string>
+	<key>key.account.profile.name.title</key>
+	<string>Giới thiệu về bé</string>
+	<key>key.account.profile.name.title.new</key>
+	<string>Tạo thông tin người học</string>
+	<key>key.account.profile.name.title.des</key>
+	<string>Monkey sẽ gợi ý nội dung phù hợp 
+để xây dựng lộ trình học riêng cho bé</string>
+	<key>key.account.profile.name.text</key>
+	<string>Nhập tên của bé</string>
+	<key>key.account.profile.age.title</key>
+	<string>Bé bao nhiêu tuổi?</string>
+	<key>key.account.profile.avatar.title</key>
+	<string>Chọn hình đại diện cho bé</string>
+	<key>key.account.profile.change.title</key>
+	<string>Đổi người học</string>
+	<key>key.parent.account</key>
+	<string>Tài khoản người dùng </string>
+	<key>key.parent.account.info</key>
+	<string>Thông tin người dùng </string>
+	<key>key.parent.account.info.user</key>
+	<string>Thông tin tài khoản người dùng</string>
+	<key>key.parent.account.info.profile</key>
+	<string>Quản lý người học </string>
+	<key>key.popup.user.info.name</key>
+	<string>Tên người dùng</string>
+	<key>key.popup.user.info.address</key>
+	<string>Địa chỉ</string>
+	<key>key.popup.user.info.email</key>
+	<string>Email</string>
+	<key>key.popup.user.info.phone</key>
+	<string>Số điện thoại</string>
+	<key>key.parent.profile.edit.title</key>
+	<string>Chỉnh sửa thông tin người học </string>
+	<key>key.parent.profile.name</key>
+	<string>Tên của bé</string>
+	<key>key.parent.profile.gender</key>
+	<string>Giới tính</string>
+	<key>key.parent.profile.edit.age</key>
+	<string>Tuổi</string>
+	<key>key.account.reach.max.profile</key>
+	<string>Bạn đã tạo đủ số người học cho phép</string>
+	<key>key.account.time.update</key>
+	<string>Đã 3 ngày kể từ lần cuối đồng bộ thông tin người học, kết nối mạng để đồng bộ ngay</string>
+	<key>key.account.btn.next</key>
+	<string>Tiếp</string>
+	<key>key.account.btn.done</key>
+	<string>Xong</string>
+	<key>key.account.btn.back</key>
+	<string>Quay lại</string>
+	<key>key.account.btn.edit</key>
+	<string>Chỉnh sửa</string>
+	<key>settings.buy.license</key>
+	<string>Đăng ký mua mã kích hoạt</string>
+	<key>key.pay.init.window</key>
+	<string>Để nhận mã kích hoạt và thanh toán tại nhà , ấn &quot;Nhận mã kích hoạt&quot;</string>
+	<key>key.pay.init.button.title</key>
+	<string>Nhận mã kích hoạt</string>
+	<key>sidebar.des.lessons.vm</key>
+	<string>Học vần</string>
+	<key>key.accountv3.popup.enteremail.desc</key>
+	<string>Monkey gửi tặng ba mẹ Ebook &quot;Learn English effectively with Monkey Stories&quot;.
+Ba mẹ vui lòng kiểm tra email để download tài liệu đồng hành cùng con nhé.</string>
+	<key>key.accountv3.popup.enteremail.desc.vm</key>
+	<string>VMonkey gửi tặng ba mẹ kho hình ảnh bộ truyện tranh &quot;Khỉ con tinh nghịch&quot;.
+Ba mẹ vui lòng kiểm tra email để download tài liệu đồng hành cùng con nhé.</string>
+	<key>key.accountv3.popup.enteremail.invalid.email</key>
+	<string>Email không hợp lệ!</string>
+	<key>key.accountv3.popup.enteremail.thankyou</key>
+	<string>Cảm ơn ba mẹ đã tin tưởng và lựa chọn Monkey. Ba mẹ vui lòng kiểm tra email để download tài liệu đồng hành cùng con nhé.</string>
+	<key>key.accountv3.screen.account.title</key>
+	<string>Thông tin người dùng</string>
+	<key>key.accountv3.screen.account.title.parents</key>
+	<string>Thông tin bố mẹ</string>
+	<key>key.accountv3.screen.account.name</key>
+	<string>Tên</string>
+	<key>key.accountv3.screen.account.popup.noname</key>
+	<string>Vui lòng nhập tên bố mẹ</string>
+	<key>key.accountv3.screen.account.phone</key>
+	<string>Số điện thoại</string>
+	<key>key.accountv3.screen.account.managepassword</key>
+	<string>Quản lý tài khoản và mật khẩu</string>
+	<key>key.accountv3.screen.account.manageprofiles</key>
+	<string>Quản lý người học</string>
+	<key>key.accountv3.screen.account.add.email.to.signin</key>
+	<string>Thêm hình thức đăng nhập bằng Email</string>
+	<key>key.accountv3.screen.account.add.phone.to.signin</key>
+	<string>Thêm hình thức đăng nhập bằng Số điện thoại</string>
+	<key>key.accountv3.screen.addpassword.title</key>
+	<string>Thêm mật khẩu</string>
+	<key>key.accountv3.screen.addpassword.desc</key>
+	<string>Vui lòng tạo mật khẩu để bảo mật cho tài khoản</string>
+	<key>key.accountv3.screen.confirmpassword.title</key>
+	<string>Xác thực tài khoản</string>
+	<key>key.accountv3.screen.confirmpassword.desc</key>
+	<string>Vui lòng nhập mật khẩu xác thực để bảo mật tài khoản</string>
+	<key>key.accountv3.screen.updateemail.title</key>
+	<string>Cập nhật địa chỉ email</string>
+	<key>key.accountv3.screen.updateemail.desc</key>
+	<string>Vui lòng cập nhật địa chỉ email để Monkey hỗ trợ tốt nhất cho quyền lợi của bạn.</string>
+	<key>key.accountv3.screen.updateemail.popup.sendotp</key>
+	<string>Mã xác minh đã được gửi về email %s, vui lòng kiểm tra email</string>
+	<key>key.accountv3.screen.updatepassword.title</key>
+	<string>Cập nhật mật khẩu</string>
+	<key>key.accountv3.screen.updatepassword.old.password</key>
+	<string>Mật khẩu cũ</string>
+	<key>key.accountv3.screen.updatepassword.new.password</key>
+	<string>Mật khẩu mới</string>
+	<key>key.accountv3.screen.updatepassword.renew.password</key>
+	<string>Xác nhận mật khẩu</string>
+	<key>key.accountv3.screen.updatephone.title</key>
+	<string>Cập nhật số điện thoại</string>
+	<key>key.accountv3.screen.updatephone.desc</key>
+	<string>Vui lòng cập nhật số điện thoại để Monkey hỗ trợ tốt nhất cho quyền lợi của bạn.</string>
+	<key>key.accountv3.screen.updatephone.placeholder</key>
+	<string>Nhập số điện thoại của bạn</string>
+	<key>key.accountv3.screen.confirmotp.title</key>
+	<string>Xác minh địa chỉ email</string>
+	<key>key.accountv3.screen.confirmotp.desc</key>
+	<string>Vui lòng nhập mã xác minh gửi về địa chỉ email
+%s
+để có thêm một phương thức đăng nhập mới.</string>
+	<key>key.accountv3.screen.confirmotp.activationcode</key>
+	<string>Mã xác minh</string>
+	<key>key.accountv3.button.title.add</key>
+	<string>Thêm</string>
+	<key>key.accountv3.button.title.update</key>
+	<string>Cập nhật</string>
+	<key>key.accountv3.button.title.save</key>
+	<string>Lưu</string>
+	<key>key.accountv3.button.title.details</key>
+	<string>Chi tiết</string>
+	<key>key.accountv3.button.title.signout</key>
+	<string>Đăng xuất</string>
+	<key>key.accountv3.button.title.sendcode</key>
+	<string>Gửi mã xác minh</string>
+	<key>key.accountv3.button.title.resendcode</key>
+	<string>Gửi lại mã</string>
+	<key>key.accountv3.button.title.addpassword</key>
+	<string>Thêm mật khẩu</string>
+	<key>key.accountv3.button.title.updatepassword</key>
+	<string>Cập nhật mật khẩu</string>
+	<key>key.accountv3.button.title.confirm</key>
+	<string>Xác nhận</string>
+	<key>key.accountv3.text.password</key>
+	<string>Mật khẩu</string>
+	<key>key.accountv3.text.have.new.way.to.signin</key>
+	<string>Đồng thời bạn sẽ có thêm một phương thức đăng nhập mới.</string>
+	<key>MORAL_STORIES</key>
+	<string>Moral Stories</string>
+	<key>WORLD_OF_TALES</key>
+	<string>World of Tales</string>
+	<key>FAMOUS_FABLES</key>
+	<string>Famous Fables</string>
+	<key>POEMS</key>
+	<string>Poems</string>
+	<key>key.v4.change.password.title</key>
+	<string>Đổi mật khẩu</string>
+	<key>key.v4.default.password.small.title</key>
+	<string>Bạn đang dùng mật khẩu mặc định. Vui lòng thay đổi
+mật khẩu để tăng cường bảo mật và dễ nhớ hơn.</string>
+	<key>key.v4.connection</key>
+	<string>Kết Nối</string>
+	<key>key.v4.have.used.monkey.apps</key>
+	<string>Ba mẹ đã từng sử dụng sản phẩm nào của Monkey chưa?</string>
+	<key>key.v4.free.or.not</key>
+	<string>(Sử dụng miễn phí hoặc sử dụng mất phí)</string>
+	<key>key.v4.have.used</key>
+	<string>Tôi đã sử dụng</string>
+	<key>key.v4.not.use</key>
+	<string>Tôi chưa sử dụng</string>
+	<key>key.v4.connect.with.current.account</key>
+	<string> &lt;font color=&apos;#000000&apos; size=&quot;%d&quot; face=&quot;%s&quot;&gt; Kết nối với tài khoản &lt;font color=&apos;#2CB8E9&apos;&gt; %s &lt;/font&gt; để giữ nguyên lộ trình học của con &lt;/font&gt;</string>
+	<key>key.v4.connection.with.a.account</key>
+	<string>Kết nối với tài khoản đã sử dụng
+để giữ nguyên lộ trình học.</string>
+	<key>key.v4.connection.with.a.account2</key>
+	<string>Kết nối với tài khoản khác đã sử dụng
+để giữ nguyên lộ trình học.</string>
+	<key>key.v4.connection.with.a.account.small</key>
+	<string>Thông tin tài khoản đã sử dụng</string>
+	<key>key.v4.txt.or</key>
+	<string>- - - - - - - - - - - - - Hoặc - - - - - - - - - - - -</string>
+	<key>key.accountv4.screen.updatephone.desc</key>
+	<string>Vui lòng cập nhật số điện thoại để Monkey có thể giúp bạn
+nếu bạn quên mật khẩu tài khoản</string>
+	<key>key.v4.username</key>
+	<string>Tên đăng nhập</string>
+	<key>key.v4.email</key>
+	<string>Email</string>
+	<key>key.v4.change.password</key>
+	<string>Thay đổi mật khẩu tài khoản</string>
+	<key>key.v4.login.methods.screen.title</key>
+	<string>Tài khoản này có %d hình thức
+đăng nhập:</string>
+	<key>key.v4.methods.password.changed</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&quot;25&quot; face=&quot;fonts/Montserrat-Medium.ttf&quot;&gt; Mật khẩu cho hình thức %s vừa thay đổi &lt;/font&gt;</string>
+	<key>key.v4.method</key>
+	<string>Hình thức</string>
+	<key>key.v4.change.password.button.title</key>
+	<string>Thay mật khẩu</string>
+	<key>key.open.lesson.from.qr.overles</key>
+	<string>Bạn mới hoàn thành bài học %d.
+Hãy hoàn thành bài học %d và các bài học theo thứ tự để mở khoá bài %d.</string>
+	<key>key.open.lesson.from.qr.notyet</key>
+	<string>Bạn chưa hoàn thành bài học 1.
+Hãy hoàn thành các bài học theo thứ tự để mở khoá bài %d.</string>
+	<key>key.support.info.email</key>
+	<string>monkeyxinchao@monkey.edu.vn</string>
+	<key>key.support.info.phonenumber</key>
+	<string>1900636052</string>
+	<key>key.support.fbgroup.name</key>
+	<string>Đồng hành cùng con 
+học Monkey</string>
+	<key>key.support.fbgroup.link</key>
+	<string>http://bit.ly/WindowMS</string>
+	<key>SupportView_Mail</key>
+	<string>Chào bạn, để được hỗ trợ một cách tốt nhất, bạn vui lòng cung cấp cho Monkey Care các thông tin sau: \n
+    1. Họ và tên:\n
+    2. SĐT:\n
+    3. Email: (chỉ áp dụng đối với Khách hàng gửi mail từ địa chỉ @icloud.com)\n
+    4. Yêu cầu cần hỗ trợ:\n
+    Monkey Care sẽ kiểm tra các thông tin bạn cung cấp và phản hồi trong thời gian sớm nhất.\n
+    Trân trọng.\n\n
+    --------------------\n</string>
+	<key>SupportView_Mail_title</key>
+	<string>Trợ giúp về </string>
+	<key>new_finish</key>
+	<string>Hoàn thành</string>
+	<key>sub.text.detail3.vm</key>
+	<string>Bài Học
+Học vần</string>
+	<key>key.play.now</key>
+	<string>Chơi ngay</string>
+	<key>key.material.main.title1</key>
+	<string>Chọn khóa học</string>
+	<key>key.material.main.title2</key>
+	<string>để tải học liệu</string>
+	<key>key.material.explore</key>
+	<string>Khám phá</string>
+	<key>key.material.worksheet</key>
+	<string>Học liệu</string>
+	<key>key.material.search</key>
+	<string>Tìm kiếm</string>
+	<key>key.material.library</key>
+	<string>Thư viện</string>
+	<key>key.material.button.scan.qr</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Quét mã QR&lt;/font&gt;</string>
+	<key>key.material.button.scan.qr - 2</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Quét mã QR&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; trên học liệu của bạn để mở truyện hoặc bài học tương ứng trên APP&lt;/font&gt;</string>
+	<key>key.material.button.enter.email</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Điền địa chỉ email&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; để nhận học liệu&lt;/font&gt;</string>
+	<key>key.material.button.sendemail</key>
+	<string>Gửi email</string>
+	<key>key.material.button.register</key>
+	<string>Đăng ký</string>
+	<key>key.material.button.confirm</key>
+	<string>Xác nhận</string>
+	<key>key.material.placeholder.search.audiobook</key>
+	<string>Tìm kiếm theo tiêu đề sách nói</string>
+	<key>key.material.placeholder.search.story</key>
+	<string>Tìm kiếm theo tiêu đề truyện</string>
+	<key>key.material.placeholder.search.phonics</key>
+	<string>Tìm kiếm theo tiêu đề Phonics</string>
+	<key>key.material.popup.enter.email</key>
+	<string>Ba mẹ vui lòng đăng ký email để nhận học liệu:</string>
+	<key>key.material.choose.worksheet.first</key>
+	<string>Ba mẹ vui lòng chọn học liệu muốn tải trước!</string>
+	<key>key.material.max.worksheet.canbe.selected</key>
+	<string>Ba mẹ vui lòng chọn tối đa %d học liệu một lần!</string>
+	<key>key.material.confirm.email.to.send</key>
+	<string>Ba mẹ vui lòng xác nhận lại địa chỉ email để nhận học liệu:</string>
+	<key>key.material.warning.no.email</key>
+	<string>Vui lòng nhập địa chỉ email tại đây</string>
+	<key>key.material.warning.invalid.email</key>
+	<string>Địa chỉ email không chính xác, ba mẹ vui lòng kiểm tra lại!</string>
+	<key>key.material.notice.success.register.email</key>
+	<string>Email đã được đăng ký thành công!
+Ba mẹ vui lòng kiểm tra email để nhận học liệu.</string>
+	<key>key.material.notice.success.send.worksheet</key>
+	<string>Học liệu đã được gửi thành công!
+Ba mẹ vui lòng kiểm tra email để tải học liệu.</string>
+	<key>key.material.noresult.title</key>
+	<string>Rất tiếc, Khỉ con không tìm thấy</string>
+	<key>key.material.noresult.warn1</key>
+	<string>Vui lòng kiểm tra lại chính tả</string>
+	<key>key.material.noresult.warn2</key>
+	<string>Tìm kiếm theo tiêu đề truyện/sách nói</string>
+	<key>key.material.title.recent.search</key>
+	<string>Tìm kiếm gần đây</string>
+	<key>key.material.title.popular.search</key>
+	<string>Tìm kiếm phổ biến</string>
+	<key>key.material.story.readed</key>
+	<string>Truyện đã đọc</string>
+	<key>key.material.lesson.learned</key>
+	<string>Bài học đã học</string>
+	<key>key.material.worksheet.downloaded</key>
+	<string>Học liệu đã tải</string>
+	<key>key.material.note.title</key>
+	<string>Chú thích</string>
+	<key>key.material.note.desc</key>
+	<string>Ba mẹ hãy ưu tiên tải và in học liệu cho các truyện bé đã đọc nhé!</string>
+	<key>key.material.note.desc.2</key>
+	<string>Ba mẹ hãy ưu tiên tải và in học liệu cho các bài học bé đã hoàn thành nhé!</string>
+	<key>key.material.selected.worksheet</key>
+	<string>Học liệu đã chọn</string>
+	<key>key.material.desc.free.limit</key>
+	<string>Tài khoản miễn phí cho phép tải %d học liệu/ngày. Vui lòng đăng ký mua để sử dụng không giới hạn!</string>
+	<key>account.expired</key>
+	<string>Hết hạn</string>
+	<key>key.material.worksheet.title</key>
+	<string>học liệu</string>
+	<key>key.material.worksheet.unsend</key>
+	<string>chưa gửi</string>
+	<key>key.material.worksheet.exit.warning</key>
+	<string>Học liệu đã chọn sẽ mất khi ba mẹ thoát ra ngoài</string>
+	<key>key.material.worksheet.exit</key>
+	<string>Thoát</string>
+	<key>key.material.worksheet.continue.select</key>
+	<string>Tiếp tục chọn</string>
+	<key>key.unzip.error.reparing.lesson</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Bài học &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; đang gặp lỗi&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Ba mẹ vui lòng nhấn &lt;font color = &quot;#ff0000&quot;&gt;Tiếp tục&lt;/font&gt; để tránh bị gián đoạn quá trình học!&lt;/font&gt;;</string>
+	<key>key.unzip.error.reparing.story</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Truyện &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; đang gặp lỗi!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Ba mẹ vui lòng nhấn &lt;font color = &quot;#ff0000&quot;&gt;Thoát&lt;/font&gt; để tránh bị gián đoạn quá trình học!&lt;/font&gt;</string>
+	<key>key.reply</key>
+	<string>Học lại</string>
+	<key>key.setting.audio.ios</key>
+	<string>Bạn chưa cấp phép cho ứng dụng sử dụng micro. Vào Cài đặt -&gt; Quyền riêng tư-&gt; Micro -&gt; Monkey Stories bật (ON).</string>
+	<key>key.setting.audio.android</key>
+	<string>Bạn chưa cấp phép cho ứng dụng sử dụng micro. Vào Cài đặt -&gt; Ứng dụng-&gt; Monkey Stories -&gt;Quyền -&gt; Micro-&gt; Cho phép.</string>
+	<key>key.go.setting.ios</key>
+	<string>Cài đặt</string>
+	<key>key.close.setting.ios</key>
+	<string>Đóng</string>
+	<key>key.notification.not.found.result.of.stories</key>
+	<string>Cấp độ &quot;%s&quot; của chủ đề này chưa được ra mắt</string>
+	<key>key.notification.choose.stories.another.level</key>
+	<string>Vui lòng đọc truyện ở các cấp độ khác</string>
+	<key>key.notification.update.list.stories</key>
+	<string>Danh sách truyện sẽ liên tục được cập nhật</string>
+	<key>apple.login.failed</key>
+	<string>Đăng nhập bằng Apple thất bại!</string>
+	<key>facebook.login.failed</key>
+	<string>Đăng nhập bằng Facebook thất bại!</string>
+	<key>google.login.failed</key>
+	<string>Đăng nhập bằng Google thất bại!</string>
+	<key>onboard.ask.record.permission</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Ba mẹ hãy cho phép ứng dụng truy cập &lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Microphone &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;để bé&lt;br/&gt;tập phát âm cùng MonkeyStories nhé!&lt;/font&gt;</string>
+	<key>onboard.ask.record.permission.android</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Ba mẹ hãy cho phép ứng dụng truy cập &lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Microphone &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;và &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;File &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;để bé tập phát âm cùng Monkey Stories nhé!&lt;/font&gt;</string>
+	<key>reject.record.audio</key>
+	<string>Người dùng đã từ chối ghi ứng dụng</string>
+	<key>subscription.already.purchase1</key>
+	<string>Ba mẹ đã mua sản phẩm bằng tài khoản Google/Apple khác. Vui lòng kiểm tra lại!</string>
+	<key>subscription.yes</key>
+	<string>Đồng ý</string>
+	<key>subscription.already.register.message</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#8ca7b6&apos;&gt;Ba mẹ đã mua sản phẩm trên Monkey Account:&lt;font color= &apos;#17BBDE&apos;&gt;%s&lt;/font&gt;. Đăng xuất&lt;br/&gt;khỏi tài khoản hiện tại để đăng nhập&lt;br/&gt;vào tài khoản đã mua?&lt;/font&gt;</string>
+	<key>subscription.failure.title</key>
+	<string>Thanh toán không thành công.Vui lòng nhập thông tin để được tư vẫn miễn phí!</string>
+	<key>subscription.restore.success</key>
+	<string>Khôi phục gói mua thành công</string>
+	<key>subscription.purchase.success</key>
+	<string>Thanh toán thành công</string>
+	<key>subscription.purchase.success.access.all</key>
+	<string>Ba mẹ đã có thể truy cập toàn bộ bài học trên Monkey Stories</string>
+	<key>subscription.purchase.start.learning.now</key>
+	<string>Bắt đầu học tập ngay</string>
+	<key>subscription.purchase.success.1profile</key>
+	<string>Ba mẹ có thể tạo thêm 1 hồ sơ học tập và truy cập toàn bộ bài học trên Monkey Stories</string>
+	<key>subscription.purchase.success.2months</key>
+	<string>Ba mẹ được ưu đãi thêm 2 tháng sử dụng không giới hạn và có thể truy cập toàn bộ bài học trên Monkey Stories</string>
+	<key>subscription.purchase.changesuccess</key>
+	<string>Đổi gói mua thành công</string>
+	<key>subscription.purchase.success.changesubscription</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;Gói mua &lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt; sẽ có hiệu lực trong kì thanh toán tiếp theo.&lt;/font&gt;</string>
+	<key>subscription.already.purchase.address</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;Tài khoản của ba mẹ đã được mua trên 1 thiết bị sử dụng nền tảng &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; vào ngày &lt;font color= &apos;#fbad18&apos;&gt;%s&lt;/font&gt;.&lt;br/&gt;Vui lòng quản lý các gói mua của ba mẹ trên nền tảng đó!&lt;/font&gt;</string>
+	<key>subscription.purchase.success.changesubscription2</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt; Ba mẹ sẽ tự động được gia&lt;br/&gt;hạn gói mua: &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; với giá&lt;br/&gt;&lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; vào kì thanh toán &lt;br/&gt;tiếp theo:&lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt;.&lt;/font&gt;</string>
+	<key>subscription.please.insert.email</key>
+	<string>Vui lòng nhập địa chỉ Email</string>
+	<key>subscription.please.insert.username</key>
+	<string>Vui lòng nhập tên</string>
+	<key>subscription.error.network</key>
+	<string>Đã xảy ra lỗi kết nối mạng. Vui lòng kiểm tra lại!</string>
+	<key>ap.register.change.password.title</key>
+	<string>Thiết lập mật khẩu</string>
+	<key>ap.register.change.password.des</key>
+	<string>Tài khoản của bạn có thể được dùng để đăng nhập trên tất cả các thiết bị</string>
+	<key>subscription.response.get.info.email</key>
+	<string>Ba mẹ vui lòng kiểm tra email thường xuyên để không bỏ lỡ thông tin tư vấn từ khỉ con nha</string>
+	<key>subscription.wrong.format.name</key>
+	<string>Vui lòng kiểm tra lại Tên!</string>
+	<key>full.name.email</key>
+	<string>Họ và tên</string>
+	<key>new.earlystart.stories.1month.40_off</key>
+	<string>1 tháng</string>
+	<key>new.earlystart.stories.6month.40_off</key>
+	<string>6 tháng</string>
+	<key>new.earlystart.stories.1year.40_off</key>
+	<string>1 năm</string>
+	<key>new.earlystart.stories.lifetime.40_off</key>
+	<string>Trọn đời</string>
+	<key>ap.register.screen.description.1</key>
+	<string>Lưu lại quá trình học của bé</string>
+	<key>ap.register.screen.description.2</key>
+	<string>Nhận báo cáo học tập</string>
+	<key>ap.register.screen.description.3</key>
+	<string>Sử dụng trên nhiều thiết bị</string>
+	<key>ap.register.screen.title</key>
+	<string>Đăng kí tài khoản Monkey</string>
+	<key>ap.login.screen.title</key>
+	<string>Đăng nhập tài khoản Monkey</string>
+	<key>ap.fill.username.phone</key>
+	<string>Điền Username/SĐT</string>
+	<key>ap.fill.your.password</key>
+	<string>Điền mật khẩu</string>
+	<key>ap.have.not.account.sign.up</key>
+	<string>Ba mẹ chưa có tài khoản? Đăng kí ngay!</string>
+	<key>ap.have.an.account.sign.in</key>
+	<string>Ba mẹ đã có tài khoản? Đăng nhập ngay!</string>
+	<key>ap.enter.your.phone.number</key>
+	<string>Nhập số điện thoại của bạn...</string>
+	<key>ap.register.continue.with</key>
+	<string>Hoặc tiếp tục với</string>
+	<key>ap.confirm.your.password</key>
+	<string>Xác nhận mật khẩu</string>
+	<key>ap.waring.entering.password</key>
+	<string>Vui lòng nhập mật khẩu!</string>
+	<key>ap.waring.invalid.password</key>
+	<string>Mật khẩu phải chứa ít nhất 4 kí tự</string>
+	<key>ap.please.reenter.password</key>
+	<string>Vui lòng xác nhận mật khẩu!</string>
+	<key>ap.check.password.match</key>
+	<string>Mật khẩu không trùng khớp!</string>
+	<key>monkey.talking.call.text</key>
+	<string>Gọi: %s</string>
+	<key>monkey.talking.calling.text</key>
+	<string>Đang gọi: %s</string>
+	<key>monkey.talking.ask.permission.text</key>
+	<string>	&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Ba mẹ hãy cho phép truy cập &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;Camera và Microphone &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;để Monkey giúp bé luyện tập hội thoại nhé!&lt;/font&gt;
+	&lt;/string&gt;</string>
+	<key>monkey.talking.ask.permission.title.text</key>
+	<string>Thông báo</string>
+	<key>monkey.talking.ask.permission.accept.text</key>
+	<string>Đồng ý</string>
+	<key>monkey.talking.share.description.text</key>
+	<string>Cùng chia sẻ video nhé!</string>
+	<key>monkey.talking.share.text</key>
+	<string>Chia sẻ</string>
+	<key>monkey.talking.share.finish.text</key>
+	<string>Kết thúc</string>
+	<key>learn.stories</key>
+	<string>Truyện đã học</string>
+	<key>lb.sure.to.hang.up</key>
+	<string>Bạn có muốn kết thúc cuộc gọi không?</string>
+	<key>lb.continue</key>
+	<string>Tiếp tục</string>
+	<key>lb.hang.up</key>
+	<string>Kết thúc</string>
+	<key>lb.conversation.paused.title</key>
+	<string>Hội thoại tạm ngừng</string>
+	<key>lb.exit</key>
+	<string>Thoát</string>
+	<key>lb.skip</key>
+	<string>Bỏ qua</string>
+	<key>lb.conversation.paused.content</key>
+	<string>Bài học đang được tạm dừng. Bé có thể bấm Bỏ qua để chuyển sang chế độ Nói chuyện hoặc bấm Thoát để thoát khỏi bài học</string>
+	<key>subscription.please.insert.phonenumber</key>
+	<string>Số điện thoại</string>
+	<key>subscription.wrong.format</key>
+	<string>SĐT sai định dạng</string>
+	<key>subscription.response.popup.message</key>
+	<string>Monkey sẽ liên hệ tư vấn trong vòng 24h!</string>
+	<key>subscription.response.title</key>
+	<string>Đăng ký tư vấn thành công</string>
+	<key>subscription.response.button.title</key>
+	<string>Khám phá sản phẩm</string>
+	<key>fullmemory.warning</key>
+	<string>Thiết bị đã hết dung lượng, ba mẹ vui lòng kiểm tra lại!</string>
+	<key>free2paid.profileage.title</key>
+	<string>Tạo hồ sơ học cho bé</string>
+	<key>free2paid.profileage.subtitle</key>
+	<string>Bé nhà mình bao nhiêu tuổi ?</string>
+	<key>free2paid.profileage.buttonnext</key>
+	<string>Tiếp tục</string>
+	<key>key.free2paid.popup.notification</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;Bài học ngày hôm nay đã kết thúc.&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;Ba mẹ hãy cho phép quyền truy cập &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#01C4F8&apos;&gt;Thông báo &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;để Monkey có thể giúp bé học tốt hơn nhé.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.content.of.profile.mini</key>
+	<string>Tạo hồ sơ học thử cho bé</string>
+	<key>f2p.title.of.end.trial.lesson.popup</key>
+	<string>Học thử đã kết thúc</string>
+	<key>f2p.content.of.end.trial.lesson.popup</key>
+	<string>Để bé có thể học tiếp, ba mẹ vui lòng mở khóa toàn bộ nội dung, hoặc đăng ký miễn phí để tiếp tục trải nghiệm.</string>
+	<key>f2p.text.of.button.unclock.all.lesson</key>
+	<string>Mở khóa toàn bộ</string>
+	<key>f2p.text.of.button.signup.free</key>
+	<string>Đăng ký miễn phí</string>
+	<key>f2p.title.end.lesson.scene</key>
+	<string>Bạn đã học xong bài học của ngày hôm nay</string>
+	<key>f2p.content.of.end.lesson.scene</key>
+	<string>Để học thêm các bài học, Ba mẹ hãy giúp con mở khóa hoặc quay lại vào ngày tiếp theo nhé.</string>
+	<key>f2p.text.of.top.button.of.end.lesson.scene</key>
+	<string>Mở khóa toàn bộ</string>
+	<key>f2p.text.of.bottom.button.of.end.lesson.scene</key>
+	<string>Quay lại sau</string>
+	<key>MSFreeContentPage.title</key>
+	<string>Nội dung miễn phí</string>
+	<key>MSFreeContentPage.Unlock_all</key>
+	<string>Mở khóa toàn bộ</string>
+	<key>MSFreeContentPage.discover</key>
+	<string>Khám phá</string>
+	<key>text_of_pop_study_trial_14_lesson</key>
+	<string>	
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Bé được học thử &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;14 bài học miễn phí.&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt; Sau đó, ba mẹ sẽ cần Mở khóa toàn bộ nội dung để bé có thể học tiếp. &lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_7_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Bé được học thử &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;7 bài học miễn phí. &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Sau đó, ba mẹ sẽ cần Mở khóa toàn bộ nội dung để bé có thể học tiếp.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_10_lesson_free_unlock</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Cảm ơn ba mẹ đã tạo tài khoản, Monkey đã dành tặng riêng cho bé &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 bài học miễn phí.&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Sau đó, ba mẹ sẽ cần Mở khóa toàn bộ nội dung để bé có thể học tiếp.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>key_open_lock_all_stories</key>
+	<string>Mở khóa toàn bộ</string>
+	<key>key_try_learn_now</key>
+	<string>Học thử ngay</string>
+	<key>key_title_study_stories</key>
+	<string>Chương trình học thử</string>
+	<key>getting.started.scene.txt.btn.signin</key>
+	<string>Đăng nhập</string>
+	<key>getting.started.scene.txt.have.account</key>
+	<string>Tôi đã có tài khoản</string>
+	<key>getting.started.scene.txt.btn.start.now</key>
+	<string>Bắt đầu ngay</string>
+	<key>getting.started.scene.txt.had.no.account</key>
+	<string>Tôi chưa có tài khoản </string>
+	<key>getting.started.scene.txt.quiz.had.account</key>
+	<string>Ba mẹ đã có tài khoản Monkey Stories chưa?</string>
+	<key>splash.scene.txt1.page0</key>
+	<string>Giỏi tiếng Anh trước tuổi lên 10</string>
+	<key>splash.scene.txt2.page0</key>
+	<string>Lựa chọn số 1 cho trẻ từ 0-10 tuổi mới bắt đầu học tiếng Anh</string>
+	<key>splash.scene.txt.package.applied.page1</key>
+	<string>Áp dụng cho các gói học 06 tháng - 1 năm - 
+trọn đời.</string>
+	<key>splash.scene.txt.package.applied.page2</key>
+	<string>Áp dụng cho các gói học 1 tháng - 6 tháng -
+1 năm.</string>
+	<key>splash.scene.txt.discount.page1</key>
+	<string>ƯU ĐÃI LÊN TỚI</string>
+	<key>splash.scene.txt1.page2</key>
+	<string>TRẺ HỌC TIẾNG ANH VỚI HỨNG THÚ VƯỢT TRỘI</string>
+	<key>splash.scene.txt.item1.page2</key>
+	<string>Truyện tranh tương tác</string>
+	<key>splash.scene.txt.item2.page2</key>
+	<string>Bài học Đọc hiểu và bài học Ngữ âm</string>
+	<key>splash.scene.txt.item3.page2</key>
+	<string>Sách nói</string>
+	<key>splash.scene.txt.continue</key>
+	<string>Tiếp tục</string>
+	<key>date.title</key>
+	<string>Ngày </string>
+	<key>name.stories</key>
+	<string>Đọc truyện</string>
+	<key>name.phonic</key>
+	<string>Học phát âm</string>
+	<key>name.reading_comprehension</key>
+	<string>Đọc hiểu </string>
+	<key>f2p.key_try_learn_now</key>
+	<string>Tiếp tục học thử</string>
+	<key>f2p.key.content.trial_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Cảm ơn ba mẹ đã tạo tài khoản, Monkey dành tặng riêng cho bé &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 bài học miễn phí. &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Sau đó, ba mẹ sẽ cần Mở khóa toàn bộ nội dung để bé có thể học tiếp.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.key.content.end_trial_lesson</key>
+	<string>Các bài học miễn phí đã được hoàn thành, ba mẹ hãy giúp bé mở khoá tất cả bài học nhé.</string>
+	<key>title.of.popup.notice.completed.lesson</key>
+	<string>Bài học chưa sẵn sàng</string>
+	<key>content.v1.of.popup.notice.completed.lesson</key>
+	<string>Để học bài học này, ba mẹ hãy giúp bé mở khóa toàn bộ nội dung hoặc quay lại vào ngày mai</string>
+	<key>content.v2.of.popup.notice.completed.lesson</key>
+	<string>Bé hãy hoàn thành bài học của hôm nay nhé. Để học bài học này, ba mẹ hãy giúp bé mở khóa toàn bộ nội dung hoặc quay lại vào ngày mai</string>
+	<key>text.continue.learn</key>
+	<string>Tiếp tục học thử</string>
+	<key>free2paid.ask.name</key>
+	<string>Tên của bé là?</string>
+	<key>placeholder.textfield.name.setup</key>
+	<string>Điền tên của bé</string>
+	<key>free2paid.birthday.title</key>
+	<string>Bé nhà mình sinh vào khi nào?</string>
+	<key>month_1</key>
+	<string>Tháng 1</string>
+	<key>month_2</key>
+	<string>Tháng 2</string>
+	<key>month_3</key>
+	<string>Tháng 3</string>
+	<key>month_4</key>
+	<string>Tháng 4</string>
+	<key>month_5</key>
+	<string>Tháng 5</string>
+	<key>month_6</key>
+	<string>Tháng 6</string>
+	<key>month_7</key>
+	<string>Tháng 7</string>
+	<key>month_8</key>
+	<string>Tháng 8</string>
+	<key>month_9</key>
+	<string>Tháng 9</string>
+	<key>month_10</key>
+	<string>Tháng 10</string>
+	<key>month_11</key>
+	<string>Tháng 11</string>
+	<key>month_12</key>
+	<string>Tháng 12</string>
+	<key>onboard.birthday.f2p.picker.title</key>
+	<string>Bé nhà mình sinh vào khi nào ?</string>
+	<key>timepicker_done</key>
+	<string>Tiếp tục</string>
+	<key>key_title_subscription</key>
+	<string>Đăng ký ngay để nhận 7 ngày dùng thử sản phẩm</string>
+	<key>subscription.popular</key>
+	<string>Phổ biến</string>
+	<key>subscription.bonus.profile</key>
+	<string>Tặng 1 hồ sơ học</string>
+	<key>subscription.discount.format</key>
+	<string>Ưu đãi %d %%</string>
+	<key>sub.parent.name</key>
+	<string>Bố Quang Bình</string>
+	<key>sub.review</key>
+	<string>Thấy con tiến bộ rõ rệt trong phát âm, biết nhiều từ mới hơn, vận dụng cấu trúc ngữ pháp tự nhiên, tôi biết mình đã đi đúng hướng khi cho con học Monkey Stories</string>
+	<key>terms.of.service</key>
+	<string>Vui lòng xem Điều khoản sử dụng và Chính sách bảo mật để biết thêm thông tin. Đăng ký sẽ tự động gia hạn trừ khi tắt tính năng tự động gia hạn ít nhất 24 giờ trước thời hạn sử dụng. Tài khoản sẽ bị tính phí gia hạn với mức phí của gói đã chọn trong vòng 24 giớ trước khi kết thúc thời hạn sử dụng. Bạn có thể vào phần Cài đặt trong Tài khoản iTunes để quản lý đăng ký của mình và tắt tính năng tự động gia hạn. Tài khoản iTunes của bạn sẽ bị tính phí khi giao dịch mua được xác nhận. Ngay khi giao dịch mua được xác nhận, phần còn lại của bản dùng thử miễn phí sẽ không còn.</string>
+	<key>message.payment.sucess</key>
+	<string>Mời ba mẹ tạo tài khoản và hồ sơ học tập cho bé.</string>
+	<key>title.payment.sucess</key>
+	<string>Chương trình học thử với tài khoản không giới hạn</string>
+	<key>message.noti.payment</key>
+	<string>Bạn sẽ không nhận được mã kích hoạt. Thiết bị này sẽ được tự động kích hoạt. Để tiếp tục thanh toán, ấn “Mua ngay&quot;. Để có thêm thông tin về sản phẩm, vui lòng chọn “Nhận thêm thông tin&quot;.</string>
+	<key>sub.restore</key>
+	<string>Khôi phục gói mua</string>
+	<key>title.support.payment</key>
+	<string>Yêu cầu tư vấn</string>
+	<key>title.support.payment.th</key>
+	<string>ĐĂNG KÝ MUA HÀNG</string>
+	<key>message.support.payment</key>
+	<string>Hãy giúp con giỏi tiếng anh như
+10 triệu trẻ em đang học Monkey!</string>
+	<key>message.support.payment.th</key>
+	<string>Nhận ưu đãi lên đến 40% và sở hữu nhanh nhất gói học Monkey Stories cho bé</string>
+	<key>title.button.complete</key>
+	<string>Hỗ trợ tôi</string>
+	<key>title.button.complete.th</key>
+	<string>ĐĂNG KÝ NGAY</string>
+	<key>MSMergeSuccess.title</key>
+	<string>Liên kết thành công</string>
+	<key>MSMergeSuccessSub.title</key>
+	<string>Vui lòng chọn 1 hồ sơ để bắt đầu học</string>
+	<key>merge1.scene.txt.title.link.profile</key>
+	<string>Liên kết hồ sơ</string>
+	<key>merge1.scene.txt.trial.learning.profile</key>
+	<string>Hồ sơ học thử</string>
+	<key>merge1.scene.txt.free.pack</key>
+	<string>Gói học miễn phí</string>
+	<key>merge1.scene.txt.learning.profile</key>
+	<string>Hồ sơ học tập</string>
+	<key>merge1.scene.txt.new.account</key>
+	<string>Tài khoản mới</string>
+	<key>merge1.scene.txt.new.account.info</key>
+	<string>Thông tin tài khoản</string>
+	<key>merge1.scene.txt.paid.pack</key>
+	<string>Gói học ~ năm</string>
+	<key>merge1.scene.txt.full.name</key>
+	<string>Họ và tên:</string>
+	<key>merge1.scene.txt.phone.number</key>
+	<string>Số điện thoại:</string>
+	<key>merge1.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge1.scene.btn.link</key>
+	<string>Liên kết</string>
+	<key>merge1.scene.btn.skip</key>
+	<string>Bỏ qua</string>
+	<key>merge1.scene.txt.device.profile</key>
+	<string>Hồ sơ trên thiết bị</string>
+	<key>merge2.scene.txt.title.link.profile</key>
+	<string>Liên kết hồ sơ</string>
+	<key>merge2.scene.txt.account</key>
+	<string>Tài khoản</string>
+	<key>merge2.scene.txt.account.info</key>
+	<string>Thông tin tài khoản</string>
+	<key>merge2.scene.txt.full.name</key>
+	<string>Họ và tên:</string>
+	<key>merge2.scene.txt.phone.number</key>
+	<string>Số điện thoại:</string>
+	<key>merge2.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge2.scene.txt.learning.profile</key>
+	<string>Hồ sơ học tập</string>
+	<key>merge2.scene.txt.warning</key>
+	<string>Vượt quá hồ sơ học tối đa.
+Ba mẹ vui lòng xóa bớt 1 hồ sơ để liên kết tài khoản.</string>
+	<key>merge2.scene.btn.submit</key>
+	<string>Xác nhận</string>
+	<key>merge2.scene.txt.free.pack</key>
+	<string>Gói học miễn phí</string>
+	<key>product.name.com.earlystart.stories.package</key>
+	<string>Gói học</string>
+	<key>content.f2p.lifetime.purchased.account</key>
+	<string>Tài khoản này đã mua gói trọn đời.
+Ba mẹ vui lòng tạo một tài khoản khác cho gói mua ba mẹ vừa mua.</string>
+	<key>subscription.confirm</key>
+	<string>Xác nhận</string>
+	<key>free2paid.create.child.profile</key>
+	<string>Tạo hồ sơ học cho bé</string>
+	<key>delete.account</key>
+	<string>Xóa tài khoản</string>
+	<key>key.message.poup.incorrect.account</key>
+	<string>Tài khoản bạn đăng nhập không hợp lệ</string>
+</dict>
+</plist>

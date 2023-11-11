@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key.support.app.info.curr.version</key>
+	<string>Versi sekarang:</string>
+	<key>key.support.app.info.new.version</key>
+	<string>Versi terbaru:</string>
+	<key>key.support.app.info</key>
+	<string>Informasi aplikasi</string>
+	<key>key.support.update.now</key>
+	<string>Mutakhirkan Sekarang</string>
+	<key>key.support.send.mail</key>
+	<string>Kirim e-mail</string>
+	<key>key.support.call</key>
+	<string>Telepon</string>
+	<key>key.support</key>
+	<string>Bantuan</string>
+	<key>key.suggest.adding.profile</key>
+	<string>Buka profil baru dalam pengaturan</string>
+	<key>key.reender.password</key>
+	<string>Silahkan masukkan kata sandi lagi</string>
+	<key>key.ap.calculator</key>
+	<string>Silahkan melakukan operasi untuk lanjut</string>
+	<key>key.choose.a.course</key>
+	<string>Pilih pelajaran</string>
+	<key>key.popup.skip.msg</key>
+	<string>Daftar sekarang untuk belajar gratis selama %d hari
+Klik Lanjut jika Anda tidak ingin daftar </string>
+	<key>key.skip</key>
+	<string>Lewatkan</string>
+	<key>key.child.name</key>
+	<string>Nama anak Anda</string>
+	<key>key.edit.profile</key>
+	<string>Edit profil</string>
+	<key>key.new.profile</key>
+	<string>Profil baru</string>
+	<key>key.trial</key>
+	<string>Percobaan</string>
+	<key>key.selected</key>
+	<string>Dipilih</string>
+	<key>key.account.information</key>
+	<string>Informasi Akun</string>
+	<key>key.selection.title</key>
+	<string>Pilih</string>
+	<key>key.search</key>
+	<string>Mencari</string>
+	<key>key.full.profiles</key>
+	<string>Anda sudah membuat cukup profil</string>
+	<key>key.grade.kindergarten</key>
+	<string>Prasekolah &amp; TK</string>
+	<key>key.register.popup.msg</key>
+	<string>Silahkan daftarkan satu akun untuk akses fungsi ini</string>
+	<key>key.download</key>
+	<string>Baca sekarang</string>
+	<key>key.upgrade.account.popup.msg</key>
+	<string>Daftar sekarang juga untuk memperoleh lagi 5 hari AKSES PENUH</string>
+	<key>key.please.select.gender</key>
+	<string>Silahkan pilih gender anak Anda</string>
+	<key>key.profile.created</key>
+	<string>Nama profil telah dibuat</string>
+	<key>key.profile.invalid</key>
+	<string>Nama dokumen mengandung karakter khusus</string>
+	<key>key.please.enter.child.name</key>
+	<string>Silahkan masukkan nama anak Anda</string>
+	<key>key.select.country.code</key>
+	<string>Pilih negara/teritor</string>
+	<key>key.reset.password.tiltle2</key>
+	<string>Silahkan masukkan kata sandi untuk mulai menggunakan aplikasi</string>
+	<key>key.save</key>
+	<string>Simpan</string>
+	<key>key.please.enter.email.phone.number</key>
+	<string>Silahkan masukkan nomor telepon atau email atau nama masuk Anda</string>
+	<key>key.invalid.phone.number</key>
+	<string>Nomor telepon tidak valid</string>
+	<key>key.please.enter.phone.number</key>
+	<string>Silahkan masukkan nomor telepon Anda</string>
+	<key>key.reset.password.tiltle</key>
+	<string>Atur ulang kata sandi</string>
+	<key>key.enter.email</key>
+	<string>Masukkan e-mail Anda...</string>
+	<key>key.phonic.popup.msg</key>
+	<string>Lebih dari 2.000 aktivitas berbasis permainan untuk membantu anak-anak
+membangun ketrampilan fonetik dan kesedaran fonetik</string>
+	<key>key.comming.soon</key>
+	<string>Akan datang...</string>
+	<key>key.all.grades</key>
+	<string>Semua tingkat</string>
+	<key>key.welcome.back</key>
+	<string>Selamat kembali
+%s!</string>
+	<key>key.welcome.to</key>
+	<string>Selamat %s kepada
+%s!</string>
+	<key>key.not.have.account</key>
+	<string>Belum punya akun? </string>
+	<key>key.forgot.account</key>
+	<string>Lupa akun</string>
+	<key>key.enter.phone.or.email</key>
+	<string>Masukkan Akun masuk/No Tlp/email</string>
+	<key>key.have.account</key>
+	<string>Sudah punya akun? </string>
+	<key>key.or</key>
+	<string>atau</string>
+	<key>key.please.login.with.gmail</key>
+	<string>Silahkan Anda memilih Masuk dengan Gmail APPNAME </string>
+	<key>key.email.phone.wrong</key>
+	<string>Akun Masuk/No.Telepon/Email tidak valid!</string>
+	<key>key.quick.login</key>
+	<string>Masuk cepat: </string>
+	<key>key.logout</key>
+	<string>Keluar</string>
+	<key>key.detail</key>
+	<string>Terinci</string>
+	<key>key.adding.your.address</key>
+	<string>Tambah alamat Anda</string>
+	<key>key.adding.your.email</key>
+	<string>Tambah e-mail Anda</string>
+	<key>key.adding.your.phone</key>
+	<string>Tambah nomor telepon Anda</string>
+	<key>key.adding.your.name</key>
+	<string>Tambah nama Anda</string>
+	<key>key.change.profile</key>
+	<string>ganti profil</string>
+	<key>new_onboard_title</key>
+	<string>Silahkan memilih level yang sesuai</string>
+	<key>rating_entering_warning_text</key>
+	<string>(*) adalah wajib isi</string>
+	<key>rating_cancel_text</key>
+	<string>Batal</string>
+	<key>rating_empty_texbox</key>
+	<string>Silahkan menulis review</string>
+	<key>rating_review_fb_text</key>
+	<string>Kunjungi halaman kami</string>
+	<key>rating_review_post_text</key>
+	<string>Kirim review Anda</string>
+	<key>rating_review_confused_description</key>
+	<string>Jika Anda tidak yakin bagaimana menggunakan APPNAME, silahkan kunjungi fanpage
+BERSAMA ANAK BELAJAR MONKEY atau menulis review.</string>
+	<key>rating_review_confused_title</key>
+	<string>Ada masalah?</string>
+	<key>rating_review_sad_description</key>
+	<string>Kami berharap bisa menyempurnakan APPNAME dan membuatnya
+ menjadi satu kegembiraan bagi Andan</string>
+	<key>rating_review_sad_title</key>
+	<string>Mohon membantu kami memperbaikinya?</string>
+	<key>rating_happy_tile</key>
+	<string>Gembira</string>
+	<key>rating_confused_tile</key>
+	<string>Bingung</string>
+	<key>rating_sad_tile</key>
+	<string>Sedih</string>
+	<key>rating_tile</key>
+	<string>Bagaimana perasaan Anda tentang</string>
+	<key>ap_waring_entering_otp</key>
+	<string>Silahkan masukkan kode OTP pada kotak di atas.</string>
+	<key>ap_security_question_title</key>
+	<string>Silahkan menjawab pertanyaan di bawah untuk verifikasi akun Anda.</string>
+	<key>ap_password_recovery_method_title</key>
+	<string>Bagaimana Anda ingin mengatur ulang kata sandi?</string>
+	<key>ap_open_security_question</key>
+	<string>Jawab pertanyaan untuk verifikasi akun Anda</string>
+	<key>ap_send_code_to_sms_question</key>
+	<string>Kirim kode ke SMS</string>
+	<key>ap_send_code_to_email_question</key>
+	<string>Kirim kode ke e-mail</string>
+	<key>ap_forgot_pass_title</key>
+	<string>Lupa kata sandi</string>
+	<key>ap_forgot_account_title</key>
+	<string>Forgot account</string>
+	<key>ap_waring_password</key>
+	<string>Kata Sandi Anda harus mencakup dari 4 sampai 30 karakter</string>
+	<key>ap_change_password_title</key>
+	<string>Orang tua masukkan kata sandi untuk masuk</string>
+	<key>ap_password_changed_successfully</key>
+	<string>Kata Sandi berhasil diubah</string>
+	<key>ap_enter_new_password_for_old_user_title</key>
+	<string>Akun Anda belum ada 
+kata sandi. Silahkan masukkan 
+kata sandi baru.</string>
+	<key>ap_waring_entering_password2</key>
+	<string>Silahkan masukkan kata sandi Anda!</string>
+	<key>ap_waring_entering_password</key>
+	<string>Silahkan masukkan kata sandi Anda!</string>
+	<key>ap_match_password</key>
+	<string>Kata sandi tidak cocok!</string>
+	<key>ap_disable_security_question_verification</key>
+	<string>Pertanyaan keamanan ini telah dikunci selama 24 jam</string>
+	<key>ap_failed_verification</key>
+	<string>Gagal verifikasi akun</string>
+	<key>ap_successful_verification</key>
+	<string>Akun berhasil diverifikasi</string>
+	<key>ap_wrong_phone_number</key>
+	<string>Nomor telepon salah</string>
+	<key>ap_email_verification_code</key>
+	<string>Kode verifikasi telah dikirim ke</string>
+	<key>ap_phone_verification_code</key>
+	<string>Kode verifikasi telah dikirim ke</string>
+	<key>ap_resend_code_button_title2</key>
+	<string>Kirim ulang</string>
+	<key>ap_resend_code_button_title</key>
+	<string>Kirim ulang (%d) </string>
+	<key>ap_continue_button_title</key>
+	<string>Lanjut</string>
+	<key>ap_phone_otp_title</key>
+	<string>SIlahkan periksa sms di perangkat seluler Anda.
+Kode verifikasi telah dikirim ke:</string>
+	<key>ap_email_otp_title</key>
+	<string>Silahkan periksa e-mail Anda
+Kode verifikasi telah dikirim ke:</string>
+	<key>ap_finish_button_title</key>
+	<string>Selesai</string>
+	<key>ap_enter_new_password_title</key>
+	<string>Akun Anda berhasil diverifikasi.
+Ubah kata sandi Anda untuk masuk.</string>
+	<key>ap_register_button_title</key>
+	<string>Daftar</string>
+	<key>ap_register_title</key>
+	<string>Orang tuda masukkan kata sandi untuk masuk.</string>
+	<key>ap_send_title</key>
+	<string>Kirim</string>
+	<key>ap_enter_phone</key>
+	<string>Masukkan no. telepon Anda</string>
+	<key>ap_enter_password</key>
+	<string>Masukkan kata sandi</string>
+	<key>ap_reenter_password</key>
+	<string>Masukkan ulang kata sandi</string>
+	<key>ap_login_title</key>
+	<string>Orang tua masukkan kata sandi untuk masuk.</string>
+	<key>ap_login_button_title</key>
+	<string>Masuk</string>
+	<key>ap_enter_phone_number_title</key>
+	<string>Orang tuda masukkan nomor telepon untuk
+mendaftar dan menggunakan aplikasi</string>
+	<key>free_welcome</key>
+	<string>Nikmati 2 hari dengan fitur lengkap dari </string>
+	<key>recorder.warning</key>
+	<string>Versi OS tidak mendukung fitur ini. Mohon mutakhirkan versi OS terkini.</string>
+	<key>audiobooks.duration</key>
+	<string>mins</string>
+	<key>pay.action.subscribe</key>
+	<string>Berlangganan</string>
+	<key>lesson.preactivity.btcontinue</key>
+	<string>Lanjut</string>
+	<key>settings.subscribe.license</key>
+	<string>Berlangganan untuk membeli lisensi</string>
+	<key>rate.popup.bt</key>
+	<string>Menilai</string>
+	<key>notifree.content3</key>
+	<string>Anda bisa akses gratis 1 barang per hari di bagian “Gratis”</string>
+	<key>notifree.content4</key>
+	<string>hari lagi untuk menggunakan fitur lengkap dari Monkey Stories.</string>
+	<key>pay.feature2</key>
+	<string>Inti Umum - Sistim membaca selaras</string>
+	<key>sub.text.title</key>
+	<string>Berlangganan untuk lanjut</string>
+	<key>parent.delete_cache.warn</key>
+	<string>Aplikasi akan dimulai ulang setelah penghapusan.</string>
+	<key>downloaded.lessons</key>
+	<string>Pelajaran selesai diunduh</string>
+	<key>story.download.failure.close</key>
+	<string>Tutup</string>
+	<key>sub.item.1year</key>
+	<string>Setiap tahun</string>
+	<key>intro.load.trysample</key>
+	<string>COba cerita contoh</string>
+	<key>product.name.com.earlystart.stories.1year</key>
+	<string>Satu tahun</string>
+	<key>intro.load.progress</key>
+	<string>Menyiapkan konten penyetelan...</string>
+	<key>intro.load.download</key>
+	<string>Sedang unduh cerita contoh</string>
+	<key>lesson.end.lesson</key>
+	<string>Anda sudah menyelesaikan pelajaran ini</string>
+	<key>forgot.license.ask</key>
+	<string>Silahkan masukkan nomor telepon atau e-mail Anda
+yang digunakan untuk membeli kunci lisensi</string>
+	<key>lesson.item.download</key>
+	<string>Unduh</string>
+	<key>swipe.left</key>
+	<string>Geser ke kiri untuk membalik halaman</string>
+	<key>pay.verify.success</key>
+	<string>Transaksi Anda berhasil diverifikasi.</string>
+	<key>audio.player.level</key>
+	<string>Level:</string>
+	<key>lesson.lessonpreview.start</key>
+	<string>Lanjut</string>
+	<key>sub.text.run</key>
+	<string>Berlanggan untuk akses tidak terbatas</string>
+	<key>pay.lbrestore</key>
+	<string>Pembelian tidak bisa dialihkan. Pulihkan langganan</string>
+	<key>rate.popup.content</key>
+	<string>Menilai $(appname) dan memenangkan akses tidak terbatas untuk 2 hari</string>
+	<key>onboard.finish</key>
+	<string>Selesai</string>
+	<key>deactive.wait</key>
+	<string>Mohon tunggu...</string>
+	<key>sub.text.startyourweek</key>
+	<string>Daftar sekarang</string>
+	<key>intro.load.stories</key>
+	<string>Cerita bergambar</string>
+	<key>lesson.item.locked</key>
+	<string>Locked</string>
+	<key>intro.load.title</key>
+	<string>Perpustakaan digital yang luar biasa untuk Anak-anak</string>
+	<key>parent.coupon.success</key>
+	<string>Kode kupon berhasil digunakan.</string>
+	<key>rate.popup.num</key>
+	<string>Akses tidak terbatas untuk 2 hari</string>
+	<key>lesson.actipreview.acti</key>
+	<string>Aktivitas</string>
+	<key>sub.text.detail1</key>
+	<string>Cerita bergambar</string>
+	<key>favorite.done</key>
+	<string>Selesai</string>
+	<key>lesson.waiting</key>
+	<string>Menunggu</string>
+	<key>sub.popup.btfree</key>
+	<string>Lanjut dengan konten bebas</string>
+	<key>stories.newstories.title</key>
+	<string>Cerita baru</string>
+	<key>intro.lessons</key>
+	<string>Pelajaran dibimbing diselaraskan dengan Common Core State Standard</string>
+	<key>sub.popup.btsub</key>
+	<string>Berlangganan untuk lanjut</string>
+	<key>stories.more</key>
+	<string>Lebih</string>
+	<key>parent.delete.cache.single</key>
+	<string>Menghapus satu cerita bergambar/buku audio</string>
+	<key>record.swipe</key>
+	<string>Sedang rekam, geser ke kiri untuk lanjut</string>
+	<key>sub.text.number.detail</key>
+	<string></string>
+	<key>intro.lessons.sub</key>
+	<string>1.000+ aktivitas berbasis permainan yang mengembangkan ketrampilan berbahasa asing esensial</string>
+	<key>lessons.completed</key>
+	<string>Pelajaran</string>
+	<key>search.no.result.audiobooks</key>
+	<string>Tidak ada hasil ditemukan!</string>
+	<key>lesson.popup.prior</key>
+	<string>Pelajaran ini belum tersedia. Mari menyelesaikan pelajaran sebelumnya.</string>
+	<key>audio.onboard.screensaver</key>
+	<string>Petunjuk: buku audio akan tetap dinyalakan setelah layar beranda dimatikan!</string>
+	<key>sidebar.des.free</key>
+	<string>Gratis</string>
+	<key>sub.text.features.title5</key>
+	<string>Membaca sesuai teks yang digaris-bawahi</string>
+	<key>free.story.title</key>
+	<string>cerita dan buku audio gratis</string>
+	<key>deactive.question</key>
+	<string>Apakah Anda yakin ingin menghapus kunci lisensiuntuk $(appname) di perangkat ini?</string>
+	<key>pay.bubble</key>
+	<string>Akses tidak terbatas untuk 500+ cerita</string>
+	<key>sub.item.lifetime</key>
+	<string>Seumur hidup</string>
+	<key>record.recording</key>
+	<string>Sedang merekam</string>
+	<key>pay.price_detail2</key>
+	<string>Satu kali</string>
+	<key>sub.item.purchase</key>
+	<string>Daftar sekarang</string>
+	<key>sub.text.features.title1</key>
+	<string>Obyek sentuhan interaktif di setiap gambar</string>
+	<key>lesson.item.downloading</key>
+	<string>Sedang unduh...</string>
+	<key>sub.text.detail2</key>
+	<string>Buku audio</string>
+	<key>intro.grade.detail</key>
+	<string>Ini mengizinkan kami untuk menawarkan pilihan konten sesuai dengan umur Anda</string>
+	<key>downloaded.edit</key>
+	<string>Memindahkan</string>
+	<key>feedback.title.active</key>
+	<string>Kami menghargai masukan dan komentar Anda.</string>
+	<key>favorite.title</key>
+	<string>Favorit</string>
+	<key>intro.swipe</key>
+	<string>Geser ke kiri untuk memulai</string>
+	<key>audiobooks.newest.title</key>
+	<string>Buku audio terbaru</string>
+	<key>search.no.result.stories</key>
+	<string>Tidak ada hasil ditemukan!</string>
+	<key>story.download.failure</key>
+	<string>Unduh gagal.
+Mohon periksa penyimpanan dan/atau koneksi internet</string>
+	<key>pay.lbcoupon30</key>
+	<string>Big sale! Dapatkan 40% diskon saat ini juga.</string>
+	<key>sub.popup.content.free</key>
+	<string>Konten ini hanya tersedia bagi pengguna berlangganan saja.</string>
+	<key>story.download.failure.try</key>
+	<string>Coba ulang</string>
+	<key>reading.level.include</key>
+	<string>Mencakup level berikutnya:</string>
+	<key>collection.more</key>
+	<string>Mau lihat lagi?</string>
+	<key>deactive.no</key>
+	<string>Tidak</string>
+	<key>story.info.page_count</key>
+	<string>Penghitungan Halaman</string>
+	<key>support.mail.title</key>
+	<string>Butuh bantuan dengan $(appname).</string>
+	<key>intro.load.detail</key>
+	<string>Dimutakhirkan setiap minggu. Membaca dan belajar kapan saja dan dimana saja</string>
+	<key>sub.text.title.detail</key>
+	<string>Tidak ada komitmen atau kerumitan. Bisa batalkan kapan saja</string>
+	<key>feedback.alert.button</key>
+	<string>Coba ulang</string>
+	<key>forgot.license.action</key>
+	<string>Kirim</string>
+	<key>lesson.lessonpreview.actistatus</key>
+	<string>Aktivitas selesai</string>
+	<key>pay.feature1</key>
+	<string>Cerita baru ditambahkan setiap minggu</string>
+	<key>product.name.com.earlystart.stories.1month</key>
+	<string>satu bulan</string>
+	<key>stories.popular.title</key>
+	<string>Cerita populer</string>
+	<key>sub.text.detail3</key>
+	<string>Pelajaran dibimbing</string>
+	<key>search.placeholder</key>
+	<string>Ketik nama cerita di sini ...</string>
+	<key>pay.info.expiry</key>
+	<string>Masa pelangganan Anda berakhir pada</string>
+	<key>favorite.edit</key>
+	<string>Edit</string>
+	<key>pay.lbbestseller</key>
+	<string>terlaris</string>
+	<key>favourite.empty</key>
+	<string>Unduhan favorit Anda akan ditampilkan di sini.</string>
+	<key>settings.title</key>
+	<string>Pengaturan</string>
+	<key>sidebar.des.settings</key>
+	<string>Pengaturan</string>
+	<key>sidebar.des.support</key>
+	<string>Support</string>
+	<key>sidebar.des.account</key>
+	<string>Akun</string>
+	<key>sub.text.subscribenow</key>
+	<string>Daftar sekarang</string>
+	<key>sub.text.run.vn</key>
+	<string>Berlangganan untuk menggunakan $(appname)</string>
+	<key>lesson.preactivity.btback</key>
+	<string>Kembali pada pelajaran</string>
+	<key>lesson.item.relearn</key>
+	<string>Ulangi</string>
+	<key>sidebar.des.license</key>
+	<string>Kunci Lisensi</string>
+	<key>sub.item.6mon</key>
+	<string>6-bulan</string>
+	<key>sub.popup.btok</key>
+	<string>Berlangganan</string>
+	<key>sub.text.features.title8</key>
+	<string>Rekam suara Anda ketika membaca cerita, simpannya sebagai video</string>
+	<key>intro.grade.title</key>
+	<string>Anda sedang di level berapa?</string>
+	<key>sub.item.month</key>
+	<string>bulan</string>
+	<key>reading.level.include1</key>
+	<string>Mencakup level berikutnya:</string>
+	<key>pay.price_detail3</key>
+	<string>Per tahun</string>
+	<key>sub.text.features.title4</key>
+	<string>Baca offline kapan saja dan dimana saja</string>
+	<key>parent.license.empty</key>
+	<string>Silahkan masukkan kunci lisensi Anda</string>
+	<key>sidebar.des.stories</key>
+	<string>Cerita</string>
+	<key>sidebar.des.material</key>
+	<string>Materi
+pembelajaran</string>
+	<key>intro.grade.btnext</key>
+	<string>Berikutnya</string>
+	<key>downloaded.stories</key>
+	<string>Cerita selesai diunduh</string>
+	<key>intro.start</key>
+	<string>Memulai</string>
+	<key>parent.license.info</key>
+	<string>Perangkat Anda diaktivasi</string>
+	<key>parent.coupon.discount</key>
+	<string>Prosentase diskon</string>
+	<key>parent.common.error</key>
+	<string>Adalah masalah.
+Silahkan periksa koneksi internet. </string>
+	<key>deactive.question.2</key>
+	<string>Anda tidak bisa mengakses semua fitur aplikasi pada perangkat ini. Apakah Anda ingin melanjutkan?</string>
+	<key>intro.load.restore</key>
+	<string>Memulihkan pembelian</string>
+	<key>pay.restore.complete</key>
+	<string>Pembelian telah dipulih.</string>
+	<key>intro.stories</key>
+	<string>Perpustakaan raksasa dengan cerita-cerita bergambar interaktif</string>
+	<key>favorite.stories</key>
+	<string>Cerita favorit</string>
+	<key>intro.audiobooks</key>
+	<string>Buku audio pilihan</string>
+	<key>calculator_title</key>
+	<string>Silahkan:
+Selesaikan persoalan untuk lanjut</string>
+	<key>intro.grade.notice</key>
+	<string>Anda bisa mengubah level nanti</string>
+	<key>parent.delete_cache.action</key>
+	<string>Hapus penyimpanan</string>
+	<key>favourite.tab.favourite</key>
+	<string>Favorit</string>
+	<key>rate.thanks.title</key>
+	<string>TERIMA KASIH!</string>
+	<key>pay.action.buy</key>
+	<string>Daftar sekarang</string>
+	<key>deactive.yes</key>
+	<string>Ya</string>
+	<key>feedback.btsend</key>
+	<string>Kirim umpan balik</string>
+	<key>settings.deactivate.device</key>
+	<string>Hapus pelangganan</string>
+	<key>notifree.content1</key>
+	<string>Anda punya</string>
+	<key>pay.restore.failed</key>
+	<string>Kami tidak bisa memulihkan transaksi Anda.
+Silahkan coba ulang.</string>
+	<key>audiobooks.recent.title</key>
+	<string>Baru didengar</string>
+	<key>intro.drag</key>
+	<string>Klik panah kanan untuk memulai</string>
+	<key>feedback.alert.content</key>
+	<string>Umpan balik Anda terlalu pendek. Silahkan memasukkan setidaknya 15 karakter.</string>
+	<key>intro.load.skip</key>
+	<string>Lewatkan</string>
+	<key>sub.text_restore</key>
+	<string>Sudah dibeli? Pulihkan sekarang.</string>
+	<key>parent.delete.cache.single.info</key>
+	<string>Pilih barang untuk dihapus</string>
+	<key>free.lesson.title</key>
+	<string>Pelajaran gratis</string>
+	<key>audiobooks.popular.title</key>
+	<string>Buku audio populer</string>
+	<key>lesson.comingsoon</key>
+	<string>Yang akan datang!</string>
+	<key>sub.popup.feature.free</key>
+	<string>Fitur ini hanya tersedia bagi pengguna berlangganan saja.</string>
+	<key>stories.recent.title</key>
+	<string>Baru dibaca</string>
+	<key>favourite.tab.downloaded</key>
+	<string>Diunduh</string>
+	<key>product.name.com.earlystart.stories.6month</key>
+	<string>6 bulan</string>
+	<key>parent.license.lifetime</key>
+	<string>Tidak kadaluarsa</string>
+	<key>parent.license.free.trial</key>
+	<string>Percobaan</string>
+	<key>story.info.lexile</key>
+	<string>Skor lexile</string>
+	<key>lesson.item.learn</key>
+	<string>Mulai</string>
+	<key>storycover.download.error</key>
+	<string>Tidak bisa koneksi pada server. Silahkan coba lagi!</string>
+	<key>search.placeholder.audiobook</key>
+	<string>Ketik nama buku audio di sini... </string>
+	<key>sidebar.des.audiobooks</key>
+	<string>Buku audio</string>
+	<key>parent.delete_cache.info</key>
+	<string>Penyimpanan sekarang sebanyak:</string>
+	<key>sidebar.des.subscriptions</key>
+	<string>Berlangganan</string>
+	<key>pay.price_detail4</key>
+	<string>Per 6-bulan</string>
+	<key>lesson.popup.prior.activity</key>
+	<string>Oh! Aktivitas ini belum siap. Mari selesaikan yang satu ini dulu.</string>
+	<key>level_info.coming_soon</key>
+	<string>Yang akan datang!</string>
+	<key>product.name.com.earlystart.stories.lifetime</key>
+	<string>Seumur hidup</string>
+	<key>sub.text.features.title7</key>
+	<string>Buku audio dimainkan pada screen saver</string>
+	<key>intro.stories.sub</key>
+	<string>500+ cerita ilustrasi hidup-hidup yang ditambah setiap minggu</string>
+	<key>intro.load.lessons</key>
+	<string>pelajaran dibimbing</string>
+	<key>sidebar.des.favourite</key>
+	<string>Perpustakaan</string>
+	<key>pay.purchase.failed</key>
+	<string>Pembelian Anda tidak berhasil.
+Silahkan coba lagi.
+
+Jika Anda sudah siap berlangganan, silahkan menggunakan fungsi Pemulihan.</string>
+	<key>sub.text.features.title3</key>
+	<string>Konten baru diitambah setiap minggu</string>
+	<key>sub.popup.content</key>
+	<string>Anda sudah menggunakan barang gratis hari ini. Silahkan berlangganan untuk mendapatkan akses tanpa batas.</string>
+	<key>rate.active.title</key>
+	<string>Bagikan kecintaan Anda dengan sebuah review!</string>
+	<key>intro.samplestory</key>
+	<string>Dikembangkan oleh para ahli bahasa</string>
+	<key>intro.audiobooks.sub</key>
+	<string>100+ buku audio dipilih dari cerita-cerita paling terkenal di dunia</string>
+	<key>feedback.title</key>
+	<string>Kirim umpan balik Anda dan menangkan akses penuh untuk 2 hari!</string>
+	<key>pay.feature3</key>
+	<string>Akses offline untuk cerita unduhan</string>
+	<key>support.action.error</key>
+	<string>Perangkat Anda tidak mendukung fitur ini.</string>
+	<key>onboard.next</key>
+	<string>Berikutnya</string>
+	<key>audio.player.duration</key>
+	<string>Durasi:</string>
+	<key>downloaded.audiobooks</key>
+	<string>Buku audio sudah diunduh</string>
+	<key>learn.audiobooks</key>
+	<string>Buku audio telah dipelajari</string>
+	<key>sub.text.plan.title</key>
+	<string>Apa yang tercakup dalam setiap rencana?</string>
+	<key>notifree.title</key>
+	<string>Gratis</string>
+	<key>favorite.audiobook</key>
+	<string>Buku audio</string>
+	<key>parent.license.success</key>
+	<string>Perangkat Anda telah berhasil diaktivasi.</string>
+	<key>parent.coupon.info</key>
+	<string>Kupon Anda sekarang</string>
+	<key>rate.popup.title</key>
+	<string>MENILAI KAMI DAN MENANGKAN!</string>
+	<key>stories.category.title</key>
+	<string>Topik kita</string>
+	<key>stories.genre.title</key>
+	<string>Jenis</string>
+	<key>lesson.popup.info</key>
+	<string>Rincian pelajaran#Setiap pelajaran mencakup 8-10 aktivitas yang berbasis cerita, termasuk cerita bacaan, permainan interaktif dan kumpulan pertanyaan. Ini akan membantu anak-anak belajar kosa kata, tata bahasa dan mengembangkan keterampilan dasar bahasa.</string>
+	<key>intro.load.audiobooks</key>
+	<string>buku audio</string>
+	<key>sub.item.1mon</key>
+	<string>Setiap bulan</string>
+	<key>pay.lbcoupon</key>
+	<string>Kode kupon xxx ABCDE berhasil diterapkan.</string>
+	<key>notifree.content2</key>
+	<string>hari lagi untuk mengakses gratis satu barang. Barang apa saja di perpustakaan.</string>
+	<key>rate.thanks.close</key>
+	<string>TUTUP</string>
+	<key>parent.delete_cache.confirm</key>
+	<string>Klik OK untuk membebaskan berkas penyimpanan</string>
+	<key>sub.text.features.title</key>
+	<string>Fitur kunci</string>
+	<key>pay.verify.failed</key>
+	<string>Kami tidak bisa memverifikasi transaksi Anda.
+Silahkan coba lagi.</string>
+	<key>story.info.word_count</key>
+	<string>Penghitungan kata</string>
+	<key>sidebar.des.close</key>
+	<string>Tutup</string>
+	<key>sub.text.title.vn</key>
+	<string>Berlangganan untuk menggunakan $(appname)</string>
+	<key>thumb.story.level</key>
+	<string>Level</string>
+	<key>onboard.optout.1</key>
+	<string>Pernahkah lihat ini sebelumnya? </string>
+	<key>swipe.down</key>
+	<string>Geser ke bawah untuk mengulangi</string>
+	<key>reading.level.intro</key>
+	<string>Anak-anak di grup ini bisa</string>
+	<key>lesson.item.title</key>
+	<string>Pelajaran</string>
+	<key>aispeaking.conversation.item.title</key>
+	<string>Percakapan</string>
+	<key>pay.info.lifetime</key>
+	<string>ANda telah berlangganan untuk paket seumur hidup.</string>
+	<key>intro.load.progress.2</key>
+	<string>Sedang mengambil konten terkini...</string>
+	<key>settings.forgot.license</key>
+	<string>Lupa kunci lisensi Anda?</string>
+	<key>sidebar.des.lessons</key>
+	<string>Pelajaran</string>
+	<key>sidebar.des.ai_speaking</key>
+	<string>Berbicara</string>
+	<key>intro.load.prepare</key>
+	<string>Menyiapkan cerita contoh</string>
+	<key>parent.license.expire</key>
+	<string>Tanggal kadaluarsa</string>
+	<key>parent.delete.cache.all</key>
+	<string>Menghapus semua data unduhan</string>
+	<key>sidebar.des.more</key>
+	<string>Aplikasi lain</string>
+	<key>sub.text.features.title6</key>
+	<string>Tidak ada iklan atau iklan pop-up</string>
+	<key>author.rewrite</key>
+	<string>Ditulis ulang oleh:</string>
+	<key>sidebar.des.parents</key>
+	<string>Orang tua</string>
+	<key>sub.text.features.title2</key>
+	<string>Aktivitas edukatif berbasis permainan</string>
+	<key>parent.license.note</key>
+	<string>Kunsi lisensi terdiri dari 10 karakter</string>
+	<key>downloaded.empty</key>
+	<string>Unduhan Anda akan ditampil di sini.</string>
+	<key>feedback.content</key>
+	<string>Akses tidak terbatas untuk 2 hari sebagai hadiah</string>
+	<key>parent.coupon.ask</key>
+	<string>Silahkan masukkan kupon Anda</string>
+	<key>feedback.textfield.placeholder</key>
+	<string>Tulis umpan balik Anda di sini...</string>
+	<key>parent.license.ask</key>
+	<string>Silahkan masukkan kunci lisensi Anda</string>
+	<key>pay.price_detail1</key>
+	<string>Per bulan</string>
+	<key>onboard.optout.2</key>
+	<string>Keluar dari tips ini.</string>
+	<key>forgot.license.invalid</key>
+	<string>Silahkan masukkan alamat e-mail atau nomor telepon yang valid</string>
+	<key>price.text.detail</key>
+	<string>Hanya dikenai biaya setelah percobaan berakhir</string>
+	<key>price.time.great.unit</key>
+	<string>tahun</string>
+	<key>price.time.small.unit</key>
+	<string>bulan</string>
+	<key>free.story.vn.title</key>
+	<string>Cerita gratis</string>
+	<key>free.lesson.vn.title</key>
+	<string>Buku audio gratis</string>
+	<key>free.story.vn.sorry</key>
+	<string>Memperbarui...</string>
+	<key>background.music.on.off</key>
+	<string>Musik latar</string>
+	<key>extra.title</key>
+	<string>Penulis:</string>
+	<key>download.content.size</key>
+	<string>Konten ini adalah</string>
+	<key>download.confirm</key>
+	<string>Apakah Anda ingin mengunduh?</string>
+	<key>viral.popup.title</key>
+	<string>GRATIS
+BELAJAR</string>
+	<key>viral.popup.content</key>
+	<string>BAGI SEKARANG untuk mendapatkan 7 hari tambahan
+akses tidak terbatas semua pelajaran untuk Anda dan teman Anda.</string>
+	<key>viral.popup.button</key>
+	<string>BAGI</string>
+	<key>viral.sub.popup.title</key>
+	<string>NAMA ANDA</string>
+	<key>viral.sub.popup.content</key>
+	<string>Kasih tahu teman
+yang mengirim aplikasi luar biasa ini kepada mereka</string>
+	<key>viral.sub.popup.button</key>
+	<string>KIRIM SEKARANG</string>
+	<key>viral.sub.popup.name</key>
+	<string>Nama lengkap Anda... (pilihan)</string>
+	<key>viral.sub.popup.phone</key>
+	<string>Nomor telepon...</string>
+	<key>viral.gift.title</key>
+	<string>BRAVO!!!</string>
+	<key>viral.gift.content</key>
+	<string>ANda telah menerima akses penuh untuk 7 hari</string>
+	<key>viral.gift.button</key>
+	<string>OK</string>
+	<key>viral.receive.popup.title</key>
+	<string>ANDA DAPAT KADO</string>
+	<key>viral.receive.popup.content</key>
+	<string>Masukkan nomor telepon Anda untuk menerima
+banyak kejutan dari teman Anda!</string>
+	<key>viral.receive.popup.button</key>
+	<string>Ambil kado Anda</string>
+	<key>lb.playlist.minute</key>
+	<string>menit</string>
+	<key>lb.playlist.for</key>
+	<string>untuk</string>
+	<key>lb.playlist.play</key>
+	<string>Mainkan</string>
+	<key>lb.playlist.play.continue</key>
+	<string>Lanjutkan</string>
+	<key>viral.receive.text</key>
+	<string>Anda dapat kado? klik di sini!</string>
+	<key>pay.notice.detail</key>
+	<string>Perangkat ini akan otomatis diaktivasi dan Anda tidak akan dikirimkan kunci lisensi.</string>
+	<key>pay.notice.detail.ios</key>
+	<string>Perangkat ini akan otomatis diaktivasi dan Anda bisa menggunakan pembelian di perangkat {os} lain. Mohon dicatat bahwa Anda tidak akan dikirim kunci lisensi.
+
+Untuk melanjutkan pembayaran, kelik &quot;Daftar sekarang&quot;.
+Untuk menerima kunci lisensi via amplop dan melakukan pembayaran saat penerimaan paket, klik &quot;Terima kunci lisensi&quot;</string>
+	<key>pay.notice.detail.ios.voucher</key>
+	<string>Perangkat ini akan otomatis diaktivasi dan Anda bisa menggunakan pembelian Anda di perangkat {os} lain. Mohon dicatat bahwa Anda tidak dikirim kunci lisensi.
+
+Untuk melanjutkan pembayaran, klik &quot;Daftar sekarang&quot;.
+Untuk menerima kunci lisensi via amplop dan melakukan pembayaran saat penerimaan paket, klik &quot;Terima kunci lisensi&quot;</string>
+	<key>pay.notice.detail.ios.win</key>
+	<string>Perangkat ini akan otomatis diaktivasi dan Anda bisa menggunakan pembelian di perangkat {os} lain. Mohon dicatat bahwa Anda tidak akan dikirim kunci lisensi.
+
+Untuk menerima kunci lisensi via amplop dan melakukan pembayaran saat penerimaan paket, klik &quot;Terima kunci lisensi&quot;</string>
+	<key>pay.notice.detail.ios.voucher.win</key>
+	<string>Perangkat ini akan otomatis diaktivasi dan Anda bisa menggunakan pembelian Anda di perangkat {os} lain. Mohon dicatat bahwa Anda tidak dikirim kunci lisensi.
+
+Untuk menerima kunci lisensi via amplop dan melakukan pembayaran saat penerimaan paket, klik &quot;Terima kunci lisensi&quot;</string>
+	<key>pay.notice.detail.continue</key>
+	<string>Daftar sekarang</string>
+	<key>pay.notice.detail.other</key>
+	<string>Dapatkan informasi lebih lanjut</string>
+	<key>pay.notice.detail.other.voucher</key>
+	<string>Kontak kami</string>
+	<key>collection.play.all</key>
+	<string>Mainkan semua</string>
+	<key>playlist.nowplaying</key>
+	<string>Sedang main</string>
+	<key>playlist.end.duration</key>
+	<string>Anda telah selesai {durasi}-menit untuk mendengarkan buku audio.</string>
+	<key>sidebar.des.qr</key>
+	<string>Kode QR</string>
+	<key>qr.instruction</key>
+	<string>Mohon pindai kode untuk mendengar cerita dalam aplikasi:
+    - Bagi materi pembelajaran, kode QR berada di halaman muka
+    - Bagi cerita, kode QR berada di halaman belakang</string>
+	<key>qr.onboard</key>
+	<string>Memindai kode QR untuk mendengarkan audio. </string>
+	<key>qr.play</key>
+	<string>Mainkan</string>
+	<key>qr.pause</key>
+	<string>Pause</string>
+	<key>qr.level</key>
+	<string>Level:</string>
+	<key>qr.page</key>
+	<string>Penghitungan halaman:</string>
+	<key>qr.lexile</key>
+	<string>Skor lexile:</string>
+	<key>qr.next.page</key>
+	<string>Halaman berikutnya</string>
+	<key>qr.prev.page</key>
+	<string>Halaman sebelumnya</string>
+	<key>qr.alert</key>
+	<string>Pemindaian berhasil. Silahkan klik kode QR di halaman beranda untuk mendengarkan cerita.</string>
+	<key>audio.player.number.chapters</key>
+	<string>Bab:</string>
+	<key>audiobook.chapters</key>
+	<string>bab</string>
+	<key>label.summary</key>
+	<string>Ringkasan</string>
+	<key>audiobook.novels</key>
+	<string>Novel</string>
+	<key>playlist.exclude.novels</key>
+	<string>Novel tidak tercantum di daftar ini.</string>
+	<key>voucher.discount.inapp</key>
+	<string>Harga diskon hanya untuk pelangganan dalam applikasi.</string>
+	<key>voucher.discount</key>
+	<string>Harga diskon untuk voucher</string>
+	<key>support_title3</key>
+	<string>Bergabung pada grup Facebook kami:</string>
+	<key>support_action3</key>
+	<string>Gabung</string>
+	<key>support_option3</key>
+	<string>Pilihan 3:</string>
+	<key>text.title.detail_sub</key>
+	<string>, terinci di sini.</string>
+	<key>key.onboard.login</key>
+	<string>Membuat satu akun untuk mulai belajar</string>
+	<key>key.onboard.login.text</key>
+	<string>(Silahkan orang tua membuat satu akun untuk mulai belajar dan
+menggunakan konten lengkap yang sudah dibeli)</string>
+	<key>key.onboard.account.license</key>
+	<string>Apakah Anda sudah mendapat kunci lisensi?</string>
+	<key>key.onboard.account.license.yesbtn</key>
+	<string>Ya, Saya sudah!</string>
+	<key>key.onboard.account.license.nobtn</key>
+	<string>Tidak, Saya belum!</string>
+	<key>key.onboard.account.profile.title</key>
+	<string>Pilih profil Anda</string>
+	<key>key.onboard.account.new.profile</key>
+	<string>Membuat satu profil</string>
+	<key>key.onboard.account.welcome.profile</key>
+	<string></string>
+	<key>key.account.profile.name.title</key>
+	<string>Profil anak Anda</string>
+	<key>key.account.profile.name.title.new</key>
+	<string>Bikin profil pelajar</string>
+	<key>key.account.profile.name.title.des</key>
+	<string>Monkey akan merekomendasi konten 
+yang sesuai proses belajar untuk anak</string>
+	<key>key.account.profile.name.text</key>
+	<string>Nama anak Anda</string>
+	<key>key.account.profile.age.title</key>
+	<string>Berapa usianya?</string>
+	<key>key.account.profile.avatar.title</key>
+	<string>Pilih avatar Anda</string>
+	<key>key.account.profile.change.title</key>
+	<string>Ganti profil</string>
+	<key>key.parent.account</key>
+	<string>Akun pengguna</string>
+	<key>key.parent.account.info</key>
+	<string>Informasi pengguna</string>
+	<key>key.parent.account.info.user</key>
+	<string>Informasi pengguna akun</string>
+	<key>key.parent.account.info.profile</key>
+	<string>Kelola profil</string>
+	<key>key.popup.user.info.name</key>
+	<string>Nama pengguna</string>
+	<key>key.popup.user.info.address</key>
+	<string>Alamat</string>
+	<key>key.popup.user.info.email</key>
+	<string>E-mail</string>
+	<key>key.popup.user.info.phone</key>
+	<string>Nomor telepon</string>
+	<key>key.parent.profile.edit.title</key>
+	<string>Edit informasi pengguna</string>
+	<key>key.parent.profile.name</key>
+	<string>Nama</string>
+	<key>key.parent.profile.gender</key>
+	<string>Gender</string>
+	<key>key.parent.profile.edit.age</key>
+	<string>Usia</string>
+	<key>key.account.reach.max.profile</key>
+	<string>Akun Anda telah melampaui jumlah maksimum profil yang dibolehkan</string>
+	<key>key.account.time.update</key>
+	<string>Sudah sekian lama sejak terakhir kali perangkat Anda disambung ke internet.
+	Silahkan periksa koneksi internet ANda dan coba lagi.</string>
+	<key>key.account.btn.next</key>
+	<string>Berikutnya</string>
+	<key>key.account.btn.done</key>
+	<string>Selesai</string>
+	<key>key.account.btn.back</key>
+	<string>Kembali</string>
+	<key>key.account.btn.edit</key>
+	<string>Edit</string>
+	<key>settings.buy.license</key>
+	<string>Beli lisensi</string>
+	<key>key.pay.init.window</key>
+	<string>Untuk menerima kunci lisensi dan membayar pada saat penerimaan paket, silahkan klik tombol di bawah</string>
+	<key>key.pay.init.button.title</key>
+	<string>Lanjutkan</string>
+	<key>sidebar.des.lessons.vm</key>
+	<string>Pelajaran</string>
+	<key>key.accountv3.popup.enteremail.desc</key>
+	<string>Monkey mengirimkan kado yang berupa Ebook &quot;Panduan Belajar efektif bersama Monkey Stories&quot; dan &quot;Monkey Map&quot;.
+Mohon periksa email untuk mendownload bahan belajar bersama anak ya.</string>
+	<key>key.accountv3.popup.enteremail.invalid.email</key>
+	<string>E-mail tidak valid</string>
+	<key>key.accountv3.popup.enteremail.thankyou</key>
+	<string>Terima kasih atas dukungan Anda. Silahkan periksa e-mail Anda untuk mengunduh bahan pembelajaran.</string>
+	<key>key.accountv3.screen.account.title</key>
+	<string>Informasi pengguna</string>
+	<key>key.accountv3.screen.account.title.parents</key>
+	<string>Informasi Orang tua</string>
+	<key>key.accountv3.screen.account.name</key>
+	<string>Nama</string>
+	<key>key.accountv3.screen.account.popup.noname</key>
+	<string>Silahkan masukkan nama orang tua</string>
+	<key>key.accountv3.screen.account.phone</key>
+	<string>Nomor telepon</string>
+	<key>key.accountv3.screen.account.managepassword</key>
+	<string>Kelola akun dan kata sandi</string>
+	<key>key.accountv3.screen.account.manageprofiles</key>
+	<string>Kelola profil</string>
+	<key>key.accountv3.screen.account.add.email.to.signin</key>
+	<string>Tambah e-mail Anda untuk masuk</string>
+	<key>key.accountv3.screen.account.add.phone.to.signin</key>
+	<string>Tambah nomor telepon Anda untuk masuk</string>
+	<key>key.accountv3.screen.addpassword.title</key>
+	<string>Tambah kata sandi</string>
+	<key>key.accountv3.screen.addpassword.desc</key>
+	<string>Silahkan membuat kata sandi untuk melindungi akun Anda</string>
+	<key>key.accountv3.screen.confirmpassword.title</key>
+	<string>Verifikasi akun Anda</string>
+	<key>key.accountv3.screen.confirmpassword.desc</key>
+	<string>Silahkan masukkan kata sandi konfirmasi untuk melindungi akun Anda</string>
+	<key>key.accountv3.screen.updateemail.title</key>
+	<string>Memperbarui alamat e-mail</string>
+	<key>key.accountv3.screen.updateemail.desc</key>
+	<string>Silahkan memperbarui alamat e-mail Anda untuk sering dapat bantuan dari Monkey.</string>
+	<key>key.accountv3.screen.updateemail.popup.sendotp</key>
+	<string>Silahkan masukkan kode aktivasi yang sudah dikirimkan ke e-mail %s untuk mendapat cara lain untuk masuk</string>
+	<key>key.accountv3.screen.updatepassword.title</key>
+	<string>Perbarui</string>
+	<key>key.accountv3.screen.updatepassword.old.password</key>
+	<string>Kata sandi lama</string>
+	<key>key.accountv3.screen.updatepassword.new.password</key>
+	<string>Kata sandi baru</string>
+	<key>key.accountv3.screen.updatepassword.renew.password</key>
+	<string>Konfirmasi kata sandi</string>
+	<key>key.accountv3.screen.updatephone.title</key>
+	<string>Memperbarui no. telepon</string>
+	<key>key.accountv3.screen.updatephone.desc</key>
+	<string>Silahkan memperbarui no. telepon Ada untuk sering mendapat bantuan dari Monkey </string>
+	<key>key.accountv3.screen.updatephone.placeholder</key>
+	<string>Masukkan no. telepon Anda</string>
+	<key>key.accountv3.screen.confirmotp.title</key>
+	<string>Konfirmasi alamat email</string>
+	<key>key.accountv3.screen.confirmotp.desc</key>
+	<string>Silahkan masukkan kode aktivasi yang sudah dikirim ke e-mail
+%s
+untuk mendapat cara lain untuk masuk.</string>
+	<key>key.accountv3.screen.confirmotp.activationcode</key>
+	<string>Kode konfirmasi</string>
+	<key>key.accountv3.button.title.add</key>
+	<string>Tambah</string>
+	<key>key.accountv3.button.title.update</key>
+	<string>Perbarui</string>
+	<key>key.accountv3.button.title.save</key>
+	<string>Simpan</string>
+	<key>key.accountv3.button.title.details</key>
+	<string>Terperinci</string>
+	<key>key.accountv3.button.title.signout</key>
+	<string>Keluar</string>
+	<key>key.accountv3.button.title.sendcode</key>
+	<string>Kirim kode</string>
+	<key>key.accountv3.button.title.resendcode</key>
+	<string>Kirim ulang</string>
+	<key>key.accountv3.button.title.addpassword</key>
+	<string>Tambah kata sandi</string>
+	<key>key.accountv3.button.title.updatepassword</key>
+	<string>Perbarui kata sandi</string>
+	<key>key.accountv3.button.title.confirm</key>
+	<string>Konfirmasi</string>
+	<key>key.accountv3.text.password</key>
+	<string>Kata sandi</string>
+	<key>key.accountv3.text.have.new.way.to.signin</key>
+	<string>Anda akan mendapat cara lain untuk masuk.</string>
+	<key>MORAL_STORIES</key>
+	<string>Cerita moral</string>
+	<key>WORLD_OF_TALES</key>
+	<string>Cerita terkenal</string>
+	<key>FAMOUS_FABLES</key>
+	<string>Dongeng</string>
+	<key>POEMS</key>
+	<string>Puisi</string>
+	<key>key.v4.change.password.title</key>
+	<string>Ganti kata sandi</string>
+	<key>key.v4.default.password.small.title</key>
+	<string>Silahkan mengubah kata 
+sandi untuk memperkuat keamanan</string>
+	<key>key.v4.connection</key>
+	<string>Koneksi</string>
+	<key>key.v4.have.used.monkey.apps</key>
+	<string>Apakah Anda pernah menggunakan produk Monkey sebelumnya?</string>
+	<key>key.v4.free.or.not</key>
+	<string>(Menggunakan aplikasi gratis atau berbayar)</string>
+	<key>key.v4.have.used</key>
+	<string>Sudah pernah</string>
+	<key>key.v4.not.use</key>
+	<string>Belum pernah</string>
+	<key>key.v4.connect.with.current.account</key>
+	<string> &lt;font color=&apos;#000000&apos; size=&quot;%d&quot; face=&quot;%s&quot;&gt; Koneksi dengan akun &lt;font color=&apos;#2CB8E9&apos;&gt; %s &lt;/font&gt; untuk menyimpan proses pembelajaran anak &lt;/font&gt;</string>
+	<key>key.v4.connection.with.a.account</key>
+	<string>Koneksi dengan akun yang sudah digunakan
+untuk menyimpan proses pembelajaran.</string>
+	<key>key.v4.connection.with.a.account2</key>
+	<string>Koneksi dengan akun lain yang sudah digunakan 
+untuk menyimpan proses pembelajaran.</string>
+	<key>key.v4.connection.with.a.account.small</key>
+	<string>Informasi akun yang sudah digunakan</string>
+	<key>key.v4.txt.or</key>
+	<string>- - - - - - - - - - - - - Atau - - - - - - - - - - - -</string>
+	<key>key.accountv4.screen.updatephone.desc</key>
+	<string>Silahkan memperbarui nomor telepon agar Monkey bisa 
+membantu apabila Anda lupa kata sandi akun</string>
+	<key>key.v4.username</key>
+	<string>Nama masuk</string>
+	<key>key.v4.email</key>
+	<string>E-mail</string>
+	<key>key.v4.change.password</key>
+	<string>Mengubah kata sandi akun</string>
+	<key>key.v4.login.methods.screen.title</key>
+	<string>Akun ini bisa masuk dengan %d cara:</string>
+	<key>key.v4.methods.password.changed</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&quot;25&quot; face=&quot;fonts/Montserrat-Medium.ttf&quot;&gt; Kata sandi untuk cara %s baru diubah&lt;/font&gt;</string>
+	<key>key.v4.method</key>
+	<string>Cara</string>
+	<key>key.v4.change.password.button.title</key>
+	<string>Mengubah kata sandi</string>
+	<key>key.open.lesson.from.qr.overles</key>
+	<string>Anda baru selesai pelajaran %d.
+Silahkan selesaikan pelajaran %d dan pelajaran sesuai urutan untuk buka pelajaran %d.</string>
+	<key>key.open.lesson.from.qr.notyet</key>
+	<string>Pelajaran 1 belum selesai.
+Silahkan selesaikan pelajaran sesuai urutan untuk membuka pelajaran %d.</string>
+	<key>key.support.info.email</key>
+	<string>contact.indo@monkeyenglish.net</string>
+	<key>key.support.info.phonenumber</key>
+	<string>02127899822</string>
+	<key>key.support.fbgroup.name</key>
+	<string>Monkey Stories
+Indonesia</string>
+	<key>key.support.fbgroup.link</key>
+	<string>https://fb.com/monkeystoriesindonesia</string>
+	<key>SupportView_Mail</key>
+	<string>Salam Bapak/Ibu, untuk mendapatkan bantuan, mohon memberikan beberapa informasi kepada Monkey Care sebagai berikut: \n
+        1. Nama lengkap:\n
+        2. No. Telepon:\n
+        3. Masalah yang mau dibantu:\n
+        Monkey Care akan periksa informasi yang \n
+        disampaikan dan akan membalas secepatnya.\n\n
+        --------------------\n</string>
+	<key>SupportView_Mail_title</key>
+	<string>Bantuan untuk </string>
+	<key>new_finish</key>
+	<string>Selesai</string>
+	<key>sub.text.detail3.vm</key>
+	<string>Lesson</string>
+	<key>key.play.now</key>
+	<string>Play now</string>
+	<key>key.material.main.title1</key>
+	<string>Pilih kursus</string>
+	<key>key.material.main.title2</key>
+	<string>sesuai yang ingin mengunduh materi pembelajaran</string>
+	<key>key.material.explore</key>
+	<string>Penemuan</string>
+	<key>key.material.worksheet</key>
+	<string>Materi
+pembelajaran</string>
+	<key>key.material.search</key>
+	<string>Cari</string>
+	<key>key.material.library</key>
+	<string>Perpustakaan</string>
+	<key>key.material.button.scan.qr</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Pindai kode QR&lt;/font&gt;</string>
+	<key>key.material.button.scan.qr - 2</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Pindai kode QR&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; pada materi Anda yang ingin dibuka cerita atau pelajaran terkait di aplikasi&lt;/font&gt;</string>
+	<key>key.material.button.enter.email</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Masukkan email&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; Anda untuk menerima materi&lt;/font&gt;</string>
+	<key>key.material.button.sendemail</key>
+	<string>Kirimkan email</string>
+	<key>key.material.button.register</key>
+	<string>Daftar</string>
+	<key>key.material.button.confirm</key>
+	<string>Konfirmasi</string>
+	<key>key.material.placeholder.search.audiobook</key>
+	<string>Cari sesuai judul buku audio</string>
+	<key>key.material.placeholder.search.story</key>
+	<string>Cari sesuai judul atau kata kunci cerita</string>
+	<key>key.material.placeholder.search.phonics</key>
+	<string>Cari sesuai judul atau kata kunci Phonics</string>
+	<key>key.material.popup.enter.email</key>
+	<string>Silakan orang tua mendaftar untuk dapat materi pembelajaran:</string>
+	<key>key.material.choose.worksheet.first</key>
+	<string>Silakan orang tua pilih materi yang ingin diunduh terlebih dahulu!</string>
+	<key>key.material.max.worksheet.canbe.selected</key>
+	<string>Silakan orang tua memilih hingga %d materi sekaligus!</string>
+	<key>key.material.confirm.email.to.send</key>
+	<string>Silakan Bapak/Ibu konfirmasi alamat email untuk mendapat materi pembelajaran:</string>
+	<key>key.material.warning.no.email</key>
+	<string>Silahkan masukkan email di sini</string>
+	<key>key.material.warning.invalid.email</key>
+	<string>Alamat email tidak ditemui, silakan diperiksanya lagi!</string>
+	<key>key.material.notice.success.register.email</key>
+	<string>Email telah berhasil didaftarkan!
+Silakan orang tua periksa akun email untuk terima materi pembelajaran.</string>
+	<key>key.material.notice.success.send.worksheet</key>
+	<string>Email telah berhasil didaftarkan!
+Silakan orang tua periksa akun email untuk terima materi pembelajaran.</string>
+	<key>key.material.noresult.title</key>
+	<string>Maaf, Monkey tidak menemukan</string>
+	<key>key.material.noresult.warn1</key>
+	<string>Mohon cek tulisan</string>
+	<key>key.material.noresult.warn2</key>
+	<string>Cari sesuai judul cerita/buku audio</string>
+	<key>key.material.title.recent.search</key>
+	<string>Pencarian terkini</string>
+	<key>key.material.title.popular.search</key>
+	<string>Pencarian umum</string>
+	<key>key.material.story.readed</key>
+	<string>Cerita sudah dibaca</string>
+	<key>key.material.lesson.learned</key>
+	<string>Pelajaran sudah belajar</string>
+	<key>key.material.worksheet.downloaded</key>
+	<string>Materi pembelajaran
+sudah didownload</string>
+	<key>key.material.note.title</key>
+	<string>Keterangan</string>
+	<key>key.material.note.desc</key>
+	<string>Mohon download dan cetak materi yang sudah dibaca!</string>
+	<key>key.material.note.desc.2</key>
+	<string>Mohon download dan cetak materi yang sudah belajar ya!</string>
+	<key>key.material.selected.worksheet</key>
+	<string>Materi sudah dipilih</string>
+	<key>key.material.desc.free.limit</key>
+	<string>Akun trial hanya bisa download %d materi/hari. Mohon berlangganan untuk bebas menggunakan!</string>
+	<key>account.expired</key>
+	<string>Habis</string>
+	<key>key.material.worksheet.title</key>
+	<string>materi</string>
+	<key>key.material.worksheet.unsend</key>
+	<string>belum terkirim</string>
+	<key>key.material.worksheet.exit.warning</key>
+	<string>Materi pembelajaran terpilih akan hilang jika klik balik</string>
+	<key>key.material.worksheet.exit</key>
+	<string>Balik</string>
+	<key>key.material.worksheet.continue.select</key>
+	<string>Tetap pilih</string>
+	<key>key.unzip.error.reparing.lesson</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Pelajaran &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; sedang error!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Mohon klik &lt;font color = &quot;#ff0000&quot;&gt;Lanjut &lt;/font&gt; untuk lanjutkan proses pembelajaran!&lt;/font&gt;</string>
+	<key>key.unzip.error.reparing.story</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Cerita &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; sedang error!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Mohon klik &lt;font color = &quot;#ff0000&quot;&gt;Keluar&lt;/font&gt; untuk lanjutkan proses pembelajaran!&lt;/font&gt;</string>
+	<key>key.reply</key>
+	<string>Belajar ulang</string>
+	<key>key.setting.audio.ios</key>
+	<string>Anda belum mengijinkan penggunaan micro. Masuk Pengaturan -&gt; Privasi -&gt; Micro -&gt; Monkey Stories nyalakan (ON).</string>
+	<key>key.setting.audio.android</key>
+	<string>Anda belum mengijinkan penggunaan micro. Masuk Pengaturan -&gt; Aplikasi-&gt; Monkey Stories -&gt; Izin-&gt;Mikrofon-&gt;Izinkan.</string>
+	<key>key.go.setting.ios</key>
+	<string>Pengaturan</string>
+	<key>key.close.setting.ios</key>
+	<string>Tutup</string>
+	<key>key.notification.not.found.result.of.stories</key>
+	<string>Tingkat &quot;%s&quot; tema ini belum diluncurkan</string>
+	<key>key.notification.choose.stories.another.level</key>
+	<string>Silakan membaca cerita di tingkat yang lain</string>
+	<key>key.notification.update.list.stories</key>
+	<string>Daftar cerita akan terus diperbarui</string>
+	<key>apple.login.failed</key>
+	<string>Gagal masuk dengan Apple!</string>
+	<key>facebook.login.failed</key>
+	<string>Gagal masuk dengan Facebook!</string>
+	<key>google.login.failed</key>
+	<string>Gagal masuk dengan Google!</string>
+	<key>onboard.ask.record.permission</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Silahkan Anda izinkan mengakses&lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Mikrofon &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;agar anak latihan&lt;br/&gt; pengucapan sama Monkey Stories ya!&lt;/font&gt;</string>
+	<key>onboard.ask.record.permission.android</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Silahkan Anda izinkan mengakses &lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;Mikrofon &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;dan &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#27afe5&apos;&gt;File &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;agar anak latihan pengucapan sama Monkey Stories ya!&lt;/font&gt;</string>
+	<key>reject.record.audio</key>
+	<string>Pengguna menolak perekaman untuk aplikasi</string>
+	<key>subscription.already.purchase1</key>
+	<string>You&apos;ve already subscribed to Monkey Junior using another Apple/Google account. Please check again!</string>
+	<key>subscription.yes</key>
+	<string>OK</string>
+	<key>subscription.already.register.message</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#8ca7b6&apos;&gt;Anda sudah punya Akun Monkey:&lt;font color= &apos;#17BBDE&apos;&gt;%s&lt;/font&gt;. Silakan keluarkan&lt;br/&gt;akun ini untuk masuk dengan akun&lt;br/&gt;yang sudah dibeli.&lt;/font&gt;</string>
+	<key>subscription.failure.title</key>
+	<string>Pembayaran tidak berhasil. Silahkan isi informasi agar dapat dukungan secara gratis!</string>
+	<key>subscription.restore.success</key>
+	<string>Pemulihan paket langganan berhasil</string>
+	<key>subscription.purchase.success</key>
+	<string>Pembayaran berhasil</string>
+	<key>subscription.purchase.success.access.all</key>
+	<string>Anda dapat mengakses semua pelajaran Monkey Stories</string>
+	<key>subscription.purchase.start.learning.now</key>
+	<string>Mulai belajar sekarang</string>
+	<key>subscription.purchase.success.1profile</key>
+	<string>Anda dapat menambah 1 profil lagi dan mengakses semua pelajaran Monkey Stories</string>
+	<key>subscription.purchase.success.2months</key>
+	<string>Anda mendapatkan bonus 2 bulan menggunakan aplikasi tanpa batas dan dapat mengakses semua pelajaran Monkey Stories</string>
+	<key>subscription.purchase.changesuccess</key>
+	<string>Ubah paket langganan berhasil</string>
+	<key>subscription.purchase.success.changesubscription</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;Paket &lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt; akan berlaku pada tanggal penagihan berikutnya&lt;/font&gt;</string>
+	<key>subscription.already.purchase.address</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt; Akun Anda telah berhasil berlangganan atas perangkat berbasis &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; pada tanggal &lt;font color= &apos;#fbad18&apos;&gt;%s&lt;/font&gt;.&lt;br/&gt;Silahkan kelola paket langganan di atasnya!&lt;/font&gt;</string>
+	<key>subscription.purchase.success.changesubscription2</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;Langganan : &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt;&lt;br/&gt;&lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; akan diperpanjang secara otomatis pada penagihan berikutnya:&lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt;.&lt;/font&gt;</string>
+	<key>subscription.please.insert.email</key>
+	<string>Masukkan alamat email Anda</string>
+	<key>subscription.please.insert.username</key>
+	<string>Silahkan masukkan nama lengkap</string>
+	<key>subscription.error.network</key>
+	<string>Tidak tersambung. Mohon periksa koneksi dan coba lagi!</string>
+	<key>ap.register.change.password.title</key>
+	<string>Buat kata sandi</string>
+	<key>ap.register.change.password.des</key>
+	<string>Akun Anda bisa digunakan di semua perangkat</string>
+	<key>subscription.response.get.info.email</key>
+	<string>Silakan periksa email secara teratur supaya tidak melewatkan pembaruan dari kami</string>
+	<key>subscription.wrong.format.name</key>
+	<string>Silahkan periksa nama lagi!</string>
+	<key>full.name.email</key>
+	<string>Nama lengkap</string>
+	<key>new.earlystart.stories.1month.40_off</key>
+	<string>1 bulan</string>
+	<key>new.earlystart.stories.6month.40_off</key>
+	<string>6 bulan</string>
+	<key>new.earlystart.stories.1year.40_off</key>
+	<string>1 tahun</string>
+	<key>new.earlystart.stories.lifetime.40_off</key>
+	<string>Paket seumur hidup</string>
+	<key>ap.register.screen.description.1</key>
+	<string>Untuk memantau kemajuan pembelajaran anak</string>
+	<key>ap.register.screen.description.2</key>
+	<string>Terima laporan mingguan belajar</string>
+	<key>ap.register.screen.description.3</key>
+	<string>Mainkan di berbagai perangkat</string>
+	<key>ap.register.screen.title</key>
+	<string>Buat akun orang tua</string>
+	<key>ap.login.screen.title</key>
+	<string>Masuk akun orang tua</string>
+	<key>ap.fill.username.phone</key>
+	<string>Masukkan akun masuk/nomor telepon</string>
+	<key>ap.fill.your.password</key>
+	<string>Masukkan kata sandi</string>
+	<key>ap.have.not.account.sign.up</key>
+	<string>Belum memiliki akun? Daftar sekarang!</string>
+	<key>ap.have.an.account.sign.in</key>
+	<string>Sudah mempunya akun? Masuk sekarang</string>
+	<key>ap.enter.your.phone.number</key>
+	<string>Masukkan nomor telepon Anda...</string>
+	<key>ap.register.continue.with</key>
+	<string>Atau lanjut dengan</string>
+	<key>ap.confirm.your.password</key>
+	<string>Masukkan kembali kata sandi</string>
+	<key>ap.waring.entering.password</key>
+	<string>Silahkan ketik ulang kata sandi!</string>
+	<key>ap.waring.invalid.password</key>
+	<string>Kata sandi minimal terdiri dari 4 karakter</string>
+	<key>ap.please.reenter.password</key>
+	<string>Silahkan masukkan kembali kata sandi Anda!</string>
+	<key>ap.check.password.match</key>
+	<string>Kata sandi tidak cocok!</string>
+	<key>monkey.talking.call.text</key>
+	<string>Memanggil: %s</string>
+	<key>monkey.talking.calling.text</key>
+	<string>Panggilan: %s</string>
+	<key>monkey.talking.ask.permission.text</key>
+	<string>	&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Silakan Anda mengizinkan akses &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;Kamera dan Mikrofon &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;untuk anak dapat praktek percakapan! &lt;/font&gt;
+	&lt;/string&gt;</string>
+	<key>monkey.talking.ask.permission.title.text</key>
+	<string>Notifikasi</string>
+	<key>monkey.talking.ask.permission.accept.text</key>
+	<string>OK</string>
+	<key>monkey.talking.share.description.text</key>
+	<string>Bagikan video, yuk!</string>
+	<key>monkey.talking.share.text</key>
+	<string>Bagikan</string>
+	<key>monkey.talking.share.finish.text</key>
+	<string>Selesai</string>
+	<key>learn.stories</key>
+	<string>Cerita telah dipelajari</string>
+	<key>lb.sure.to.hang.up</key>
+	<string>Apakah Anda ingin menutup panggilan?</string>
+	<key>lb.continue</key>
+	<string>Lanjut</string>
+	<key>lb.hang.up</key>
+	<string>Menutup</string>
+	<key>lb.conversation.paused.title</key>
+	<string>Percakapan dihentikan</string>
+	<key>lb.exit</key>
+	<string>Exit</string>
+	<key>lb.skip</key>
+	<string>Skip</string>
+	<key>lb.conversation.paused.content</key>
+	<string>Pelajaran dihentikan. Anda bisa tekan tombol Skip untuk mengalihkan mode Berbicara atau klik Keluar.</string>
+	<key>subscription.please.insert.phonenumber</key>
+	<string>No. telepon</string>
+	<key>subscription.wrong.format</key>
+	<string>Format nomor telepon salah</string>
+	<key>subscription.response.popup.message</key>
+	<string>Monkey akan menghubungi konsultan dalam waktu 24 jam!</string>
+	<key>subscription.response.title</key>
+	<string>Mendaftar untuk konsultasi berhasil</string>
+	<key>subscription.response.button.title</key>
+	<string>Penemuan produk</string>
+	<key>fullmemory.warning</key>
+	<string>Memori perangkat Anda telah penuh, silahkan periksa kembali!</string>
+	<key>free2paid.profileage.title</key>
+	<string>Buat profil</string>
+	<key>free2paid.profileage.subtitle</key>
+	<string>Berapa usia anak?</string>
+	<key>free2paid.profileage.buttonnext</key>
+	<string>Lanjut</string>
+	<key>key.free2paid.popup.notification</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;Pelajaran hari ini selesai.&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;Tolong izinkan akses &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#01C4F8&apos;&gt;Notifikasi &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;agar Monkey dapat membantu anaknya belajar lebih baik.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.content.of.profile.mini</key>
+	<string>Buat profil percobaan</string>
+	<key>f2p.title.of.end.trial.lesson.popup</key>
+	<string>Masa percobaan habis</string>
+	<key>f2p.content.of.end.trial.lesson.popup</key>
+	<string>Agar anaknya bisa lanjut belajar, orang tua bisa buka semua konten, atau daftar gratis untuk melanjutkan pengalaman.</string>
+	<key>f2p.text.of.button.unclock.all.lesson</key>
+	<string>Buka semua</string>
+	<key>f2p.text.of.button.signup.free</key>
+	<string>Pendaftaran gratis</string>
+	<key>f2p.title.end.lesson.scene</key>
+	<string>Anda telah mempelajari pelajaran hari ini</string>
+	<key>f2p.content.of.end.lesson.scene</key>
+	<string>Untuk mempelajari lebih banyak pelajaran, silakan buka kunci atau kembali lagi keesokan harinya.</string>
+	<key>f2p.text.of.top.button.of.end.lesson.scene</key>
+	<string>Buka semua</string>
+	<key>f2p.text.of.bottom.button.of.end.lesson.scene</key>
+	<string>Kembali lagi nanti</string>
+	<key>MSFreeContentPage.title</key>
+	<string>Konten grstis</string>
+	<key>MSFreeContentPage.Unlock_all</key>
+	<string>Buka semua</string>
+	<key>MSFreeContentPage.discover</key>
+	<string>Menemukan</string>
+	<key>text_of_pop_study_trial_14_lesson</key>
+	<string>	
+	&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Anak-anak akan belajar &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;14 pelajaran &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;secara gratis. Setelah itu, orang tua perlu membuka kunci seluruh konten agar anak dapat terus belajar.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_7_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Anak-anak akan belajar &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;7 pelajaran &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;secara gratis. Setelah itu, orang tua perlu membuka kunci seluruh konten agar anak dapat terus belajar.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_10_lesson_free_unlock</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;21&apos; color=&apos;#848084&apos;&gt;Terima kasih orang tua sudah membuat akun, Monkey kasih &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;21&apos; color=&apos;#01C4F8&apos;&gt;10 pelajaran gratis&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;21&apos; color=&apos;#848084&apos;&gt;untuk anaknya. Setelah itu, orang tua perlu membuka kunci semua konten agar anak dapat terus belajar.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>key_open_lock_all_stories</key>
+	<string>Buka semua</string>
+	<key>key_try_learn_now</key>
+	<string>Coba belajar sekarang</string>
+	<key>key_title_study_stories</key>
+	<string>Percobaan</string>
+	<key>getting.started.scene.txt.btn.signin</key>
+	<string>Masuk</string>
+	<key>getting.started.scene.txt.have.account</key>
+	<string>Sudah</string>
+	<key>getting.started.scene.txt.btn.start.now</key>
+	<string>Mulai sekarang</string>
+	<key>getting.started.scene.txt.had.no.account</key>
+	<string>Belum</string>
+	<key>getting.started.scene.txt.quiz.had.account</key>
+	<string>Anda sudah mempunyai akun Monkey Stories?</string>
+	<key>splash.scene.txt1.page0</key>
+	<string>Pandai bahasa Inggris sebelum usia 10</string>
+	<key>splash.scene.txt2.page0</key>
+	<string>Pilihan nomor 1 untuk anak usia 0-10 tahun yang baru mulai belajar bahasa Inggris</string>
+	<key>splash.scene.txt.package.applied.page1</key>
+	<string>Terapkan untuk paket studi 6 bulan - 1 tahun -
+seumur hidup</string>
+	<key>splash.scene.txt.package.applied.page2</key>
+	<string>Terapkan untuk paket studi 1 bulan - 6 bulan -
+1 tahun</string>
+	<key>splash.scene.txt.discount.page1</key>
+	<string>Diskon hingga</string>
+	<key>splash.scene.txt1.page2</key>
+	<string>Anak belajar bahasa Inggris dengan minat yang luar biasa</string>
+	<key>splash.scene.txt.item1.page2</key>
+	<string>Komik interaktif</string>
+	<key>splash.scene.txt.item2.page2</key>
+	<string>Pelajaran Pemahaman Membaca dan Belajar Fonetik</string>
+	<key>splash.scene.txt.item3.page2</key>
+	<string>Buku audio</string>
+	<key>splash.scene.txt.continue</key>
+	<string>Lanjut</string>
+	<key>date.title</key>
+	<string>Tanggal </string>
+	<key>name.stories</key>
+	<string>Membaca cerita</string>
+	<key>name.phonic</key>
+	<string>Pelajari ejaan</string>
+	<key>name.reading_comprehension</key>
+	<string>Pemahaman membaca</string>
+	<key>f2p.key_try_learn_now</key>
+	<string>Lanjut percobaan</string>
+	<key>f2p.key.content.trial_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Terima kasih orang tua sudah membuat akun, Monkey kasih &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 pelajaran gratis &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;untuk anaknya. Setelah itu, orang tua perlu membuka kunci semua konten agar anak dapat terus belajar.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.key.content.end_trial_lesson</key>
+	<string>Pelajaran gratis telah belajar, bantu anaknya untuk membuka semua pelajaran.</string>
+	<key>title.of.popup.notice.completed.lesson</key>
+	<string>Pelajaran belum siap</string>
+	<key>content.v1.of.popup.notice.completed.lesson</key>
+	<string>Untuk mempelajari pelajaran ini, orang tua tolong membantu anak Buka kunci semua konten atau kembali lagi besok</string>
+	<key>content.v2.of.popup.notice.completed.lesson</key>
+	<string>Tolong selesaikan pelajaran hari ini. Untuk mempelajari pelajaran ini, orang tua tolong membantu anak Buka kunci semua konten atau kembali lagi besok</string>
+	<key>text.continue.learn</key>
+	<string>Lanjut percobaan</string>
+	<key>free2paid.ask.name</key>
+	<string>Nama anak</string>
+	<key>placeholder.textfield.name.setup</key>
+	<string>Masukkan nama anak </string>
+	<key>free2paid.birthday.title</key>
+	<string>Tanggal lahir anak?</string>
+	<key>month_1</key>
+	<string>Januari</string>
+	<key>month_2</key>
+	<string>Februari</string>
+	<key>month_3</key>
+	<string>Maret</string>
+	<key>month_4</key>
+	<string>April</string>
+	<key>month_5</key>
+	<string>Mei</string>
+	<key>month_6</key>
+	<string>Juni</string>
+	<key>month_7</key>
+	<string>Juli</string>
+	<key>month_8</key>
+	<string>Agustus</string>
+	<key>month_9</key>
+	<string>September</string>
+	<key>month_10</key>
+	<string>Oktober</string>
+	<key>month_11</key>
+	<string>November</string>
+	<key>month_12</key>
+	<string>Desember</string>
+	<key>onboard.birthday.f2p.picker.title</key>
+	<string>Tanggal lahir anak?</string>
+	<key>timepicker_done</key>
+	<string>Lanjut</string>
+	<key>key_title_subscription</key>
+	<string>Daftar sekarang untuk bisa mencoba app selama 7 hari</string>
+	<key>subscription.popular</key>
+	<string>Umum</string>
+	<key>subscription.bonus.profile</key>
+	<string>Bonus 1 profil</string>
+	<key>subscription.discount.format</key>
+	<string>Diskon %d %%</string>
+	<key>sub.parent.name</key>
+	<string>Ayah</string>
+	<key>sub.review</key>
+	<string>Melihat anak saya ada kemajuan yang signifikan dalam pengucapan, mengetahui lebih banyak kata baru, dan menerapkan struktur tata bahasa, saya tahu saya berada di jalur yang benar ketika saya membiarkan anak saya belajar Monkey Stories.</string>
+	<key>terms.of.service</key>
+	<string>Silakan lihat Ketentuan Penggunaan dan Kebijakan Privasi untuk informasi lebih lanjut. Langganan akan diperpanjang secara otomatis kecuali perpanjangan otomatis dimatikan setidaknya 24 jam sebelum tanggal kedaluwarsa. Akun akan dikenakan biaya untuk pembaruan dengan tarif paket yang dipilih dalam waktu 24 jam sebelum akhir periode berlangganan. Anda dapat membuka Pengaturan di Akun iTunes untuk mengelola langganan Anda dan mematikan perpanjangan otomatis. Akun iTunes Anda akan dikenakan biaya setelah pembelian dikonfirmasi. Setelah pembelian dikonfirmasi, sisa percobaan gratis akan hilang.</string>
+	<key>message.payment.sucess</key>
+	<string>Orang tua, silakan buat akun dan profil pembelajaran untuk anaknya.</string>
+	<key>title.payment.sucess</key>
+	<string>Program percobaan dengan akun tak terbatas</string>
+	<key>message.noti.payment</key>
+	<string>Anda tidak akan menerima kode aktivasi. Perangkat ini akan diaktifkan secara otomatis. Untuk melanjutkan pembayaran, tekan &quot;Beli Sekarang&quot;. Untuk dapat informasi produk lebih terinci, silakan pilih &quot;Dapatkan informasi lebih lanjut&quot;.</string>
+	<key>sub.restore</key>
+	<string>Memulihkan pembelian</string>
+	<key>title.support.payment</key>
+	<string>Dikonsultansi</string>
+	<key>title.support.payment.th</key>
+	<string>DAFTAR BERLANGGANAN </string>
+	<key>message.support.payment</key>
+	<string>Bantu anak pandai bahasa Inggris
+seperti 10 juta anak belajar Monkey!</string>
+	<key>message.support.payment.th</key>
+	<string>Dapat diskon hingga 40% dan segera memiliki paket Monkey Stories untuk anak </string>
+	<key>title.button.complete</key>
+	<string>Dukungan saya</string>
+	<key>title.button.complete.th</key>
+	<string>DAFTAR SEKARANG</string>
+	<key>MSMergeSuccess.title</key>
+	<string>Koneksi berhasil </string>
+	<key>MSMergeSuccessSub.title</key>
+	<string>Silahkan pilih 1 profil untuk memulai</string>
+	<key>merge1.scene.txt.title.link.profile</key>
+	<string>Koneksi</string>
+	<key>merge1.scene.txt.trial.learning.profile</key>
+	<string>Paket gratis</string>
+	<key>merge1.scene.txt.free.pack</key>
+	<string>Paket belajar gratis</string>
+	<key>merge1.scene.txt.learning.profile</key>
+	<string>Profil Anda</string>
+	<key>merge1.scene.txt.new.account</key>
+	<string>Akun baru</string>
+	<key>merge1.scene.txt.years.pack</key>
+	<string>Paket ~ tahun</string>
+	<key>merge1.scene.txt.new.account.info</key>
+	<string>Informasi pengguna</string>
+	<key>merge1.scene.txt.full.name</key>
+	<string>Nama lengkap:</string>
+	<key>merge1.scene.txt.phone.number</key>
+	<string>Nomor telepon:</string>
+	<key>merge1.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge1.scene.btn.link</key>
+	<string>Koneksi</string>
+	<key>merge1.scene.btn.skip</key>
+	<string>Skip</string>
+	<key>merge1.scene.txt.device.profile</key>
+	<string>Profil di perangkat</string>
+	<key>merge2.scene.txt.title.link.profile</key>
+	<string>Koneksi </string>
+	<key>merge2.scene.txt.account</key>
+	<string>Akun</string>
+	<key>merge2.scene.txt.account.info</key>
+	<string>Informasi pengguna</string>
+	<key>merge2.scene.txt.full.name</key>
+	<string>Nama lengkap:</string>
+	<key>merge2.scene.txt.phone.number</key>
+	<string>Nomor telepon:</string>
+	<key>merge2.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge2.scene.txt.learning.profile</key>
+	<string>Profil Anda</string>
+	<key>merge2.scene.txt.warning</key>
+	<string>Melebihi profil belajar maksimum.
+Orang tua, tolong hapus 1 profil untuk koneksi akunnya.</string>
+	<key>merge2.scene.btn.submit</key>
+	<string>OK</string>
+	<key>merge2.scene.txt.free.pack</key>
+	<string>Gói học miễn phí</string>
+	<key>product.name.com.earlystart.stories.package</key>
+	<string>Paket</string>
+	<key>content.f2p.lifetime.purchased.account</key>
+	<string>Akun tersebut telah daftar paket seumur hidup.
+Silahkan membuat akun yang lain untuk paket yang baru berhasil berlangganan.</string>
+	<key>subscription.confirm</key>
+	<string>OK</string>
+	<key>free2paid.create.child.profile</key>
+	<string>Buat profil pelajar</string>
+	<key>delete.account</key>
+	<string>Hapus akun</string>
+	<key>key.message.poup.incorrect.account</key>
+	<string>The account you logged in is invalid.</string>
+</dict>
+</plist>

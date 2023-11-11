@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>key.support.app.info.curr.version</key>
+	<string>Current version:</string>
+	<key>key.support.app.info.new.version</key>
+	<string>Latest version:</string>
+	<key>key.support.app.info</key>
+	<string>Application information</string>
+	<key>key.support.update.now</key>
+	<string>Update Now</string>
+	<key>key.support.send.mail</key>
+	<string>Send email</string>
+	<key>key.support.call</key>
+	<string>Call</string>
+	<key>key.support</key>
+	<string>Support</string>
+	<key>key.suggest.adding.profile</key>
+	<string>Add a child in Parent settings</string>
+	<key>key.reender.password</key>
+	<string>Please re-enter password</string>
+	<key>key.ap.calculator</key>
+	<string>Please perform the operation to continue</string>
+	<key>key.choose.a.course</key>
+	<string>Choose a course</string>
+	<key>key.popup.skip.msg</key>
+	<string>Register now to learn for free for %d days
+Press Continue if you don&apos;t want to register</string>
+	<key>key.skip</key>
+	<string>Skip</string>
+	<key>key.child.name</key>
+	<string>Your name</string>
+	<key>key.edit.profile</key>
+	<string>Edit profile</string>
+	<key>key.new.profile</key>
+	<string>New profile</string>
+	<key>key.trial</key>
+	<string>Trial</string>
+	<key>key.selected</key>
+	<string>Selected</string>
+	<key>key.account.information</key>
+	<string>Account information</string>
+	<key>key.selection.title</key>
+	<string>Select</string>
+	<key>key.search</key>
+	<string>Search</string>
+	<key>key.full.profiles</key>
+	<string>You have created enough profiles</string>
+	<key>key.grade.kindergarten</key>
+	<string>Pre-K &amp; Kinder</string>
+	<key>key.register.popup.msg</key>
+	<string>Please register an account to access this function</string>
+	<key>key.download</key>
+	<string>Read it now</string>
+	<key>key.upgrade.account.popup.msg</key>
+	<string>Register now to earn 5 extra days FULL ACCESS</string>
+	<key>key.please.select.gender</key>
+	<string>Please choose your child&apos;s gender</string>
+	<key>key.profile.created</key>
+	<string>Profile name has been created</string>
+	<key>key.profile.invalid</key>
+	<string>Profile name contains special characters</string>
+	<key>key.please.enter.child.name</key>
+	<string>Please enter your child&apos;s name</string>
+	<key>key.select.country.code</key>
+	<string>Select country/ region</string>
+	<key>key.reset.password.tiltle2</key>
+	<string>Please enter your password to start using the application</string>
+	<key>key.save</key>
+	<string>Save</string>
+	<key>key.please.enter.email.phone.number</key>
+	<string>Please enter your phone number or email or username</string>
+	<key>key.invalid.phone.number</key>
+	<string>Invalid phone number</string>
+	<key>key.please.enter.phone.number</key>
+	<string>Please enter your phone number</string>
+	<key>key.reset.password.tiltle</key>
+	<string>Reset password</string>
+	<key>key.enter.email</key>
+	<string>Enter your email...</string>
+	<key>key.phonic.popup.msg</key>
+	<string>2000 more game-based activities to help kids
+build phonics skills and phonemic awareness</string>
+	<key>key.comming.soon</key>
+	<string>Coming Soon...</string>
+	<key>key.all.grades</key>
+	<string>All Grades</string>
+	<key>key.welcome.back</key>
+	<string>Welcome back
+%s!</string>
+	<key>key.welcome.to</key>
+	<string>Welcome %s to
+%s!</string>
+	<key>key.not.have.account</key>
+	<string>Don&apos;t have an account? </string>
+	<key>key.forgot.account</key>
+	<string>Forgot account</string>
+	<key>key.enter.phone.or.email</key>
+	<string>Username/phone number/email</string>
+	<key>key.have.account</key>
+	<string>Already have an account? </string>
+	<key>key.or</key>
+	<string>Or</string>
+	<key>key.please.login.with.gmail</key>
+	<string>Please choose to log in with your Gmail APPNAME</string>
+	<key>key.email.phone.wrong</key>
+	<string>Invalid User name/Phone number/Email!</string>
+	<key>key.quick.login</key>
+	<string>Quick login: </string>
+	<key>key.logout</key>
+	<string>Logout</string>
+	<key>key.detail</key>
+	<string>Detail</string>
+	<key>key.adding.your.address</key>
+	<string>Add your address</string>
+	<key>key.adding.your.email</key>
+	<string>Add your email</string>
+	<key>key.adding.your.phone</key>
+	<string>Add your phone number</string>
+	<key>key.adding.your.name</key>
+	<string>Add your name</string>
+	<key>key.change.profile</key>
+	<string>Change profile</string>
+	<key>new_onboard_title</key>
+	<string>Please choose a level suitable for your child</string>
+	<key>rating_entering_warning_text</key>
+	<string>(*) is required fields</string>
+	<key>rating_cancel_text</key>
+	<string>Cancel</string>
+	<key>rating_empty_texbox</key>
+	<string>Please write a review</string>
+	<key>rating_review_fb_text</key>
+	<string>Visit our page</string>
+	<key>rating_review_post_text</key>
+	<string>Post your review</string>
+	<key>rating_review_confused_description</key>
+	<string>If you’re unsure about how to use APPNAME, why not visit our page 
+ĐỒNG HÀNH CÙNG CON HỌC MONKEY or write a review?</string>
+	<key>rating_review_confused_title</key>
+	<string>Is something wrong?</string>
+	<key>rating_review_sad_description</key>
+	<string>We&apos;d love to know how we can make APPNAME even better and
+ make your experience with APPNAME a happy one!</string>
+	<key>rating_review_sad_title</key>
+	<string>Help us improve, please?</string>
+	<key>rating_happy_tile</key>
+	<string>Happy</string>
+	<key>rating_confused_tile</key>
+	<string>Confused</string>
+	<key>rating_sad_tile</key>
+	<string>Sad</string>
+	<key>rating_tile</key>
+	<string>How do you feel about</string>
+	<key>ap_waring_entering_otp</key>
+	<string>Please enter OTP code to boxes above.</string>
+	<key>ap_security_question_title</key>
+	<string>Please answer the questions below to verify your account.</string>
+	<key>ap_password_recovery_method_title</key>
+	<string>How do you want to reset your password?</string>
+	<key>ap_open_security_question</key>
+	<string>Answer questions to verify your account</string>
+	<key>ap_send_code_to_sms_question</key>
+	<string>Send a code to SMS</string>
+	<key>ap_send_code_to_email_question</key>
+	<string>Send a code to email</string>
+	<key>ap_forgot_pass_title</key>
+	<string>Forgot password</string>
+	<key>ap_forgot_account_title</key>
+	<string>Forgot account</string>
+	<key>ap_waring_password</key>
+	<string>Your password must be between 4 and 30 characters</string>
+	<key>ap_change_password_title</key>
+	<string>Parents enter password to sign in</string>
+	<key>ap_password_changed_successfully</key>
+	<string>password changed successfully</string>
+	<key>ap_enter_new_password_for_old_user_title</key>
+	<string>Your account does not have a
+password.Please enter your new 
+password.</string>
+	<key>ap_waring_entering_password2</key>
+	<string>Please enter your password!</string>
+	<key>ap_waring_entering_password</key>
+	<string>Please enter your password!</string>
+	<key>ap_match_password</key>
+	<string>Passwords do not match!</string>
+	<key>ap_disable_security_question_verification</key>
+	<string>This security question has been locked for 24h</string>
+	<key>ap_failed_verification</key>
+	<string>Failed to verify account</string>
+	<key>ap_successful_verification</key>
+	<string>Account verified successfully</string>
+	<key>ap_wrong_phone_number</key>
+	<string>Wrong phone number</string>
+	<key>ap_email_verification_code</key>
+	<string>Verification code has been sent to</string>
+	<key>ap_phone_verification_code</key>
+	<string>Verification code has been sent to</string>
+	<key>ap_resend_code_button_title2</key>
+	<string>Re-send</string>
+	<key>ap_resend_code_button_title</key>
+	<string>Resend code (%d) </string>
+	<key>ap_continue_button_title</key>
+	<string>Continue</string>
+	<key>ap_phone_otp_title</key>
+	<string>Please check sms on your phone device.
+Verification code has been sent to:</string>
+	<key>ap_email_otp_title</key>
+	<string>Please check your email 
+Verification code has been sent to:</string>
+	<key>ap_finish_button_title</key>
+	<string>Finish</string>
+	<key>ap_enter_new_password_title</key>
+	<string>Your account is successfully verified. 
+Change your password to sign in.</string>
+	<key>ap_register_button_title</key>
+	<string>Register</string>
+	<key>ap_register_title</key>
+	<string>Parents enter password to sign in.</string>
+	<key>ap_send_title</key>
+	<string>Send</string>
+	<key>ap_enter_phone</key>
+	<string>Enter your phone number...</string>
+	<key>ap_enter_password</key>
+	<string>Enter your password ...</string>
+	<key>ap_reenter_password</key>
+	<string>Re-enter your password ...</string>
+	<key>ap_login_title</key>
+	<string>Parents enter password to sign in.</string>
+	<key>ap_login_button_title</key>
+	<string>Login</string>
+	<key>ap_enter_phone_number_title</key>
+	<string>Parents enter phone number to
+register to use the app</string>
+	<key>free_welcome</key>
+	<string>Enjoy 2 days with full features of</string>
+	<key>recorder.warning</key>
+	<string>This feature is not supported by your current OS version. Please update to the latest OS.</string>
+	<key>audiobooks.duration</key>
+	<string>mins</string>
+	<key>pay.action.subscribe</key>
+	<string>Subscribe</string>
+	<key>lesson.preactivity.btcontinue</key>
+	<string>Continue</string>
+	<key>settings.subscribe.license</key>
+	<string>Subscribe to buy license</string>
+	<key>rate.popup.bt</key>
+	<string>Rate</string>
+	<key>notifree.content3</key>
+	<string>You can access one item for free per day in the section “Free”</string>
+	<key>notifree.content4</key>
+	<string>day(s) left to use full features of Monkey Stories.</string>
+	<key>pay.feature2</key>
+	<string>Common Core-aligned reading level system</string>
+	<key>sub.text.title</key>
+	<string>Subscribe for unlimited access</string>
+	<key>parent.delete_cache.warn</key>
+	<string>App will restart after the cache is deleted.</string>
+	<key>downloaded.lessons</key>
+	<string>Downloaded Lessons</string>
+	<key>story.download.failure.close</key>
+	<string>Close</string>
+	<key>sub.item.1year</key>
+	<string>Yearly</string>
+	<key>intro.load.trysample</key>
+	<string>Try sample story</string>
+	<key>product.name.com.earlystart.stories.1year</key>
+	<string>1 year</string>
+	<key>intro.load.progress</key>
+	<string>Preparing default content...</string>
+	<key>intro.load.download</key>
+	<string>Downloading sample story</string>
+	<key>lesson.end.lesson</key>
+	<string>You have completed this lesson</string>
+	<key>forgot.license.ask</key>
+	<string>Please enter you phone number or email address
+you used to buy the license key</string>
+	<key>lesson.item.download</key>
+	<string>Download</string>
+	<key>swipe.left</key>
+	<string>Swipe left to turn the page</string>
+	<key>pay.verify.success</key>
+	<string>Your transaction is verified successfully.</string>
+	<key>audio.player.level</key>
+	<string>Grade:</string>
+	<key>lesson.lessonpreview.start</key>
+	<string>Continue</string>
+	<key>sub.text.run</key>
+	<string>Subscribe for unlimited access</string>
+	<key>pay.lbrestore</key>
+	<string>Purchase is non-transferable. Restore subscription</string>
+	<key>rate.popup.content</key>
+	<string>Rate $(appname) and win unlimited access in 2 days</string>
+	<key>onboard.finish</key>
+	<string>Finish</string>
+	<key>deactive.wait</key>
+	<string>Please wait...</string>
+	<key>sub.text.startyourweek</key>
+	<string>Subscribe Now</string>
+	<key>intro.load.stories</key>
+	<string>picture stories</string>
+	<key>lesson.item.locked</key>
+	<string>Locked</string>
+	<key>intro.load.title</key>
+	<string>The Amazing Digital Library for Kids</string>
+	<key>parent.coupon.success</key>
+	<string>The coupon code is applied successfully.</string>
+	<key>rate.popup.num</key>
+	<string>Unlimited access in 2 days</string>
+	<key>lesson.actipreview.acti</key>
+	<string>Activity</string>
+	<key>sub.text.detail1</key>
+	<string>interactive 
+picture-books </string>
+	<key>favorite.done</key>
+	<string>Done</string>
+	<key>lesson.waiting</key>
+	<string>Waiting</string>
+	<key>sub.popup.btfree</key>
+	<string>Continue with free content</string>
+	<key>stories.newstories.title</key>
+	<string>New Stories</string>
+	<key>intro.lessons</key>
+	<string>Guided lessons aligned with the Common Core State Standard</string>
+	<key>sub.popup.btsub</key>
+	<string>Subscribe for unlimited access</string>
+	<key>stories.more</key>
+	<string>More</string>
+	<key>parent.delete.cache.single</key>
+	<string>Delete single picture story or audiobook</string>
+	<key>record.swipe</key>
+	<string>Recording, swipe left to continue</string>
+	<key>sub.text.number.detail</key>
+	<string></string>
+	<key>intro.lessons.sub</key>
+	<string>1000+ game-based activities that develop essential language skills</string>
+	<key>lessons.completed</key>
+	<string>lessons completed</string>
+	<key>search.no.result.audiobooks</key>
+	<string>No results found!</string>
+	<key>lesson.popup.prior</key>
+	<string>This lesson is not ready yet. Let&apos;s finish the prior lesson.</string>
+	<key>audio.onboard.screensaver</key>
+	<string>Hint: the audiobook will continue to play after the screen is turned off!</string>
+	<key>sidebar.des.free</key>
+	<string>Free</string>
+	<key>sub.text.features.title5</key>
+	<string>Weekly updated content</string>
+	<key>free.story.title</key>
+	<string>Free stories and audiobooks</string>
+	<key>deactive.question</key>
+	<string>Are you sure to uninstall the license key for $(appname) on this device?</string>
+	<key>pay.bubble</key>
+	<string>Unlimited access to 500+ stories</string>
+	<key>sub.item.lifetime</key>
+	<string>Lifetime</string>
+	<key>record.recording</key>
+	<string>Recording</string>
+	<key>pay.price_detail2</key>
+	<string>Onetime</string>
+	<key>sub.item.purchase</key>
+	<string>Purchase Now</string>
+	<key>sub.text.features.title1</key>
+	<string>Interactive-touch objects on each picture page</string>
+	<key>lesson.item.downloading</key>
+	<string>Downloading...</string>
+	<key>sub.text.detail2</key>
+	<string>Audiobooks</string>
+	<key>intro.grade.detail</key>
+	<string>This allows us to offer a personalized selection of age-appropriate content for you</string>
+	<key>downloaded.edit</key>
+	<string>Remove</string>
+	<key>feedback.title.active</key>
+	<string>We value your suggestions and comments.</string>
+	<key>favorite.title</key>
+	<string>Favorite</string>
+	<key>intro.swipe</key>
+	<string>Swipe left to begin</string>
+	<key>audiobooks.newest.title</key>
+	<string>Newest Audiobooks</string>
+	<key>search.no.result.stories</key>
+	<string>No results found!</string>
+	<key>story.download.failure</key>
+	<string>Download failed.
+Please check your storage space and/or Internet connection</string>
+	<key>pay.lbcoupon30</key>
+	<string>Big sale! Get 40% OFF at the moment.</string>
+	<key>sub.popup.content.free</key>
+	<string>This content is available for purchased users only.</string>
+	<key>story.download.failure.try</key>
+	<string>Try again</string>
+	<key>reading.level.include</key>
+	<string>includes the following levels:</string>
+	<key>collection.more</key>
+	<string>Want to see more?</string>
+	<key>deactive.no</key>
+	<string>No</string>
+	<key>story.info.page_count</key>
+	<string>Page count</string>
+	<key>support.mail.title</key>
+	<string>Need help with $(appname).</string>
+	<key>intro.load.detail</key>
+	<string>Update weekly. Read and learn anytime, anywhere</string>
+	<key>sub.text.title.detail</key>
+	<string>No commitments or hassles. Cancel anytime</string>
+	<key>feedback.alert.button</key>
+	<string>Try again</string>
+	<key>forgot.license.action</key>
+	<string>Send</string>
+	<key>lesson.lessonpreview.actistatus</key>
+	<string>activities completed</string>
+	<key>pay.feature1</key>
+	<string>New stories added every week</string>
+	<key>product.name.com.earlystart.stories.1month</key>
+	<string>1 month</string>
+	<key>stories.popular.title</key>
+	<string>Popular Stories</string>
+	<key>sub.text.detail3</key>
+	<string>guided lessons on
+Reading and Phonics</string>
+	<key>search.placeholder</key>
+	<string>Type story name here...</string>
+	<key>pay.info.expiry</key>
+	<string>Your subscription ends on </string>
+	<key>favorite.edit</key>
+	<string>Edit</string>
+	<key>pay.lbbestseller</key>
+	<string>best seller</string>
+	<key>favourite.empty</key>
+	<string>Your favourite items will be displayed here.</string>
+	<key>settings.title</key>
+	<string>Settings</string>
+	<key>sidebar.des.settings</key>
+	<string>Settings</string>
+	<key>sidebar.des.support</key>
+	<string>Support</string>
+	<key>sidebar.des.account</key>
+	<string>Account</string>
+	<key>sub.text.subscribenow</key>
+	<string>Subscribe Now</string>
+	<key>sub.text.run.vn</key>
+	<string>Subscribe to use $(appname)</string>
+	<key>lesson.preactivity.btback</key>
+	<string>Back to lesson</string>
+	<key>lesson.item.relearn</key>
+	<string>Redo</string>
+	<key>sidebar.des.license</key>
+	<string>License Key</string>
+	<key>sub.item.6mon</key>
+	<string>6-month</string>
+	<key>sub.popup.btok</key>
+	<string>Subscribe</string>
+	<key>sub.text.features.title8</key>
+	<string>Record your voice while reading stories, save as a video</string>
+	<key>intro.grade.title</key>
+	<string>Which grade are you in?</string>
+	<key>sub.item.month</key>
+	<string>months</string>
+	<key>reading.level.include1</key>
+	<string>includes the following level:</string>
+	<key>pay.price_detail3</key>
+	<string>Per year</string>
+	<key>sub.text.features.title4</key>
+	<string>Read anywhere, anytime with offline access</string>
+	<key>parent.license.empty</key>
+	<string>Please enter your license key</string>
+	<key>sidebar.des.stories</key>
+	<string>Stories</string>
+	<key>sidebar.des.material</key>
+	<string>Worksheets</string>
+	<key>intro.grade.btnext</key>
+	<string>Next</string>
+	<key>downloaded.stories</key>
+	<string>Downloaded Stories</string>
+	<key>intro.start</key>
+	<string>Get started</string>
+	<key>parent.license.info</key>
+	<string>Your device is activated</string>
+	<key>parent.coupon.discount</key>
+	<string>Discount percentage</string>
+	<key>parent.common.error</key>
+	<string>There was an error.
+ Please check the Internet connection.</string>
+	<key>deactive.question.2</key>
+	<string>You won&apos;t be able to access full features of our app on this device. Are you sure to proceed?</string>
+	<key>intro.load.restore</key>
+	<string>Restore Purchase</string>
+	<key>pay.restore.complete</key>
+	<string>Your purchases have been restored.</string>
+	<key>intro.stories</key>
+	<string>Huge library of interactive picture stories</string>
+	<key>favorite.stories</key>
+	<string>Favorite Stories</string>
+	<key>intro.audiobooks</key>
+	<string>Selective audiobooks</string>
+	<key>calculator_title</key>
+	<string>Grown up only: Complete
+this math problem to continue</string>
+	<key>intro.grade.notice</key>
+	<string>You can change your grade later</string>
+	<key>parent.delete_cache.action</key>
+	<string>Delete cache</string>
+	<key>favourite.tab.favourite</key>
+	<string>Favourite</string>
+	<key>rate.thanks.title</key>
+	<string>THANK YOU!</string>
+	<key>pay.action.buy</key>
+	<string>Buy now</string>
+	<key>deactive.yes</key>
+	<string>Yes</string>
+	<key>feedback.btsend</key>
+	<string>Send feedback</string>
+	<key>settings.deactivate.device</key>
+	<string>Remove the subscription</string>
+	<key>notifree.content1</key>
+	<string>You have</string>
+	<key>pay.restore.failed</key>
+	<string>We cannot restore your transaction.
+Please try again.</string>
+	<key>audiobooks.recent.title</key>
+	<string>Recently listened</string>
+	<key>intro.drag</key>
+	<string>Press right arrow key to begin</string>
+	<key>feedback.alert.content</key>
+	<string>Your feedback is too short. Please provide at least 15 words.</string>
+	<key>intro.load.skip</key>
+	<string>Skip</string>
+	<key>sub.text_restore</key>
+	<string>Already purchased? Restore now.</string>
+	<key>parent.delete.cache.single.info</key>
+	<string>Select the item to delete</string>
+	<key>free.lesson.title</key>
+	<string>Free lessons</string>
+	<key>audiobooks.popular.title</key>
+	<string>Popular Audiobooks</string>
+	<key>lesson.comingsoon</key>
+	<string>Coming soon!</string>
+	<key>sub.popup.feature.free</key>
+	<string>This feature is available for purchased users only.</string>
+	<key>stories.recent.title</key>
+	<string>Recently read</string>
+	<key>favourite.tab.downloaded</key>
+	<string>Downloaded</string>
+	<key>product.name.com.earlystart.stories.6month</key>
+	<string>6 months</string>
+	<key>parent.license.lifetime</key>
+	<string>Never expired</string>
+	<key>parent.license.free.trial</key>
+	<string>Trial</string>
+	<key>story.info.lexile</key>
+	<string>Lexile Score</string>
+	<key>lesson.item.learn</key>
+	<string>Start</string>
+	<key>storycover.download.error</key>
+	<string>Could not connect to our server. Please try again!</string>
+	<key>search.placeholder.audiobook</key>
+	<string>Type audiobook name here... </string>
+	<key>sidebar.des.audiobooks</key>
+	<string>Audiobooks</string>
+	<key>parent.delete_cache.info</key>
+	<string>Free space on your device. Current cache size is:</string>
+	<key>sidebar.des.subscriptions</key>
+	<string>Subscribe</string>
+	<key>pay.price_detail4</key>
+	<string>Per 6-month</string>
+	<key>lesson.popup.prior.activity</key>
+	<string>Oh! That activity is not ready yet. Let&apos;s finish this one first.</string>
+	<key>level_info.coming_soon</key>
+	<string>Coming soon!</string>
+	<key>product.name.com.earlystart.stories.lifetime</key>
+	<string>Lifetime</string>
+	<key>sub.text.features.title7</key>
+	<string>Read along with highlighted text</string>
+	<key>intro.stories.sub</key>
+	<string>500+ lively illustrated stories with new stories added weekly</string>
+	<key>intro.load.lessons</key>
+	<string>guided lessons</string>
+	<key>sidebar.des.favourite</key>
+	<string>Library</string>
+	<key>pay.purchase.failed</key>
+	<string>Your purchase is not successful.
+ Please try again.
+
+If you&apos;re already subscribed, please use Restore function.</string>
+	<key>sub.text.features.title3</key>
+	<string>Thousands of appealing game-based learning activities</string>
+	<key>sub.popup.content</key>
+	<string>You have used the free item of the day. Please subscribe to have unlimited access.</string>
+	<key>rate.active.title</key>
+	<string>Share your love with a review!</string>
+	<key>intro.samplestory</key>
+	<string>Developed by leading language experts</string>
+	<key>intro.audiobooks.sub</key>
+	<string>100+ audiobooks selected from the world-famous stories</string>
+	<key>feedback.title</key>
+	<string>Send your feedback and win unlimited access in 2 days!</string>
+	<key>pay.feature3</key>
+	<string>Offline access to downloaded stories</string>
+	<key>support.action.error</key>
+	<string>Your device does not support this feature.</string>
+	<key>onboard.next</key>
+	<string>Next</string>
+	<key>audio.player.duration</key>
+	<string>Duration:</string>
+	<key>downloaded.audiobooks</key>
+	<string>Downloaded Audiobooks</string>
+	<key>learn.audiobooks</key>
+	<string>Learned audiobooks</string>
+	<key>sub.text.plan.title</key>
+	<string>What&apos;s included in every plan?</string>
+	<key>notifree.title</key>
+	<string>Free</string>
+	<key>favorite.audiobook</key>
+	<string>Favorite Audiobooks</string>
+	<key>parent.license.success</key>
+	<string>Your device has been activated successfully.</string>
+	<key>parent.coupon.info</key>
+	<string>Your current coupon</string>
+	<key>rate.popup.title</key>
+	<string>RATE US AND WIN!</string>
+	<key>stories.category.title</key>
+	<string>Our topics</string>
+	<key>stories.genre.title</key>
+	<string>Genre</string>
+	<key>lesson.popup.info</key>
+	<string>Lesson Details#Each lesson consists of 8-10 activities based on a story, including story reading, interactive games and comprehension questions. This helps children learn vocabulary, grammar and develop basic language skills.</string>
+	<key>intro.load.audiobooks</key>
+	<string>audiobooks</string>
+	<key>sub.item.1mon</key>
+	<string>Monthly</string>
+	<key>pay.lbcoupon</key>
+	<string>Coupon code xxx ABCDE is applied successfully.</string>
+	<key>notifree.content2</key>
+	<string>day(s) left to access one item for free per day. Any item in our library.</string>
+	<key>rate.thanks.close</key>
+	<string>CLOSE</string>
+	<key>parent.delete_cache.confirm</key>
+	<string>Press OK to clear cache folder</string>
+	<key>sub.text.features.title</key>
+	<string>Key features</string>
+	<key>pay.verify.failed</key>
+	<string>We cannot verify your transaction.
+Please try again.</string>
+	<key>story.info.word_count</key>
+	<string>Word count</string>
+	<key>sidebar.des.close</key>
+	<string>Close</string>
+	<key>sub.text.title.vn</key>
+	<string>Subscribe to use $(appname)</string>
+	<key>thumb.story.level</key>
+	<string>Level</string>
+	<key>onboard.optout.1</key>
+	<string>Seen this before? </string>
+	<key>swipe.down</key>
+	<string>Swipe down to repeat</string>
+	<key>reading.level.intro</key>
+	<string>Children in this group can</string>
+	<key>lesson.item.title</key>
+	<string>Lesson</string>
+	<key>aispeaking.conversation.item.title</key>
+	<string>Conversation</string>
+	<key>pay.info.lifetime</key>
+	<string>You have subscribed to the lifetime package.</string>
+	<key>intro.load.progress.2</key>
+	<string>Retrieving latest content...</string>
+	<key>settings.forgot.license</key>
+	<string>Forget your license key?</string>
+	<key>sidebar.des.lessons</key>
+	<string>Lessons</string>
+	<key>sidebar.des.ai_speaking</key>
+	<string>Talk</string>
+	<key>intro.load.prepare</key>
+	<string>Preparing sample story</string>
+	<key>parent.license.expire</key>
+	<string>Expiry date</string>
+	<key>parent.delete.cache.all</key>
+	<string>Remove all downloaded data</string>
+	<key>sidebar.des.more</key>
+	<string>More Apps</string>
+	<key>sub.text.features.title6</key>
+	<string>No advertising or pop-up ads</string>
+	<key>author.rewrite</key>
+	<string>Re-written by:</string>
+	<key>sidebar.des.parents</key>
+	<string>Parents</string>
+	<key>sub.text.features.title2</key>
+	<string>Audiobooks play at screen saver</string>
+	<key>parent.license.note</key>
+	<string>License key is a sequence of 10 characters</string>
+	<key>downloaded.empty</key>
+	<string>Your downloaded items will be displayed here.</string>
+	<key>feedback.content</key>
+	<string>Unlimited access in 2 days as a reward</string>
+	<key>parent.coupon.ask</key>
+	<string>Please enter your coupon</string>
+	<key>feedback.textfield.placeholder</key>
+	<string>Write your feedback here...</string>
+	<key>parent.license.ask</key>
+	<string>Please enter your license key</string>
+	<key>pay.price_detail1</key>
+	<string>Per month</string>
+	<key>onboard.optout.2</key>
+	<string>Opt out of these tips.</string>
+	<key>forgot.license.invalid</key>
+	<string>Please enter a valid email address or phone number</string>
+	<key>price.text.detail</key>
+	<string>Only be charged after trial ends</string>
+	<key>price.time.great.unit</key>
+	<string>year</string>
+	<key>price.time.small.unit</key>
+	<string>months</string>
+	<key>free.story.vn.title</key>
+	<string>Free stories</string>
+	<key>free.lesson.vn.title</key>
+	<string>Free audiobooks</string>
+	<key>free.story.vn.sorry</key>
+	<string>Updating...</string>
+	<key>background.music.on.off</key>
+	<string>Background music</string>
+	<key>extra.title</key>
+	<string>Author:</string>
+	<key>download.content.size</key>
+	<string>This content is </string>
+	<key>download.confirm</key>
+	<string>Do you want to download?</string>
+	<key>viral.popup.title</key>
+	<string>FREE
+LEARNING</string>
+	<key>viral.popup.content</key>
+	<string>SHARING NOW to have additional 7 days
+unlimited access to all lessons for you and your friend.</string>
+	<key>viral.popup.button</key>
+	<string>SHARE</string>
+	<key>viral.sub.popup.title</key>
+	<string>YOUR NAME</string>
+	<key>viral.sub.popup.content</key>
+	<string>Lets your friends know
+who send this awesome app to them</string>
+	<key>viral.sub.popup.button</key>
+	<string>SEND NOW</string>
+	<key>viral.sub.popup.name</key>
+	<string>Your full name... (option)</string>
+	<key>viral.sub.popup.phone</key>
+	<string>Phone number...</string>
+	<key>viral.gift.title</key>
+	<string>BRAVO!!!</string>
+	<key>viral.gift.content</key>
+	<string>You received full access in 7 days</string>
+	<key>viral.gift.button</key>
+	<string>OK</string>
+	<key>viral.receive.popup.title</key>
+	<string>YOU HAVE GIFT</string>
+	<key>viral.receive.popup.content</key>
+	<string>Enter your phone number to receive
+many suprises from your friends!</string>
+	<key>viral.receive.popup.button</key>
+	<string>Take your gift</string>
+	<key>lb.playlist.minute</key>
+	<string>minutes</string>
+	<key>lb.playlist.for</key>
+	<string>for</string>
+	<key>lb.playlist.play</key>
+	<string>Play</string>
+	<key>lb.playlist.play.continue</key>
+	<string>Continue</string>
+	<key>viral.receive.text</key>
+	<string>You have gift? Click here!</string>
+	<key>pay.notice.detail</key>
+	<string>This device will be automatically activated and you won’t receive a license key.</string>
+	<key>pay.notice.detail.ios</key>
+	<string>This device will be automatically activated and you can retrieve your purchase on other {os} devices. Please note that you won’t receive a license key.
+To continue the payment, press &quot;Buy Now&quot;.
+To receive the license key via an envelope and make a payment at delivery, press &quot;Receive license key&quot;</string>
+	<key>pay.notice.detail.ios.voucher</key>
+	<string>This device will be automatically activated and you can retrieve your purchase on other {os} devices. Please note that you won’t receive a license key.
+
+To continue the payment, press &quot;Buy Now&quot;.
+To receive the license key via an envelope and make a payment at delivery, press &quot;Receive license key&quot;</string>
+	<key>pay.notice.detail.ios.win</key>
+	<string>This device will be automatically activated and you can retrieve your purchase on other {os} devices. Please note that you won’t receive a license key.
+
+To receive the license key via an envelope and make a payment at delivery, press &quot;Receive license key&quot;</string>
+	<key>pay.notice.detail.ios.voucher.win</key>
+	<string>This device will be automatically activated and you can retrieve your purchase on other {os} devices. Please note that you won’t receive a license key.
+
+To receive the license key via an envelope and make a payment at delivery, press &quot;Receive license key&quot;</string>
+	<key>pay.notice.detail.continue</key>
+	<string>Buy Now</string>
+	<key>pay.notice.detail.other</key>
+	<string>More information</string>
+	<key>pay.notice.detail.other.voucher</key>
+	<string>Contact us</string>
+	<key>collection.play.all</key>
+	<string>Play all</string>
+	<key>playlist.nowplaying</key>
+	<string>Now Playing</string>
+	<key>playlist.end.duration</key>
+	<string>You&apos;ve finished your {duration}-minutes listening to audiobooks.</string>
+	<key>sidebar.des.qr</key>
+	<string>QR Code</string>
+	<key>qr.instruction</key>
+	<string>Please scan code to read the story in the application:
+    - In the worksheet, QR code is in the front cover
+    - In the story book, QR code is in the back cover</string>
+	<key>qr.onboard</key>
+	<string>Scan the QR code to listen to the audio. </string>
+	<key>qr.play</key>
+	<string>Play</string>
+	<key>qr.pause</key>
+	<string>Pause</string>
+	<key>qr.level</key>
+	<string>Level:</string>
+	<key>qr.page</key>
+	<string>Page count:</string>
+	<key>qr.lexile</key>
+	<string>Lexile score:</string>
+	<key>qr.next.page</key>
+	<string>Next page</string>
+	<key>qr.prev.page</key>
+	<string>Previous page</string>
+	<key>qr.alert</key>
+	<string>Scanned successfully. Please tap the QR Code section on the homepage to listen to the story.</string>
+	<key>audio.player.number.chapters</key>
+	<string>Chapters:</string>
+	<key>audiobook.chapters</key>
+	<string>chapters</string>
+	<key>label.summary</key>
+	<string>Summary</string>
+	<key>audiobook.novels</key>
+	<string>Novels</string>
+	<key>playlist.exclude.novels</key>
+	<string>Novels are not included in this list.</string>
+	<key>voucher.discount.inapp</key>
+	<string>Discounted price for in app purchases only.</string>
+	<key>voucher.discount</key>
+	<string>Discounted price for voucher </string>
+	<key>support_title3</key>
+	<string>Join our Facebook group:</string>
+	<key>support_action3</key>
+	<string>Join now</string>
+	<key>support_option3</key>
+	<string>Option 3:</string>
+	<key>text.title.detail_sub</key>
+	<string>, details here.</string>
+	<key>key.onboard.login</key>
+	<string>Create an account to start learning</string>
+	<key>key.onboard.login.text</key>
+	<string>(Parents please create an account to start learning and
+use full content that has been purchased)</string>
+	<key>key.onboard.account.license</key>
+	<string>Have you got the license key?</string>
+	<key>key.onboard.account.license.yesbtn</key>
+	<string>Yes, I have !</string>
+	<key>key.onboard.account.license.nobtn</key>
+	<string>No, I haven&apos;t !</string>
+	<key>key.onboard.account.profile.title</key>
+	<string>Choose your profile</string>
+	<key>key.onboard.account.new.profile</key>
+	<string>Create a new profile</string>
+	<key>key.onboard.account.welcome.profile</key>
+	<string></string>
+	<key>key.account.profile.name.title</key>
+	<string>Introduce your child</string>
+	<key>key.account.profile.name.title.new</key>
+	<string>Add learner&apos;s information</string>
+	<key>key.account.profile.name.title.des</key>
+	<string>Monkey will recommend suitable content to build 
+a customized learning path for your kid</string>
+	<key>key.account.profile.name.text</key>
+	<string>Your child&apos;s name</string>
+	<key>key.account.profile.age.title</key>
+	<string>How old is she/ he?</string>
+	<key>key.account.profile.avatar.title</key>
+	<string>Choose your avatar</string>
+	<key>key.account.profile.change.title</key>
+	<string>Change profile</string>
+	<key>key.parent.account</key>
+	<string>User account</string>
+	<key>key.parent.account.info</key>
+	<string>User information</string>
+	<key>key.parent.account.info.user</key>
+	<string>User account information</string>
+	<key>key.parent.account.info.profile</key>
+	<string>Profile Manager</string>
+	<key>key.popup.user.info.name</key>
+	<string>Username</string>
+	<key>key.popup.user.info.address</key>
+	<string>Address</string>
+	<key>key.popup.user.info.email</key>
+	<string>Email</string>
+	<key>key.popup.user.info.phone</key>
+	<string>Phone number</string>
+	<key>key.parent.profile.edit.title</key>
+	<string>Edit user information</string>
+	<key>key.parent.profile.name</key>
+	<string>Name</string>
+	<key>key.parent.profile.gender</key>
+	<string>Gender</string>
+	<key>key.parent.profile.edit.age</key>
+	<string>Age</string>
+	<key>key.account.reach.max.profile</key>
+	<string>Your account has exceeded the maximum number of allowed profiles</string>
+	<key>key.account.time.update</key>
+	<string>It has been a while since the last time your device was connected to the Internet.
+		Please check your Internet connection and try again.</string>
+	<key>key.account.btn.next</key>
+	<string>Next</string>
+	<key>key.account.btn.done</key>
+	<string>Done</string>
+	<key>key.account.btn.back</key>
+	<string>Back</string>
+	<key>key.account.btn.edit</key>
+	<string>Edit</string>
+	<key>settings.buy.license</key>
+	<string>Buy license</string>
+	<key>key.pay.init.window</key>
+	<string>To receive the license key and pay on delivery please press the button below</string>
+	<key>key.pay.init.button.title</key>
+	<string>Continue</string>
+	<key>sidebar.des.lessons.vm</key>
+	<string>Lessons</string>
+	<key>key.accountv3.popup.enteremail.desc</key>
+	<string>As a gift, Ebook &quot;Learn English effectively with Monkey Stories&quot; has been sent to you.
+Please check your email to download.</string>
+	<key>key.accountv3.popup.enteremail.desc.vm</key>
+	<string>As a thank you gift, VMonkey would like to send you the picture library of the story &quot;Playful Little Monkey&quot;.
+Please check your email to download.</string>
+	<key>key.accountv3.popup.enteremail.invalid.email</key>
+	<string>Invalid email!</string>
+	<key>key.accountv3.popup.enteremail.thankyou</key>
+	<string>Thank you for your support. Please check your email to download learning materials.</string>
+	<key>key.accountv3.screen.account.title</key>
+	<string>User&apos;s information</string>
+	<key>key.accountv3.screen.account.title.parents</key>
+	<string>Parents&apos; information</string>
+	<key>key.accountv3.screen.account.name</key>
+	<string>Name</string>
+	<key>key.accountv3.screen.account.popup.noname</key>
+	<string>Please enter parent&apos;s name</string>
+	<key>key.accountv3.screen.account.phone</key>
+	<string>Phone number</string>
+	<key>key.accountv3.screen.account.managepassword</key>
+	<string>Manage your account and password</string>
+	<key>key.accountv3.screen.account.manageprofiles</key>
+	<string>Manage profiles</string>
+	<key>key.accountv3.screen.account.add.email.to.signin</key>
+	<string>Add your email address to sign in</string>
+	<key>key.accountv3.screen.account.add.phone.to.signin</key>
+	<string>Add your phone number to sign in</string>
+	<key>key.accountv3.screen.addpassword.title</key>
+	<string>Add password</string>
+	<key>key.accountv3.screen.addpassword.desc</key>
+	<string>Please create a password to protect your account</string>
+	<key>key.accountv3.screen.confirmpassword.title</key>
+	<string>Verify your account</string>
+	<key>key.accountv3.screen.confirmpassword.desc</key>
+	<string>Please enter confirmation password to protect your account</string>
+	<key>key.accountv3.screen.updateemail.title</key>
+	<string>Update email address</string>
+	<key>key.accountv3.screen.updateemail.desc</key>
+	<string>Please update your email address to get timely support from Monkey.</string>
+	<key>key.accountv3.screen.updateemail.popup.sendotp</key>
+	<string>Please enter the activation code that has been sent to email %s to have a new way to sign in</string>
+	<key>key.accountv3.screen.updatepassword.title</key>
+	<string>Update password</string>
+	<key>key.accountv3.screen.updatepassword.old.password</key>
+	<string>Old password</string>
+	<key>key.accountv3.screen.updatepassword.new.password</key>
+	<string>New password</string>
+	<key>key.accountv3.screen.updatepassword.renew.password</key>
+	<string>Confirm password</string>
+	<key>key.accountv3.screen.updatephone.title</key>
+	<string>Update phone number</string>
+	<key>key.accountv3.screen.updatephone.desc</key>
+	<string>Please update your phone number to get timely support from Monkey.</string>
+	<key>key.accountv3.screen.updatephone.placeholder</key>
+	<string>Enter your phone number</string>
+	<key>key.accountv3.screen.confirmotp.title</key>
+	<string>Confirm email address</string>
+	<key>key.accountv3.screen.confirmotp.desc</key>
+	<string>Please enter the activation code that has been sent to email
+%s
+to have a new way to sign in.</string>
+	<key>key.accountv3.screen.confirmotp.activationcode</key>
+	<string>Activation code</string>
+	<key>key.accountv3.button.title.add</key>
+	<string>Add</string>
+	<key>key.accountv3.button.title.update</key>
+	<string>Update</string>
+	<key>key.accountv3.button.title.save</key>
+	<string>Save</string>
+	<key>key.accountv3.button.title.details</key>
+	<string>Details</string>
+	<key>key.accountv3.button.title.signout</key>
+	<string>Sign out</string>
+	<key>key.accountv3.button.title.sendcode</key>
+	<string>Send activation code</string>
+	<key>key.accountv3.button.title.resendcode</key>
+	<string>Resend the code</string>
+	<key>key.accountv3.button.title.addpassword</key>
+	<string>Add password</string>
+	<key>key.accountv3.button.title.updatepassword</key>
+	<string>Update password</string>
+	<key>key.accountv3.button.title.confirm</key>
+	<string>Confirm</string>
+	<key>key.accountv3.text.password</key>
+	<string>Password</string>
+	<key>key.accountv3.text.have.new.way.to.signin</key>
+	<string>You will have a new way to log in.</string>
+	<key>MORAL_STORIES</key>
+	<string>Moral Stories</string>
+	<key>WORLD_OF_TALES</key>
+	<string>World of Tales</string>
+	<key>FAMOUS_FABLES</key>
+	<string>Famous Fables</string>
+	<key>POEMS</key>
+	<string>Poems</string>
+	<key>key.v4.change.password.title</key>
+	<string>Change password</string>
+	<key>key.v4.default.password.small.title</key>
+	<string>You&apos;re using a default password. Please change your 
+default password for higher level of account protection.</string>
+	<key>key.v4.connection</key>
+	<string>Connect</string>
+	<key>key.v4.have.used.monkey.apps</key>
+	<string>Have you used any Monkey products before?</string>
+	<key>key.v4.free.or.not</key>
+	<string>(Free user or paid user)</string>
+	<key>key.v4.have.used</key>
+	<string>Yes, I have.</string>
+	<key>key.v4.not.use</key>
+	<string>No, I haven&apos;t.</string>
+	<key>key.v4.connect.with.current.account</key>
+	<string> &lt;font color=&apos;#000000&apos; size=&quot;%d&quot; face=&quot;%s&quot;&gt; Link to the account &lt;font color=&apos;#2CB8E9&apos;&gt; %s &lt;/font&gt; to save your learning journey &lt;/font&gt;</string>
+	<key>key.v4.connection.with.a.account</key>
+	<string>Link to your previous account to 
+save your learning journey</string>
+	<key>key.v4.connection.with.a.account2</key>
+	<string>Link to your other account to 
+save your learning journey</string>
+	<key>key.v4.connection.with.a.account.small</key>
+	<string>Previous account information</string>
+	<key>key.v4.txt.or</key>
+	<string>- - - - - - - - - - - - - Or - - - - - - - - - - - -</string>
+	<key>key.accountv4.screen.updatephone.desc</key>
+	<string>Please update your phone number for further support from Monkey
+if you have forgotten your password</string>
+	<key>key.v4.username</key>
+	<string>Username</string>
+	<key>key.v4.email</key>
+	<string>Email</string>
+	<key>key.v4.change.password</key>
+	<string>Change account password</string>
+	<key>key.v4.login.methods.screen.title</key>
+	<string>This account can be login with %d
+methods:</string>
+	<key>key.v4.methods.password.changed</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&quot;22&quot; face=&quot;fonts/Montserrat-Medium.ttf&quot;&gt; Your password for the login methods %s has been changed&lt;/font&gt;</string>
+	<key>key.v4.method</key>
+	<string>Login methods</string>
+	<key>key.v4.change.password.button.title</key>
+	<string>Change password</string>
+	<key>key.open.lesson.from.qr.overles</key>
+	<string>You have finished Lesson %d.
+Let&apos;s continue with Lesson %d and others in line to unlock Lesson %d.</string>
+	<key>key.open.lesson.from.qr.notyet</key>
+	<string>You haven&apos;t finished Lesson 1.
+To unlock Lesson %d, let&apos;s finish all the lessons in the right order.</string>
+	<key>key.support.info.email</key>
+	<string>monkeyxinchao@monkey.edu.vn</string>
+	<key>key.support.info.phonenumber</key>
+	<string>1900636052</string>
+	<key>key.support.fbgroup.name</key>
+	<string>Learn to read
+with Monkey</string>
+	<key>key.support.fbgroup.link</key>
+	<string>https://fb.com/groups/learntoreadwithmonkey</string>
+	<key>SupportView_Mail</key>
+	<string>Please provide us with the following information:\n
+        Your name:\n
+        Your phone number:\n
+        Your Email:\n
+        What do you need help with:\n
+        We will respond to your request as soon as possible.\n\n
+        --------------------\n</string>
+	<key>SupportView_Mail_title</key>
+	<string>Need help with </string>
+	<key>new_finish</key>
+	<string>Done</string>
+	<key>sub.text.detail3.vm</key>
+	<string>Lesson</string>
+	<key>key.play.now</key>
+	<string>Play now</string>
+	<key>key.material.main.title1</key>
+	<string>Choose a course</string>
+	<key>key.material.main.title2</key>
+	<string>to download worksheets</string>
+	<key>key.material.explore</key>
+	<string>Explore</string>
+	<key>key.material.worksheet</key>
+	<string>Worksheets</string>
+	<key>key.material.search</key>
+	<string>Search</string>
+	<key>key.material.library</key>
+	<string>Library</string>
+	<key>key.material.button.scan.qr</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Scan the QR code&lt;/font&gt;</string>
+	<key>key.material.button.scan.qr - 2</key>
+	<string>&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Scan the QR code&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; in your worksheet to access the corresponding stories or lessons on app&lt;/font&gt;</string>
+	<key>key.material.button.enter.email</key>
+	<string>&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;Please &lt;/font&gt;&lt;font color=&apos;#27AFE5&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt;enter your email&lt;/font&gt;&lt;font color=&apos;#000000&apos; size=&apos;18&apos; face=&apos;fonts/Montserrat-Medium.ttf&apos;&gt; to receive the worksheets&lt;/font&gt;</string>
+	<key>key.material.button.sendemail</key>
+	<string>Send email</string>
+	<key>key.material.button.register</key>
+	<string>Register</string>
+	<key>key.material.button.confirm</key>
+	<string>Confirm</string>
+	<key>key.material.placeholder.search.audiobook</key>
+	<string>Search by audio book&apos;s title</string>
+	<key>key.material.placeholder.search.story</key>
+	<string>Search by story&apos;s title</string>
+	<key>key.material.placeholder.search.phonics</key>
+	<string>Search by Phonics&apos; title</string>
+	<key>key.material.popup.enter.email</key>
+	<string>Please register with your email to receive the worksheet(s):</string>
+	<key>key.material.choose.worksheet.first</key>
+	<string>Please choose the Worksheet first!</string>
+	<key>key.material.max.worksheet.canbe.selected</key>
+	<string>Maximum %d Worksheets can be selected. Thank you!</string>
+	<key>key.material.confirm.email.to.send</key>
+	<string>Please confirm your email address to receive the worksheet(s):</string>
+	<key>key.material.warning.no.email</key>
+	<string>Please enter email address here</string>
+	<key>key.material.warning.invalid.email</key>
+	<string>Invalid email address, please check again!</string>
+	<key>key.material.notice.success.register.email</key>
+	<string>Email has been registered successfully!
+Please check your inbox for Worksheets.</string>
+	<key>key.material.notice.success.send.worksheet</key>
+	<string>Worksheet has been sent successfully!
+Please check your inbox.</string>
+	<key>key.material.noresult.title</key>
+	<string>Sorry, Monkey cannot find</string>
+	<key>key.material.noresult.warn1</key>
+	<string>Please check your spelling</string>
+	<key>key.material.noresult.warn2</key>
+	<string>Search by story&apos;s or audio book&apos;s titles</string>
+	<key>key.material.title.recent.search</key>
+	<string>Recent Searches</string>
+	<key>key.material.title.popular.search</key>
+	<string>Popular Searches</string>
+	<key>key.material.story.readed</key>
+	<string>Read story</string>
+	<key>key.material.lesson.learned</key>
+	<string>Learned lesson</string>
+	<key>key.material.worksheet.downloaded</key>
+	<string>Downloaded worksheet</string>
+	<key>key.material.note.title</key>
+	<string>Note</string>
+	<key>key.material.note.desc</key>
+	<string>Worksheets for read stories should be downloaded and used first!</string>
+	<key>key.material.note.desc.2</key>
+	<string>Worksheets for learned lessons should be downloaded and used first!</string>
+	<key>key.material.selected.worksheet</key>
+	<string>Selected worksheet</string>
+	<key>key.material.desc.free.limit</key>
+	<string>Your free account allows you to download only %d worksheets per day. Please sign up for subscription for unlimited resources!</string>
+	<key>account.expired</key>
+	<string>Expired</string>
+	<key>key.material.worksheet.title</key>
+	<string>worksheets</string>
+	<key>key.material.worksheet.unsend</key>
+	<string>have not been sent</string>
+	<key>key.material.worksheet.exit.warning</key>
+	<string>The selected worksheets will be lost after exiting</string>
+	<key>key.material.worksheet.exit</key>
+	<string>Exit</string>
+	<key>key.material.worksheet.continue.select</key>
+	<string>Continue to choose</string>
+	<key>key.unzip.error.reparing.lesson</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Lesson &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; is having technical issues!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Please choose &lt;font color = &quot;#ff0000&quot;&gt;Continue&lt;/font&gt; to avoid interuptions during the course!&lt;/font&gt;</string>
+	<key>key.unzip.error.reparing.story</key>
+	<string>&lt;font size=&apos;30&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt; Storybook &quot;&lt;font color = &quot;#ff0000&quot;&gt;%s&lt;/font&gt;&quot; is having technical issues!&lt;/font&gt;&lt;br/&gt;&lt;font size=&apos;25&apos; color=&apos;#000000&apos; face=&quot;%s&quot;&gt;Please choose &lt;font color = &quot;#ff0000&quot;&gt;Exit&lt;/font&gt; to avoid interuptions during the course!&lt;/font&gt;</string>
+	<key>key.reply</key>
+	<string>Replay</string>
+	<key>key.setting.audio.ios</key>
+	<string>Unable to access microphone, please check system settings. Open Settings &gt; Privacy &gt; Microphone &gt; Monkey Stories (ON).</string>
+	<key>key.setting.audio.android</key>
+	<string>Unable to access microphone, please check system settings.Open Settings &gt; Apps-&gt;Monkey Stories-&gt;Permissions- &gt; Microphone &gt; Monkey -&gt; Allow.</string>
+	<key>key.go.setting.ios</key>
+	<string>Settings</string>
+	<key>key.close.setting.ios</key>
+	<string>Close</string>
+	<key>key.notification.not.found.result.of.stories</key>
+	<string>This level &quot;%s&quot; has not been available yet.</string>
+	<key>key.notification.choose.stories.another.level</key>
+	<string>Please choose another level.</string>
+	<key>key.notification.update.list.stories</key>
+	<string>The stories will be updated soon...</string>
+	<key>apple.login.failed</key>
+	<string>Apple login failed!</string>
+	<key>facebook.login.failed</key>
+	<string>Facebook login failed!</string>
+	<key>google.login.failed</key>
+	<string>Google login failed!</string>
+	<key>onboard.ask.record.permission</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Monkey Stories would like to access &lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#95C83D&apos;&gt; the microphone &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;to practice you pronunciation skills with your kid!&lt;/font&gt;</string>
+	<key>onboard.ask.record.permission.android</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;Monkey Stoires would like to access &lt;/font&gt; &lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#95C83D&apos;&gt;the Microphone &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;and &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#95C83D&apos;&gt;File &lt;/font&gt;&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#555555&apos;&gt;to practice pronunciation skills with your kid!&lt;/font&gt;</string>
+	<key>reject.record.audio</key>
+	<string>(Screen/Audio) recording permission denied</string>
+	<key>subscription.already.purchase1</key>
+	<string>You&apos;ve already subscribed to Monkey Stories using another Apple/Google account. Please check again!</string>
+	<key>subscription.yes</key>
+	<string>Ok</string>
+	<key>subscription.already.register.message</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#8ca7b6&apos;&gt;You have already purchased and activated a Monkey Account:&lt;br/&gt; &lt;font color= &apos;#17BBDE&apos;&gt;%s&lt;/font&gt;. Sign out to log&lt;br/&gt;in with that account.&lt;/font&gt;</string>
+	<key>subscription.failure.title</key>
+	<string>Payment failed. Please fill in below information for further support!</string>
+	<key>subscription.restore.success</key>
+	<string>Restore purchase successfully</string>
+	<key>subscription.purchase.success</key>
+	<string>Payment successful</string>
+	<key>subscription.purchase.success.access.all</key>
+	<string>You now have access to all lessons in Monkey Stories</string>
+	<key>subscription.purchase.start.learning.now</key>
+	<string>Start now</string>
+	<key>subscription.purchase.success.1profile</key>
+	<string>You get 1 profile bonus and access to all lessons in Monkey Stories</string>
+	<key>subscription.purchase.success.2months</key>
+	<string>You have 2 month free bonus with access to all lessons in Monkey junior</string>
+	<key>subscription.purchase.changesuccess</key>
+	<string>Subscription changed successfully</string>
+	<key>subscription.purchase.success.changesubscription</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;&lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt; subscription will be enabled at the end of the current term.&lt;/font&gt;</string>
+	<key>subscription.already.purchase.address</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;Your account has been registered on an &lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; device at &lt;font color= &apos;#fbad18&apos;&gt;%s&lt;/font&gt;.Please go to Settings on your device to manage your subscriptions!&lt;/font&gt;</string>
+	<key>subscription.purchase.success.changesubscription2</key>
+	<string>&lt;font face=&apos;fonts/Montserrat-Bold.ttf&apos; size=&apos;30&apos; color=&apos;#666666&apos;&gt;&lt;br/&gt;&lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; subscription&lt;br/&gt;&lt;font color= &apos;#1ec2f3&apos;&gt;%s&lt;/font&gt; will automatically renew at the end of &lt;br/&gt;the current term:&lt;font color= &apos;#1ec2f3&apos;&gt; %s&lt;/font&gt;.&lt;/font&gt;</string>
+	<key>subscription.please.insert.email</key>
+	<string>Enter your email address</string>
+	<key>subscription.please.insert.username</key>
+	<string>Enter your full name</string>
+	<key>subscription.error.network</key>
+	<string>Connection error. Please check again!</string>
+	<key>ap.register.change.password.title</key>
+	<string>Create password</string>
+	<key>ap.register.change.password.des</key>
+	<string>Your username and password can be used to sign in on other devices</string>
+	<key>subscription.response.get.info.email</key>
+	<string>Please check your email regularly so you will not miss out any updates from us</string>
+	<key>subscription.wrong.format.name</key>
+	<string>Check your name again please!</string>
+	<key>full.name.email</key>
+	<string>Full name</string>
+	<key>new.earlystart.stories.1month.40_off</key>
+	<string>1 month</string>
+	<key>new.earlystart.stories.6month.40_off</key>
+	<string>6 months</string>
+	<key>new.earlystart.stories.1year.40_off</key>
+	<string>1 year</string>
+	<key>new.earlystart.stories.lifetime.40_off</key>
+	<string>Lifetime</string>
+	<key>ap.register.screen.description.1</key>
+	<string>To track learning progress</string>
+	<key>ap.register.screen.description.2</key>
+	<string>To receive weekly reports</string>
+	<key>ap.register.screen.description.3</key>
+	<string>To access multiple devices</string>
+	<key>ap.register.screen.title</key>
+	<string>Create a parent account</string>
+	<key>ap.login.screen.title</key>
+	<string>Login with Monkey account</string>
+	<key>ap.fill.username.phone</key>
+	<string>Username/Phone number</string>
+	<key>ap.fill.your.password</key>
+	<string>Password</string>
+	<key>ap.have.not.account.sign.up</key>
+	<string>Don&apos;t have an account? Sign up now!</string>
+	<key>ap.have.an.account.sign.in</key>
+	<string>Already have an account? Log in</string>
+	<key>ap.enter.your.phone.number</key>
+	<string>Enter your phone number...</string>
+	<key>ap.register.continue.with</key>
+	<string>Or continue with</string>
+	<key>ap.confirm.your.password</key>
+	<string>Re-enter your password</string>
+	<key>ap.waring.entering.password</key>
+	<string>Please enter a password!</string>
+	<key>ap.waring.invalid.password</key>
+	<string>Password must be at least 4 characters</string>
+	<key>ap.please.reenter.password</key>
+	<string>Please re-enter your password!</string>
+	<key>ap.check.password.match</key>
+	<string>Password does not match!</string>
+	<key>monkey.talking.call.text</key>
+	<string>Call: %s</string>
+	<key>monkey.talking.calling.text</key>
+	<string>Calling: %s</string>
+	<key>monkey.talking.ask.permission.text</key>
+	<string>	&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;Monkey Stories would like to access the &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;Camera and Microphone &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;to help you practice conversations!&lt;/font&gt;
+	&lt;/string&gt;</string>
+	<key>monkey.talking.ask.permission.title.text</key>
+	<string>Notification</string>
+	<key>monkey.talking.ask.permission.accept.text</key>
+	<string>OK</string>
+	<key>monkey.talking.share.description.text</key>
+	<string>Let&apos;s share this video!</string>
+	<key>monkey.talking.share.text</key>
+	<string>Share</string>
+	<key>monkey.talking.share.finish.text</key>
+	<string>Finish</string>
+	<key>learn.stories</key>
+	<string>Learned stories</string>
+	<key>lb.sure.to.hang.up</key>
+	<string>Are you sure to hang up ?</string>
+	<key>lb.continue</key>
+	<string>Continue </string>
+	<key>lb.hang.up</key>
+	<string>Hang up</string>
+	<key>lb.conversation.paused.title</key>
+	<string>Conversation paused</string>
+	<key>lb.exit</key>
+	<string>Exit</string>
+	<key>lb.skip</key>
+	<string>Skip</string>
+	<key>lb.conversation.paused.content</key>
+	<string>The lesson is paused. You can tap Skip to switch to Talk mode or tap Exit to exit the lesson</string>
+	<key>subscription.please.insert.phonenumber</key>
+	<string>Phone number</string>
+	<key>subscription.wrong.format</key>
+	<string>Invalid phone number</string>
+	<key>subscription.response.popup.message</key>
+	<string>Monkey will reach out to you in 24 hours!</string>
+	<key>subscription.response.title</key>
+	<string>Successfully requested</string>
+	<key>subscription.response.button.title</key>
+	<string>Explore Monkey Stories</string>
+	<key>fullmemory.warning</key>
+	<string>Your phone storage is full. Please check again!</string>
+	<key>free2paid.profileage.title</key>
+	<string>Create a profile</string>
+	<key>free2paid.profileage.subtitle</key>
+	<string>How old is your child?</string>
+	<key>free2paid.profileage.buttonnext</key>
+	<string>Continue</string>
+	<key>key.free2paid.popup.notification</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;Today&apos;s lesson is completed,&lt;/font&gt;&lt;br/&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;please turn on the &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#01C4F8&apos;&gt;notification &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;32&apos; color=&apos;#848084&apos;&gt;so that Monkey can help your child to learn better&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.content.of.profile.mini</key>
+	<string>Create a trial profile.</string>
+	<key>f2p.title.of.end.trial.lesson.popup</key>
+	<string>End of trial period</string>
+	<key>f2p.content.of.end.trial.lesson.popup</key>
+	<string>To continue learning, please unlock all content or register to explore more for free</string>
+	<key>f2p.text.of.button.unclock.all.lesson</key>
+	<string>Unlock all</string>
+	<key>f2p.text.of.button.signup.free</key>
+	<string>Free register</string>
+	<key>f2p.title.end.lesson.scene</key>
+	<string>You have completed today&apos;s lessons</string>
+	<key>f2p.content.of.end.lesson.scene</key>
+	<string>Unlock all content or come back tomorrow to keep learning.</string>
+	<key>f2p.text.of.top.button.of.end.lesson.scene</key>
+	<string>Unlock all</string>
+	<key>f2p.text.of.bottom.button.of.end.lesson.scene</key>
+	<string>Come back later</string>
+	<key>MSFreeContentPage.title</key>
+	<string>Free lessons</string>
+	<key>MSFreeContentPage.Unlock_all</key>
+	<string>Unlock all</string>
+	<key>MSFreeContentPage.discover</key>
+	<string>Explore</string>
+	<key>getting.started.scene.txt.btn.signin</key>
+	<string>Log in</string>
+	<key>getting.started.scene.txt.have.account</key>
+	<string>I have an account </string>
+	<key>getting.started.scene.txt.btn.start.now</key>
+	<string>Start now</string>
+	<key>getting.started.scene.txt.had.no.account</key>
+	<string>I don&apos;t have an account </string>
+	<key>getting.started.scene.txt.quiz.had.account</key>
+	<string>Already have an account ?</string>
+	<key>splash.scene.txt1.page0</key>
+	<string>Excel in English before the age of 10</string>
+	<key>splash.scene.txt2.page0</key>
+	<string>Number 1 choice for children to learn English</string>
+	<key>splash.scene.txt.package.applied.page2</key>
+	<string>Apply for 1 month - 6 months - 
+1 year packages</string>
+	<key>splash.scene.txt.package.applied.page1</key>
+	<string>Apply for 6 month - 1 year packages -
+lifetime</string>
+	<key>splash.scene.txt.discount.page1</key>
+	<string>Discount up to</string>
+	<key>splash.scene.txt1.page2</key>
+	<string>Learn English with fun</string>
+	<key>splash.scene.txt.item1.page2</key>
+	<string>Interactive stories</string>
+	<key>splash.scene.txt.item2.page2</key>
+	<string>Reading comprehension and Phonics lessons</string>
+	<key>splash.scene.txt.item3.page2</key>
+	<string>Audiobooks</string>
+	<key>splash.scene.txt.continue</key>
+	<string>Continue</string>
+	<key>text_of_pop_study_trial_14_lesson</key>
+	<string>	
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;You have access to &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;14 free lessons.&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;After that, you will need to unlock all content in order to continue learning&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_7_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;You have access to &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#01C4F8&apos;&gt;7 free lessons.&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;27&apos; color=&apos;#848084&apos;&gt;After that, you will need to unlock all content in order to continue learning&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>text_of_pop_study_trial_10_lesson_free_unlock</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;Thank you for creating an account, Monkey offers you &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 lessons for free.&lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;After that, you will need to unlock all content to continue learning.&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>key_open_lock_all_stories</key>
+	<string>Unlock all</string>
+	<key>key_try_learn_now</key>
+	<string>Start learning now</string>
+	<key>key_title_study_stories</key>
+	<string>Free Trial</string>
+	<key>date.title</key>
+	<string>Day </string>
+	<key>name.stories</key>
+	<string>Stories</string>
+	<key>name.phonic</key>
+	<string>Phonics</string>
+	<key>name.reading_comprehension</key>
+	<string>Reading Comprehension</string>
+	<key>f2p.key_try_learn_now</key>
+	<string>Continue trial</string>
+	<key>f2p.key.content.trial_lesson</key>
+	<string>
+		&lt;string&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;ขอบคุณผู้ปกครองที่สร้างบัญชี  Monkey ขอมอบให้น้อง &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#01C4F8&apos;&gt;10 บทเรียนฟรี &lt;/font&gt;
+		&lt;font face=&apos;fonts/Montserrat-ExtraBold.ttf&apos; size=&apos;24&apos; color=&apos;#848084&apos;&gt;หลังจากนั้น ผู้ปกครองจะต้องปลดล็อกเนื้อหาทั้งหมดเพื่อให้เด็กสามารถศึกษาเรียนรู้ต่อไป&lt;/font&gt;
+		&lt;/string&gt;
+	</string>
+	<key>f2p.key.content.end_trial_lesson</key>
+	<string>Free lessons are finished, unlock all content to continue learning.</string>
+	<key>title.of.popup.notice.completed.lesson</key>
+	<string>This lesson is not ready</string>
+	<key>content.v1.of.popup.notice.completed.lesson</key>
+	<string>Unlock all content or come back tomorrow to keep learning.</string>
+	<key>content.v2.of.popup.notice.completed.lesson</key>
+	<string>Please complete today&apos;s lesson. Unlock all content or come back tomorrow to keep learning.</string>
+	<key>text.continue.learn</key>
+	<string>Continue learning</string>
+	<key>free2paid.ask.name</key>
+	<string>What is your child&apos;s name?</string>
+	<key>placeholder.textfield.name.setup</key>
+	<string>Enter your child&apos;s name</string>
+	<key>free2paid.birthday.title</key>
+	<string>What&apos;s your child&apos;s date of birth?</string>
+	<key>month_1</key>
+	<string>January</string>
+	<key>month_2</key>
+	<string>February</string>
+	<key>month_3</key>
+	<string>March</string>
+	<key>month_4</key>
+	<string>April</string>
+	<key>month_5</key>
+	<string>May</string>
+	<key>month_6</key>
+	<string>June</string>
+	<key>month_7</key>
+	<string>July</string>
+	<key>month_8</key>
+	<string>August</string>
+	<key>month_9</key>
+	<string>September</string>
+	<key>month_10</key>
+	<string>October</string>
+	<key>month_11</key>
+	<string>November</string>
+	<key>month_12</key>
+	<string>December</string>
+	<key>key_title_subscription</key>
+	<string>Register now to get a 7-day trial</string>
+	<key>subscription.popular</key>
+	<string>Popular</string>
+	<key>subscription.bonus.profile</key>
+	<string>Bonus 1 profile</string>
+	<key>subscription.discount.format</key>
+	<string>Discount %d %%</string>
+	<key>sub.parent.name</key>
+	<string>Quang Binh&apos;s dad</string>
+	<key>sub.review</key>
+	<string>I know I&apos;ve made the right decision to choose Monkey Stories when I see my child&apos;s improvement on pronunciation, grammar and vocabulary.</string>
+	<key>terms.of.service</key>
+	<string>For more information, see our terms of use and privacy policy. The subscription will automatically renew unless auto-renew function is turned off at least 24 hours before the end of the current period. The account will be charged for renewal within 24 hours prior to the end of the current period, at the cost of the chosen package. You can go to your ITunes Account settings to manage your subscription and turn off auto-renew function. Payment will be charged to your iTunes account at confirmation of purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.</string>
+	<key>message.payment.sucess</key>
+	<string>Please create the account and learning profile</string>
+	<key>title.payment.sucess</key>
+	<string>Trial learning program with unlimited account</string>
+	<key>message.noti.payment</key>
+	<string>You will not receive an activation code. This device will be automatically activated. To continue the payment, press &quot;Buy now&quot;. To receive more details, press &quot;More information&quot;.</string>
+	<key>sub.restore</key>
+	<string>Restore purchased package</string>
+	<key>title.support.payment</key>
+	<string>Request for advisory </string>
+	<key>title.support.payment.th</key>
+	<string>Sign up to purchase</string>
+	<key>message.support.payment</key>
+	<string>Let&apos;s help your kids excel in English like 10 million Monkey students!</string>
+	<key>message.support.payment.th</key>
+	<string>Sale up to 40% and get quickly own a Monkey Stories package for your child</string>
+	<key>title.button.complete</key>
+	<string>Complete</string>
+	<key>title.button.complete.th</key>
+	<string>REGISTER NOW</string>
+	<key>onboard.birthday.f2p.picker.title</key>
+	<string>What&apos;s your child&apos;s date of birth?</string>
+	<key>timepicker_done</key>
+	<string>Continue</string>
+	<key>MSMergeSuccess.title</key>
+	<string>Merged successfully</string>
+	<key>MSMergeSuccessSub.title</key>
+	<string>Please select 1 profile to start</string>
+	<key>merge1.scene.txt.title.link.profile</key>
+	<string>Merge</string>
+	<key>merge1.scene.txt.trial.learning.profile</key>
+	<string>Trial profile</string>
+	<key>merge1.scene.txt.free.pack</key>
+	<string>Free Package</string>
+	<key>merge1.scene.txt.learning.profile</key>
+	<string>Profile</string>
+	<key>merge1.scene.txt.new.account</key>
+	<string>New Account</string>
+	<key>merge1.scene.txt.years.pack</key>
+	<string>~ year package</string>
+	<key>merge1.scene.txt.new.account.info</key>
+	<string>Account Information</string>
+	<key>merge1.scene.txt.full.name</key>
+	<string>Fullname:</string>
+	<key>merge1.scene.txt.phone.number</key>
+	<string>Phone number:</string>
+	<key>merge1.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge1.scene.btn.link</key>
+	<string>Merge</string>
+	<key>merge1.scene.btn.skip</key>
+	<string>Skip</string>
+	<key>merge1.scene.txt.device.profile</key>
+	<string>Profile on the device</string>
+	<key>merge2.scene.txt.title.link.profile</key>
+	<string>Merge the profile</string>
+	<key>merge2.scene.txt.account</key>
+	<string>Account</string>
+	<key>merge2.scene.txt.account.info</key>
+	<string>Account Information</string>
+	<key>merge2.scene.txt.full.name</key>
+	<string>Fullname:</string>
+	<key>merge2.scene.txt.phone.number</key>
+	<string>Phone number:</string>
+	<key>merge2.scene.txt.email</key>
+	<string>Email:</string>
+	<key>merge2.scene.txt.learning.profile</key>
+	<string>Profile</string>
+	<key>merge2.scene.txt.warning</key>
+	<string>Exceeded the maximum profile number.
+Please delete 1 profile to merge the accounts.</string>
+	<key>merge2.scene.btn.submit</key>
+	<string>OK</string>
+	<key>merge2.scene.txt.free.pack</key>
+	<string>Free Package</string>
+	<key>product.name.com.earlystart.stories.package</key>
+	<string>Package</string>
+	<key>content.f2p.lifetime.purchased.account</key>
+	<string>This account has already purchased a lifetime package.
+Please create another account to use the package you just bought.</string>
+	<key>subscription.confirm</key>
+	<string>OK</string>
+	<key>free2paid.create.child.profile</key>
+	<string>Create your child&apos;s profile</string>
+	<key>delete.account</key>
+	<string>Delete account</string>
+	<key>key.message.poup.incorrect.account</key>
+	<string>The account you logged in is invalid.</string>
+</dict>
+</plist>

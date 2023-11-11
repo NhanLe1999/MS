@@ -1,0 +1,217 @@
+[
+   {
+      "language": "en",
+      "icons": [
+         {
+            "icon_id": "equal",
+            "path": "operators/equal.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "=",
+                  "audio": [
+                     {
+                        "path": "operators/equal.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "equal",
+                  "audio": [
+                     {
+                        "path": "operators/equal.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "plus",
+            "path": "operators/plus.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "+",
+                  "audio": [
+                     {
+                        "path": "operators/plus.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "plus",
+                  "audio": [
+                     {
+                        "path": "operators/plus.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "subtract",
+            "path": "operators/subtract.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "-",
+                  "audio": [
+                     {
+                        "path": "operators/subtract.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "subtract",
+                  "audio": [
+                     {
+                        "path": "operators/subtract.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "multiple",
+            "path": "operators/multiple.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "x",
+                  "audio": [
+                     {
+                        "path": "operators/multiple.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "multiple",
+                  "audio": [
+                     {
+                        "path": "operators/multiple.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "devive",
+            "path": "operators/devive.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": ":",
+                  "audio": [
+                     {
+                        "path": "operators/devive.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "devive",
+                  "audio": [
+                     {
+                        "path": "operators/devive.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "less_than",
+            "path": "operators/less_than.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": "<",
+                  "audio": [
+                     {
+                        "path": "operators/less_than.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "less than",
+                  "audio": [
+                     {
+                        "path": "operators/less_than.mp3",
+                        "voice_id": 2,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         },
+         {
+            "icon_id": "more_than",
+            "path": "operators/more_than.png",
+            "type_media": 1,
+            "props": [
+               {
+                  "key": "name_1",
+                  "text": ">",
+                  "audio": [
+                     {
+                        "path": "operators/more_than.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               },
+               {
+                  "key": "name_n",
+                  "text": "more than",
+                  "audio": [
+                     {
+                        "path": "operators/more_than.mp3",
+                        "voice_id": 3,
+                        "sync_data": ""
+                     }
+                  ]
+               }
+            ],
+            "comparision": []
+         }
+      ]
+   }
+]

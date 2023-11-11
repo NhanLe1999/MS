@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>text_info</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>bat</string>
+			<key>audio_path</key>
+			<string>game-audio/a/123.mp3</string>
+			<key>img_path</key>
+			<string>games/sample/bat.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>doll</string>
+			<key>audio_path</key>
+			<string>game-audio/a/123.mp3</string>
+			<key>img_path</key>
+			<string>games/sample/doll.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>elephant</string>
+			<key>audio_path</key>
+			<string>game-audio/a/123.mp3</string>
+			<key>img_path</key>
+			<string>games/sample/elephant.png</string>
+		</dict>
+		<dict>
+			<key>text</key>
+			<string>basketball</string>
+			<key>audio_path</key>
+			<string>game-audio/a/123.mp3</string>
+			<key>img_path</key>
+			<string>games/sample/basketball.png</string>
+		</dict>
+		<dict>
+			<key>img_path</key>
+			<string>games/sample/fan.png</string>
+			<key>text</key>
+			<string>fan</string>
+		</dict>
+		<dict>
+			<key>img_path</key>
+			<string>games/sample/bicycle.png</string>
+			<key>text</key>
+			<string>bicycle</string>
+		</dict>
+	</array>
+	<key>game</key>
+	<dict>
+		<key>id</key>
+		<integer>8</integer>
+		<key>title</key>
+		<string>Light &apos;em Up</string>
+		<key>intro</key>
+		<string>Drag the text to match the pictures.</string>
+		<key>audio_intro</key>
+		<string></string>
+		<key>audio_title</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

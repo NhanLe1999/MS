@@ -1,0 +1,20 @@
+
+Soundwave_hd.png
+size: 936,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse MJ
+  rotate: false
+  xy: 2, 2
+  size: 465, 465
+  orig: 465, 465
+  offset: 0, 0
+  index: -1
+Ellipse MS
+  rotate: false
+  xy: 469, 2
+  size: 465, 465
+  orig: 465, 465
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,35 @@
+{
+	"game_info": {
+		"audio_intro": "",
+		"id": 1,
+		"intro": "Sample Game",
+		"title": "Sample Game",
+		"audio_title": ""
+	},
+	"content_info": {
+		"number_level":2,
+		"data": [{
+				"img_path":"",
+				"w": "doctor",
+				"audio_path": "ufo/1.mp3",
+				"audio_description":"ufo/11.mp3"
+			},{
+				"img_path":"ufo/1.png",
+				"w": "doctor",
+				"audio_path": "ufo/1.mp3",
+				"audio_description":"ufo/11.mp3"
+			}, {
+				"img_path":"",
+				"w": "syringe",
+				"audio_path": "ufo/syringe.mp3",
+				"audio_description":"ufo/22.mp3"
+			}, {
+				"img_path":"ufo/1.png",
+				"w": "syringe",
+				"audio_path": "ufo/syringe.mp3",
+				"audio_description":"ufo/22.mp3"
+			}
+		],
+		"list_distracting":["abc","cde","rtre","fdsfds"]
+	}
+}

@@ -1,0 +1,69 @@
+PROJECT_PATH = "./cocos2d_libs.xcodeproj"
+TARGET_NAME_MAC="'libcocos2d Mac'"
+OUTPUT_DEBUG_MAC="tmp/-macosx12"
+OUTPUT_RELEASE_MAC="tmp/macosx12"
+
+
+TARGET_NAME_IOS="'libcocos2d iOS'"
+OUTPUT_DEBUG_IOS="tmp/-iOS15"
+OUTPUT_RELEASE_IOS="tmp/ios15"
+
+OUTPUT_RELEASE="tmp/macosx12"
+OUTPUT_LIB="./lib"
+directory OUTPUT_LIB
+
+#desc "using lib command to build a static library"
+#task "lib" do
+ #   sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk macosx12.1 -target #{TARGET_NAME_MAC} -arch x86_64 -arch arm64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_MAC} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_MAC} clean build"
+
+#    sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk iphonesimulator15.2 -target #{TARGET_NAME_IOS_SIMULATOR} -arch i386 -arch x86_64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_IOS_SIMULATOR} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_IOS_SIMULATOR} clean build"
+
+#    sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk -sdk iphoneos15.2 -target #{TARGET_NAME} -arch armv7 -arch armv7s -arch arm64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_IOS} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_IOS} clean build"
+#end
+
+
+
+
+desc "using lib command to build a static library"
+
+task "lib" do
+    sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk macosx12.1 -target #{TARGET_NAME_MAC} -arch x86_64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_MAC} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_MAC} clean build"
+end
+
+
+
+desc "using lipo command to link static libraries for each device to one combined library file"
+
+task "lipo" => OUTPUT_LIB do
+
+    Dir.glob("#{OUTPUT_RELEASE_MAC}/*"){|path|
+        p path
+        file = File.basename(path)
+
+        sh "lipo '#{OUTPUT_RELEASE_MAC}/#{file}' '#{OUTPUT_RELEASE_MAC}/#{file}' -create -output '#{OUTPUT_LIB}/#{file}'"
+    }
+end
+
+
+
+
+desc "using lib command to build a static library"
+task "lib" do
+
+    sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk iphonesimulator15.2 -target #{TARGET_NAME_IOS} -arch i386 -arch x86_64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_IOS} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_IOS} clean build"
+
+    sh "xcodebuild -project #{PROJECT_PATH} -configuration Release -sdk iphoneos15.2 -target #{TARGET_NAME_IOS} -arch armv7 -arch arm64 TARGET_BUILD_DIR=#{OUTPUT_DEBUG_IOS} BUILT_PRODUCTS_DIR=#{OUTPUT_DEBUG_IOS} clean build"
+end
+
+
+desc "using lipo command to link static libraries for each device to one combined library file"
+
+task "lipo" => OUTPUT_LIB do
+
+    Dir.glob("#{OUTPUT_RELEASE_IOS}/*"){|path|
+        p path
+        file = File.basename(path)
+
+        sh "lipo '#{OUTPUT_RELEASE_IOS}/#{file}' '#{OUTPUT_RELEASE_IOS}/#{file}' -create -output '#{OUTPUT_LIB}/#{file}'"
+    }
+end
